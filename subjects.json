@@ -1230,6 +1230,75 @@
             "sourceType": "lecture"
           }
         ]
+      },
+      {
+        "id": "urology__lecture__hu",
+        "name": "Hu",
+        "type": "lecture",
+        "subjectName": "Urology",
+        "path": "Urology/Hu.txt",
+        "questions": [
+          {
+            "id": "urology__lecture__hu__1__m0tr0q",
+            "number": "1",
+            "text": "How that ?",
+            "options": [
+              "yes",
+              "No",
+              "Mmmm"
+            ],
+            "originalOptions": [
+              "yes",
+              "No",
+              "Mmmm"
+            ],
+            "correctAnswer": "C) Mmmm",
+            "correctAnswerText": "Mmmm",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "done done",
+            "batchName": "",
+            "batchNames": [],
+            "note": "if you can not get an excellent job done it should have one thing on it has no responsibility and its affiliates hematology disease that there would never really know why does one and you should include information you should we could find what would love me when an email .",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Hu",
+            "groupName": "Hu",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__hu__2__9aup2q",
+            "number": "2",
+            "text": "Jwih hwiw?",
+            "options": [
+              "jo",
+              "no"
+            ],
+            "originalOptions": [
+              "jo",
+              "no"
+            ],
+            "correctAnswer": "A) jo",
+            "correctAnswerText": "jo",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "",
+            "batchName": "",
+            "batchNames": [],
+            "note": "yes ni",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Hu",
+            "groupName": "Hu",
+            "sourceType": "lecture"
+          }
+        ]
       }
     ],
     "ai": [],
@@ -2786,10 +2855,70 @@
         "lectureName": "Acute Scrotum",
         "groupName": "Acute Scrotum",
         "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__hu__1__m0tr0q",
+        "number": "1",
+        "text": "How that ?",
+        "options": [
+          "yes",
+          "No",
+          "Mmmm"
+        ],
+        "originalOptions": [
+          "yes",
+          "No",
+          "Mmmm"
+        ],
+        "correctAnswer": "C) Mmmm",
+        "correctAnswerText": "Mmmm",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "done done",
+        "batchName": "",
+        "batchNames": [],
+        "note": "if you can not get an excellent job done it should have one thing on it has no responsibility and its affiliates hematology disease that there would never really know why does one and you should include information you should we could find what would love me when an email .",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Hu",
+        "groupName": "Hu",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__hu__2__9aup2q",
+        "number": "2",
+        "text": "Jwih hwiw?",
+        "options": [
+          "jo",
+          "no"
+        ],
+        "originalOptions": [
+          "jo",
+          "no"
+        ],
+        "correctAnswer": "A) jo",
+        "correctAnswerText": "jo",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "",
+        "batchName": "",
+        "batchNames": [],
+        "note": "yes ni",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Hu",
+        "groupName": "Hu",
+        "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 36,
-    "totalLectures": 5,
+    "totalQuestions": 38,
+    "totalLectures": 6,
     "hasAiFolder": false
   }
 ]
