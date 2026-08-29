@@ -210,9 +210,11 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
-            "batchName": "Coronary Block A",
+            "batchName": "Coronary Block A / Iris block C / Vagus",
             "batchNames": [
-              "Coronary Block A"
+              "Coronary Block A",
+              "Iris block C",
+              "Vagus"
             ],
             "note": "",
             "pageNumber": "",
@@ -348,8 +350,8 @@
             "batchNames": [
               "Coronary Block A"
             ],
-            "note": "its hard",
-            "pageNumber": "",
+            "note": "its hard.",
+            "pageNumber": "P(78)",
             "subjectName": "Urology",
             "subjectId": "urology",
             "lectureName": "Acute Scrotum",
@@ -1265,7 +1267,9 @@
             "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
             "batchName": "Coronary Block A",
             "batchNames": [
-              "Coronary Block A"
+              "Coronary Block A",
+              "Iris block C",
+              "Vagus"
             ],
             "note": "",
             "pageNumber": "",
@@ -1337,8 +1341,8 @@
             "batchNames": [
               "Coronary Block A"
             ],
-            "note": "its hard",
-            "pageNumber": "",
+            "note": "its hard.",
+            "pageNumber": "P(78)",
             "subjectName": "Urology",
             "subjectId": "urology",
             "lectureName": "Acute Scrotum",
@@ -1456,6 +1460,102 @@
               "Coronary Block B"
             ],
             "note": "This is repeated.",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Acute Scrotum",
+            "groupName": "Acute Scrotum",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "urology__year__iris-block-c",
+        "name": "Iris block C",
+        "type": "year",
+        "subjectName": "Urology",
+        "questions": [
+          {
+            "id": "urology__lecture__acute-scrotum__6__w0wb2q",
+            "number": "6",
+            "text": "Which of the following is NOT a typical feature of testicular torsion?",
+            "options": [
+              "High-riding testis",
+              "Absent cremasteric reflex",
+              "Nausea and vomiting",
+              "Urethral discharge",
+              "Sudden severe scrotal pain"
+            ],
+            "originalOptions": [
+              "High-riding testis",
+              "Absent cremasteric reflex",
+              "Nausea and vomiting",
+              "Urethral discharge",
+              "Sudden severe scrotal pain"
+            ],
+            "correctAnswer": "D) Urethral discharge",
+            "correctAnswerText": "Urethral discharge",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
+            "batchName": "Iris block C",
+            "batchNames": [
+              "Coronary Block A",
+              "Iris block C",
+              "Vagus"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Acute Scrotum",
+            "groupName": "Acute Scrotum",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "urology__year__vagus",
+        "name": "Vagus",
+        "type": "year",
+        "subjectName": "Urology",
+        "questions": [
+          {
+            "id": "urology__lecture__acute-scrotum__6__w0wb2q",
+            "number": "6",
+            "text": "Which of the following is NOT a typical feature of testicular torsion?",
+            "options": [
+              "High-riding testis",
+              "Absent cremasteric reflex",
+              "Nausea and vomiting",
+              "Urethral discharge",
+              "Sudden severe scrotal pain"
+            ],
+            "originalOptions": [
+              "High-riding testis",
+              "Absent cremasteric reflex",
+              "Nausea and vomiting",
+              "Urethral discharge",
+              "Sudden severe scrotal pain"
+            ],
+            "correctAnswer": "D) Urethral discharge",
+            "correctAnswerText": "Urethral discharge",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
+            "batchName": "Vagus",
+            "batchNames": [
+              "Coronary Block A",
+              "Iris block C",
+              "Vagus"
+            ],
+            "note": "",
             "pageNumber": "",
             "subjectName": "Urology",
             "subjectId": "urology",
@@ -1668,9 +1768,11 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
-        "batchName": "Coronary Block A",
+        "batchName": "Coronary Block A / Iris block C / Vagus",
         "batchNames": [
-          "Coronary Block A"
+          "Coronary Block A",
+          "Iris block C",
+          "Vagus"
         ],
         "note": "",
         "pageNumber": "",
@@ -1806,8 +1908,8 @@
         "batchNames": [
           "Coronary Block A"
         ],
-        "note": "its hard",
-        "pageNumber": "",
+        "note": "its hard.",
+        "pageNumber": "P(78)",
         "subjectName": "Urology",
         "subjectId": "urology",
         "lectureName": "Acute Scrotum",
@@ -2687,7 +2789,7 @@
       }
     ],
     "totalQuestions": 36,
-    "totalLectures": 3,
+    "totalLectures": 5,
     "hasAiFolder": false
   }
 ]
