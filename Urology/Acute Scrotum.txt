@@ -58,7 +58,7 @@ E) Sudden severe scrotal pain
 Correct Answer: D) Urethral discharge
 Explanation:
 Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.
-Batch: Coronary Block A
+Batch: Coronary Block A / Iris block C / Vagus
 ###
 Which of the following is NOT a sign of spermatic cord torsion?
 A) Positive Prehn sign
@@ -96,7 +96,8 @@ Correct Answer: C) CT abdomen
 Explanation:
 Renal ultrasound would be the preferred first step if listed; here, CT abdomen is chosen since scrotal ultrasound only confirms the varicocele itself and cannot assess for an underlying retroperitoneal obstructing mass.
 Batch: Coronary Block A
-Note: its hard
+Note: its hard.
+P(78)
 ###
 What are the typical clinical manifestations of varicocele?
 A) Pain only
