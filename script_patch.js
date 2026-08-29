@@ -1087,7 +1087,8 @@
     showScreen('readonly-screen');
         const hasNote = typeof q.note === 'string' && q.note.trim().length > 0;
     const noteBtnHtml = hasNote ? `<button class="icon-btn note-btn" title="Note" onclick="openQuestionNote('${escapeJsString(q.id)}')">⚠</button>` : '';
-    el('readonly-content').innerHTML = `<div class="question-header"><span class="question-number">Question ${escapeHtml(q.number||'?')}</span><div class="question-actions"><button class="icon-btn favorite-heart-btn ${fav?'active':''}" data-question-id="${escapeAttribute(q.id)}" aria-pressed="${fav?'true':'false'}" title="${fav?'إزالة من المفضلة':'إضافة إلى المفضلة'}" onclick="toggleFavorite('${q.id}'); openReadonly('${q.id}')">${favIcon}</button>${noteBtnHtml}<button class="icon-btn" onclick="showLocation('${escapeJsString(q.subjectName)}','${escapeJsString(q.lectureName)}','${escapeJsString(q.batchName||'')}','${escapeJsString(q.number||'')}','${escapeJsString(q.pageNumber||'')}')">${t.icons.location}</button></div></div><p class="question-text">${escapeHtml(cleanText)}</p>${imageHtml}<div class="options-list">${q.options.map((opt,i)=>{
+        const _pgRO = (typeof isValidPageNumber === 'function' ? isValidPageNumber(q.pageNumber) : /^\d+$/.test(String(q.pageNumber||'').trim())) ? String(q.pageNumber).trim() : '';
+    el('readonly-content').innerHTML = `<div class="question-header"><span class="question-number">Question ${escapeHtml(q.number||'?')}</span><div class="question-actions"><button class="icon-btn favorite-heart-btn ${fav?'active':''}" data-question-id="${escapeAttribute(q.id)}" aria-pressed="${fav?'true':'false'}" title="${fav?'إزالة من المفضلة':'إضافة إلى المفضلة'}" onclick="toggleFavorite('${q.id}'); openReadonly('${q.id}')">${favIcon}</button>${noteBtnHtml}<button class="icon-btn" onclick="showLocation('${escapeJsString(q.subjectName)}','${escapeJsString(q.lectureName)}','${escapeJsString(q.batchName||'')}','','${escapeJsString(_pgRO)}')">${t.icons.location}</button></div></div><p class="question-text">${escapeHtml(cleanText)}</p>${imageHtml}<div class="options-list">${q.options.map((opt,i)=>{
       if (q.isMultiple) {
          let isCorr = q.correctIndices && q.correctIndices.includes(i);
          let cls = 'option-btn multi-option-btn' + (isCorr ? ' correct' : '');
@@ -1099,8 +1100,7 @@
     el('readonly-content').classList.add('readonly-ltr');
     refreshFavoriteButtonsUI();
   };
-
-    reviewExam = function(){
+        reviewExam = function(){
     if(!state.currentExam) return;
     const reviewDiv=el('results-review');
     reviewDiv.classList.remove('hidden');
@@ -1120,9 +1120,10 @@
       const favIcon = fav ? '💚' : '♡';
       const hasNote = typeof q.note === 'string' && q.note.trim().length > 0;
       const noteBtnHtml = hasNote ? `<button class="icon-btn note-btn" title="Note" onclick="openQuestionNote('${escapeJsString(q.id)}')">⚠</button>` : '';
-      const actionsHtml = `<div class="question-actions"><button class="icon-btn favorite-heart-btn ${fav?'active':''}" data-question-id="${escapeAttribute(q.id)}" aria-pressed="${fav?'true':'false'}" title="${fav?'إزالة من المفضلة':'إضافة إلى المفضلة'}" onclick="toggleFavorite('${escapeJsString(q.id)}')">${favIcon}</button>${noteBtnHtml}<button class="icon-btn" onclick="showLocation('${escapeJsString(q.subjectName)}','${escapeJsString(q.lectureName)}','${escapeJsString(q.batchName||'')}','${escapeJsString(q.number||'')}','${escapeJsString(q.pageNumber||'')}')">${theme().icons.location}</button></div>`;
+      const _pgRV = (typeof isValidPageNumber === 'function' ? isValidPageNumber(q.pageNumber) : /^\d+$/.test(String(q.pageNumber||'').trim())) ? String(q.pageNumber).trim() : '';
+      const actionsHtml = `<div class="question-actions"><button class="icon-btn favorite-heart-btn ${fav?'active':''}" data-question-id="${escapeAttribute(q.id)}" aria-pressed="${fav?'true':'false'}" title="${fav?'إزالة من المفضلة':'إضافة إلى المفضلة'}" onclick="toggleFavorite('${escapeJsString(q.id)}')">${favIcon}</button>${noteBtnHtml}<button class="icon-btn" onclick="showLocation('${escapeJsString(q.subjectName)}','${escapeJsString(q.lectureName)}','${escapeJsString(q.batchName||'')}','','${escapeJsString(_pgRV)}')">${theme().icons.location}</button></div>`;
 
-      html += `<div class="question-container review-question-card mt-10" style="border-inline-start:4px solid ${statusColor};"><div class="question-header"><span class="question-number">Q${idx+1}</span>${actionsHtml}<span style="color:${statusColor};font-weight:900;">${statusLabel}</span></div><p class="question-text">${escapeHtml(cleanText)}</p>${imageHtml}<div class="options-list">${q.options.map((opt,i)=>{
+      html += `<div class="question-container review-question-card mt-10" data-review-index="${idx+1}" id="review-q-${idx+1}" style="border-inline-start:4px solid ${statusColor};"><div class="question-header"><span class="question-number">Q${idx+1}</span>${actionsHtml}<span style="color:${statusColor};font-weight:900;">${statusLabel}</span></div><p class="question-text">${escapeHtml(cleanText)}</p>${imageHtml}<div class="options-list">${q.options.map((opt,i)=>{
         if (q.isMultiple) {
           let isCorr = q.correctIndices && q.correctIndices.includes(i);
           let isChecked = Array.isArray(userAnswer) && userAnswer.includes(i);
@@ -1137,8 +1138,8 @@
     });
     reviewDiv.innerHTML=html;
     refreshFavoriteButtonsUI();
+    if(typeof ensureReviewFloatingButtons === 'function') ensureReviewFloatingButtons();
   };
-
   renderExamNav = function(){
     if(!state.currentExam) return;
     const nav = el('exam-nav');
@@ -1293,7 +1294,98 @@
   }
 
   window.closeSettingsPage = function(){ goHome(); };
-
+  function ensureReviewFloatingButtons(){
+    let container = document.getElementById('review-floating-buttons');
+    if(!container){
+      container = document.createElement('div');
+      container.id = 'review-floating-buttons';
+      container.className = 'review-floating-buttons';
+      container.innerHTML = ''
+        + '<button type="button" class="review-fab-btn" id="review-fab-top" onclick="reviewScrollToTop()">'
+        +   '<span class="review-fab-arrow">↑</span>'
+        +   '<span class="review-fab-text">الانتقال<br>لأعلى</span>'
+        + '</button>'
+        + '<div class="review-fab-btn review-fab-goto">'
+        +   '<span class="review-fab-text">انتقل<br>إلى<br>السؤال</span>'
+        +   '<input type="number" min="1" class="review-fab-input" id="review-fab-input" placeholder="#" onkeydown="reviewGotoKey(event)" />'
+        + '</div>';
+      document.body.appendChild(container);
+    }
+    updateReviewFloatingButtonsVisibility();
+  }
+  function updateReviewFloatingButtonsVisibility(){
+    const container = document.getElementById('review-floating-buttons');
+    if(!container) return;
+    const resultsScreen = document.getElementById('results-screen');
+    const reviewDiv = document.getElementById('results-review');
+    const active = !!(resultsScreen && resultsScreen.classList.contains('active') && reviewDiv && !reviewDiv.classList.contains('hidden') && reviewDiv.innerHTML.trim().length>0);
+    container.style.display = active ? 'flex' : 'none';
+  }
+  function reviewScrollToTop(){
+    const resultsScreen = document.getElementById('results-screen');
+    try {
+      if(resultsScreen){ resultsScreen.scrollTo({ top: 0, behavior: 'smooth' }); }
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } catch(e){
+      if(resultsScreen) resultsScreen.scrollTop = 0;
+      window.scrollTo(0,0);
+    }
+  }
+  function reviewGotoKey(ev){
+    if(ev && (ev.key === 'Enter' || ev.keyCode === 13)){
+      ev.preventDefault();
+      reviewGotoQuestion();
+    }
+  }
+  function reviewGotoQuestion(){
+    const input = document.getElementById('review-fab-input');
+    if(!input) return;
+    const rawVal = String(input.value||'').trim();
+    if(!rawVal){ return; }
+    const n = parseInt(rawVal, 10);
+    if(!Number.isFinite(n) || n < 1){
+      if(typeof showToast === 'function') showToast('رقم غير صالح','error',1800);
+      return;
+    }
+    const target = document.getElementById('review-q-'+n);
+    if(!target){
+      if(typeof showToast === 'function') showToast('السؤال رقم '+n+' غير موجود','error',1800);
+      return;
+    }
+    try { target.scrollIntoView({ behavior:'smooth', block:'start' }); } catch(e){ target.scrollIntoView(); }
+    input.value = '';
+    input.blur();
+  }
+  window.ensureReviewFloatingButtons = ensureReviewFloatingButtons;
+  window.updateReviewFloatingButtonsVisibility = updateReviewFloatingButtonsVisibility;
+  window.reviewScrollToTop = reviewScrollToTop;
+  window.reviewGotoQuestion = reviewGotoQuestion;
+  window.reviewGotoKey = reviewGotoKey;
+  (function(){
+    const origShowScreen = window.showScreen;
+    if(typeof origShowScreen === 'function'){
+      window.showScreen = function(id){
+        const r = origShowScreen.apply(this, arguments);
+        try {
+          if(id === 'results-screen'){
+            setTimeout(updateReviewFloatingButtonsVisibility, 0);
+          } else {
+            const c = document.getElementById('review-floating-buttons');
+            if(c) c.style.display = 'none';
+          }
+        } catch(e){}
+        return r;
+      };
+    }
+    const origGoHome = window.goHome;
+    if(typeof origGoHome === 'function'){
+      window.goHome = function(){
+        const c = document.getElementById('review-floating-buttons');
+        if(c) c.style.display = 'none';
+        return origGoHome.apply(this, arguments);
+      };
+    }
+  })();
   function getThemeHomeIcon(){
     const currentTheme = state.settings?.theme || 'default';
     const map = {
