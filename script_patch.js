@@ -1,4 +1,3 @@
-/* PATCH V5: keeps previous patch features and aligns with the requested 14 changes only */
 (function(){
   'use strict';
 
@@ -1101,7 +1100,7 @@
     refreshFavoriteButtonsUI();
   };
 
-  reviewExam = function(){
+    reviewExam = function(){
     if(!state.currentExam) return;
     const reviewDiv=el('results-review');
     reviewDiv.classList.remove('hidden');
@@ -1116,9 +1115,14 @@
       const statusLabel = unanswered ? 'You didn\'t answer it' : (ok ? theme().icons.success+' Correct' : theme().icons.error+' Wrong');
       
       const { text: cleanText, imageHtml } = formatQuestionTextWithImage(q.text);
-      const isFlagged = state.currentExam && state.currentExam.flagged && state.currentExam.flagged[q.id];
 
-      html += `<div class="question-container review-question-card mt-10" style="border-inline-start:4px solid ${statusColor};"><div class="question-header"><span class="question-number">Q${idx+1}${isFlagged ? ' <span style="font-size: 1.1em; margin-right: 5px;">🔻</span>' : ''}</span><span style="color:${statusColor};font-weight:900;">${statusLabel}</span></div><p class="question-text">${escapeHtml(cleanText)}</p>${imageHtml}<div class="options-list">${q.options.map((opt,i)=>{
+      const fav = state.favorites.includes(q.id);
+      const favIcon = fav ? '💚' : '♡';
+      const hasNote = typeof q.note === 'string' && q.note.trim().length > 0;
+      const noteBtnHtml = hasNote ? `<button class="icon-btn note-btn" title="Note" onclick="openQuestionNote('${escapeJsString(q.id)}')">⚠</button>` : '';
+      const actionsHtml = `<div class="question-actions"><button class="icon-btn favorite-heart-btn ${fav?'active':''}" data-question-id="${escapeAttribute(q.id)}" aria-pressed="${fav?'true':'false'}" title="${fav?'إزالة من المفضلة':'إضافة إلى المفضلة'}" onclick="toggleFavorite('${escapeJsString(q.id)}')">${favIcon}</button>${noteBtnHtml}<button class="icon-btn" onclick="showLocation('${escapeJsString(q.subjectName)}','${escapeJsString(q.lectureName)}','${escapeJsString(q.batchName||'')}','${escapeJsString(q.number||'')}','${escapeJsString(q.pageNumber||'')}')">${theme().icons.location}</button></div>`;
+
+      html += `<div class="question-container review-question-card mt-10" style="border-inline-start:4px solid ${statusColor};"><div class="question-header"><span class="question-number">Q${idx+1}</span>${actionsHtml}<span style="color:${statusColor};font-weight:900;">${statusLabel}</span></div><p class="question-text">${escapeHtml(cleanText)}</p>${imageHtml}<div class="options-list">${q.options.map((opt,i)=>{
         if (q.isMultiple) {
           let isCorr = q.correctIndices && q.correctIndices.includes(i);
           let isChecked = Array.isArray(userAnswer) && userAnswer.includes(i);
@@ -1132,6 +1136,7 @@
       }).join('')}</div><div class="answer-summary"><strong>Correct Answer:</strong> <span class="answer-value">${escapeHtml(getFormattedCurrentCorrectAnswerLocal(q))}</span></div><div class="explanation-box visible"><strong>Explanation:</strong> ${escapeHtml(q.explanation||'No explanation available.')}</div></div>`;
     });
     reviewDiv.innerHTML=html;
+    refreshFavoriteButtonsUI();
   };
 
   renderExamNav = function(){
@@ -2262,7 +2267,7 @@
     }
   };
 
-  renderExam = function(){
+    renderExam = function(){
     if(!state.currentExam) return;
 
     if(typeof window.renderExamTitle === 'function') {
@@ -2306,8 +2311,11 @@
 
     const { text: cleanText, imageHtml } = formatQuestionTextWithImage(q.text);
 
+    const hasNote = typeof q.note === 'string' && q.note.trim().length > 0;
+    const noteBtnHtml = hasNote ? `<button class="icon-btn note-btn" title="Note" onclick="openQuestionNote('${escapeJsString(q.id)}')">⚠</button>` : '';
+
     if(el('question-container')){
-      el('question-container').innerHTML = `<div class="question-header"><span class="question-number">Q${idx+1}</span><div class="question-actions"><button class="icon-btn favorite-heart-btn ${fav?'active':''}" data-question-id="${escapeAttribute(q.id)}" aria-pressed="${fav?'true':'false'}" title="${fav?'إزالة من المفضلة':'إضافة إلى المفضلة'}" onclick="toggleFavorite('${q.id}')">${favIcon}</button><button class="icon-btn" onclick="toggleQuestionLocation()">${theme().icons.location}</button></div></div><p class="question-text">${escapeHtml(cleanText)}</p>${imageHtml}<div class="options-list">${q.options.map((opt,i)=>renderOptionButtonLocal(q, opt, i, showAnswerState, state.currentExam.answers[idx])).join('')}</div>${answerSummaryHtml}<div class="explanation-box ${showAnswerState?'visible':''}"><strong>Explanation:</strong> ${escapeHtml(q.explanation||'No explanation available.')}</div>${typeof renderRemoveWrongBtn === 'function' ? renderRemoveWrongBtn() : ''}`;
+      el('question-container').innerHTML = `<div class="question-header"><span class="question-number">Q${idx+1}</span><div class="question-actions"><button class="icon-btn favorite-heart-btn ${fav?'active':''}" data-question-id="${escapeAttribute(q.id)}" aria-pressed="${fav?'true':'false'}" title="${fav?'إزالة من المفضلة':'إضافة إلى المفضلة'}" onclick="toggleFavorite('${q.id}')">${favIcon}</button>${noteBtnHtml}<button class="icon-btn" onclick="toggleQuestionLocation()">${theme().icons.location}</button></div></div><p class="question-text">${escapeHtml(cleanText)}</p>${imageHtml}<div class="options-list">${q.options.map((opt,i)=>renderOptionButtonLocal(q, opt, i, showAnswerState, state.currentExam.answers[idx])).join('')}</div>${answerSummaryHtml}<div class="explanation-box ${showAnswerState?'visible':''}"><strong>Explanation:</strong> ${escapeHtml(q.explanation||'No explanation available.')}</div>${typeof renderRemoveWrongBtn === 'function' ? renderRemoveWrongBtn() : ''}`;
       el('question-container').classList.add('exam-content-ltr');
     }
 
