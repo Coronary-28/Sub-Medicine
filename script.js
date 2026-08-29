@@ -34,7 +34,7 @@ const STORAGE_KEYS = {
   get subjectStatsSettings() { return `medical-app-subject-stats-settings-${getAppId()}`; },
   get checklist() { return `medical-app-checklist-${getAppId()}`; }
 };
-const DEFAULT_SETTINGS = { darkMode:false, theme:'default', bgSound:'none', bgSoundEnabled:true, volume:50, feedbackEnabled:true, animations:true };
+const DEFAULT_SETTINGS = { darkMode:false, theme:'default', bgSound:'none', bgSoundEnabled:false, volume:50, feedbackEnabled:false, animations:true };
 const IGNORE_ROOT_DIRS = new Set(['.git','.github','node_modules','assets','asset','audio','audios','img','images','css','js','docs','dist','build']);
 const BACKGROUND_SOUNDS = { none:{file:''}, cafeteria:{file:'Cafeteria.mp3'}, 'after-exam':{file:'After the exam.mp3'}, beach:{file:'Beach.mp3'}, forest:{file:'Forest.mp3'}, fireplace:{file:'Fireplace.mp3'}, 'rain-thunder':{file:'Rain-thunder.mp3'}, 'rain-window':{file:'Rain-window.mp3'} };
 const LETTERS = 'ABCDE';
@@ -1094,7 +1094,7 @@ function renderExam(){
   const noteBtnHtml = hasNote ? `<button class="icon-btn note-btn" title="Note" onclick="openQuestionNote('${q.id}')">⚠</button>` : '';
   const answerSummaryHtml = showAnswerState ? `<div class="answer-summary"><strong>Correct Answer:</strong> <span class="answer-value">${escapeHtml(getFormattedCurrentCorrectAnswer(q))}</span></div>` : '';
 
-  el('question-container').innerHTML = `<div class="question-header"><span class="question-number">Q${escapeHtml(q.number||String(idx+1))}</span><div class="question-actions"><button class="icon-btn ${fav?'active':''}" onclick="toggleFavorite('${q.id}')">💚</button>${noteBtnHtml}<button class="icon-btn" onclick="toggleQuestionLocation()">${t.icons.location}</button></div></div><p class="question-text">${escapeHtml(q.text)}</p><div class="options-list">${q.options.map((opt,i)=>renderOptionButton(opt,i,idx,showAnswerState,state.currentExam.answers[idx],correctIdx)).join('')}</div>${answerSummaryHtml}<div class="explanation-box ${showAnswerState?'visible':''}"><strong>Explanation:</strong> ${escapeHtml(q.explanation||'No explanation available.')}</div>${renderRemoveWrongBtn()}`;
+    el('question-container').innerHTML = `<div class="question-header"><span class="question-number">Q${escapeHtml(q.number||String(idx+1))}</span><div class="question-actions"><button class="icon-btn ${fav?'active':''}" onclick="toggleFavorite('${q.id}')">💚</button>${noteBtnHtml}<button class="icon-btn" onclick="toggleQuestionLocation()">${t.icons.location}</button></div></div><p class="question-text">${escapeHtml(q.text)}</p><div class="options-list">${q.options.map((opt,i)=>renderOptionButton(opt,i,idx,showAnswerState,state.currentExam.answers[idx],correctIdx)).join('')}</div>${answerSummaryHtml}<div class="explanation-box ${showAnswerState?'visible':''}"><strong>Explanation:</strong> ${escapeHtml(q.explanation||'No explanation available.')}</div>${renderRemoveWrongBtn()}`;
 
   el('question-container').classList.add('exam-content-ltr');
 
