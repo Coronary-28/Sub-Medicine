@@ -16,6 +16,7 @@ D) More common on the right side
 Correct Answer: A) More common on the left side
 Explanation:
 The left testicular vein drains into the left renal vein at a right angle and is compressed by the "nutcracker effect" (aorta and SMA), causing higher venous pressure and predisposing to left-sided varicocele.
+note: ok
 ###
 A 50-year-old man presents with dysuria, cloudy urine, and a tender, swollen right testis. What is the most likely diagnosis?
 A) Epididymitis
@@ -27,6 +28,7 @@ Correct Answer: A) Epididymitis
 Explanation:
 An older man with dysuria (UTI symptoms) and a tender, swollen testis fits epididymitis, typically caused by E. coli and other Gram-negative bacilli in this age group.
 Batch: Coronary Block B
+Note:yes
 ###
 What is the sonographic hallmark of testicular torsion?
 A) Increased epididymal blood flow
@@ -37,6 +39,7 @@ E) Paratesticular fluid
 Correct Answer: C) Absence of intratesticular blood flow
 Explanation:
 Decreased or absent blood flow on scrotal Doppler ultrasound, with parenchymal heterogeneity, is the defining sonographic finding of testicular torsion.
+Note :oi
 ###
 What is the definitive treatment of testicular torsion?
 A) Immediate surgical exploration
@@ -47,7 +50,7 @@ Correct Answer: A) Immediate surgical exploration
 Explanation:
 Torsion requires urgent surgical detorsion and orchidopexy (with contralateral fixation), since testicular salvage is entirely time-dependent.
 Batch: Coronary Block B
-Note: This is repeated.
+Note: This is repeated this question is the body only a few many people in a b b and a few years ago by a few many people who is a few years of a b b b b and other than one.
 ###
 Which of the following is NOT a typical feature of testicular torsion?
 A) High-riding testis
