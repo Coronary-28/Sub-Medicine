@@ -2,13 +2,13 @@
 <html lang="ar" dir="rtl">
 <head>
   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-13VFD6FVXJ"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DLWNXLC13M"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-13VFD6FVXJ');
+  gtag('config', 'G-DLWNXLC13M');
 </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -480,8 +480,18 @@
             }
         }
 
-        const favBtns = document.querySelectorAll('button[onclick*="toggleFavorite"]');
+                const examScreenActive = document.getElementById('exam-screen') && document.getElementById('exam-screen').classList.contains('active');
+        const resultsScreenActive = document.getElementById('results-screen') && document.getElementById('results-screen').classList.contains('active');
+        const examSubmitted = state && state.currentExam && state.currentExam.submitted;
+        const canShowFlag = examScreenActive && !examSubmitted && !resultsScreenActive;
+
+        const favBtns = document.querySelectorAll('#question-container button[onclick*="toggleFavorite"]');
         favBtns.forEach(favBtn => {
+            if (!canShowFlag) {
+                const existing = favBtn.parentNode ? favBtn.parentNode.querySelector('.flag-btn-added') : null;
+                if (existing) existing.remove();
+                return;
+            }
             if (!favBtn.nextElementSibling || !favBtn.nextElementSibling.classList.contains('flag-btn-added')) {
                 const match = favBtn.getAttribute('onclick').match(/'([^']+)'/);
                 if (match) {
@@ -501,7 +511,7 @@
             }
         });
 
-                if (state && state.currentExam && state.currentExam.flagged) {
+                if (canShowFlag && state && state.currentExam && state.currentExam.flagged) {
             state.currentExam.questions.forEach((q, index) => {
                 if (state.currentExam.flagged[q.id]) {
                     const gridItem = document.querySelector(`#question-grid button:nth-child(${index + 1})`);
@@ -517,17 +527,8 @@
         }
 
         const reviewContainer = document.getElementById('results-review');
-        if (reviewContainer && !reviewContainer.classList.contains('hidden') && state && state.currentExam && state.currentExam.flagged) {
-            const questionHeaders = reviewContainer.querySelectorAll('h4');
-            questionHeaders.forEach((header, index) => {
-                if (!header.hasAttribute('data-flag-checked')) {
-                    header.setAttribute('data-flag-checked', 'true');
-                    const q = state.currentExam.questions[index];
-                    if (q && state.currentExam.flagged[q.id]) {
-                        header.innerHTML += ' <span style="font-size: 1.1em; margin-right: 5px;">🔻</span>';
-                    }
-                }
-            });
+        if (reviewContainer && !reviewContainer.classList.contains('hidden')) {
+            reviewContainer.querySelectorAll('.flag-btn-added').forEach(b => b.remove());
         }
     });
 
