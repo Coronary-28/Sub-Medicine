@@ -1111,7 +1111,65 @@ function prevQuestion(){ if(!state.currentExam || state.currentExam.direction!==
 function navigateToQuestion(index){ if(!state.currentExam) return; if(state.currentExam.direction==='oneway' && index!==state.currentExam.currentIndex) return; state.currentExam.currentIndex=index; if(state.currentExam.mode==='training') state.currentExam.showAnswer=state.currentExam.answers[index]!==null; saveExamState(); renderExam(); scrollQuestionIntoView(true); }
 function scrollQuestionIntoView(smooth){ const q=el('question-container'); if(!q) return; const top=q.getBoundingClientRect().top + window.scrollY - 12; window.scrollTo({top, behavior:smooth && state.settings.animations!==false ? 'smooth':'auto'}); }
 function isValidPageNumber(p){ return /^\d+$/.test(String(p||'').trim()); }
-function toggleQuestionLocation(){ if(!state.currentExam) return; const q=state.currentExam.questions[state.currentExam.currentIndex]; const parts=[]; if(q.subjectName) parts.push('المادة: '+q.subjectName); if(q.lectureName) parts.push('الملف: '+q.lectureName); const batches=(Array.isArray(q.batchNames)&&q.batchNames.length)?q.batchNames:(q.batchName?[q.batchName]:[]); if(batches.length) parts.push('الدفعة: '+batches.join('، ')); if(isValidPageNumber(q.pageNumber)) parts.push('الصفحة: '+String(q.pageNumber).trim()); showToast(parts.join(' | ') || 'لا توجد بيانات موقع متاحة.','info',3000); }
+function toggleQuestionLocation(){ if(!state.currentExam) return; const q=state.currentExam.questions[state.currentExam.currentIndex]; const batches=(Array.isArray(q.batchNames)&&q.batchNames.length)?q.batchNames:(q.batchName?String(q.batchName).split(' / ').map(s=>s.trim()).filter(Boolean):[]); openSourceModal(q.subjectName||'', q.lectureName||'', batches); }
+
+const SOURCE_BATCH_COLORS = {
+  'serotonin':   '#7A3D00',
+  'waman a7yaha':'#A36D00',
+  'overdose':    '#007888',
+  'vagus':       '#A20069',
+  'aorta':       '#C4001A',
+  'endorphin':   '#660099',
+  'iris':        '#002FA7',
+  'coronary':    '#087A00'
+};
+
+function getBatchColor(fullBatchName){
+  const s = String(fullBatchName||'').trim().toLowerCase();
+  if(!s) return '#000000';
+  const keys = Object.keys(SOURCE_BATCH_COLORS);
+  for(let i=0;i<keys.length;i++){
+    const k = keys[i];
+    if(s.indexOf(k) === 0) return SOURCE_BATCH_COLORS[k];
+  }
+  for(let i=0;i<keys.length;i++){
+    const k = keys[i];
+    if(s.indexOf(k) !== -1) return SOURCE_BATCH_COLORS[k];
+  }
+  return '#000000';
+}
+
+function openSourceModal(subjectName, lectureName, batches){
+  const modal = document.getElementById('source-modal');
+  if(!modal) return;
+  const subjEl = document.getElementById('source-modal-subject');
+  const lectEl = document.getElementById('source-modal-lecture');
+  const batchEl = document.getElementById('source-modal-batches');
+  if(subjEl) subjEl.textContent = subjectName || '';
+  if(lectEl) lectEl.textContent = lectureName || '';
+  if(batchEl){
+    const list = Array.isArray(batches) ? batches.filter(Boolean) : [];
+    if(!list.length){
+      batchEl.innerHTML = '';
+    } else {
+      batchEl.innerHTML = list.map(function(b){
+        const color = getBatchColor(b);
+        return '<span class="source-batch-line" style="color:'+color+';">'+escapeHtml(b)+'</span>';
+      }).join('');
+    }
+  }
+  modal.classList.remove('hidden');
+}
+
+function closeSourceModal(){
+  const modal = document.getElementById('source-modal');
+  if(modal) modal.classList.add('hidden');
+}
+
+function showLocation(subjectName, lectureName, batchName, pageNumber, extraPage){
+  const batches = String(batchName||'').split(' / ').map(function(s){return s.trim();}).filter(Boolean);
+  openSourceModal(subjectName||'', lectureName||'', batches);
+}
 function openQuestionNote(questionId){ let q=null; if(state.currentExam && Array.isArray(state.currentExam.questions)) q=state.currentExam.questions.find(item=>item.id===questionId)||null; if(!q) q=state.allQuestions.find(item=>item.id===questionId)||null; if(!q || !q.note || !String(q.note).trim()) return; el('note-modal-text').textContent=String(q.note).trim(); el('note-modal').classList.remove('hidden'); }
 function closeQuestionNote(){ el('note-modal').classList.add('hidden'); }
 function confirmRemoveCurrentWrong(){ if(!state.currentExam || state.currentExam.collectionType!=='wrong') return; const q=state.currentExam.questions[state.currentExam.currentIndex]; askConfirm('هل أتقنت هذا السؤال وتريد إزالته من الأسئلة الخاطئة؟', ()=>removeWrongQuestionsByIds([q.id])); }
@@ -1332,7 +1390,7 @@ function populateSearchFilter(){ const filter=el('search-filter'); if(!filter) r
 function performSearch(){ const query=String(el('search-input').value||'').toLowerCase().trim(); const filter=el('search-filter').value; const resultsDiv=el('search-results'); if(query.length<2){ resultsDiv.innerHTML='<p style="color:var(--text-muted); text-align:center; padding:20px;">اكتب حرفين على الأقل للبحث...</p>'; return; } const t=theme(); const results=state.allQuestions.filter(q=>{ const text=[q.text,(q.options||[]).join(' '),q.explanation||'',q.batchName||'',q.lectureName||'',q.subjectName||''].join(' ').toLowerCase(); const matches=filter==='all'||q.subjectId===filter||slugify(q.subjectName)===filter; return text.includes(query) && matches; }); if(!results.length){ resultsDiv.innerHTML='<p style="color:var(--text-muted); text-align:center; padding:20px;">لا توجد نتائج مطابقة.</p>'; return; } resultsDiv.innerHTML=results.slice(0,60).map(q=>`<div class="search-result-item" onclick="openReadonly('${q.id}')"><p><strong>Q${escapeHtml(q.number||'?')}:</strong> ${escapeHtml(shortenText(q.text,140))}</p><div class="search-result-meta">${t.icons.subject} ${escapeHtml(q.subjectName||'')} · ${q.sourceType==='ai'?t.icons.ai:t.icons.lectures} ${escapeHtml(q.lectureName||'')} ${q.batchName?'· '+t.icons.years+' '+escapeHtml(q.batchName):''} ${isValidPageNumber(q.pageNumber)?'· '+t.icons.location+' '+escapeHtml(String(q.pageNumber).trim()):''}</div></div>`).join(''); }
 function openReadonly(questionId){ const q=state.allQuestions.find(item=>item.id===questionId); if(!q) return; const t=theme(); const correctIdx=getCorrectIndex(q); showScreen('readonly-screen'); const _pg = isValidPageNumber(q.pageNumber) ? String(q.pageNumber).trim() : ''; el('readonly-content').innerHTML=`<div class="question-header"><span class="question-number">Question ${escapeHtml(q.number||'?')}</span><div class="question-actions"><button class="icon-btn ${state.favorites.includes(q.id)?'active':''}" onclick="toggleFavorite('${q.id}'); openReadonly('${q.id}')">💚</button><button class="icon-btn" onclick="showLocation('${escapeJsString(q.subjectName)}','${escapeJsString(q.lectureName)}','${escapeJsString(q.batchName||'')}','${escapeJsString(_pg)}')">${t.icons.location}</button></div></div><p class="question-text">${escapeHtml(q.text)}</p><div class="options-list">${q.options.map((opt,i)=>'<div class="option-btn '+(i===correctIdx?'correct':'')+'" style="cursor:default;"><span class="option-label">'+LETTERS[i]+')</span>'+escapeHtml(cleanOptionDisplay(opt))+'</div>').join('')}</div><div class="answer-summary"><strong>Correct Answer:</strong> <span class="answer-value">${escapeHtml(getFormattedCurrentCorrectAnswer(q))}</span></div><div class="explanation-box visible"><strong>Explanation:</strong> ${escapeHtml(q.explanation||'No explanation available.')}</div>`; el('readonly-content').classList.add('readonly-ltr'); }
 function closeReadonly(){ if(el('search-input') && el('search-input').value) showScreen('search-screen'); else goHome(); }
-function showLocation(subjectName, lectureName, batchName, pageNumber, extraPage){ const parts=[]; if(subjectName) parts.push('المادة: '+subjectName); if(lectureName) parts.push('الملف: '+lectureName); const batches=String(batchName||'').split(' / ').map(s=>s.trim()).filter(Boolean); if(batches.length) parts.push('الدفعة: '+batches.join('، ')); let pg=''; if(arguments.length>=5){ pg = /^\d+$/.test(String(extraPage||'').trim()) ? String(extraPage).trim() : ''; } else { pg = /^\d+$/.test(String(pageNumber||'').trim()) ? String(pageNumber).trim() : ''; } if(pg) parts.push('الصفحة: '+pg); showToast(parts.join(' | ') || 'لا توجد بيانات موقع متاحة.','info',3000); }
+
 function toggleFavorite(questionId){ const idx=state.favorites.indexOf(questionId); if(idx>-1) state.favorites.splice(idx,1); else state.favorites.push(questionId); saveFavorites(); if(state.currentExam && !state.currentExam.submitted) renderExam(); if(el('readonly-screen').classList.contains('active')) openReadonly(questionId); if(state.browseMode==='favorites') renderSubjects(); updateStatisticsIfOpen(); }
 
 function getGroupProgressKey(type, subjectName, groupName){ return type+':'+subjectName+'/'+groupName; }
@@ -2012,6 +2070,6 @@ window.addEventListener('DOMContentLoaded', async ()=>{
   checkResumeExam();
 });
 
-window.state=state; window.openExams=openExams; window.openSection=openSection; window.toggleStatistics=toggleStatistics; window.toggleSettings=toggleSettings; window.toggleDarkMode=toggleDarkMode; window.changeTheme=changeTheme; window.changeSound=changeSound; window.toggleBackgroundSoundEnabled=toggleBackgroundSoundEnabled; window.changeVolume=changeVolume; window.toggleFeedbackSounds=toggleFeedbackSounds; window.toggleAnimations=toggleAnimations; window.filterSubjects=filterSubjects; window.handleSubjectOpen=handleSubjectOpen; window.startSubjectLongPress=startSubjectLongPress; window.cancelSubjectLongPress=cancelSubjectLongPress; window.moveSubject=moveSubject; window.togglePinSubject=togglePinSubject; window.openSubject=openSubject; window.openSubjectCategory=openSubjectCategory; window.backFromSelection=backFromSelection; window.filterSelectionList=filterSelectionList; window.toggleGroupSelection=toggleGroupSelection; window.selectMode=selectMode; window.selectDirection=selectDirection; window.addExtraTime=addExtraTime; window.confirmStartExam=confirmStartExam; window.startSpecialExam=startSpecialExam; window.selectOption=selectOption; window.showAnswer=showAnswer; window.nextQuestion=nextQuestion; window.prevQuestion=prevQuestion; window.navigateToQuestion=navigateToQuestion; window.toggleGrid=toggleGrid; window.exitExam=exitExam; window.finishExam=finishExam; window.reviewExam=reviewExam; window.performSearch=performSearch; window.openReadonly=openReadonly; window.closeReadonly=closeReadonly; window.showLocation=showLocation; window.toggleQuestionLocation=toggleQuestionLocation; window.toggleFavorite=toggleFavorite; window.resetProgress=resetProgressFull; window.goHome=goHome; window.toggleExamSettings=toggleExamSettings; window.hideDialog=hideDialog; window.dialogConfirmAction=dialogConfirmAction; window.dialogCancelAction=dialogCancelAction; window.backToSubjects=backToSubjects; window.confirmRemoveCurrentWrong=confirmRemoveCurrentWrong; window.confirmBulkRemoveMasteredWrong=confirmBulkRemoveMasteredWrong; window.openMemories=openMemories; window.switchMemoriesTab=switchMemoriesTab; window.renderMemories=renderMemories; window.printMemoriesPdf=printMemoriesPdf; window.openHistoryDeleteDialog=openHistoryDeleteDialog; window.toggleHistoryDeleteModal=toggleHistoryDeleteModal; window.renderHistoryDeleteList=renderHistoryDeleteList; window.selectAllHistoryDeleteItems=selectAllHistoryDeleteItems; window.confirmDeleteHistoryItems=confirmDeleteHistoryItems;
+window.state=state; window.openExams=openExams; window.openSection=openSection; window.toggleStatistics=toggleStatistics; window.toggleSettings=toggleSettings; window.toggleDarkMode=toggleDarkMode; window.changeTheme=changeTheme; window.changeSound=changeSound; window.toggleBackgroundSoundEnabled=toggleBackgroundSoundEnabled; window.changeVolume=changeVolume; window.toggleFeedbackSounds=toggleFeedbackSounds; window.toggleAnimations=toggleAnimations; window.filterSubjects=filterSubjects; window.handleSubjectOpen=handleSubjectOpen; window.startSubjectLongPress=startSubjectLongPress; window.cancelSubjectLongPress=cancelSubjectLongPress; window.moveSubject=moveSubject; window.togglePinSubject=togglePinSubject; window.openSubject=openSubject; window.openSubjectCategory=openSubjectCategory; window.backFromSelection=backFromSelection; window.filterSelectionList=filterSelectionList; window.toggleGroupSelection=toggleGroupSelection; window.selectMode=selectMode; window.selectDirection=selectDirection; window.addExtraTime=addExtraTime; window.confirmStartExam=confirmStartExam; window.startSpecialExam=startSpecialExam; window.selectOption=selectOption; window.showAnswer=showAnswer; window.nextQuestion=nextQuestion; window.prevQuestion=prevQuestion; window.navigateToQuestion=navigateToQuestion; window.toggleGrid=toggleGrid; window.exitExam=exitExam; window.finishExam=finishExam; window.reviewExam=reviewExam; window.performSearch=performSearch; window.openReadonly=openReadonly; window.closeReadonly=closeReadonly; window.showLocation=showLocation; window.toggleQuestionLocation=toggleQuestionLocation; window.openSourceModal=openSourceModal; window.closeSourceModal=closeSourceModal; window.getBatchColor=getBatchColor; window.toggleFavorite=toggleFavorite; window.resetProgress=resetProgressFull; window.goHome=goHome; window.toggleExamSettings=toggleExamSettings; window.hideDialog=hideDialog; window.dialogConfirmAction=dialogConfirmAction; window.dialogCancelAction=dialogCancelAction; window.backToSubjects=backToSubjects; window.confirmRemoveCurrentWrong=confirmRemoveCurrentWrong; window.confirmBulkRemoveMasteredWrong=confirmBulkRemoveMasteredWrong; window.openMemories=openMemories; window.switchMemoriesTab=switchMemoriesTab; window.renderMemories=renderMemories; window.printMemoriesPdf=printMemoriesPdf; window.openHistoryDeleteDialog=openHistoryDeleteDialog; window.toggleHistoryDeleteModal=toggleHistoryDeleteModal; window.renderHistoryDeleteList=renderHistoryDeleteList; window.selectAllHistoryDeleteItems=selectAllHistoryDeleteItems; window.confirmDeleteHistoryItems=confirmDeleteHistoryItems;
 window.openStatisticsPage=openStatisticsPage; window.closeStatisticsPage=closeStatisticsPage; window.renderStatisticsPage=renderStatisticsPage; window.openSubjectStats=openSubjectStats; window.closeSubjectStats=closeSubjectStats; window.renderSubjectStats=renderSubjectStats; window.openSubjectCategoryFromStats=openSubjectCategoryFromStats; window.openStatsExclusionDialog=openStatsExclusionDialog; window.closeStatsExclusionDialog=closeStatsExclusionDialog; window.saveStatsExclusions=saveStatsExclusions; window.applyStatsExclusions=applyStatsExclusions; window.openResetModal=openResetModal; window.closeResetModal=closeResetModal; window.showResetConfirmation=showResetConfirmation; window.goResetStep1=goResetStep1; window.executeResetStatistics=executeResetStatistics; window.openSubjectStatsSettings=openSubjectStatsSettings; window.closeSubjectStatsSettings=closeSubjectStatsSettings; window.applySubjectStatsSettings=applySubjectStatsSettings; window.openChecklist=openChecklist; window.renderChecklist=renderChecklist; window.toggleChecklistSubject=toggleChecklistSubject; window.toggleChecklistLecture=toggleChecklistLecture; window.openChecklistSubject=openChecklistSubject; window.closeChecklistSubject=closeChecklistSubject; window.renderChecklistSubject=renderChecklistSubject;
 window.changeMemoryPeriodOffset=changeMemoryPeriodOffset;
