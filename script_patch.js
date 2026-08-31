@@ -1140,6 +1140,66 @@
     refreshFavoriteButtonsUI();
     if(typeof ensureReviewFloatingButtons === 'function') ensureReviewFloatingButtons();
   };
+  window.convertArabicToEnglishDigits = function(str) {
+  if (!str) return '';
+  return String(str).replace(/[٠-٩]/g, function(d) {
+    return '٠١٢٣٤٥٦٧٨٩'.indexOf(d);
+  });
+};
+
+window.jumpToReviewQuestion = function(val) {
+  if (!val) return;
+  const englishVal = convertArabicToEnglishDigits(val);
+  const qNum = parseInt(englishVal, 10);
+  if (isNaN(qNum) || qNum < 1) return;
+  const targetEl = document.getElementById('review-q-' + qNum);
+  if (targetEl) {
+    targetEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+};
+
+window.updateReviewFloatingVisibility = function() {
+  const container = document.getElementById('review-floating-container');
+  if (!container) return;
+  const resultsScreen = document.getElementById('results-screen');
+  const resultsReview = document.getElementById('results-review');
+  const isReviewActive = resultsScreen && 
+                         resultsScreen.classList.contains('active') && 
+                         resultsReview && 
+                         !resultsReview.classList.contains('hidden');
+  
+  if (isReviewActive) {
+    container.style.display = 'flex';
+  } else {
+    container.style.display = 'none';
+  }
+};
+
+window.ensureReviewFloatingButtons = function() {
+  let container = document.getElementById('review-floating-container');
+  if (!container) {
+    container = document.createElement('div');
+    container.id = 'review-floating-container';
+    container.className = 'review-floating-container';
+    document.body.appendChild(container);
+  }
+
+  container.innerHTML = `
+    <button type="button" class="review-circle-btn" onclick="window.scrollTo({top: 0, behavior: 'smooth'});" title="الانتقال لأعلى">
+      <span class="review-arrow">↑</span>
+      <span class="review-text-line">الانتقال</span>
+      <span class="review-text-line">لأعلى</span>
+    </button>
+    <div class="review-circle-btn">
+      <span class="review-text-line">انتقل</span>
+      <span class="review-text-line">إلى</span>
+      <span class="review-text-line">السؤال</span>
+      <input type="text" id="review-jump-input" class="review-jump-input" autocomplete="off" placeholder="" onkeydown="if(event.key==='Enter'){ jumpToReviewQuestion(this.value); }" onchange="jumpToReviewQuestion(this.value);" />
+    </div>
+  `;
+
+  updateReviewFloatingVisibility();
+};
   renderExamNav = function(){
     if(!state.currentExam) return;
     const nav = el('exam-nav');
