@@ -1354,30 +1354,32 @@ window.ensureReviewFloatingButtons = function() {
   }
 
   window.closeSettingsPage = function(){ goHome(); };
-    function ensureReviewFloatingButtons(){
-    let container = document.getElementById('review-floating-buttons');
-    if(!container){
-      container = document.createElement('div');
-      container.id = 'review-floating-buttons';
-      container.className = 'review-floating-buttons';
-      container.innerHTML = ''
-        + '<button type="button" class="review-fab-btn" id="review-fab-top" onclick="reviewScrollToTop()">'
-        +   '<span class="review-fab-arrow">↑</span>'
-        +   '<span class="review-fab-text">الانتقال</span>'
-        +   '<span class="review-fab-text">لأعلى</span>'
-        + '</button>'
-        + '<div class="review-fab-btn review-fab-goto">'
-        +   '<span class="review-fab-text">انتقل</span>'
-        +   '<span class="review-fab-text">إلى</span>'
-        +   '<span class="review-fab-text">السؤال</span>'
-        +   '<input type="text" inputmode="numeric" class="review-fab-input" id="review-fab-input" onkeydown="reviewGotoKey(event)" oninput="reviewNormalizeInput(event)" />'
-        + '</div>';
-      if(document.body){ document.body.appendChild(container); }
-    } else if(container.parentNode !== document.body){
-      document.body.appendChild(container);
-    }
-    updateReviewFloatingButtonsVisibility();
+  
+  function ensureReviewFloatingButtons(){
+  let container = document.getElementById('review-floating-buttons');
+  if(!container){
+    container = document.createElement('div');
+    container.id = 'review-floating-buttons';
+    container.className = 'review-floating-buttons';
+    container.innerHTML = ''
+      + '<button type="button" class="review-fab-btn" id="review-fab-top" onclick="reviewScrollToTop()" title="الانتقال لأعلى" aria-label="الانتقال لأعلى">'
+      +   '<span class="review-fab-arrow">↑</span>'
+      +   '<span class="review-fab-text">الانتقال</span>'
+      +   '<span class="review-fab-text">لأعلى</span>'
+      + '</button>'
+      + '<div class="review-fab-btn review-fab-goto">'
+      +   '<span class="review-fab-text">انتقل</span>'
+      +   '<span class="review-fab-text">إلى</span>'
+      +   '<span class="review-fab-text">السؤال</span>'
+      +   '<input type="text" inputmode="numeric" autocomplete="off" placeholder="" class="review-fab-input" id="review-fab-input" aria-label="رقم السؤال" onkeydown="reviewGotoKey(event)" oninput="reviewNormalizeInput(event)" />'
+      + '</div>';
+    if(document.body){ document.body.appendChild(container); }
+  } else if(container.parentNode !== document.body){
+    document.body.appendChild(container);
   }
+  updateReviewFloatingButtonsVisibility();
+}
+
   function updateReviewFloatingButtonsVisibility(){
     const container = document.getElementById('review-floating-buttons');
     if(!container) return;
@@ -2306,7 +2308,147 @@ window.ensureReviewFloatingButtons = function() {
   #exam-screen .btn-home, #exam-screen .btn-home-global, #exam-screen [class*="home"], #exam-screen [id*="home"] { display: none !important; }
   `;
   document.head.appendChild(st);
-
+    const reviewFloatingStyle = document.createElement('style');
+  reviewFloatingStyle.id = 'medical-app-review-floating-style';
+  reviewFloatingStyle.textContent = `
+  #review-floating-buttons.review-floating-buttons{
+    position: fixed;
+    right: 18px;
+    bottom: 18px;
+    left: auto;
+    top: auto;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    z-index: 9997;
+    margin: 0;
+    padding: 0;
+    pointer-events: auto;
+  }
+  #review-floating-buttons .review-fab-btn{
+    width: 128px;
+    height: 128px;
+    min-width: 128px;
+    min-height: 128px;
+    max-width: 128px;
+    max-height: 128px;
+    border: none;
+    border-radius: 50%;
+    background: linear-gradient(180deg,#1686f8 0%,#0b6fdf 100%);
+    color: #ffffff;
+    box-shadow: 0 10px 24px rgba(15,23,42,.20), 0 2px 8px rgba(15,23,42,.12);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    padding: 14px 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+    text-align: center;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+  #review-floating-buttons .review-fab-btn:hover{
+    background: linear-gradient(180deg,#117ded 0%,#0965cf 100%);
+  }
+  #review-floating-buttons #review-fab-top{
+    cursor: pointer;
+  }
+  #review-floating-buttons .review-fab-goto{
+    cursor: default;
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+  #review-floating-buttons .review-fab-arrow{
+    display: block;
+    width: 100%;
+    margin: 0 0 4px 0;
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 1;
+    text-align: center;
+  }
+  #review-floating-buttons .review-fab-text{
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 1.2;
+    text-align: center;
+    white-space: nowrap;
+  }
+  #review-floating-buttons .review-fab-input{
+    display: block;
+    width: 76px;
+    height: 30px;
+    margin: 8px auto 0 auto;
+    padding: 0 6px;
+    border: 1px solid rgba(255,255,255,.72);
+    border-radius: 12px;
+    background: rgba(231,236,243,.96);
+    color: #0f172a;
+    outline: none;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 30px;
+    direction: ltr;
+    -moz-appearance: textfield;
+  }
+  #review-floating-buttons .review-fab-input::-webkit-outer-spin-button,
+  #review-floating-buttons .review-fab-input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  #review-floating-buttons .review-fab-input::placeholder{
+    color: transparent;
+    opacity: 0;
+  }
+  #review-floating-buttons .review-fab-input:focus{
+    background: #ffffff;
+    border-color: rgba(255,255,255,.92);
+  }
+  @media (max-width: 767px){
+    #review-floating-buttons.review-floating-buttons{
+      right: 14px;
+      bottom: 14px;
+      gap: 10px;
+    }
+    #review-floating-buttons .review-fab-btn{
+      width: 116px;
+      height: 116px;
+      min-width: 116px;
+      min-height: 116px;
+      max-width: 116px;
+      max-height: 116px;
+      padding: 12px 8px;
+    }
+    #review-floating-buttons .review-fab-arrow{
+      font-size: 24px;
+      margin-bottom: 3px;
+    }
+    #review-floating-buttons .review-fab-text{
+      font-size: 13px;
+      line-height: 1.15;
+    }
+    #review-floating-buttons .review-fab-input{
+      width: 70px;
+      height: 28px;
+      margin-top: 7px;
+      font-size: 14px;
+      line-height: 28px;
+    }
+  }
+  `;
+  document.head.appendChild(reviewFloatingStyle);
   const favoriteFxStyle = document.createElement('style');
   favoriteFxStyle.id = 'medical-app-favorite-fx-style';
   favoriteFxStyle.textContent = `
