@@ -151,6 +151,75 @@
       pointer-events: none;
       z-index: 10;
     }
+        .review-floating-container {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 10000;
+      display: none;
+      flex-direction: column;
+      gap: 12px;
+      align-items: center;
+      justify-content: center;
+      pointer-events: auto;
+    }
+    .review-circle-btn {
+      width: 86px;
+      height: 86px;
+      border-radius: 50%;
+      background-color: #2563eb;
+      color: #ffffff;
+      border: none;
+      outline: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+      cursor: pointer;
+      padding: 4px;
+      box-sizing: border-box;
+      user-select: none;
+      transition: transform 0.2s, background-color 0.2s;
+    }
+    .review-circle-btn:hover {
+      background-color: #1d4ed8;
+      transform: scale(1.03);
+    }
+    .review-arrow {
+      font-size: 16px;
+      font-weight: bold;
+      line-height: 1;
+      color: #ffffff;
+      margin-bottom: 1px;
+    }
+    .review-text-line {
+      font-size: 11px;
+      font-weight: 600;
+      line-height: 1.15;
+      color: #ffffff;
+      white-space: nowrap;
+    }
+    .review-jump-input {
+      width: 48px;
+      height: 20px;
+      margin-top: 2px;
+      background-color: rgba(220, 225, 230, 0.85);
+      border: 1px solid rgba(255, 255, 255, 0.6);
+      border-radius: 4px;
+      color: #0f172a;
+      font-size: 12px;
+      font-weight: bold;
+      text-align: center;
+      outline: none;
+      box-sizing: border-box;
+      padding: 0 2px;
+    }
+    .review-jump-input:focus {
+      background-color: #ffffff;
+      border-color: #2563eb;
+    }
   </style>
 </head>
 <body>
@@ -529,6 +598,9 @@
         const reviewContainer = document.getElementById('results-review');
         if (reviewContainer && !reviewContainer.classList.contains('hidden')) {
             reviewContainer.querySelectorAll('.flag-btn-added').forEach(b => b.remove());
+        }
+                if (typeof updateReviewFloatingVisibility === 'function') {
+            updateReviewFloatingVisibility();
         }
     });
 
