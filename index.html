@@ -220,6 +220,209 @@
       background-color: #ffffff;
       border-color: #2563eb;
     }
+
+    /* ============ Source of the question modal ============ */
+    #source-modal.modal-overlay{
+      position:fixed; inset:0;
+      background:rgba(15,23,42,.55);
+      display:flex; align-items:center; justify-content:center;
+      padding:20px; z-index:2147483646;
+    }
+    #source-modal.modal-overlay.hidden{ display:none !important; }
+    #source-modal .source-modal-card{
+      background:#ffffff !important;
+      color:#000000 !important;
+      background-image:none !important;
+      width:min(560px, 100%);
+      max-width:92vw;
+      border-radius:14px;
+      padding:22px 22px 18px 22px;
+      box-shadow:0 20px 48px rgba(0,0,0,.28), 0 6px 18px rgba(0,0,0,.15);
+      border:1px solid #e5e7eb;
+      box-sizing:border-box;
+      animation:fadeIn .2s ease;
+    }
+    #source-modal .source-modal-header{
+      direction:ltr !important;
+      text-align:left !important;
+      justify-content:flex-start !important;
+      padding:0 0 10px 0 !important;
+      margin:0 0 6px 0 !important;
+      border-bottom:none !important;
+      background:transparent !important;
+    }
+    #source-modal .source-modal-header h3{
+      direction:ltr !important;
+      text-align:left !important;
+      unicode-bidi:plaintext;
+      color:#000000 !important;
+      font-size:1.35rem;
+      font-weight:800;
+      margin:0;
+      padding:0;
+    }
+    #source-modal .source-modal-body{
+      direction:ltr;
+      text-align:left;
+      color:#000000;
+      margin:6px 0 14px 0;
+    }
+    #source-modal .source-info-table{
+      width:100%;
+      border-collapse:collapse;
+      background:#ffffff !important;
+      color:#000000 !important;
+      table-layout:fixed;
+    }
+    #source-modal .source-info-table td{
+      padding:12px 10px;
+      vertical-align:top;
+      color:#000000 !important;
+      background:#ffffff !important;
+      border-top:1px solid #d1d5db;
+      border-bottom:1px solid #d1d5db;
+      font-size:1rem;
+      line-height:1.5;
+    }
+    #source-modal .source-info-table tr:first-child td{ border-top:1px solid #111827; }
+    #source-modal .source-info-table tr:last-child td{ border-bottom:1px solid #111827; }
+    #source-modal .source-info-key{
+      width:120px;
+      font-weight:700;
+      color:#000000 !important;
+      border-right:1px solid #111827;
+      white-space:nowrap;
+    }
+    #source-modal .source-info-value{
+      color:#000000 !important;
+      word-break:break-word;
+    }
+    #source-modal .source-batch-line{
+      display:block;
+      font-weight:700;
+      line-height:1.55;
+    }
+    #source-modal .source-modal-actions{
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      margin-top:6px;
+    }
+    #source-modal .source-modal-ok-btn{
+      background:#1e88e5;
+      color:#ffffff;
+      border:none;
+      border-radius:22px;
+      padding:10px 28px;
+      font-size:1rem;
+      font-weight:700;
+      cursor:pointer;
+      box-shadow:0 4px 12px rgba(30,136,229,.35);
+      transition:background .15s ease, transform .1s ease;
+      direction:rtl;
+    }
+    #source-modal .source-modal-ok-btn:hover{ background:#1976d2; }
+    #source-modal .source-modal-ok-btn:active{ transform:translateY(1px); }
+    @media (max-width:767px){
+      #source-modal .source-modal-card{ padding:18px 16px 14px 16px; }
+      #source-modal .source-modal-header h3{ font-size:1.2rem; }
+      #source-modal .source-info-key{ width:96px; font-size:.95rem; }
+      #source-modal .source-info-table td{ padding:10px 8px; font-size:.95rem; }
+    }
+
+    /* ============ Review floating size-toggle ============ */
+    #review-floating-buttons .review-fab-wrap{
+      position:relative;
+      display:inline-block;
+      width:auto;
+      height:auto;
+      line-height:0;
+    }
+    #review-floating-buttons .review-fab-size-toggle{
+      position:absolute;
+      top:-6px;
+      left:50%;
+      transform:translateX(-50%);
+      width:30px;
+      height:30px;
+      border-radius:50%;
+      background:#1e88e5;
+      color:#ffffff;
+      border:2px solid #ffffff;
+      box-shadow:0 3px 8px rgba(0,0,0,.28);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding:0;
+      cursor:pointer;
+      z-index:5;
+      -webkit-tap-highlight-color:transparent;
+    }
+    #review-floating-buttons .review-fab-size-toggle:hover{ background:#1565c0; }
+    #review-floating-buttons .review-fab-size-toggle svg{
+      width:16px;
+      height:16px;
+      display:block;
+      pointer-events:none;
+    }
+    #review-floating-buttons.review-fab-shrunk .review-fab-btn{
+      width:32px !important;
+      height:32px !important;
+      min-width:32px !important;
+      min-height:32px !important;
+      max-width:32px !important;
+      max-height:32px !important;
+      padding:2px !important;
+      overflow:hidden !important;
+      font-size:0 !important;
+    }
+    #review-floating-buttons.review-fab-shrunk .review-fab-btn > *{ display:none !important; }
+    #review-floating-buttons.review-fab-shrunk .review-fab-wrap .review-fab-size-toggle{
+      top:-4px;
+      width:22px;
+      height:22px;
+    }
+    #review-floating-buttons.review-fab-shrunk .review-fab-wrap .review-fab-size-toggle svg{
+      width:12px; height:12px;
+    }
+    @media (max-width:767px){
+      #review-floating-buttons .review-fab-btn{
+        width:58px !important;
+        height:58px !important;
+        min-width:58px !important;
+        min-height:58px !important;
+        max-width:58px !important;
+        max-height:58px !important;
+        padding:6px 4px !important;
+      }
+      #review-floating-buttons .review-fab-arrow{ font-size:14px !important; margin-bottom:1px !important; }
+      #review-floating-buttons .review-fab-text{ font-size:8px !important; line-height:1.05 !important; }
+      #review-floating-buttons .review-fab-goto .review-fab-text{ font-size:7.5px !important; line-height:1.02 !important; }
+      #review-floating-buttons .review-fab-input{
+        width:38px !important;
+        height:14px !important;
+        margin-top:2px !important;
+        font-size:9px !important;
+        line-height:14px !important;
+        padding:0 2px !important;
+        border-radius:4px !important;
+      }
+      #review-floating-buttons .review-fab-size-toggle{
+        width:20px; height:20px; top:-4px;
+      }
+      #review-floating-buttons .review-fab-size-toggle svg{ width:10px; height:10px; }
+      #review-floating-buttons.review-fab-shrunk .review-fab-btn{
+        width:29px !important;
+        height:29px !important;
+        min-width:29px !important;
+        min-height:29px !important;
+        max-width:29px !important;
+        max-height:29px !important;
+      }
+      #review-floating-buttons.review-fab-shrunk .review-fab-wrap .review-fab-size-toggle{
+        width:16px; height:16px; top:-3px;
+      }
+    }
   </style>
 </head>
 <body>
@@ -439,13 +642,46 @@
   <div id="dialog-overlay" class="dialog-overlay hidden" onclick="if(event.target.id==='dialog-overlay'){hideDialog()}">
     <div class="dialog-card"><div class="dialog-header"><div id="dialog-title">تنبيه</div><button class="btn-close" onclick="hideDialog()">✕</button></div><div id="dialog-body" class="dialog-body"></div><div class="dialog-actions"><button id="dialog-confirm" class="btn-primary" onclick="dialogConfirmAction()">موافق</button><button id="dialog-cancel" class="btn-secondary hidden" onclick="dialogCancelAction()">إلغاء</button></div></div>
   </div>
+  
+  <!-- بداية التعديل 1 المدمج -->
   <div id="note-modal" class="modal-overlay hidden" onclick="if(event.target.id==='note-modal'){closeQuestionNote()}">
     <div class="modal-card note-modal-card" role="dialog" aria-modal="true">
-      <div class="panel-header modal-header"><h3>Note</h3></div>
+      <div class="panel-header modal-header" dir="ltr" style="direction:ltr;text-align:left;justify-content:flex-start;"><h3 dir="ltr" style="direction:ltr;text-align:left;unicode-bidi:plaintext;">Note</h3></div>
       <div id="note-modal-text" class="note-modal-text" dir="ltr"></div>
-      <div class="dialog-actions"><button class="btn-primary" onclick="closeQuestionNote()">فهمت !</button></div>
+      <div class="dialog-actions" style="justify-content:center;"><button class="btn-primary" onclick="closeQuestionNote()">فهمت !</button></div>
     </div>
-  </div>  
+  </div>
+
+  <div id="source-modal" class="modal-overlay hidden" onclick="if(event.target.id==='source-modal'){closeSourceModal()}">
+    <div class="modal-card source-modal-card" role="dialog" aria-modal="true">
+      <div class="panel-header modal-header source-modal-header" dir="ltr">
+        <h3 dir="ltr">Source of the question</h3>
+      </div>
+      <div class="source-modal-body">
+        <table class="source-info-table">
+          <tbody>
+            <tr>
+              <td class="source-info-key">Subject</td>
+              <td class="source-info-value" id="source-modal-subject"></td>
+            </tr>
+            <tr>
+              <td class="source-info-key">Lecture</td>
+              <td class="source-info-value" id="source-modal-lecture"></td>
+            </tr>
+            <tr>
+              <td class="source-info-key">Batches</td>
+              <td class="source-info-value" id="source-modal-batches"></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="source-modal-actions">
+        <button type="button" class="source-modal-ok-btn" onclick="closeSourceModal()">فهمت !</button>
+      </div>
+    </div>
+  </div>
+  <!-- نهاية التعديل 1 المدمج -->
+
   <div id="toast" class="toast hidden"></div>
   <canvas id="fireworks-canvas" class="fireworks-canvas hidden"></canvas>
   <audio id="bg-audio" preload="auto" loop></audio>
@@ -607,4 +843,4 @@
     customAppObserver.observe(document.body, { childList: true, subtree: true });
   </script>
 </body>
-  </html>
+</html>
