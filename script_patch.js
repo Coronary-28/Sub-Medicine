@@ -1355,29 +1355,91 @@ window.ensureReviewFloatingButtons = function() {
 
   window.closeSettingsPage = function(){ goHome(); };
   
-  function ensureReviewFloatingButtons(){
+    function ensureReviewFloatingButtons(){
   let container = document.getElementById('review-floating-buttons');
+  const svgArrowsIn  = '<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M4 4 L11 11" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/><path d="M11 11 L11 6" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/><path d="M11 11 L6 11" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/><path d="M20 20 L13 13" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/><path d="M13 13 L13 18" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/><path d="M13 13 L18 13" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/></svg>';
+  const svgArrowsOut = '<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M11 11 L4 4" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/><path d="M4 4 L9 4" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/><path d="M4 4 L4 9" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/><path d="M13 13 L20 20" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/><path d="M20 20 L15 20" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/><path d="M20 20 L20 15" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/></svg>';
+  const topWrapHtml = ''
+      + '<span class="review-fab-wrap">'
+      +   '<button type="button" class="review-fab-btn" id="review-fab-top" onclick="reviewFabTopClick(event)" title="الانتقال لأعلى" aria-label="الانتقال لأعلى">'
+      +     '<span class="review-fab-arrow">↑</span>'
+      +     '<span class="review-fab-text">الانتقال</span>'
+      +     '<span class="review-fab-text">لأعلى</span>'
+      +   '</button>'
+      +   '<button type="button" class="review-fab-size-toggle" id="review-fab-size-toggle-top" onclick="reviewFabSizeToggle(event)" aria-label="تغيير الحجم">'
+      +     svgArrowsIn
+      +   '</button>'
+      + '</span>';
+  const gotoWrapHtml = ''
+      + '<span class="review-fab-wrap">'
+      +   '<div class="review-fab-btn review-fab-goto" id="review-fab-goto" onclick="reviewFabGotoClick(event)">'
+      +     '<span class="review-fab-text">انتقل</span>'
+      +     '<span class="review-fab-text">إلى</span>'
+      +     '<span class="review-fab-text">السؤال</span>'
+      +     '<input type="text" inputmode="numeric" autocomplete="off" placeholder="ادخل رقم السؤال ..." class="review-fab-input" id="review-fab-input" aria-label="رقم السؤال" onkeydown="reviewGotoKey(event)" oninput="reviewNormalizeInput(event)" />'
+      +   '</div>'
+      +   '<button type="button" class="review-fab-size-toggle" id="review-fab-size-toggle-goto" onclick="reviewFabSizeToggle(event)" aria-label="تغيير الحجم">'
+      +     svgArrowsIn
+      +   '</button>'
+      + '</span>';
   if(!container){
     container = document.createElement('div');
     container.id = 'review-floating-buttons';
     container.className = 'review-floating-buttons';
-    container.innerHTML = ''
-      + '<button type="button" class="review-fab-btn" id="review-fab-top" onclick="reviewScrollToTop()" title="الانتقال لأعلى" aria-label="الانتقال لأعلى">'
-      +   '<span class="review-fab-arrow">↑</span>'
-      +   '<span class="review-fab-text">الانتقال</span>'
-      +   '<span class="review-fab-text">لأعلى</span>'
-      + '</button>'
-      + '<div class="review-fab-btn review-fab-goto">'
-      +   '<span class="review-fab-text">انتقل</span>'
-      +   '<span class="review-fab-text">إلى</span>'
-      +   '<span class="review-fab-text">السؤال</span>'
-      +   '<input type="text" inputmode="numeric" autocomplete="off" placeholder="" class="review-fab-input" id="review-fab-input" aria-label="رقم السؤال" onkeydown="reviewGotoKey(event)" oninput="reviewNormalizeInput(event)" />'
-      + '</div>';
+    container.innerHTML = topWrapHtml + gotoWrapHtml;
     if(document.body){ document.body.appendChild(container); }
-  } else if(container.parentNode !== document.body){
-    document.body.appendChild(container);
+  } else {
+    container.innerHTML = topWrapHtml + gotoWrapHtml;
+    if(container.parentNode !== document.body){ document.body.appendChild(container); }
   }
+  window.__reviewFabSvgIn = svgArrowsIn;
+  window.__reviewFabSvgOut = svgArrowsOut;
   updateReviewFloatingButtonsVisibility();
+}
+
+function reviewFabTopClick(ev){
+  if(ev){ ev.stopPropagation(); }
+  const container = document.getElementById('review-floating-buttons');
+  if(container && container.classList.contains('review-fab-shrunk')){
+    reviewFabRestoreSize();
+    return;
+  }
+  reviewScrollToTop();
+}
+
+function reviewFabGotoClick(ev){
+  const container = document.getElementById('review-floating-buttons');
+  if(container && container.classList.contains('review-fab-shrunk')){
+    if(ev){ ev.stopPropagation(); }
+    reviewFabRestoreSize();
+  }
+}
+
+function reviewFabSizeToggle(ev){
+  if(ev){ ev.stopPropagation(); ev.preventDefault(); }
+  const container = document.getElementById('review-floating-buttons');
+  if(!container) return;
+  if(container.classList.contains('review-fab-shrunk')){
+    reviewFabRestoreSize();
+  } else {
+    container.classList.add('review-fab-shrunk');
+    reviewFabUpdateToggleIcons(true);
+  }
+}
+
+function reviewFabRestoreSize(){
+  const container = document.getElementById('review-floating-buttons');
+  if(!container) return;
+  container.classList.remove('review-fab-shrunk');
+  reviewFabUpdateToggleIcons(false);
+}
+
+function reviewFabUpdateToggleIcons(shrunk){
+  const svg = shrunk ? window.__reviewFabSvgOut : window.__reviewFabSvgIn;
+  const t1 = document.getElementById('review-fab-size-toggle-top');
+  const t2 = document.getElementById('review-fab-size-toggle-goto');
+  if(t1) t1.innerHTML = svg;
+  if(t2) t2.innerHTML = svg;
 }
 
   function updateReviewFloatingButtonsVisibility(){
@@ -1448,12 +1510,17 @@ window.ensureReviewFloatingButtons = function() {
     input.value = '';
     input.blur();
   }
-    window.ensureReviewFloatingButtons = ensureReviewFloatingButtons;
+        window.ensureReviewFloatingButtons = ensureReviewFloatingButtons;
   window.updateReviewFloatingButtonsVisibility = updateReviewFloatingButtonsVisibility;
   window.reviewScrollToTop = reviewScrollToTop;
   window.reviewGotoQuestion = reviewGotoQuestion;
   window.reviewGotoKey = reviewGotoKey;
   window.reviewNormalizeInput = reviewNormalizeInput;
+  window.reviewFabTopClick = reviewFabTopClick;
+  window.reviewFabGotoClick = reviewFabGotoClick;
+  window.reviewFabSizeToggle = reviewFabSizeToggle;
+  window.reviewFabRestoreSize = reviewFabRestoreSize;
+  window.reviewFabUpdateToggleIcons = reviewFabUpdateToggleIcons;
   (function(){
     const origShowScreen = window.showScreen;
     if(typeof origShowScreen === 'function'){
