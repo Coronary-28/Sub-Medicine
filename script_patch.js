@@ -1294,7 +1294,7 @@
   }
 
   window.closeSettingsPage = function(){ goHome(); };
-  function ensureReviewFloatingButtons(){
+    function ensureReviewFloatingButtons(){
     let container = document.getElementById('review-floating-buttons');
     if(!container){
       container = document.createElement('div');
@@ -1303,12 +1303,17 @@
       container.innerHTML = ''
         + '<button type="button" class="review-fab-btn" id="review-fab-top" onclick="reviewScrollToTop()">'
         +   '<span class="review-fab-arrow">↑</span>'
-        +   '<span class="review-fab-text">الانتقال<br>لأعلى</span>'
+        +   '<span class="review-fab-text">الانتقال</span>'
+        +   '<span class="review-fab-text">لأعلى</span>'
         + '</button>'
         + '<div class="review-fab-btn review-fab-goto">'
-        +   '<span class="review-fab-text">انتقل<br>إلى<br>السؤال</span>'
-        +   '<input type="number" min="1" class="review-fab-input" id="review-fab-input" placeholder="#" onkeydown="reviewGotoKey(event)" />'
+        +   '<span class="review-fab-text">انتقل</span>'
+        +   '<span class="review-fab-text">إلى</span>'
+        +   '<span class="review-fab-text">السؤال</span>'
+        +   '<input type="text" inputmode="numeric" class="review-fab-input" id="review-fab-input" onkeydown="reviewGotoKey(event)" oninput="reviewNormalizeInput(event)" />'
         + '</div>';
+      if(document.body){ document.body.appendChild(container); }
+    } else if(container.parentNode !== document.body){
       document.body.appendChild(container);
     }
     updateReviewFloatingButtonsVisibility();
@@ -1320,6 +1325,10 @@
     const reviewDiv = document.getElementById('results-review');
     const active = !!(resultsScreen && resultsScreen.classList.contains('active') && reviewDiv && !reviewDiv.classList.contains('hidden') && reviewDiv.innerHTML.trim().length>0);
     container.style.display = active ? 'flex' : 'none';
+    if(active){
+      const input = document.getElementById('review-fab-input');
+      if(input){ input.value = ''; }
+    }
   }
   function reviewScrollToTop(){
     const resultsScreen = document.getElementById('results-screen');
@@ -1337,12 +1346,33 @@
       reviewGotoQuestion();
     }
   }
+  function reviewNormalizeInput(ev){
+    try {
+      const input = ev && ev.target ? ev.target : document.getElementById('review-fab-input');
+      if(!input) return;
+      const map = {'٠':'0','١':'1','٢':'2','٣':'3','٤':'4','٥':'5','٦':'6','٧':'7','٨':'8','٩':'9','۰':'0','۱':'1','۲':'2','۳':'3','۴':'4','۵':'5','۶':'6','۷':'7','۸':'8','۹':'9'};
+      let val = String(input.value||'');
+      let out = '';
+      for(let i=0;i<val.length;i++){
+        const ch = val.charAt(i);
+        if(map[ch] !== undefined){ out += map[ch]; }
+        else if(ch >= '0' && ch <= '9'){ out += ch; }
+      }
+      if(out !== val){ input.value = out; }
+    } catch(e){}
+  }
   function reviewGotoQuestion(){
     const input = document.getElementById('review-fab-input');
     if(!input) return;
-    const rawVal = String(input.value||'').trim();
+    let rawVal = String(input.value||'').trim();
     if(!rawVal){ return; }
-    const n = parseInt(rawVal, 10);
+    const map = {'٠':'0','١':'1','٢':'2','٣':'3','٤':'4','٥':'5','٦':'6','٧':'7','٨':'8','٩':'9','۰':'0','۱':'1','۲':'2','۳':'3','۴':'4','۵':'5','۶':'6','۷':'7','۸':'8','۹':'9'};
+      let converted = '';
+      for(let i=0;i<rawVal.length;i++){
+        const ch = rawVal.charAt(i);
+        converted += (map[ch] !== undefined ? map[ch] : ch);
+      }
+    const n = parseInt(converted, 10);
     if(!Number.isFinite(n) || n < 1){
       if(typeof showToast === 'function') showToast('رقم غير صالح','error',1800);
       return;
@@ -1356,11 +1386,12 @@
     input.value = '';
     input.blur();
   }
-  window.ensureReviewFloatingButtons = ensureReviewFloatingButtons;
+    window.ensureReviewFloatingButtons = ensureReviewFloatingButtons;
   window.updateReviewFloatingButtonsVisibility = updateReviewFloatingButtonsVisibility;
   window.reviewScrollToTop = reviewScrollToTop;
   window.reviewGotoQuestion = reviewGotoQuestion;
   window.reviewGotoKey = reviewGotoKey;
+  window.reviewNormalizeInput = reviewNormalizeInput;
   (function(){
     const origShowScreen = window.showScreen;
     if(typeof origShowScreen === 'function'){
