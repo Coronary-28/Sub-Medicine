@@ -842,86 +842,176 @@ function getQuestionIdentityKey(q){
 }
 
 function buildFrequentQuestionsGroups(subject){
-  if(!subject || !Array.isArray(subject.years) || !subject.years.length) return { g23:null, g4:null };
+  if(!subject || !Array.isArray(subject.years) || !subject.years.length){
+    return { g23:null, g4:null };
+  }
+
   const identityMap = new Map();
+
   subject.years.forEach(batchGroup => {
+    if(batchGroup && batchGroup.isFrequentGroup) return;
+
     const seenInThisBatch = new Set();
+
     (batchGroup.questions||[]).forEach(q => {
       const key = getQuestionIdentityKey(q);
+
       if(!key) return;
       if(seenInThisBatch.has(key)) return;
+
       seenInThisBatch.add(key);
-      if(!identityMap.has(key)) identityMap.set(key, { count:0, sample:q });
+
+      if(!identityMap.has(key)){
+        identityMap.set(key, { count:0, sample:q });
+      }
+
       identityMap.get(key).count += 1;
     });
   });
+
   const q23 = [];
   const q4plus = [];
+
   identityMap.forEach(entry => {
-    if(entry.count >= 2 && entry.count <= 3) q23.push(entry.sample);
-    else if(entry.count >= 4) q4plus.push(entry.sample);
+    if(entry.count >= 2 && entry.count <= 3){
+      q23.push(entry.sample);
+    }else if(entry.count >= 4){
+      q4plus.push(entry.sample);
+    }
   });
+
   const subjectId = subject.id || slugify(subject.name);
   const subjectName = subject.name;
+
   const g23 = {
     id: subjectId + '__frequent__2-3',
     name: 'Frequent questions (2\u20133 times)',
     type: 'year',
     subjectName: subjectName,
     questions: q23,
-    isFrequentGroup: true
+    isFrequentGroup: true,
+    reorderLocked: true,
+    fixedPosition: 0
   };
+
   const g4 = {
     id: subjectId + '__frequent__4plus',
     name: 'Frequent questions (4 or more times)',
     type: 'year',
     subjectName: subjectName,
     questions: q4plus,
-    isFrequentGroup: true
+    isFrequentGroup: true,
+    reorderLocked: true,
+    fixedPosition: 1
   };
+
   return { g23, g4 };
 }
 
 function buildYearsGroupsWithFrequent(subject){
-  let baseYears = Array.isArray(subject.years) ? subject.years.slice() : [];
-  if (typeof window.ensureGroupOrder === 'function') {
+  let baseYears = Array.isArray(subject.years)
+    ? subject.years.filter(group => !group || !group.isFrequentGroup)
+    : [];
+
+  if(typeof window.ensureGroupOrder === 'function'){
     baseYears = window.ensureGroupOrder(baseYears, 'years', subject.name);
   }
+
   const { g23, g4 } = buildFrequentQuestionsGroups(subject);
-  const prepend = [];
-  if(g23) prepend.push(g23);
-  if(g4) prepend.push(g4);
-  return prepend.concat(baseYears);
+  const fixedFrequentGroups = [];
+
+  if(g23){
+    fixedFrequentGroups.push(g23);
+  }
+
+  if(g4){
+    fixedFrequentGroups.push(g4);
+  }
+
+  return fixedFrequentGroups.concat(baseYears);
 }
+
 function backFromSelection(){ if(state.currentSelectionMeta && state.currentSelectionMeta.backContext==='subject' && state.currentSubject) openSubject(state.currentSubject.id); else goHome(); }
-function showSelectionScreen(groups,title,meta){ state.selectedGroups=[]; state.currentGroups=groups.slice(); state.selectedMode=null; state.selectedDirection=null; state.extraTime=0; state.extraTimeAdded=false; state.currentSelectionMeta=meta||{}; showScreen('selection-screen'); el('selection-title').textContent=title; const searchContainer=el('selection-search-container'); const searchInput=el('selection-search'); if(meta&&meta.searchable){ searchContainer.classList.remove('hidden'); searchInput.value=''; searchInput.placeholder=meta.searchPlaceholder||'ابحث...'; } else { searchContainer.classList.add('hidden'); searchInput.value=''; } const list=el('selection-list'); const t=theme(); list.innerHTML='';   groups.forEach((group,idx)=>{
-    const icon=group.type==='ai'?t.icons.ai:(group.type==='year'?t.icons.years:t.icons.lectures);
+function showSelectionScreen(groups,title,meta){
+  state.selectedGroups=[];
+  state.currentGroups=groups.slice();
+  state.selectedMode=null;
+  state.selectedDirection=null;
+  state.extraTime=0;
+  state.extraTimeAdded=false;
+  state.currentSelectionMeta=meta||{};
+
+  showScreen('selection-screen');
+
+  el('selection-title').textContent=title;
+
+  const searchContainer=el('selection-search-container');
+  const searchInput=el('selection-search');
+
+  if(meta&&meta.searchable){
+    searchContainer.classList.remove('hidden');
+    searchInput.value='';
+    searchInput.placeholder=meta.searchPlaceholder||'ابحث...';
+  }else{
+    searchContainer.classList.add('hidden');
+    searchInput.value='';
+  }
+
+  const list=el('selection-list');
+  const t=theme();
+
+  list.innerHTML='';
+
+  groups.forEach((group,idx)=>{
+    const icon=group.type==='ai'
+      ? t.icons.ai
+      : (group.type==='year' ? t.icons.years : t.icons.lectures);
+
     const item=document.createElement('div');
-    item.className='selection-item' + (group.isFrequentGroup ? ' fixed-group no-drag' : '');
-    item.setAttribute('data-group-name',(group.name+' '+(group.subjectName||'')).toLowerCase());
-    
-    if (group.isFrequentGroup) {
-      item.setAttribute('data-no-reorder', 'true');
-      item.style.order = '-1';
+
+    item.className='selection-item';
+    item.setAttribute(
+      'data-group-name',
+      (group.name+' '+(group.subjectName||'')).toLowerCase()
+    );
+
+    if(group.isFrequentGroup){
+      item.classList.add('frequent-group');
+      item.setAttribute('data-frequent-group','true');
+      item.setAttribute('data-reorder-locked','true');
+      item.setAttribute('draggable','false');
     }
 
-    item.innerHTML=`<input type="checkbox" id="group-${idx}" onchange="toggleGroupSelection(${idx})"><label for="group-${idx}" style="width:100%; cursor:pointer;"><strong>${icon} ${escapeHtml(group.name)}</strong><br><small style="color:var(--text-muted)">${group.questions.length} questions</small></label>`;
-    
+    item.innerHTML=`
+      <input type="checkbox" id="group-${idx}" onchange="toggleGroupSelection(${idx})">
+      <label for="group-${idx}" style="width:100%; cursor:pointer;">
+        <strong>${icon} ${escapeHtml(group.name)}</strong>
+        <br>
+        <small style="color:var(--text-muted)">
+          ${group.questions.length} questions
+        </small>
+      </label>
+    `;
+
     item.addEventListener('click',function(event){
       if(event.target.closest('input')||event.target.closest('label')) return;
+
       const cb=item.querySelector('input');
       cb.checked=!cb.checked;
       toggleGroupSelection(idx);
     });
-    
+
     list.appendChild(item);
-    
-    if (group.isFrequentGroup) {
-      const reorderBtns = item.querySelectorAll('.reorder-btn, .drag-handle, [onclick*="move"]');
-      reorderBtns.forEach(btn => btn.remove());
-    }
   });
- el('selection-footer').classList.add('hidden'); el('direction-selection').classList.add('hidden'); el('timer-options').classList.add('hidden'); el('start-section').classList.add('hidden'); document.querySelectorAll('.btn-mode').forEach(btn=>btn.classList.remove('active')); document.querySelectorAll('.btn-direction').forEach(btn=>btn.classList.remove('active')); }
+
+  el('selection-footer').classList.add('hidden');
+  el('direction-selection').classList.add('hidden');
+  el('timer-options').classList.add('hidden');
+  el('start-section').classList.add('hidden');
+
+  document.querySelectorAll('.btn-mode').forEach(btn=>btn.classList.remove('active'));
+  document.querySelectorAll('.btn-direction').forEach(btn=>btn.classList.remove('active'));
+}
 function filterSelectionList(){ const term=String(el('selection-search').value||'').trim().toUpperCase(); const groups=state.currentGroups||[]; let matches=0; document.querySelectorAll('#selection-list .selection-item').forEach((item,idx)=>{ const group=groups[idx]||null; const name=String(group?group.name:(item.getAttribute('data-group-name')||'')).toUpperCase(); const show=name.includes(term); item.style.display=show?'':'none'; if(show) matches++; }); const list=el('selection-list'); let note=el('selection-no-results'); if(term && matches===0 && list){ if(!note){ note=document.createElement('div'); note.id='selection-no-results'; note.className='empty-state'; note.style.gridColumn='1 / -1'; note.innerHTML='<div class="empty-icon">🔎</div><p>لا توجد نتائج مطابقة للبحث.</p>'; list.appendChild(note); } } else if(note){ note.remove(); } }
 function toggleGroupSelection(idx){ const existing=state.selectedGroups.indexOf(idx); if(existing>-1) state.selectedGroups.splice(existing,1); else state.selectedGroups.push(idx); document.querySelectorAll('#selection-list .selection-item').forEach((item,itemIdx)=>item.classList.toggle('selected', state.selectedGroups.includes(itemIdx))); updateSelectionFooter(); }
 function updateSelectionFooter(){ const footer=el('selection-footer'); const totalQuestions=state.selectedGroups.reduce((sum,idx)=>sum+state.currentGroups[idx].questions.length,0); if(state.selectedGroups.length>0){ footer.classList.remove('hidden'); el('selected-count').textContent=totalQuestions+' questions selected'; const input=el('question-count-input'); input.max=totalQuestions; input.value=totalQuestions; el('max-questions-label').textContent='/ '+totalQuestions; } else footer.classList.add('hidden'); state.selectedMode=null; state.selectedDirection=null; el('direction-selection').classList.add('hidden'); el('timer-options').classList.add('hidden'); el('start-section').classList.add('hidden'); document.querySelectorAll('.btn-mode').forEach(btn=>btn.classList.remove('active')); document.querySelectorAll('.btn-direction').forEach(btn=>btn.classList.remove('active')); }
