@@ -883,7 +883,10 @@ function buildFrequentQuestionsGroups(subject){
 }
 
 function buildYearsGroupsWithFrequent(subject){
-  const baseYears = Array.isArray(subject.years) ? subject.years.slice() : [];
+  let baseYears = Array.isArray(subject.years) ? subject.years.slice() : [];
+  if (typeof window.ensureGroupOrder === 'function') {
+    baseYears = window.ensureGroupOrder(baseYears, 'years', subject.name);
+  }
   const { g23, g4 } = buildFrequentQuestionsGroups(subject);
   const prepend = [];
   if(g23) prepend.push(g23);
@@ -891,8 +894,34 @@ function buildYearsGroupsWithFrequent(subject){
   return prepend.concat(baseYears);
 }
 function backFromSelection(){ if(state.currentSelectionMeta && state.currentSelectionMeta.backContext==='subject' && state.currentSubject) openSubject(state.currentSubject.id); else goHome(); }
+function showSelectionScreen(groups,title,meta){ state.selectedGroups=[]; state.currentGroups=groups.slice(); state.selectedMode=null; state.selectedDirection=null; state.extraTime=0; state.extraTimeAdded=false; state.currentSelectionMeta=meta||{}; showScreen('selection-screen'); el('selection-title').textContent=title; const searchContainer=el('selection-search-container'); const searchInput=el('selection-search'); if(meta&&meta.searchable){ searchContainer.classList.remove('hidden'); searchInput.value=''; searchInput.placeholder=meta.searchPlaceholder||'ابحث...'; } else { searchContainer.classList.add('hidden'); searchInput.value=''; } const list=el('selection-list'); const t=theme(); list.innerHTML='';   groups.forEach((group,idx)=>{
+    const icon=group.type==='ai'?t.icons.ai:(group.type==='year'?t.icons.years:t.icons.lectures);
+    const item=document.createElement('div');
+    item.className='selection-item' + (group.isFrequentGroup ? ' fixed-group no-drag' : '');
+    item.setAttribute('data-group-name',(group.name+' '+(group.subjectName||'')).toLowerCase());
+    
+    if (group.isFrequentGroup) {
+      item.setAttribute('data-no-reorder', 'true');
+      item.style.order = '-1';
+    }
 
-function showSelectionScreen(groups,title,meta){ state.selectedGroups=[]; state.currentGroups=groups.slice(); state.selectedMode=null; state.selectedDirection=null; state.extraTime=0; state.extraTimeAdded=false; state.currentSelectionMeta=meta||{}; showScreen('selection-screen'); el('selection-title').textContent=title; const searchContainer=el('selection-search-container'); const searchInput=el('selection-search'); if(meta&&meta.searchable){ searchContainer.classList.remove('hidden'); searchInput.value=''; searchInput.placeholder=meta.searchPlaceholder||'ابحث...'; } else { searchContainer.classList.add('hidden'); searchInput.value=''; } const list=el('selection-list'); const t=theme(); list.innerHTML=''; groups.forEach((group,idx)=>{ const icon=group.type==='ai'?t.icons.ai:(group.type==='year'?t.icons.years:t.icons.lectures); const item=document.createElement('div'); item.className='selection-item'; item.setAttribute('data-group-name',(group.name+' '+(group.subjectName||'')).toLowerCase()); item.innerHTML=`<input type="checkbox" id="group-${idx}" onchange="toggleGroupSelection(${idx})"><label for="group-${idx}" style="width:100%; cursor:pointer;"><strong>${icon} ${escapeHtml(group.name)}</strong><br><small style="color:var(--text-muted)">${group.questions.length} questions</small></label>`; item.addEventListener('click',function(event){ if(event.target.closest('input')||event.target.closest('label')) return; const cb=item.querySelector('input'); cb.checked=!cb.checked; toggleGroupSelection(idx); }); list.appendChild(item); }); el('selection-footer').classList.add('hidden'); el('direction-selection').classList.add('hidden'); el('timer-options').classList.add('hidden'); el('start-section').classList.add('hidden'); document.querySelectorAll('.btn-mode').forEach(btn=>btn.classList.remove('active')); document.querySelectorAll('.btn-direction').forEach(btn=>btn.classList.remove('active')); }
+    item.innerHTML=`<input type="checkbox" id="group-${idx}" onchange="toggleGroupSelection(${idx})"><label for="group-${idx}" style="width:100%; cursor:pointer;"><strong>${icon} ${escapeHtml(group.name)}</strong><br><small style="color:var(--text-muted)">${group.questions.length} questions</small></label>`;
+    
+    item.addEventListener('click',function(event){
+      if(event.target.closest('input')||event.target.closest('label')) return;
+      const cb=item.querySelector('input');
+      cb.checked=!cb.checked;
+      toggleGroupSelection(idx);
+    });
+    
+    list.appendChild(item);
+    
+    if (group.isFrequentGroup) {
+      const reorderBtns = item.querySelectorAll('.reorder-btn, .drag-handle, [onclick*="move"]');
+      reorderBtns.forEach(btn => btn.remove());
+    }
+  });
+ el('selection-footer').classList.add('hidden'); el('direction-selection').classList.add('hidden'); el('timer-options').classList.add('hidden'); el('start-section').classList.add('hidden'); document.querySelectorAll('.btn-mode').forEach(btn=>btn.classList.remove('active')); document.querySelectorAll('.btn-direction').forEach(btn=>btn.classList.remove('active')); }
 function filterSelectionList(){ const term=String(el('selection-search').value||'').trim().toUpperCase(); const groups=state.currentGroups||[]; let matches=0; document.querySelectorAll('#selection-list .selection-item').forEach((item,idx)=>{ const group=groups[idx]||null; const name=String(group?group.name:(item.getAttribute('data-group-name')||'')).toUpperCase(); const show=name.includes(term); item.style.display=show?'':'none'; if(show) matches++; }); const list=el('selection-list'); let note=el('selection-no-results'); if(term && matches===0 && list){ if(!note){ note=document.createElement('div'); note.id='selection-no-results'; note.className='empty-state'; note.style.gridColumn='1 / -1'; note.innerHTML='<div class="empty-icon">🔎</div><p>لا توجد نتائج مطابقة للبحث.</p>'; list.appendChild(note); } } else if(note){ note.remove(); } }
 function toggleGroupSelection(idx){ const existing=state.selectedGroups.indexOf(idx); if(existing>-1) state.selectedGroups.splice(existing,1); else state.selectedGroups.push(idx); document.querySelectorAll('#selection-list .selection-item').forEach((item,itemIdx)=>item.classList.toggle('selected', state.selectedGroups.includes(itemIdx))); updateSelectionFooter(); }
 function updateSelectionFooter(){ const footer=el('selection-footer'); const totalQuestions=state.selectedGroups.reduce((sum,idx)=>sum+state.currentGroups[idx].questions.length,0); if(state.selectedGroups.length>0){ footer.classList.remove('hidden'); el('selected-count').textContent=totalQuestions+' questions selected'; const input=el('question-count-input'); input.max=totalQuestions; input.value=totalQuestions; el('max-questions-label').textContent='/ '+totalQuestions; } else footer.classList.add('hidden'); state.selectedMode=null; state.selectedDirection=null; el('direction-selection').classList.add('hidden'); el('timer-options').classList.add('hidden'); el('start-section').classList.add('hidden'); document.querySelectorAll('.btn-mode').forEach(btn=>btn.classList.remove('active')); document.querySelectorAll('.btn-direction').forEach(btn=>btn.classList.remove('active')); }
