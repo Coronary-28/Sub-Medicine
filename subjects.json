@@ -210,11 +210,13 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
-            "batchName": "Coronary Block A / Iris block C / Vagus",
+            "batchName": "Coronary Block A / Iris block C / Vagus / Aorta Mini-OSCE (Group D) / Serotonin Final",
             "batchNames": [
               "Coronary Block A",
               "Iris block C",
-              "Vagus"
+              "Vagus",
+              "Aorta Mini-OSCE (Group D)",
+              "Serotonin Final"
             ],
             "note": "",
             "pageNumber": "",
@@ -1304,6 +1306,56 @@
     "ai": [],
     "years": [
       {
+        "id": "urology__year__aorta-mini-osce-group-d",
+        "name": "Aorta Mini-OSCE (Group D)",
+        "type": "year",
+        "subjectName": "Urology",
+        "questions": [
+          {
+            "id": "urology__lecture__acute-scrotum__6__w0wb2q",
+            "number": "6",
+            "text": "Which of the following is NOT a typical feature of testicular torsion?",
+            "options": [
+              "High-riding testis",
+              "Absent cremasteric reflex",
+              "Nausea and vomiting",
+              "Urethral discharge",
+              "Sudden severe scrotal pain"
+            ],
+            "originalOptions": [
+              "High-riding testis",
+              "Absent cremasteric reflex",
+              "Nausea and vomiting",
+              "Urethral discharge",
+              "Sudden severe scrotal pain"
+            ],
+            "correctAnswer": "D) Urethral discharge",
+            "correctAnswerText": "Urethral discharge",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
+            "batchName": "Aorta Mini-OSCE (Group D)",
+            "batchNames": [
+              "Coronary Block A",
+              "Iris block C",
+              "Vagus",
+              "Aorta Mini-OSCE (Group D)",
+              "Serotonin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Acute Scrotum",
+            "groupName": "Acute Scrotum",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
         "id": "urology__year__coronary-block-a",
         "name": "Coronary Block A",
         "type": "year",
@@ -1338,7 +1390,9 @@
             "batchNames": [
               "Coronary Block A",
               "Iris block C",
-              "Vagus"
+              "Vagus",
+              "Aorta Mini-OSCE (Group D)",
+              "Serotonin Final"
             ],
             "note": "",
             "pageNumber": "",
@@ -1574,7 +1628,59 @@
             "batchNames": [
               "Coronary Block A",
               "Iris block C",
-              "Vagus"
+              "Vagus",
+              "Aorta Mini-OSCE (Group D)",
+              "Serotonin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Acute Scrotum",
+            "groupName": "Acute Scrotum",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "urology__year__serotonin-final",
+        "name": "Serotonin Final",
+        "type": "year",
+        "subjectName": "Urology",
+        "questions": [
+          {
+            "id": "urology__lecture__acute-scrotum__6__w0wb2q",
+            "number": "6",
+            "text": "Which of the following is NOT a typical feature of testicular torsion?",
+            "options": [
+              "High-riding testis",
+              "Absent cremasteric reflex",
+              "Nausea and vomiting",
+              "Urethral discharge",
+              "Sudden severe scrotal pain"
+            ],
+            "originalOptions": [
+              "High-riding testis",
+              "Absent cremasteric reflex",
+              "Nausea and vomiting",
+              "Urethral discharge",
+              "Sudden severe scrotal pain"
+            ],
+            "correctAnswer": "D) Urethral discharge",
+            "correctAnswerText": "Urethral discharge",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
+            "batchName": "Serotonin Final",
+            "batchNames": [
+              "Coronary Block A",
+              "Iris block C",
+              "Vagus",
+              "Aorta Mini-OSCE (Group D)",
+              "Serotonin Final"
             ],
             "note": "",
             "pageNumber": "",
@@ -1622,7 +1728,9 @@
             "batchNames": [
               "Coronary Block A",
               "Iris block C",
-              "Vagus"
+              "Vagus",
+              "Aorta Mini-OSCE (Group D)",
+              "Serotonin Final"
             ],
             "note": "",
             "pageNumber": "",
@@ -1837,11 +1945,13 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
-        "batchName": "Coronary Block A / Iris block C / Vagus",
+        "batchName": "Coronary Block A / Iris block C / Vagus / Aorta Mini-OSCE (Group D) / Serotonin Final",
         "batchNames": [
           "Coronary Block A",
           "Iris block C",
-          "Vagus"
+          "Vagus",
+          "Aorta Mini-OSCE (Group D)",
+          "Serotonin Final"
         ],
         "note": "",
         "pageNumber": "",
@@ -2918,7 +3028,7 @@
       }
     ],
     "totalQuestions": 38,
-    "totalLectures": 6,
+    "totalLectures": 8,
     "hasAiFolder": false
   }
 ]
