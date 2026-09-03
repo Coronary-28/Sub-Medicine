@@ -19,9 +19,9 @@ Batch: Aorta Mini-OSCE (Group A)
 Which stage of Salter-Harris fracture is shown? [img: salterharris3.png ]
 A) Type II
 B) Type IV
-C) Type V
-D) Type III
-Correct Answer: D) Type III
+C) Type III
+D) Type V
+Correct Answer: C) Type III
 Explanation: The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.
 Batch: Aorta Mini-OSCE (Group A)
 ###
