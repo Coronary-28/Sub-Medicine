@@ -1,5 +1,1152 @@
 [
   {
+    "id": "radiology",
+    "name": "Radiology",
+    "lectures": [
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology",
+        "name": "Musculoskeletal (MSK) radiology",
+        "type": "lecture",
+        "subjectName": "Radiology",
+        "path": "Radiology/Musculoskeletal (MSK) radiology.txt",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__1__1544cz",
+            "number": "1",
+            "text": "Which of the following is FALSE regarding this lesion? [img: nonossifyingfibroma.png ]",
+            "options": [
+              "Eccentrically located in the metaphysis",
+              "Size greater than 3 cm",
+              "Associated with periosteal reaction",
+              "Well-defined lesion with a sclerotic rim"
+            ],
+            "originalOptions": [
+              "Eccentrically located in the metaphysis",
+              "Size greater than 3 cm",
+              "Associated with periosteal reaction",
+              "Well-defined lesion with a sclerotic rim"
+            ],
+            "correctAnswer": "C) Associated with periosteal reaction",
+            "correctAnswerText": "Associated with periosteal reaction",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "A fibrous cortical defect/non-ossifying fibroma shows No periosteal reaction, cortical breach, or soft tissue mass — its benign nature is defined by an eccentric, sclerotic-rimmed lucency without aggressive features.",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__2__ao3uiu",
+            "number": "2",
+            "text": "What is the name of this bone? [img: navicularanatomy.png ]",
+            "options": [
+              "Navicular",
+              "Cuboid",
+              "Talus",
+              "Cuneiform"
+            ],
+            "originalOptions": [
+              "Navicular",
+              "Cuboid",
+              "Talus",
+              "Cuneiform"
+            ],
+            "correctAnswer": "A) Navicular",
+            "correctAnswerText": "Navicular",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The navicular is the medially positioned tarsal bone articulating proximally with the talar head and distally with the cuneiforms, distinguishing it from the more laterally placed cuboid and the proximal talus.",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__3__ktoc8k",
+            "number": "3",
+            "text": "Which stage of Salter-Harris fracture is shown? [img: salterharris3.png ]",
+            "options": [
+              "Type II",
+              "Type IV",
+              "Type V",
+              "Type III"
+            ],
+            "originalOptions": [
+              "Type II",
+              "Type IV",
+              "Type V",
+              "Type III"
+            ],
+            "correctAnswer": "D) Type III",
+            "correctAnswerText": "Type III",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__vsigkb",
+            "number": "4",
+            "text": "What is the name of this tendon? [img: quadricepstendon.png ]",
+            "options": [
+              "Patellar tendon",
+              "Quadriceps tendon",
+              "PCL",
+              "Meniscus"
+            ],
+            "originalOptions": [
+              "Patellar tendon",
+              "Quadriceps tendon",
+              "PCL",
+              "Meniscus"
+            ],
+            "correctAnswer": "B) Quadriceps tendon",
+            "correctAnswerText": "Quadriceps tendon",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The lesion is at the tendon superior to the patella (quadriceps insertion), consistent with a ruptured quadriceps tendon; the PCL and meniscus are intra-articular structures not visualized in this location.",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__5__v94dgm",
+            "number": "5",
+            "text": "What is the earliest sign of this condition? [img: earliestsignofsacroiliitis.png ]",
+            "options": [
+              "Sacroiliitis",
+              "Sunburst",
+              "Dagger sign",
+              "Bamboo spine"
+            ],
+            "originalOptions": [
+              "Sacroiliitis",
+              "Sunburst",
+              "Dagger sign",
+              "Bamboo spine"
+            ],
+            "correctAnswer": "A) Sacroiliitis",
+            "correctAnswerText": "Sacroiliitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Sacroiliitis (initial widening followed by erosions and sclerosis of the SI joints) is the earliest manifestation of ankylosing spondylitis; the dagger and bamboo spine signs reflect late-stage spinal ligamentous ossification and fusion.",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__6__4oyfuj",
+            "number": "6",
+            "text": "Which is NOT a feature of a simple bone cyst?",
+            "options": [
+              "Well-demarcated",
+              "Benign",
+              "Peripherally located",
+              "Radiolucent"
+            ],
+            "originalOptions": [
+              "Well-demarcated",
+              "Benign",
+              "Peripherally located",
+              "Radiolucent"
+            ],
+            "correctAnswer": "C) Peripherally located",
+            "correctAnswerText": "Peripherally located",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Unicameral (simple) bone cysts are centrally located within the metaphysis of long bones, not peripheral; they are otherwise well-defined, radiolucent, benign lesions with a narrow zone of transition.",
+            "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "number": "7",
+            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "options": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "originalOptions": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "correctAnswer": "A) Osteochondroma",
+            "correctAnswerText": "Osteochondroma",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
+            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Final / Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "This question has appeared in 6 previous exams.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          }
+        ]
+      }
+    ],
+    "ai": [],
+    "years": [
+      {
+        "id": "radiology__year__aorta-mini-osce-group-a",
+        "name": "Aorta Mini-OSCE (Group A)",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__1__1544cz",
+            "number": "1",
+            "text": "Which of the following is FALSE regarding this lesion? [img: nonossifyingfibroma.png ]",
+            "options": [
+              "Eccentrically located in the metaphysis",
+              "Size greater than 3 cm",
+              "Associated with periosteal reaction",
+              "Well-defined lesion with a sclerotic rim"
+            ],
+            "originalOptions": [
+              "Eccentrically located in the metaphysis",
+              "Size greater than 3 cm",
+              "Associated with periosteal reaction",
+              "Well-defined lesion with a sclerotic rim"
+            ],
+            "correctAnswer": "C) Associated with periosteal reaction",
+            "correctAnswerText": "Associated with periosteal reaction",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "A fibrous cortical defect/non-ossifying fibroma shows No periosteal reaction, cortical breach, or soft tissue mass — its benign nature is defined by an eccentric, sclerotic-rimmed lucency without aggressive features.",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__2__ao3uiu",
+            "number": "2",
+            "text": "What is the name of this bone? [img: navicularanatomy.png ]",
+            "options": [
+              "Navicular",
+              "Cuboid",
+              "Talus",
+              "Cuneiform"
+            ],
+            "originalOptions": [
+              "Navicular",
+              "Cuboid",
+              "Talus",
+              "Cuneiform"
+            ],
+            "correctAnswer": "A) Navicular",
+            "correctAnswerText": "Navicular",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The navicular is the medially positioned tarsal bone articulating proximally with the talar head and distally with the cuneiforms, distinguishing it from the more laterally placed cuboid and the proximal talus.",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__3__ktoc8k",
+            "number": "3",
+            "text": "Which stage of Salter-Harris fracture is shown? [img: salterharris3.png ]",
+            "options": [
+              "Type II",
+              "Type IV",
+              "Type V",
+              "Type III"
+            ],
+            "originalOptions": [
+              "Type II",
+              "Type IV",
+              "Type V",
+              "Type III"
+            ],
+            "correctAnswer": "D) Type III",
+            "correctAnswerText": "Type III",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__vsigkb",
+            "number": "4",
+            "text": "What is the name of this tendon? [img: quadricepstendon.png ]",
+            "options": [
+              "Patellar tendon",
+              "Quadriceps tendon",
+              "PCL",
+              "Meniscus"
+            ],
+            "originalOptions": [
+              "Patellar tendon",
+              "Quadriceps tendon",
+              "PCL",
+              "Meniscus"
+            ],
+            "correctAnswer": "B) Quadriceps tendon",
+            "correctAnswerText": "Quadriceps tendon",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The lesion is at the tendon superior to the patella (quadriceps insertion), consistent with a ruptured quadriceps tendon; the PCL and meniscus are intra-articular structures not visualized in this location.",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__5__v94dgm",
+            "number": "5",
+            "text": "What is the earliest sign of this condition? [img: earliestsignofsacroiliitis.png ]",
+            "options": [
+              "Sacroiliitis",
+              "Sunburst",
+              "Dagger sign",
+              "Bamboo spine"
+            ],
+            "originalOptions": [
+              "Sacroiliitis",
+              "Sunburst",
+              "Dagger sign",
+              "Bamboo spine"
+            ],
+            "correctAnswer": "A) Sacroiliitis",
+            "correctAnswerText": "Sacroiliitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Sacroiliitis (initial widening followed by erosions and sclerosis of the SI joints) is the earliest manifestation of ankylosing spondylitis; the dagger and bamboo spine signs reflect late-stage spinal ligamentous ossification and fusion.",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "radiology__year__coronary-mini-osce-group-c",
+        "name": "Coronary Mini-OSCE (Group C)",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__6__4oyfuj",
+            "number": "6",
+            "text": "Which is NOT a feature of a simple bone cyst?",
+            "options": [
+              "Well-demarcated",
+              "Benign",
+              "Peripherally located",
+              "Radiolucent"
+            ],
+            "originalOptions": [
+              "Well-demarcated",
+              "Benign",
+              "Peripherally located",
+              "Radiolucent"
+            ],
+            "correctAnswer": "C) Peripherally located",
+            "correctAnswerText": "Peripherally located",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Unicameral (simple) bone cysts are centrally located within the metaphysis of long bones, not peripheral; they are otherwise well-defined, radiolucent, benign lesions with a narrow zone of transition.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "radiology__year__endorphin-final",
+        "name": "Endorphin Final",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "number": "7",
+            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "options": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "originalOptions": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "correctAnswer": "A) Osteochondroma",
+            "correctAnswerText": "Osteochondroma",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "This question has appeared in 6 previous exams.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "radiology__year__endorphin-mini-osce-group-a",
+        "name": "Endorphin Mini-OSCE (Group A)",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "number": "7",
+            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "options": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "originalOptions": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "correctAnswer": "A) Osteochondroma",
+            "correctAnswerText": "Osteochondroma",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
+            "batchName": "Endorphin Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "This question has appeared in 6 previous exams.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "radiology__year__endorphin-mini-osce-group-b",
+        "name": "Endorphin Mini-OSCE (Group B)",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__6__4oyfuj",
+            "number": "6",
+            "text": "Which is NOT a feature of a simple bone cyst?",
+            "options": [
+              "Well-demarcated",
+              "Benign",
+              "Peripherally located",
+              "Radiolucent"
+            ],
+            "originalOptions": [
+              "Well-demarcated",
+              "Benign",
+              "Peripherally located",
+              "Radiolucent"
+            ],
+            "correctAnswer": "C) Peripherally located",
+            "correctAnswerText": "Peripherally located",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Unicameral (simple) bone cysts are centrally located within the metaphysis of long bones, not peripheral; they are otherwise well-defined, radiolucent, benign lesions with a narrow zone of transition.",
+            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "radiology__year__endorphin-mini-osce-group-e",
+        "name": "Endorphin Mini-OSCE (Group E)",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__6__4oyfuj",
+            "number": "6",
+            "text": "Which is NOT a feature of a simple bone cyst?",
+            "options": [
+              "Well-demarcated",
+              "Benign",
+              "Peripherally located",
+              "Radiolucent"
+            ],
+            "originalOptions": [
+              "Well-demarcated",
+              "Benign",
+              "Peripherally located",
+              "Radiolucent"
+            ],
+            "correctAnswer": "C) Peripherally located",
+            "correctAnswerText": "Peripherally located",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Unicameral (simple) bone cysts are centrally located within the metaphysis of long bones, not peripheral; they are otherwise well-defined, radiolucent, benign lesions with a narrow zone of transition.",
+            "batchName": "Endorphin Mini-OSCE (Group E)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "radiology__year__iris-mini-osce-group-c",
+        "name": "Iris Mini-OSCE (Group C)",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "number": "7",
+            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "options": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "originalOptions": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "correctAnswer": "A) Osteochondroma",
+            "correctAnswerText": "Osteochondroma",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
+            "batchName": "Iris Mini-OSCE (Group C)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "This question has appeared in 6 previous exams.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "radiology__year__iris-mini-osce-group-d",
+        "name": "Iris Mini-OSCE (Group D)",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "number": "7",
+            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "options": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "originalOptions": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "correctAnswer": "A) Osteochondroma",
+            "correctAnswerText": "Osteochondroma",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
+            "batchName": "Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "This question has appeared in 6 previous exams.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "radiology__year__serotonin-mini-osce",
+        "name": "Serotonin Mini-OSCE",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "number": "7",
+            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "options": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "originalOptions": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "correctAnswer": "A) Osteochondroma",
+            "correctAnswerText": "Osteochondroma",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "This question has appeared in 6 previous exams.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "radiology__year__waman-a7yaha-mini-osce",
+        "name": "Waman A7yaha Mini-OSCE",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "number": "7",
+            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "options": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "originalOptions": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "correctAnswer": "A) Osteochondroma",
+            "correctAnswerText": "Osteochondroma",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "This question has appeared in 6 previous exams.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      }
+    ],
+    "allQuestions": [
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__1__1544cz",
+        "number": "1",
+        "text": "Which of the following is FALSE regarding this lesion? [img: nonossifyingfibroma.png ]",
+        "options": [
+          "Eccentrically located in the metaphysis",
+          "Size greater than 3 cm",
+          "Associated with periosteal reaction",
+          "Well-defined lesion with a sclerotic rim"
+        ],
+        "originalOptions": [
+          "Eccentrically located in the metaphysis",
+          "Size greater than 3 cm",
+          "Associated with periosteal reaction",
+          "Well-defined lesion with a sclerotic rim"
+        ],
+        "correctAnswer": "C) Associated with periosteal reaction",
+        "correctAnswerText": "Associated with periosteal reaction",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "A fibrous cortical defect/non-ossifying fibroma shows No periosteal reaction, cortical breach, or soft tissue mass — its benign nature is defined by an eccentric, sclerotic-rimmed lucency without aggressive features.",
+        "batchName": "Aorta Mini-OSCE (Group A)",
+        "batchNames": [
+          "Aorta Mini-OSCE (Group A)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__2__ao3uiu",
+        "number": "2",
+        "text": "What is the name of this bone? [img: navicularanatomy.png ]",
+        "options": [
+          "Navicular",
+          "Cuboid",
+          "Talus",
+          "Cuneiform"
+        ],
+        "originalOptions": [
+          "Navicular",
+          "Cuboid",
+          "Talus",
+          "Cuneiform"
+        ],
+        "correctAnswer": "A) Navicular",
+        "correctAnswerText": "Navicular",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "The navicular is the medially positioned tarsal bone articulating proximally with the talar head and distally with the cuneiforms, distinguishing it from the more laterally placed cuboid and the proximal talus.",
+        "batchName": "Aorta Mini-OSCE (Group A)",
+        "batchNames": [
+          "Aorta Mini-OSCE (Group A)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__3__ktoc8k",
+        "number": "3",
+        "text": "Which stage of Salter-Harris fracture is shown? [img: salterharris3.png ]",
+        "options": [
+          "Type II",
+          "Type IV",
+          "Type V",
+          "Type III"
+        ],
+        "originalOptions": [
+          "Type II",
+          "Type IV",
+          "Type V",
+          "Type III"
+        ],
+        "correctAnswer": "D) Type III",
+        "correctAnswerText": "Type III",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
+        "batchName": "Aorta Mini-OSCE (Group A)",
+        "batchNames": [
+          "Aorta Mini-OSCE (Group A)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__4__vsigkb",
+        "number": "4",
+        "text": "What is the name of this tendon? [img: quadricepstendon.png ]",
+        "options": [
+          "Patellar tendon",
+          "Quadriceps tendon",
+          "PCL",
+          "Meniscus"
+        ],
+        "originalOptions": [
+          "Patellar tendon",
+          "Quadriceps tendon",
+          "PCL",
+          "Meniscus"
+        ],
+        "correctAnswer": "B) Quadriceps tendon",
+        "correctAnswerText": "Quadriceps tendon",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The lesion is at the tendon superior to the patella (quadriceps insertion), consistent with a ruptured quadriceps tendon; the PCL and meniscus are intra-articular structures not visualized in this location.",
+        "batchName": "Aorta Mini-OSCE (Group A)",
+        "batchNames": [
+          "Aorta Mini-OSCE (Group A)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__5__v94dgm",
+        "number": "5",
+        "text": "What is the earliest sign of this condition? [img: earliestsignofsacroiliitis.png ]",
+        "options": [
+          "Sacroiliitis",
+          "Sunburst",
+          "Dagger sign",
+          "Bamboo spine"
+        ],
+        "originalOptions": [
+          "Sacroiliitis",
+          "Sunburst",
+          "Dagger sign",
+          "Bamboo spine"
+        ],
+        "correctAnswer": "A) Sacroiliitis",
+        "correctAnswerText": "Sacroiliitis",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Sacroiliitis (initial widening followed by erosions and sclerosis of the SI joints) is the earliest manifestation of ankylosing spondylitis; the dagger and bamboo spine signs reflect late-stage spinal ligamentous ossification and fusion.",
+        "batchName": "Aorta Mini-OSCE (Group A)",
+        "batchNames": [
+          "Aorta Mini-OSCE (Group A)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__6__4oyfuj",
+        "number": "6",
+        "text": "Which is NOT a feature of a simple bone cyst?",
+        "options": [
+          "Well-demarcated",
+          "Benign",
+          "Peripherally located",
+          "Radiolucent"
+        ],
+        "originalOptions": [
+          "Well-demarcated",
+          "Benign",
+          "Peripherally located",
+          "Radiolucent"
+        ],
+        "correctAnswer": "C) Peripherally located",
+        "correctAnswerText": "Peripherally located",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Unicameral (simple) bone cysts are centrally located within the metaphysis of long bones, not peripheral; they are otherwise well-defined, radiolucent, benign lesions with a narrow zone of transition.",
+        "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
+        "batchNames": [
+          "Coronary Mini-OSCE (Group C)",
+          "Endorphin Mini-OSCE (Group B)",
+          "Endorphin Mini-OSCE (Group E)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+        "number": "7",
+        "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+        "options": [
+          "Osteochondroma",
+          "Osteosarcoma",
+          "Enchondroma",
+          "Bone cyst"
+        ],
+        "originalOptions": [
+          "Osteochondroma",
+          "Osteosarcoma",
+          "Enchondroma",
+          "Bone cyst"
+        ],
+        "correctAnswer": "A) Osteochondroma",
+        "correctAnswerText": "Osteochondroma",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
+        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Final / Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Iris Mini-OSCE (Group C)",
+          "Iris Mini-OSCE (Group D)",
+          "Endorphin Mini-OSCE (Group A)",
+          "Endorphin Final",
+          "Serotonin Mini-OSCE",
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "This question has appeared in 6 previous exams.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      }
+    ],
+    "totalQuestions": 7,
+    "totalLectures": 11,
+    "hasAiFolder": false
+  },
+  {
     "id": "urology",
     "name": "Urology",
     "lectures": [
