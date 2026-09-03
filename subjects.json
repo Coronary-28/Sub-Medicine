@@ -87,21 +87,21 @@
             "options": [
               "Type II",
               "Type IV",
-              "Type V",
-              "Type III"
+              "Type III",
+              "Type V"
             ],
             "originalOptions": [
               "Type II",
               "Type IV",
-              "Type V",
-              "Type III"
+              "Type III",
+              "Type V"
             ],
-            "correctAnswer": "D) Type III",
+            "correctAnswer": "C) Type III",
             "correctAnswerText": "Type III",
-            "correctIndex": 3,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "C",
             "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
@@ -352,21 +352,21 @@
             "options": [
               "Type II",
               "Type IV",
-              "Type V",
-              "Type III"
+              "Type III",
+              "Type V"
             ],
             "originalOptions": [
               "Type II",
               "Type IV",
-              "Type V",
-              "Type III"
+              "Type III",
+              "Type V"
             ],
-            "correctAnswer": "D) Type III",
+            "correctAnswer": "C) Type III",
             "correctAnswerText": "Type III",
-            "correctIndex": 3,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "C",
             "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
@@ -966,21 +966,21 @@
         "options": [
           "Type II",
           "Type IV",
-          "Type V",
-          "Type III"
+          "Type III",
+          "Type V"
         ],
         "originalOptions": [
           "Type II",
           "Type IV",
-          "Type V",
-          "Type III"
+          "Type III",
+          "Type V"
         ],
-        "correctAnswer": "D) Type III",
+        "correctAnswer": "C) Type III",
         "correctAnswerText": "Type III",
-        "correctIndex": 3,
+        "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "D",
+        "correctAnswerLetter": "C",
         "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
         "batchName": "Aorta Mini-OSCE (Group A)",
         "batchNames": [
