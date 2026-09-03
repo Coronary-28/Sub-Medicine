@@ -13,7 +13,7 @@
     const driveSources = [
         {
             subject: "Radiology",
-            details: "<b>Mini-OSCE:</b> ( Serotonin / Waman A7yaha / Vagus / Aorta / Endorphin / Iris / Coronary )<br><b>Final:</b> ( Serotonin / Waman A7yaha / Overdose / Aorta / Endorphin / Iris )",
+            details: "<b>Mini-OSCE:</b> ( Serotonin / Waman A7yaha / Vagus / Aorta / Endorphin / Iris / Coronary )<br><b>Final:</b> ( Serotonin / Waman A7yaha / Overdose / Vagus / Aorta / Endorphin / Iris )",
             link: "https://drive.google.com/drive/folders/18wQI6EXhwvzSDkkoAunrWEBlMgHKP1HA"
         },
         {
