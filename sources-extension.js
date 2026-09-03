@@ -14,8 +14,13 @@
         {
             subject: "Radiology",
             details: "<b>Mini-OSCE:</b> ( Serotonin / Waman A7yaha / Vagus / Aorta / Endorphin / Iris / Coronary )<br><b>Final:</b> ( Serotonin / Waman A7yaha / Overdose / Aorta / Endorphin / Iris )",
-            link: "https://drive.google.com/drive/folders/1W5pNrrT2kdvWrjLx-Q5ou0NlaMu5ng1Z"
-        }
+            link: "https://drive.google.com/drive/folders/18wQI6EXhwvzSDkkoAunrWEBlMgHKP1HA"
+        },
+        {
+            subject: "Emergency",
+            details: "<b>Mini-OSCE:</b> ( Aorta / Endorphin )<br><b>Final:</b> ( Aorta / Endorphin )",
+            link: "https://drive.google.com/drive/folders/18wQI6EXhwvzSDkkoAunrWEBlMgHKP1HA"
+            }
     ];
 
     // ==========================================
