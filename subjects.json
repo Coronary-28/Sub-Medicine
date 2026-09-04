@@ -103,11 +103,11 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
-            "batchName": "Aorta Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E)",
+            "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A)",
             "batchNames": [
-              "Aorta Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group A)",
-              "Endorphin Mini-OSCE (Group E)"
+              "Endorphin Mini-OSCE (Group E)",
+              "Aorta Mini-OSCE (Group A)"
             ],
             "note": "",
             "pageNumber": "",
@@ -355,9 +355,12 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury. Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
-            "batchName": "",
-            "batchNames": [],
+            "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury.",
+            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group D)"
+            ],
             "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
@@ -648,9 +651,9 @@
             "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
-              "Aorta Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group A)",
-              "Endorphin Mini-OSCE (Group E)"
+              "Endorphin Mini-OSCE (Group E)",
+              "Aorta Mini-OSCE (Group A)"
             ],
             "note": "",
             "pageNumber": "",
@@ -861,9 +864,9 @@
             "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
-              "Aorta Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group A)",
-              "Endorphin Mini-OSCE (Group E)"
+              "Endorphin Mini-OSCE (Group E)",
+              "Aorta Mini-OSCE (Group A)"
             ],
             "note": "",
             "pageNumber": "",
@@ -951,6 +954,41 @@
               "Coronary Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__aptrzx",
+            "number": "10",
+            "text": "All of the following are seen in non-accidental trauma EXCEPT:",
+            "options": [
+              "Bucket handle (metaphyseal corner) fracture",
+              "Parietal bone fracture",
+              "Posterior rib fractures"
+            ],
+            "originalOptions": [
+              "Bucket handle (metaphyseal corner) fracture",
+              "Parietal bone fracture",
+              "Posterior rib fractures"
+            ],
+            "correctAnswer": "B) Parietal bone fracture",
+            "correctAnswerText": "Parietal bone fracture",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury.",
+            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group D)"
             ],
             "note": "",
             "pageNumber": "",
@@ -1267,6 +1305,41 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__aptrzx",
+            "number": "10",
+            "text": "All of the following are seen in non-accidental trauma EXCEPT:",
+            "options": [
+              "Bucket handle (metaphyseal corner) fracture",
+              "Parietal bone fracture",
+              "Posterior rib fractures"
+            ],
+            "originalOptions": [
+              "Bucket handle (metaphyseal corner) fracture",
+              "Parietal bone fracture",
+              "Posterior rib fractures"
+            ],
+            "correctAnswer": "B) Parietal bone fracture",
+            "correctAnswerText": "Parietal bone fracture",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury.",
+            "batchName": "Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__11__406r4r",
             "number": "11",
             "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
@@ -1372,9 +1445,9 @@
             "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
-              "Aorta Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group A)",
-              "Endorphin Mini-OSCE (Group E)"
+              "Endorphin Mini-OSCE (Group E)",
+              "Aorta Mini-OSCE (Group A)"
             ],
             "note": "",
             "pageNumber": "",
@@ -1754,11 +1827,11 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
-        "batchName": "Aorta Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E)",
+        "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A)",
         "batchNames": [
-          "Aorta Mini-OSCE (Group A)",
           "Endorphin Mini-OSCE (Group A)",
-          "Endorphin Mini-OSCE (Group E)"
+          "Endorphin Mini-OSCE (Group E)",
+          "Aorta Mini-OSCE (Group A)"
         ],
         "note": "",
         "pageNumber": "",
@@ -2006,9 +2079,12 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury. Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
-        "batchName": "",
-        "batchNames": [],
+        "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury.",
+        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group B)",
+          "Endorphin Mini-OSCE (Group D)"
+        ],
         "note": "",
         "pageNumber": "",
         "subjectName": "Radiology",
