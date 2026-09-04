@@ -23,7 +23,7 @@ C) Type 3
 D) Type 5
 Correct Answer: C) Type 3
 Explanation: The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.
-Batch: Aorta Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E)
+Batch: Aorta Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E)
 ###
 What is the name of this tendon? [img: quadricepstendon.png ]
 A) Patellar tendon
@@ -61,3 +61,72 @@ Correct Answer: A) Osteochondroma
 Explanation: A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).
 Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Final / Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE
 Note: This question has appeared in 6 previous exams.
+###
+PCL injury: appropriate diagnosis? [img: pcltear.png ]
+A) ACL tear
+B) Lateral meniscus tear
+C) Medial meniscus tear
+D) PCL tear
+Correct Answer: D) PCL tear
+Explanation: The image shows injury to the posterior cruciate ligament complex; ACL and meniscal tears involve distinct anatomic locations and MRI signal patterns.
+Batch: Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)
+###
+Which of the following is FALSE regarding slipped capital femoral epiphysis (SCFE)?
+A) More commonly affects obese adolescent boys
+B) Considered a Salter-Harris type III fracture
+C) Femoral head slips posteriorly and medially relative to the metaphysis
+D) Represents a Salter-Harris type I fracture through the subcapital physis
+Correct Answer: B) Considered a Salter-Harris type III fracture
+Explanation: SCFE is a Salter-Harris type I fracture of the subcapital femoral physis due to chronic weight-bearing stress, not type III.
+Batch: Endorphin Mini-OSCE (Group C)
+###
+All of the following are seen in non-accidental trauma EXCEPT:
+A) Bucket handle (metaphyseal corner) fracture
+B) Parietal bone fracture
+C) Posterior rib fractures
+Correct Answer: B) Parietal bone fracture
+Explanation: Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury.
+Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)
+###
+Which of the following is NOT typically involved in non-traumatic fractures of child abuse?
+A) Metaphyseal corner (bucket handle) fracture
+B) Posterior rib fracture
+C) Parietal bone fracture
+D) Scapular fracture
+Correct Answer: C) Parietal bone fracture
+Explanation: Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)
+###
+All of the following are seen in hyperparathyroidism EXCEPT:
+A) Bamboo spine
+B) Chondrocalcinosis
+C) Rugger jersey spine
+D) Salt and pepper sign
+Correct Answer: A) Bamboo spine
+Explanation: Bamboo spine results from syndesmophytic fusion in ankylosing spondylitis, not hyperparathyroidism, which instead classically shows rugger jersey spine, salt-and-pepper skull, and chondrocalcinosis.
+Batch: Endorphin Mini-OSCE (Group B)
+###
+Which of the following is NOT true regarding osteogenesis imperfecta?
+A) Normal bone density on X-ray
+B) Perinatal lethal form is type II
+C) Osteopenia and multiple fractures are characteristic
+Correct Answer: A) Normal bone density on X-ray
+Explanation: Osteogenesis imperfecta is characterized by osteopenia (reduced bone density) due to type I collagen defects, not normal bone density.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)
+###
+What is the name of the labelled tarsal bone? [img: cuboidanatomy.png ]
+A) Cuneiform bone
+B) Cuboid
+C) Navicular bone
+Correct Answer: B) Cuboid
+Explanation: The cuboid is the laterally positioned tarsal bone articulating with the calcaneus proximally and the 4th/5th metatarsals distally, distinguishing it from the medially located navicular and cuneiforms.
+Batch: Endorphin Mini-OSCE (Group B)
+###
+What is the name of the labelled carpal bone? [img: capitateanatomy.png ]
+A) Hamate
+B) Lunate
+C) Capitate
+D) Trapezoid
+Correct Answer: C) Capitate
+Explanation: The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).
+Batch: Endorphin Mini-OSCE (Group B)
