@@ -17,13 +17,13 @@ Explanation: The navicular is the medially positioned tarsal bone articulating p
 Batch: Aorta Mini-OSCE (Group A)
 ###
 Which stage of Salter-Harris fracture is shown? [img: salterharris3.png ]
-A) Type II
-B) Type IV
-C) Type III
-D) Type V
-Correct Answer: C) Type III
+A) Type 2
+B) Type 4
+C) Type 3
+D) Type 5
+Correct Answer: C) Type 3
 Explanation: The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.
-Batch: Aorta Mini-OSCE (Group A)
+Batch: Aorta Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E)
 ###
 What is the name of this tendon? [img: quadricepstendon.png ]
 A) Patellar tendon
