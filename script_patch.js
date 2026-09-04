@@ -44,7 +44,7 @@
     return [];
   }
 
-  function ensureGroupOrder(groups, sectionType, subjectName){
+    function ensureGroupOrder(groups, sectionType, subjectName){
     if(!Array.isArray(groups) || !groups.length) return groups || [];
     const actualSubjectName = subjectName || groups[0]?.subjectName || state.currentSubject?.name || 'unknown';
     const actualSectionType = sectionType || groups[0]?.type || 'lectures';
@@ -58,7 +58,14 @@
     state.groupPreferences[key] = clean;
     saveGroupPreferences();
     const rank = new Map(clean.map((id,i)=>[id,i]));
-    return groups.slice().sort((a,b)=>(rank.get(a.id) ?? 1e9) - (rank.get(b.id) ?? 1e9));
+    const sorted = groups.slice().sort((a,b)=>(rank.get(a.id) ?? 1e9) - (rank.get(b.id) ?? 1e9));
+    const frequentGroups = sorted.filter(g => g && g.isFrequentGroup);
+    if(frequentGroups.length){
+      const regularGroups = sorted.filter(g => !g || !g.isFrequentGroup);
+      frequentGroups.sort((a,b)=>((a.fixedPosition ?? 0) - (b.fixedPosition ?? 0)));
+      return frequentGroups.concat(regularGroups);
+    }
+    return sorted;
   }
   window.ensureGroupOrder = ensureGroupOrder;
 
@@ -496,7 +503,7 @@
       const done = !!state.checklistCompleted[group.id];
       const item = document.createElement('div');
       item.className = 'selection-item selection-group-item' + (done ? ' group-completed' : '') + (state.selectedGroups.includes(idx) ? ' selected' : '');
-      item.draggable = true;
+            item.draggable = !group.isFrequentGroup;
       item.dataset.groupId = group.id;
       item.setAttribute('data-group-name', (group.name + ' ' + (group.subjectName||'')).toLowerCase());
       item.innerHTML = `
@@ -507,7 +514,7 @@
         </label>
         <div class="selection-item-group-actions">
           <button class="selection-complete-btn ${done?'done':''}" title="تعليم كمكتمل أو إعادة الدراسة" onclick="event.stopPropagation(); confirmCompleteGroup(${idx})">${done ? '🔁' : '✅'}</button>
-          <span class="selection-drag-handle" title="اسحب لإعادة الترتيب">↕️</span>
+                    ${group.isFrequentGroup ? '<span class="selection-drag-handle" style="cursor:default;">📌</span>' : '<span class="selection-drag-handle" title="اسحب لإعادة الترتيب">↕️</span>'}
         </div>`;
 
       item.addEventListener('click', function(event){
@@ -517,7 +524,8 @@
         toggleGroupSelection(idx);
       });
 
-      item.addEventListener('dragstart', e => {
+            item.addEventListener('dragstart', e => {
+        if(group.isFrequentGroup){ e.preventDefault(); return; }
         item.classList.add('dragging');
         e.dataTransfer.setData('text/plain', group.id);
       });
@@ -530,10 +538,12 @@
         item.classList.add('drag-over');
       });
       item.addEventListener('dragleave', () => item.classList.remove('drag-over'));
-      item.addEventListener('drop', e => {
+            item.addEventListener('drop', e => {
         e.preventDefault();
         item.classList.remove('drag-over');
+        if(group.isFrequentGroup) return;
         const draggedId = e.dataTransfer.getData('text/plain');
+        if(draggedId && draggedId.includes('__frequent__')) return;
         const rect = item.getBoundingClientRect();
         const afterTarget = e.clientY > (rect.top + rect.height / 2);
         reorderGroupIds(subjectName, sectionType, draggedId, group.id, afterTarget);
@@ -706,7 +716,7 @@
     return `<button class="category-card" onclick="openSubjectCategory('${type}')"><span class="category-badge">${badgeText}</span><div class="category-meta"><div><span>${countLabel}</span><strong>${itemCount}</strong></div><div><span>الأسئلة</span><strong>${totalQuestions}</strong></div></div></button>`;
   };
   
-  subjectMetaRows = function(subject){
+    subjectMetaRows = function(subject){
     const lectureCount = subject.lectures.length;
     const lectureQuestions = countQuestions(subject.lectures);
     const rows = [
@@ -714,7 +724,7 @@
       `<div><span>Questions</span><strong>${lectureQuestions}</strong></div>`
     ];
     if(subject.years.length){
-      rows.push(`<div><span>Years</span><strong dir="ltr" style="display:flex; flex-direction:column; align-items:flex-start; text-align:left;"><span dir="ltr">${subject.years.length} Batches</span><small dir="ltr" style="display:block; text-align:left;">${countQuestions(subject.years)}Q</small></strong></div>`);
+      rows.push(`<div><span>Years</span><strong dir="ltr" style="display:flex; flex-direction:column; align-items:flex-start; text-align:left;"><span dir="ltr">${subject.years.length} Batches</span><small dir="ltr" style="display:block; text-align:left;">${countUniqueYearsQuestions(subject)}Q</small></strong></div>`);
     }
     if(subject.ai.length){
       rows.push(`<div><span>AI Questions</span><strong>${countQuestions(subject.ai)}</strong></div>`);
