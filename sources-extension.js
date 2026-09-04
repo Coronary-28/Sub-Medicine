@@ -18,8 +18,8 @@
         },
         {
             subject: "Emergency",
-            details: "<b>Mini-OSCE:</b> ( Aorta / Endorphin )<br><b>Final:</b> ( Aorta / Endorphin )",
-            link: "https://drive.google.com/drive/folders/18wQI6EXhwvzSDkkoAunrWEBlMgHKP1HA"
+            details: "<b>Mini-OSCE:</b> ( Serotonin / Waman A7yaha / Vagus / Aorta / Endorphin / Iris / Coronary )<br><b>Final:</b> ( Serotonin / Waman A7yaha / Overdose / Vagus / Aorta / Endorphin / Iris )",
+            link: "https://drive.google.com/drive/folders/14BE9zkF3Xt-u-IglYe2NbxTvZxsK7xeM"
             }
     ];
 
