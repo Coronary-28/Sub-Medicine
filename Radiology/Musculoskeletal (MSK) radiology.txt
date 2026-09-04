@@ -23,7 +23,7 @@ C) Type 3
 D) Type 5
 Correct Answer: C) Type 3
 Explanation: The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.
-Batch: Aorta Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E)
+Batch: Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A)
 ###
 What is the name of this tendon? [img: quadricepstendon.png ]
 A) Patellar tendon
@@ -86,7 +86,7 @@ B) Parietal bone fracture
 C) Posterior rib fractures
 Correct Answer: B) Parietal bone fracture
 Explanation: Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury.
-Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)
 ###
 Which of the following is NOT typically involved in non-traumatic fractures of child abuse?
 A) Metaphyseal corner (bucket handle) fracture
