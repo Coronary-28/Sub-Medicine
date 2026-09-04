@@ -2284,9 +2284,9 @@
         "path": "Urology/Acute Scrotum.txt",
         "questions": [
           {
-            "id": "urology__lecture__acute-scrotum__1__5cwxdt",
+            "id": "urology__lecture__acute-scrotum__1__kd7smj",
             "number": "1",
-            "text": "Which of the following diagnoses must be excluded first in a teenage boy presenting with acute left-sided testicular pain?",
+            "text": "Blockhich of the following diagnoses must be excluded first in a teenage boy presenting with acute left-sided testicular pain?",
             "options": [
               "Testicular torsion",
               "Epididymitis",
@@ -2376,11 +2376,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "An older man with dysuria (UTI symptoms) and a tender, swollen testis fits epididymitis, typically caused by E. coli and other Gram-negative bacilli in this age group.",
-            "batchName": "Coronary Block B",
-            "batchNames": [
-              "Coronary Block B"
-            ],
-            "note": "yes",
+            "batchName": "",
+            "batchNames": [],
+            "note": "",
             "pageNumber": "",
             "subjectName": "Urology",
             "subjectId": "urology",
@@ -2446,10 +2444,8 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "Torsion requires urgent surgical detorsion and orchidopexy (with contralateral fixation), since testicular salvage is entirely time-dependent.",
-            "batchName": "Coronary Block B",
-            "batchNames": [
-              "Coronary Block B"
-            ],
+            "batchName": "",
+            "batchNames": [],
             "note": "This is repeated this question is the body only a few many people in a b b and a few years ago by a few many people who is a few years of a b b b b and other than one.",
             "pageNumber": "",
             "subjectName": "Urology",
@@ -2483,14 +2479,8 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
-            "batchName": "Coronary Block A / Iris block C / Vagus / Aorta Mini-OSCE (Group D) / Serotonin Final",
-            "batchNames": [
-              "Coronary Block A",
-              "Iris block C",
-              "Vagus",
-              "Aorta Mini-OSCE (Group D)",
-              "Serotonin Final"
-            ],
+            "batchName": "",
+            "batchNames": [],
             "note": "",
             "pageNumber": "",
             "subjectName": "Urology",
@@ -2505,14 +2495,12 @@
             "text": "Which of the following is NOT a sign of spermatic cord torsion?",
             "options": [
               "Positive Prehn sign",
-              "Transverse lie of testis",
-              "Absent cremasteric reflex",
+              "Transverse lie of testisNotetiontsent cremasteric reflex",
               "Nausea and vomiting"
             ],
             "originalOptions": [
               "Positive Prehn sign",
-              "Transverse lie of testis",
-              "Absent cremasteric reflex",
+              "Transverse lie of testisNotetiontsent cremasteric reflex",
               "Nausea and vomiting"
             ],
             "correctAnswer": "A) Positive Prehn sign",
@@ -2588,10 +2576,8 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "An isolated right-sided varicocele is atypical and raises suspicion for a retroperitoneal mass (e.g., RCC) compressing the right testicular vein before it enters the IVC — renal ultrasound is the appropriate initial screening step.",
-            "batchName": "Coronary Block A",
-            "batchNames": [
-              "Coronary Block A"
-            ],
+            "batchName": "",
+            "batchNames": [],
             "note": "",
             "pageNumber": "",
             "subjectName": "Urology",
@@ -2621,12 +2607,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "Renal ultrasound would be the preferred first step if listed; here, CT abdomen is chosen since scrotal ultrasound only confirms the varicocele itself and cannot assess for an underlying retroperitoneal obstructing mass.",
-            "batchName": "Coronary Block A",
-            "batchNames": [
-              "Coronary Block A"
-            ],
-            "note": "its hard.",
-            "pageNumber": "P(78)",
+            "batchName": "",
+            "batchNames": [],
+            "note": "",
+            "pageNumber": "",
             "subjectName": "Urology",
             "subjectId": "urology",
             "lectureName": "Acute Scrotum",
@@ -2656,10 +2640,8 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "Most varicoceles are asymptomatic, but when symptomatic they can cause chronic testicular heaviness/pain and impaired spermatogenesis leading to infertility.",
-            "batchName": "Coronary Block A",
-            "batchNames": [
-              "Coronary Block A"
-            ],
+            "batchName": "",
+            "batchNames": [],
             "note": "",
             "pageNumber": "",
             "subjectName": "Urology",
@@ -3577,451 +3559,12 @@
       }
     ],
     "ai": [],
-    "years": [
-      {
-        "id": "urology__year__aorta-mini-osce-group-d",
-        "name": "Aorta Mini-OSCE (Group D)",
-        "type": "year",
-        "subjectName": "Urology",
-        "questions": [
-          {
-            "id": "urology__lecture__acute-scrotum__6__w0wb2q",
-            "number": "6",
-            "text": "Which of the following is NOT a typical feature of testicular torsion?",
-            "options": [
-              "High-riding testis",
-              "Absent cremasteric reflex",
-              "Nausea and vomiting",
-              "Urethral discharge",
-              "Sudden severe scrotal pain"
-            ],
-            "originalOptions": [
-              "High-riding testis",
-              "Absent cremasteric reflex",
-              "Nausea and vomiting",
-              "Urethral discharge",
-              "Sudden severe scrotal pain"
-            ],
-            "correctAnswer": "D) Urethral discharge",
-            "correctAnswerText": "Urethral discharge",
-            "correctIndex": 3,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
-            "batchName": "Aorta Mini-OSCE (Group D)",
-            "batchNames": [
-              "Coronary Block A",
-              "Iris block C",
-              "Vagus",
-              "Aorta Mini-OSCE (Group D)",
-              "Serotonin Final"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Acute Scrotum",
-            "groupName": "Acute Scrotum",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          }
-        ]
-      },
-      {
-        "id": "urology__year__coronary-block-a",
-        "name": "Coronary Block A",
-        "type": "year",
-        "subjectName": "Urology",
-        "questions": [
-          {
-            "id": "urology__lecture__acute-scrotum__6__w0wb2q",
-            "number": "6",
-            "text": "Which of the following is NOT a typical feature of testicular torsion?",
-            "options": [
-              "High-riding testis",
-              "Absent cremasteric reflex",
-              "Nausea and vomiting",
-              "Urethral discharge",
-              "Sudden severe scrotal pain"
-            ],
-            "originalOptions": [
-              "High-riding testis",
-              "Absent cremasteric reflex",
-              "Nausea and vomiting",
-              "Urethral discharge",
-              "Sudden severe scrotal pain"
-            ],
-            "correctAnswer": "D) Urethral discharge",
-            "correctAnswerText": "Urethral discharge",
-            "correctIndex": 3,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
-            "batchName": "Coronary Block A",
-            "batchNames": [
-              "Coronary Block A",
-              "Iris block C",
-              "Vagus",
-              "Aorta Mini-OSCE (Group D)",
-              "Serotonin Final"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Acute Scrotum",
-            "groupName": "Acute Scrotum",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          },
-          {
-            "id": "urology__lecture__acute-scrotum__9__aie6dx",
-            "number": "9",
-            "text": "A man presents with a palpable right-sided varicocele of 3 months' onset, with no varicocele on the left side. Testis longitudinal axis is 5 cm bilaterally, and semen analysis reveals volume 2.0 mL, density 33 million/mL, and motility 38%. What is the next step?",
-            "options": [
-              "Surgery",
-              "Detailed sperm morphology analysis",
-              "Renal ultrasound",
-              "CT scan"
-            ],
-            "originalOptions": [
-              "Surgery",
-              "Detailed sperm morphology analysis",
-              "Renal ultrasound",
-              "CT scan"
-            ],
-            "correctAnswer": "C) Renal ultrasound",
-            "correctAnswerText": "Renal ultrasound",
-            "correctIndex": 2,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "C",
-            "explanation": "An isolated right-sided varicocele is atypical and raises suspicion for a retroperitoneal mass (e.g., RCC) compressing the right testicular vein before it enters the IVC — renal ultrasound is the appropriate initial screening step.",
-            "batchName": "Coronary Block A",
-            "batchNames": [
-              "Coronary Block A"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Acute Scrotum",
-            "groupName": "Acute Scrotum",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          },
-          {
-            "id": "urology__lecture__acute-scrotum__10__ufa0zq",
-            "number": "10",
-            "text": "A case of an isolated right-sided varicocele. What is the next step?",
-            "options": [
-              "Varicocelectomy",
-              "Scrotal ultrasound",
-              "CT abdomen"
-            ],
-            "originalOptions": [
-              "Varicocelectomy",
-              "Scrotal ultrasound",
-              "CT abdomen"
-            ],
-            "correctAnswer": "C) CT abdomen",
-            "correctAnswerText": "CT abdomen",
-            "correctIndex": 2,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "C",
-            "explanation": "Renal ultrasound would be the preferred first step if listed; here, CT abdomen is chosen since scrotal ultrasound only confirms the varicocele itself and cannot assess for an underlying retroperitoneal obstructing mass.",
-            "batchName": "Coronary Block A",
-            "batchNames": [
-              "Coronary Block A"
-            ],
-            "note": "its hard.",
-            "pageNumber": "P(78)",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Acute Scrotum",
-            "groupName": "Acute Scrotum",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          },
-          {
-            "id": "urology__lecture__acute-scrotum__11__rfr0li",
-            "number": "11",
-            "text": "What are the typical clinical manifestations of varicocele?",
-            "options": [
-              "Pain only",
-              "Infertility only",
-              "Both pain and infertility",
-              "Neither pain nor infertility"
-            ],
-            "originalOptions": [
-              "Pain only",
-              "Infertility only",
-              "Both pain and infertility",
-              "Neither pain nor infertility"
-            ],
-            "correctAnswer": "C) Both pain and infertility",
-            "correctAnswerText": "Both pain and infertility",
-            "correctIndex": 2,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "C",
-            "explanation": "Most varicoceles are asymptomatic, but when symptomatic they can cause chronic testicular heaviness/pain and impaired spermatogenesis leading to infertility.",
-            "batchName": "Coronary Block A",
-            "batchNames": [
-              "Coronary Block A"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Acute Scrotum",
-            "groupName": "Acute Scrotum",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          }
-        ]
-      },
-      {
-        "id": "urology__year__coronary-block-b",
-        "name": "Coronary Block B",
-        "type": "year",
-        "subjectName": "Urology",
-        "questions": [
-          {
-            "id": "urology__lecture__acute-scrotum__3__8f6ig",
-            "number": "3",
-            "text": "A 50-year-old man presents with dysuria, cloudy urine, and a tender, swollen right testis. What is the most likely diagnosis?",
-            "options": [
-              "Epididymitis",
-              "Orchitis",
-              "Torsion of the epididymal appendage",
-              "Testicular tumor",
-              "Testicular torsion"
-            ],
-            "originalOptions": [
-              "Epididymitis",
-              "Orchitis",
-              "Torsion of the epididymal appendage",
-              "Testicular tumor",
-              "Testicular torsion"
-            ],
-            "correctAnswer": "A) Epididymitis",
-            "correctAnswerText": "Epididymitis",
-            "correctIndex": 0,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "A",
-            "explanation": "An older man with dysuria (UTI symptoms) and a tender, swollen testis fits epididymitis, typically caused by E. coli and other Gram-negative bacilli in this age group.",
-            "batchName": "Coronary Block B",
-            "batchNames": [
-              "Coronary Block B"
-            ],
-            "note": "yes",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Acute Scrotum",
-            "groupName": "Acute Scrotum",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          },
-          {
-            "id": "urology__lecture__acute-scrotum__5__h9edu6",
-            "number": "5",
-            "text": "What is the definitive treatment of testicular torsion?",
-            "options": [
-              "Immediate surgical exploration",
-              "Antibiotics",
-              "Observation",
-              "Analgesics only"
-            ],
-            "originalOptions": [
-              "Immediate surgical exploration",
-              "Antibiotics",
-              "Observation",
-              "Analgesics only"
-            ],
-            "correctAnswer": "A) Immediate surgical exploration",
-            "correctAnswerText": "Immediate surgical exploration",
-            "correctIndex": 0,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "A",
-            "explanation": "Torsion requires urgent surgical detorsion and orchidopexy (with contralateral fixation), since testicular salvage is entirely time-dependent.",
-            "batchName": "Coronary Block B",
-            "batchNames": [
-              "Coronary Block B"
-            ],
-            "note": "This is repeated this question is the body only a few many people in a b b and a few years ago by a few many people who is a few years of a b b b b and other than one.",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Acute Scrotum",
-            "groupName": "Acute Scrotum",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          }
-        ]
-      },
-      {
-        "id": "urology__year__iris-block-c",
-        "name": "Iris block C",
-        "type": "year",
-        "subjectName": "Urology",
-        "questions": [
-          {
-            "id": "urology__lecture__acute-scrotum__6__w0wb2q",
-            "number": "6",
-            "text": "Which of the following is NOT a typical feature of testicular torsion?",
-            "options": [
-              "High-riding testis",
-              "Absent cremasteric reflex",
-              "Nausea and vomiting",
-              "Urethral discharge",
-              "Sudden severe scrotal pain"
-            ],
-            "originalOptions": [
-              "High-riding testis",
-              "Absent cremasteric reflex",
-              "Nausea and vomiting",
-              "Urethral discharge",
-              "Sudden severe scrotal pain"
-            ],
-            "correctAnswer": "D) Urethral discharge",
-            "correctAnswerText": "Urethral discharge",
-            "correctIndex": 3,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
-            "batchName": "Iris block C",
-            "batchNames": [
-              "Coronary Block A",
-              "Iris block C",
-              "Vagus",
-              "Aorta Mini-OSCE (Group D)",
-              "Serotonin Final"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Acute Scrotum",
-            "groupName": "Acute Scrotum",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          }
-        ]
-      },
-      {
-        "id": "urology__year__serotonin-final",
-        "name": "Serotonin Final",
-        "type": "year",
-        "subjectName": "Urology",
-        "questions": [
-          {
-            "id": "urology__lecture__acute-scrotum__6__w0wb2q",
-            "number": "6",
-            "text": "Which of the following is NOT a typical feature of testicular torsion?",
-            "options": [
-              "High-riding testis",
-              "Absent cremasteric reflex",
-              "Nausea and vomiting",
-              "Urethral discharge",
-              "Sudden severe scrotal pain"
-            ],
-            "originalOptions": [
-              "High-riding testis",
-              "Absent cremasteric reflex",
-              "Nausea and vomiting",
-              "Urethral discharge",
-              "Sudden severe scrotal pain"
-            ],
-            "correctAnswer": "D) Urethral discharge",
-            "correctAnswerText": "Urethral discharge",
-            "correctIndex": 3,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
-            "batchName": "Serotonin Final",
-            "batchNames": [
-              "Coronary Block A",
-              "Iris block C",
-              "Vagus",
-              "Aorta Mini-OSCE (Group D)",
-              "Serotonin Final"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Acute Scrotum",
-            "groupName": "Acute Scrotum",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          }
-        ]
-      },
-      {
-        "id": "urology__year__vagus",
-        "name": "Vagus",
-        "type": "year",
-        "subjectName": "Urology",
-        "questions": [
-          {
-            "id": "urology__lecture__acute-scrotum__6__w0wb2q",
-            "number": "6",
-            "text": "Which of the following is NOT a typical feature of testicular torsion?",
-            "options": [
-              "High-riding testis",
-              "Absent cremasteric reflex",
-              "Nausea and vomiting",
-              "Urethral discharge",
-              "Sudden severe scrotal pain"
-            ],
-            "originalOptions": [
-              "High-riding testis",
-              "Absent cremasteric reflex",
-              "Nausea and vomiting",
-              "Urethral discharge",
-              "Sudden severe scrotal pain"
-            ],
-            "correctAnswer": "D) Urethral discharge",
-            "correctAnswerText": "Urethral discharge",
-            "correctIndex": 3,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
-            "batchName": "Vagus",
-            "batchNames": [
-              "Coronary Block A",
-              "Iris block C",
-              "Vagus",
-              "Aorta Mini-OSCE (Group D)",
-              "Serotonin Final"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Acute Scrotum",
-            "groupName": "Acute Scrotum",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          }
-        ]
-      }
-    ],
+    "years": [],
     "allQuestions": [
       {
-        "id": "urology__lecture__acute-scrotum__1__5cwxdt",
+        "id": "urology__lecture__acute-scrotum__1__kd7smj",
         "number": "1",
-        "text": "Which of the following diagnoses must be excluded first in a teenage boy presenting with acute left-sided testicular pain?",
+        "text": "Blockhich of the following diagnoses must be excluded first in a teenage boy presenting with acute left-sided testicular pain?",
         "options": [
           "Testicular torsion",
           "Epididymitis",
@@ -4111,11 +3654,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "An older man with dysuria (UTI symptoms) and a tender, swollen testis fits epididymitis, typically caused by E. coli and other Gram-negative bacilli in this age group.",
-        "batchName": "Coronary Block B",
-        "batchNames": [
-          "Coronary Block B"
-        ],
-        "note": "yes",
+        "batchName": "",
+        "batchNames": [],
+        "note": "",
         "pageNumber": "",
         "subjectName": "Urology",
         "subjectId": "urology",
@@ -4181,10 +3722,8 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "Torsion requires urgent surgical detorsion and orchidopexy (with contralateral fixation), since testicular salvage is entirely time-dependent.",
-        "batchName": "Coronary Block B",
-        "batchNames": [
-          "Coronary Block B"
-        ],
+        "batchName": "",
+        "batchNames": [],
         "note": "This is repeated this question is the body only a few many people in a b b and a few years ago by a few many people who is a few years of a b b b b and other than one.",
         "pageNumber": "",
         "subjectName": "Urology",
@@ -4218,14 +3757,8 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.",
-        "batchName": "Coronary Block A / Iris block C / Vagus / Aorta Mini-OSCE (Group D) / Serotonin Final",
-        "batchNames": [
-          "Coronary Block A",
-          "Iris block C",
-          "Vagus",
-          "Aorta Mini-OSCE (Group D)",
-          "Serotonin Final"
-        ],
+        "batchName": "",
+        "batchNames": [],
         "note": "",
         "pageNumber": "",
         "subjectName": "Urology",
@@ -4240,14 +3773,12 @@
         "text": "Which of the following is NOT a sign of spermatic cord torsion?",
         "options": [
           "Positive Prehn sign",
-          "Transverse lie of testis",
-          "Absent cremasteric reflex",
+          "Transverse lie of testisNotetiontsent cremasteric reflex",
           "Nausea and vomiting"
         ],
         "originalOptions": [
           "Positive Prehn sign",
-          "Transverse lie of testis",
-          "Absent cremasteric reflex",
+          "Transverse lie of testisNotetiontsent cremasteric reflex",
           "Nausea and vomiting"
         ],
         "correctAnswer": "A) Positive Prehn sign",
@@ -4323,10 +3854,8 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "An isolated right-sided varicocele is atypical and raises suspicion for a retroperitoneal mass (e.g., RCC) compressing the right testicular vein before it enters the IVC — renal ultrasound is the appropriate initial screening step.",
-        "batchName": "Coronary Block A",
-        "batchNames": [
-          "Coronary Block A"
-        ],
+        "batchName": "",
+        "batchNames": [],
         "note": "",
         "pageNumber": "",
         "subjectName": "Urology",
@@ -4356,12 +3885,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "Renal ultrasound would be the preferred first step if listed; here, CT abdomen is chosen since scrotal ultrasound only confirms the varicocele itself and cannot assess for an underlying retroperitoneal obstructing mass.",
-        "batchName": "Coronary Block A",
-        "batchNames": [
-          "Coronary Block A"
-        ],
-        "note": "its hard.",
-        "pageNumber": "P(78)",
+        "batchName": "",
+        "batchNames": [],
+        "note": "",
+        "pageNumber": "",
         "subjectName": "Urology",
         "subjectId": "urology",
         "lectureName": "Acute Scrotum",
@@ -4391,10 +3918,8 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "Most varicoceles are asymptomatic, but when symptomatic they can cause chronic testicular heaviness/pain and impaired spermatogenesis leading to infertility.",
-        "batchName": "Coronary Block A",
-        "batchNames": [
-          "Coronary Block A"
-        ],
+        "batchName": "",
+        "batchNames": [],
         "note": "",
         "pageNumber": "",
         "subjectName": "Urology",
@@ -5301,7 +4826,7 @@
       }
     ],
     "totalQuestions": 38,
-    "totalLectures": 8,
+    "totalLectures": 2,
     "hasAiFolder": false
   }
 ]
