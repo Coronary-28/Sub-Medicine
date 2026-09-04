@@ -103,9 +103,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
-            "batchName": "Aorta Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E)",
+            "batchName": "Aorta Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E)",
             "batchNames": [
               "Aorta Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group E)"
             ],
             "note": "",
@@ -262,6 +263,282 @@
             "lectureName": "Musculoskeletal (MSK) radiology",
             "groupName": "Musculoskeletal (MSK) radiology",
             "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__d0kgr2",
+            "number": "8",
+            "text": "PCL injury: appropriate diagnosis? [img: pcltear.png ]",
+            "options": [
+              "ACL tear",
+              "Lateral meniscus tear",
+              "Medial meniscus tear",
+              "PCL tear"
+            ],
+            "originalOptions": [
+              "ACL tear",
+              "Lateral meniscus tear",
+              "Medial meniscus tear",
+              "PCL tear"
+            ],
+            "correctAnswer": "D) PCL tear",
+            "correctAnswerText": "PCL tear",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The image shows injury to the posterior cruciate ligament complex; ACL and meniscal tears involve distinct anatomic locations and MRI signal patterns.",
+            "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__9__tb0zqm",
+            "number": "9",
+            "text": "Which of the following is FALSE regarding slipped capital femoral epiphysis (SCFE)?",
+            "options": [
+              "More commonly affects obese adolescent boys",
+              "Considered a Salter-Harris type III fracture",
+              "Femoral head slips posteriorly and medially relative to the metaphysis",
+              "Represents a Salter-Harris type I fracture through the subcapital physis"
+            ],
+            "originalOptions": [
+              "More commonly affects obese adolescent boys",
+              "Considered a Salter-Harris type III fracture",
+              "Femoral head slips posteriorly and medially relative to the metaphysis",
+              "Represents a Salter-Harris type I fracture through the subcapital physis"
+            ],
+            "correctAnswer": "B) Considered a Salter-Harris type III fracture",
+            "correctAnswerText": "Considered a Salter-Harris type III fracture",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "SCFE is a Salter-Harris type I fracture of the subcapital femoral physis due to chronic weight-bearing stress, not type III.",
+            "batchName": "Endorphin Mini-OSCE (Group C)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__aptrzx",
+            "number": "10",
+            "text": "All of the following are seen in non-accidental trauma EXCEPT:",
+            "options": [
+              "Bucket handle (metaphyseal corner) fracture",
+              "Parietal bone fracture",
+              "Posterior rib fractures"
+            ],
+            "originalOptions": [
+              "Bucket handle (metaphyseal corner) fracture",
+              "Parietal bone fracture",
+              "Posterior rib fractures"
+            ],
+            "correctAnswer": "B) Parietal bone fracture",
+            "correctAnswerText": "Parietal bone fracture",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury. Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
+            "batchName": "",
+            "batchNames": [],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__11__406r4r",
+            "number": "11",
+            "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
+            "options": [
+              "Metaphyseal corner (bucket handle) fracture",
+              "Posterior rib fracture",
+              "Parietal bone fracture",
+              "Scapular fracture"
+            ],
+            "originalOptions": [
+              "Metaphyseal corner (bucket handle) fracture",
+              "Posterior rib fracture",
+              "Parietal bone fracture",
+              "Scapular fracture"
+            ],
+            "correctAnswer": "C) Parietal bone fracture",
+            "correctAnswerText": "Parietal bone fracture",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.",
+            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__12__o1ahef",
+            "number": "12",
+            "text": "All of the following are seen in hyperparathyroidism EXCEPT:",
+            "options": [
+              "Bamboo spine",
+              "Chondrocalcinosis",
+              "Rugger jersey spine",
+              "Salt and pepper sign"
+            ],
+            "originalOptions": [
+              "Bamboo spine",
+              "Chondrocalcinosis",
+              "Rugger jersey spine",
+              "Salt and pepper sign"
+            ],
+            "correctAnswer": "A) Bamboo spine",
+            "correctAnswerText": "Bamboo spine",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Bamboo spine results from syndesmophytic fusion in ankylosing spondylitis, not hyperparathyroidism, which instead classically shows rugger jersey spine, salt-and-pepper skull, and chondrocalcinosis.",
+            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__b2cwmd",
+            "number": "13",
+            "text": "Which of the following is NOT true regarding osteogenesis imperfecta?",
+            "options": [
+              "Normal bone density on X-ray",
+              "Perinatal lethal form is type II",
+              "Osteopenia and multiple fractures are characteristic"
+            ],
+            "originalOptions": [
+              "Normal bone density on X-ray",
+              "Perinatal lethal form is type II",
+              "Osteopenia and multiple fractures are characteristic"
+            ],
+            "correctAnswer": "A) Normal bone density on X-ray",
+            "correctAnswerText": "Normal bone density on X-ray",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Osteogenesis imperfecta is characterized by osteopenia (reduced bone density) due to type I collagen defects, not normal bone density.",
+            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__7x5fyc",
+            "number": "14",
+            "text": "What is the name of the labelled tarsal bone? [img: cuboidanatomy.png ]",
+            "options": [
+              "Cuneiform bone",
+              "Cuboid",
+              "Navicular bone"
+            ],
+            "originalOptions": [
+              "Cuneiform bone",
+              "Cuboid",
+              "Navicular bone"
+            ],
+            "correctAnswer": "B) Cuboid",
+            "correctAnswerText": "Cuboid",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The cuboid is the laterally positioned tarsal bone articulating with the calcaneus proximally and the 4th/5th metatarsals distally, distinguishing it from the medially located navicular and cuneiforms.",
+            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__15__y4ma9b",
+            "number": "15",
+            "text": "What is the name of the labelled carpal bone? [img: capitateanatomy.png ]",
+            "options": [
+              "Hamate",
+              "Lunate",
+              "Capitate",
+              "Trapezoid"
+            ],
+            "originalOptions": [
+              "Hamate",
+              "Lunate",
+              "Capitate",
+              "Trapezoid"
+            ],
+            "correctAnswer": "C) Capitate",
+            "correctAnswerText": "Capitate",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).",
+            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
           }
         ]
       }
@@ -372,6 +649,7 @@
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
               "Aorta Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group E)"
             ],
             "note": "",
@@ -559,6 +837,44 @@
         "subjectName": "Radiology",
         "questions": [
           {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__3__ktoc8k",
+            "number": "3",
+            "text": "Which stage of Salter-Harris fracture is shown? [img: salterharris3.png ]",
+            "options": [
+              "Type 2",
+              "Type 4",
+              "Type 3",
+              "Type 5"
+            ],
+            "originalOptions": [
+              "Type 2",
+              "Type 4",
+              "Type 3",
+              "Type 5"
+            ],
+            "correctAnswer": "C) Type 3",
+            "correctAnswerText": "Type 3",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
+            "batchName": "Endorphin Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
             "number": "7",
             "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
@@ -644,6 +960,384 @@
             "groupName": "Musculoskeletal (MSK) radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__11__406r4r",
+            "number": "11",
+            "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
+            "options": [
+              "Metaphyseal corner (bucket handle) fracture",
+              "Posterior rib fracture",
+              "Parietal bone fracture",
+              "Scapular fracture"
+            ],
+            "originalOptions": [
+              "Metaphyseal corner (bucket handle) fracture",
+              "Posterior rib fracture",
+              "Parietal bone fracture",
+              "Scapular fracture"
+            ],
+            "correctAnswer": "C) Parietal bone fracture",
+            "correctAnswerText": "Parietal bone fracture",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.",
+            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__12__o1ahef",
+            "number": "12",
+            "text": "All of the following are seen in hyperparathyroidism EXCEPT:",
+            "options": [
+              "Bamboo spine",
+              "Chondrocalcinosis",
+              "Rugger jersey spine",
+              "Salt and pepper sign"
+            ],
+            "originalOptions": [
+              "Bamboo spine",
+              "Chondrocalcinosis",
+              "Rugger jersey spine",
+              "Salt and pepper sign"
+            ],
+            "correctAnswer": "A) Bamboo spine",
+            "correctAnswerText": "Bamboo spine",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Bamboo spine results from syndesmophytic fusion in ankylosing spondylitis, not hyperparathyroidism, which instead classically shows rugger jersey spine, salt-and-pepper skull, and chondrocalcinosis.",
+            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__b2cwmd",
+            "number": "13",
+            "text": "Which of the following is NOT true regarding osteogenesis imperfecta?",
+            "options": [
+              "Normal bone density on X-ray",
+              "Perinatal lethal form is type II",
+              "Osteopenia and multiple fractures are characteristic"
+            ],
+            "originalOptions": [
+              "Normal bone density on X-ray",
+              "Perinatal lethal form is type II",
+              "Osteopenia and multiple fractures are characteristic"
+            ],
+            "correctAnswer": "A) Normal bone density on X-ray",
+            "correctAnswerText": "Normal bone density on X-ray",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Osteogenesis imperfecta is characterized by osteopenia (reduced bone density) due to type I collagen defects, not normal bone density.",
+            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__7x5fyc",
+            "number": "14",
+            "text": "What is the name of the labelled tarsal bone? [img: cuboidanatomy.png ]",
+            "options": [
+              "Cuneiform bone",
+              "Cuboid",
+              "Navicular bone"
+            ],
+            "originalOptions": [
+              "Cuneiform bone",
+              "Cuboid",
+              "Navicular bone"
+            ],
+            "correctAnswer": "B) Cuboid",
+            "correctAnswerText": "Cuboid",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The cuboid is the laterally positioned tarsal bone articulating with the calcaneus proximally and the 4th/5th metatarsals distally, distinguishing it from the medially located navicular and cuneiforms.",
+            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__15__y4ma9b",
+            "number": "15",
+            "text": "What is the name of the labelled carpal bone? [img: capitateanatomy.png ]",
+            "options": [
+              "Hamate",
+              "Lunate",
+              "Capitate",
+              "Trapezoid"
+            ],
+            "originalOptions": [
+              "Hamate",
+              "Lunate",
+              "Capitate",
+              "Trapezoid"
+            ],
+            "correctAnswer": "C) Capitate",
+            "correctAnswerText": "Capitate",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).",
+            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "radiology__year__endorphin-mini-osce-group-c",
+        "name": "Endorphin Mini-OSCE (Group C)",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__d0kgr2",
+            "number": "8",
+            "text": "PCL injury: appropriate diagnosis? [img: pcltear.png ]",
+            "options": [
+              "ACL tear",
+              "Lateral meniscus tear",
+              "Medial meniscus tear",
+              "PCL tear"
+            ],
+            "originalOptions": [
+              "ACL tear",
+              "Lateral meniscus tear",
+              "Medial meniscus tear",
+              "PCL tear"
+            ],
+            "correctAnswer": "D) PCL tear",
+            "correctAnswerText": "PCL tear",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The image shows injury to the posterior cruciate ligament complex; ACL and meniscal tears involve distinct anatomic locations and MRI signal patterns.",
+            "batchName": "Endorphin Mini-OSCE (Group C)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__9__tb0zqm",
+            "number": "9",
+            "text": "Which of the following is FALSE regarding slipped capital femoral epiphysis (SCFE)?",
+            "options": [
+              "More commonly affects obese adolescent boys",
+              "Considered a Salter-Harris type III fracture",
+              "Femoral head slips posteriorly and medially relative to the metaphysis",
+              "Represents a Salter-Harris type I fracture through the subcapital physis"
+            ],
+            "originalOptions": [
+              "More commonly affects obese adolescent boys",
+              "Considered a Salter-Harris type III fracture",
+              "Femoral head slips posteriorly and medially relative to the metaphysis",
+              "Represents a Salter-Harris type I fracture through the subcapital physis"
+            ],
+            "correctAnswer": "B) Considered a Salter-Harris type III fracture",
+            "correctAnswerText": "Considered a Salter-Harris type III fracture",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "SCFE is a Salter-Harris type I fracture of the subcapital femoral physis due to chronic weight-bearing stress, not type III.",
+            "batchName": "Endorphin Mini-OSCE (Group C)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "radiology__year__endorphin-mini-osce-group-d",
+        "name": "Endorphin Mini-OSCE (Group D)",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__d0kgr2",
+            "number": "8",
+            "text": "PCL injury: appropriate diagnosis? [img: pcltear.png ]",
+            "options": [
+              "ACL tear",
+              "Lateral meniscus tear",
+              "Medial meniscus tear",
+              "PCL tear"
+            ],
+            "originalOptions": [
+              "ACL tear",
+              "Lateral meniscus tear",
+              "Medial meniscus tear",
+              "PCL tear"
+            ],
+            "correctAnswer": "D) PCL tear",
+            "correctAnswerText": "PCL tear",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The image shows injury to the posterior cruciate ligament complex; ACL and meniscal tears involve distinct anatomic locations and MRI signal patterns.",
+            "batchName": "Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__11__406r4r",
+            "number": "11",
+            "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
+            "options": [
+              "Metaphyseal corner (bucket handle) fracture",
+              "Posterior rib fracture",
+              "Parietal bone fracture",
+              "Scapular fracture"
+            ],
+            "originalOptions": [
+              "Metaphyseal corner (bucket handle) fracture",
+              "Posterior rib fracture",
+              "Parietal bone fracture",
+              "Scapular fracture"
+            ],
+            "correctAnswer": "C) Parietal bone fracture",
+            "correctAnswerText": "Parietal bone fracture",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.",
+            "batchName": "Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__b2cwmd",
+            "number": "13",
+            "text": "Which of the following is NOT true regarding osteogenesis imperfecta?",
+            "options": [
+              "Normal bone density on X-ray",
+              "Perinatal lethal form is type II",
+              "Osteopenia and multiple fractures are characteristic"
+            ],
+            "originalOptions": [
+              "Normal bone density on X-ray",
+              "Perinatal lethal form is type II",
+              "Osteopenia and multiple fractures are characteristic"
+            ],
+            "correctAnswer": "A) Normal bone density on X-ray",
+            "correctAnswerText": "Normal bone density on X-ray",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Osteogenesis imperfecta is characterized by osteopenia (reduced bone density) due to type I collagen defects, not normal bone density.",
+            "batchName": "Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -679,6 +1373,7 @@
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
               "Aorta Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group E)"
             ],
             "note": "",
@@ -717,6 +1412,44 @@
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__11__406r4r",
+            "number": "11",
+            "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
+            "options": [
+              "Metaphyseal corner (bucket handle) fracture",
+              "Posterior rib fracture",
+              "Parietal bone fracture",
+              "Scapular fracture"
+            ],
+            "originalOptions": [
+              "Metaphyseal corner (bucket handle) fracture",
+              "Posterior rib fracture",
+              "Parietal bone fracture",
+              "Scapular fracture"
+            ],
+            "correctAnswer": "C) Parietal bone fracture",
+            "correctAnswerText": "Parietal bone fracture",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.",
+            "batchName": "Endorphin Mini-OSCE (Group E)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group E)"
             ],
             "note": "",
@@ -1021,9 +1754,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.",
-        "batchName": "Aorta Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E)",
+        "batchName": "Aorta Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E)",
         "batchNames": [
           "Aorta Mini-OSCE (Group A)",
+          "Endorphin Mini-OSCE (Group A)",
           "Endorphin Mini-OSCE (Group E)"
         ],
         "note": "",
@@ -1180,10 +1914,286 @@
         "lectureName": "Musculoskeletal (MSK) radiology",
         "groupName": "Musculoskeletal (MSK) radiology",
         "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__8__d0kgr2",
+        "number": "8",
+        "text": "PCL injury: appropriate diagnosis? [img: pcltear.png ]",
+        "options": [
+          "ACL tear",
+          "Lateral meniscus tear",
+          "Medial meniscus tear",
+          "PCL tear"
+        ],
+        "originalOptions": [
+          "ACL tear",
+          "Lateral meniscus tear",
+          "Medial meniscus tear",
+          "PCL tear"
+        ],
+        "correctAnswer": "D) PCL tear",
+        "correctAnswerText": "PCL tear",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The image shows injury to the posterior cruciate ligament complex; ACL and meniscal tears involve distinct anatomic locations and MRI signal patterns.",
+        "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group C)",
+          "Endorphin Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__9__tb0zqm",
+        "number": "9",
+        "text": "Which of the following is FALSE regarding slipped capital femoral epiphysis (SCFE)?",
+        "options": [
+          "More commonly affects obese adolescent boys",
+          "Considered a Salter-Harris type III fracture",
+          "Femoral head slips posteriorly and medially relative to the metaphysis",
+          "Represents a Salter-Harris type I fracture through the subcapital physis"
+        ],
+        "originalOptions": [
+          "More commonly affects obese adolescent boys",
+          "Considered a Salter-Harris type III fracture",
+          "Femoral head slips posteriorly and medially relative to the metaphysis",
+          "Represents a Salter-Harris type I fracture through the subcapital physis"
+        ],
+        "correctAnswer": "B) Considered a Salter-Harris type III fracture",
+        "correctAnswerText": "Considered a Salter-Harris type III fracture",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "SCFE is a Salter-Harris type I fracture of the subcapital femoral physis due to chronic weight-bearing stress, not type III.",
+        "batchName": "Endorphin Mini-OSCE (Group C)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group C)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__10__aptrzx",
+        "number": "10",
+        "text": "All of the following are seen in non-accidental trauma EXCEPT:",
+        "options": [
+          "Bucket handle (metaphyseal corner) fracture",
+          "Parietal bone fracture",
+          "Posterior rib fractures"
+        ],
+        "originalOptions": [
+          "Bucket handle (metaphyseal corner) fracture",
+          "Parietal bone fracture",
+          "Posterior rib fractures"
+        ],
+        "correctAnswer": "B) Parietal bone fracture",
+        "correctAnswerText": "Parietal bone fracture",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury. Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
+        "batchName": "",
+        "batchNames": [],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__11__406r4r",
+        "number": "11",
+        "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
+        "options": [
+          "Metaphyseal corner (bucket handle) fracture",
+          "Posterior rib fracture",
+          "Parietal bone fracture",
+          "Scapular fracture"
+        ],
+        "originalOptions": [
+          "Metaphyseal corner (bucket handle) fracture",
+          "Posterior rib fracture",
+          "Parietal bone fracture",
+          "Scapular fracture"
+        ],
+        "correctAnswer": "C) Parietal bone fracture",
+        "correctAnswerText": "Parietal bone fracture",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.",
+        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group B)",
+          "Endorphin Mini-OSCE (Group D)",
+          "Endorphin Mini-OSCE (Group E)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__12__o1ahef",
+        "number": "12",
+        "text": "All of the following are seen in hyperparathyroidism EXCEPT:",
+        "options": [
+          "Bamboo spine",
+          "Chondrocalcinosis",
+          "Rugger jersey spine",
+          "Salt and pepper sign"
+        ],
+        "originalOptions": [
+          "Bamboo spine",
+          "Chondrocalcinosis",
+          "Rugger jersey spine",
+          "Salt and pepper sign"
+        ],
+        "correctAnswer": "A) Bamboo spine",
+        "correctAnswerText": "Bamboo spine",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Bamboo spine results from syndesmophytic fusion in ankylosing spondylitis, not hyperparathyroidism, which instead classically shows rugger jersey spine, salt-and-pepper skull, and chondrocalcinosis.",
+        "batchName": "Endorphin Mini-OSCE (Group B)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group B)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__13__b2cwmd",
+        "number": "13",
+        "text": "Which of the following is NOT true regarding osteogenesis imperfecta?",
+        "options": [
+          "Normal bone density on X-ray",
+          "Perinatal lethal form is type II",
+          "Osteopenia and multiple fractures are characteristic"
+        ],
+        "originalOptions": [
+          "Normal bone density on X-ray",
+          "Perinatal lethal form is type II",
+          "Osteopenia and multiple fractures are characteristic"
+        ],
+        "correctAnswer": "A) Normal bone density on X-ray",
+        "correctAnswerText": "Normal bone density on X-ray",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Osteogenesis imperfecta is characterized by osteopenia (reduced bone density) due to type I collagen defects, not normal bone density.",
+        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group B)",
+          "Endorphin Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__14__7x5fyc",
+        "number": "14",
+        "text": "What is the name of the labelled tarsal bone? [img: cuboidanatomy.png ]",
+        "options": [
+          "Cuneiform bone",
+          "Cuboid",
+          "Navicular bone"
+        ],
+        "originalOptions": [
+          "Cuneiform bone",
+          "Cuboid",
+          "Navicular bone"
+        ],
+        "correctAnswer": "B) Cuboid",
+        "correctAnswerText": "Cuboid",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The cuboid is the laterally positioned tarsal bone articulating with the calcaneus proximally and the 4th/5th metatarsals distally, distinguishing it from the medially located navicular and cuneiforms.",
+        "batchName": "Endorphin Mini-OSCE (Group B)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group B)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__15__y4ma9b",
+        "number": "15",
+        "text": "What is the name of the labelled carpal bone? [img: capitateanatomy.png ]",
+        "options": [
+          "Hamate",
+          "Lunate",
+          "Capitate",
+          "Trapezoid"
+        ],
+        "originalOptions": [
+          "Hamate",
+          "Lunate",
+          "Capitate",
+          "Trapezoid"
+        ],
+        "correctAnswer": "C) Capitate",
+        "correctAnswerText": "Capitate",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).",
+        "batchName": "Endorphin Mini-OSCE (Group B)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group B)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 7,
-    "totalLectures": 11,
+    "totalQuestions": 15,
+    "totalLectures": 13,
     "hasAiFolder": false
   },
   {
