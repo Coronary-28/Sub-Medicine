@@ -1,4 +1,4 @@
-Which of the following diagnoses must be excluded first in a teenage boy presenting with acute left-sided testicular pain?
+Blockhich of the following diagnoses must be excluded first in a teenage boy presenting with acute left-sided testicular pain?
 A) Testicular torsion
 B) Epididymitis
 C) Orchitis
@@ -27,8 +27,6 @@ E) Testicular torsion
 Correct Answer: A) Epididymitis
 Explanation:
 An older man with dysuria (UTI symptoms) and a tender, swollen testis fits epididymitis, typically caused by E. coli and other Gram-negative bacilli in this age group.
-Batch: Coronary Block B
-Note:yes
 ###
 What is the sonographic hallmark of testicular torsion?
 A) Increased epididymal blood flow
@@ -49,7 +47,6 @@ D) Analgesics only
 Correct Answer: A) Immediate surgical exploration
 Explanation:
 Torsion requires urgent surgical detorsion and orchidopexy (with contralateral fixation), since testicular salvage is entirely time-dependent.
-Batch: Coronary Block B
 Note: This is repeated this question is the body only a few many people in a b b and a few years ago by a few many people who is a few years of a b b b b and other than one.
 ###
 Which of the following is NOT a typical feature of testicular torsion?
@@ -61,12 +58,10 @@ E) Sudden severe scrotal pain
 Correct Answer: D) Urethral discharge
 Explanation:
 Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.
-Batch: Coronary Block A / Iris block C / Vagus / Aorta Mini-OSCE (Group D) / Serotonin Final
 ###
 Which of the following is NOT a sign of spermatic cord torsion?
 A) Positive Prehn sign
-B) Transverse lie of testis
-C) Absent cremasteric reflex
+B) Transverse lie of testisNotetiontsent cremasteric reflex
 D) Nausea and vomiting
 Correct Answer: A) Positive Prehn sign
 Explanation:
@@ -89,7 +84,6 @@ D) CT scan
 Correct Answer: C) Renal ultrasound
 Explanation:
 An isolated right-sided varicocele is atypical and raises suspicion for a retroperitoneal mass (e.g., RCC) compressing the right testicular vein before it enters the IVC — renal ultrasound is the appropriate initial screening step.
-Batch: Coronary Block A
 ###
 A case of an isolated right-sided varicocele. What is the next step?
 A) Varicocelectomy
@@ -98,9 +92,6 @@ C) CT abdomen
 Correct Answer: C) CT abdomen
 Explanation:
 Renal ultrasound would be the preferred first step if listed; here, CT abdomen is chosen since scrotal ultrasound only confirms the varicocele itself and cannot assess for an underlying retroperitoneal obstructing mass.
-Batch: Coronary Block A
-Note: its hard.
-P(78)
 ###
 What are the typical clinical manifestations of varicocele?
 A) Pain only
@@ -110,7 +101,6 @@ D) Neither pain nor infertility
 Correct Answer: C) Both pain and infertility
 Explanation:
 Most varicoceles are asymptomatic, but when symptomatic they can cause chronic testicular heaviness/pain and impaired spermatogenesis leading to infertility.
-Batch: Coronary Block A
 ###
 A child presents to the ER with right-sided painful scrotal swelling for 5 hours, an absent cremasteric reflex, and a transverse testicular lie. He ate food 2 hours ago. What is the best management?
 A) Antibiotics
