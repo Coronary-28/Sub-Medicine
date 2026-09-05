@@ -1,0 +1,626 @@
+An unresponsive patient regains a pulse after defibrillation for ventricular fibrillation, and the post-shock ECG shows third-degree AV block with a slow ventricular rate. What is the next most appropriate step in management?
+A) High-dose IV epinephrine
+B) Amiodarone infusion
+C) Transcutaneous pacing
+D) Begin chest compressions
+E) Repeat defibrillation
+Correct Answer: C) Transcutaneous pacing
+Explanation: With a pulse present, symptomatic complete heart block is treated with transcutaneous pacing (± dopamine/epinephrine infusion) rather than defibrillation or chest compressions, which are reserved for pulseless rhythms.
+Note: Without a pulse, this is PEA: resume CPR and give epinephrine; routine pacing during established arrest is not recommended.
+###
+[img: ER0051.png ]
+The recovered ECG shows P waves marching out independently from QRS complexes at a faster rate than the ventricular rate, with no fixed relationship between P and QRS. What is the diagnosis?
+A) Third-degree (complete) AV block
+B) Mobitz type II second-degree AV block
+C) Mobitz type I (Wenckebach) block
+D) Sinus arrhythmia
+Correct Answer: A) Third-degree (complete) AV block
+Explanation: Complete AV dissociation — P waves and QRS complexes occurring independently with the atrial rate faster than the ventricular escape rate — defines third-degree AV block, unlike Mobitz I/II where some P waves still conduct.
+###
+Which statement correctly differentiates Mobitz type I from Mobitz type II second-degree AV block?
+A) Mobitz I has a constant PR interval with sudden dropped beats; Mobitz II shows progressive PR prolongation
+B) Both types show progressive PR prolongation before a dropped beat
+C) Mobitz II is usually AV-nodal with a narrow QRS and low risk of complete block
+D) Mobitz I shows progressive PR prolongation until a P wave is not conducted and is usually AV-nodal with a narrow QRS; Mobitz II has constant PR intervals with sudden nonconducted beats and is usually infranodal with a wide QRS
+Correct Answer: D) Mobitz I shows progressive PR prolongation until a P wave is not conducted and is usually AV-nodal with a narrow QRS; Mobitz II has constant PR intervals with sudden nonconducted beats and is usually infranodal with a wide QRS
+Explanation: Mobitz I reflects reversible AV-nodal delay with progressive PR lengthening before a dropped beat; Mobitz II is an infranodal block with fixed PR intervals and a higher risk of progressing to complete heart block.
+###
+A 12-lead ECG shows a constant PR interval of 240 ms with every P wave followed by a QRS complex. What is the diagnosis?
+A) Mobitz type I AV block
+B) First-degree AV block
+C) Mobitz type II AV block
+D) Third-degree AV block
+Correct Answer: B) First-degree AV block
+Explanation: A fixed PR interval >200 ms with 1:1 conduction (no dropped beats) defines first-degree AV block, a partial delay rather than an interruption of conduction.
+###
+[img: see ER0054]
+The ECG shows constant PR intervals with intermittent nonconducted P waves in a patient with an acute anterior wall MI. What is the most appropriate next step?
+A) Observe; no intervention needed
+B) Start an oral beta-blocker
+C) Give atropine only, with no further action
+D) IV amiodarone
+E) Ensure urgent temporary pacing capability and cardiology evaluation
+Correct Answer: E) Ensure urgent temporary pacing capability and cardiology evaluation
+Explanation: Mobitz II or high-grade AV block complicating anterior MI reflects extensive infranodal conduction system damage and can progress abruptly to complete block/asystole, so urgent pacing readiness and cardiology evaluation are required rather than observation or AV-nodal blocking drugs.
+###
+[img: see ER0055]
+An asymptomatic 29-year-old has first-degree AV block on this ECG with no other conduction disease. What is the best next step?
+A) Admit for percutaneous pacing
+B) Synchronized cardioversion 200 J
+C) No acute treatment; review medications and confirm the cause
+D) Defibrillation
+E) Synchronized cardioversion 50 J
+Correct Answer: C) No acute treatment; review medications and confirm the cause
+Explanation: Isolated, asymptomatic first-degree AV block requires no acute intervention beyond identifying reversible causes (e.g., AV-nodal blocking drugs); cardioversion and defibrillation are irrelevant since this is not a tachyarrhythma
+###
+What are the defining ECG features of complete (third-degree) AV block?
+A) Progressive PR prolongation before a dropped beat
+B) Complete dissociation between P waves and QRS complexes, with the atrial rate exceeding the ventricular escape rate
+C) Fixed PR interval with intermittent nonconducted P waves
+D) Constant PR interval >200 ms with 1:1 conduction
+Correct Answer: B) Complete dissociation between P waves and QRS complexes, with the atrial rate exceeding the ventricular escape rate
+Explanation: In third-degree block, P waves and QRS complexes occur completely independently (AV dissociation), with the atrial rate faster than the escape ventricular rate; the escape QRS is narrow if junctional, wide if ventricular/infranodal.
+###
+What ECG finding is diagnostic of complete (third-degree) heart block?
+A) Progressive PR lengthening
+B) Fixed PR interval with dropped beats
+C) Short PR interval with a delta wave
+D) Irregularly irregular rhythm without P waves
+E) Complete dissociation between P waves and QRS complexes
+Correct Answer: E) Complete dissociation between P waves and QRS complexes
+Explanation: The hallmark of complete heart block is total dissociation of atrial and ventricular activity — P waves and QRS complexes occur independently at their own rates.
+###
+A patient develops Mobitz II AV block complicating an acute anterior wall MI. When is a permanent pacemaker indicated?
+A) Only if the patient develops asystole
+B) Never; anterior MI-related block always resolves
+C) If the infranodal block persists despite treatment of reversible causes, since anterior MI-related block reflects extensive septal damage and carries a high risk of progression
+D) Only after 6 months of observation
+Correct Answer: C) If the infranodal block persists despite treatment of reversible causes, since anterior MI-related block reflects extensive septal damage and carries a high risk of progression
+Explanation: Anterior MI causing Mobitz II/high-grade block indicates extensive septal/infranodal damage with a high risk of sudden complete block or asystole; if it persists after reversible causes are addressed, permanent pacing is indicated.
+###
+A patient has atrial fibrillation of unknown duration and is hemodynamically stable. What anticoagulation strategy should precede elective cardioversion?
+A) Therapeutic anticoagulation for at least 3 weeks before and 4 weeks after cardioversion, or a TEE-guided strategy with peri- and post-procedural anticoagulation
+B) No anticoagulation needed if cardioversion restores sinus rhythm
+C) Anticoagulate for 24 hours only
+D) Anticoagulation is only needed after cardioversion, not before
+Correct Answer: A) Therapeutic anticoagulation for at least 3 weeks before and 4 weeks after cardioversion, or a TEE-guided strategy with peri- and post-procedural anticoagulation
+Explanation: For AF ≥48 hours or of unknown duration, guidelines require ≥3 weeks anticoagulation before and ≥4 weeks after elective cardioversion (or TEE exclusion of thrombus with periprocedural anticoagulation), because stroke risk depends on atrial stasis duration, not on restoration of sinus rhythm.
+###
+[img: see ER0062]
+A hemodynamically stable patient has atrial flutter with a ventricular rate around 130/min and no heart-failure symptoms. What is the best initial treatment?
+A) Synchronized cardioversion
+B) Adenosine
+C) Amiodarone
+D) A beta-blocker for ventricular rate control
+Correct Answer: D) A beta-blocker for ventricular rate control
+Explanation: In stable atrial flutter, rate control with a beta-blocker (or diltiazem/verapamil if LVEF is preserved) is first-line; cardioversion is reserved for instability, and adenosine only transiently unmasks flutter waves without terminating the rhythm.
+###
+Which arrhythmia is most commonly associated with thyrotoxicosis?
+A) Ventricular tachycardia
+B) Atrial fibrillation
+C) Third-degree AV block
+D) Torsades de pointes
+Correct Answer: B) Atrial fibrillation
+Explanation: Thyrotoxicosis sensitizes atrial myocardium and is a classic reversible cause of atrial fibrillation; thyroid function should be checked in all new-onset AF.
+###
+[img: see ER0064]
+A patient has had palpitations for 1 week due to atrial fibrillation, with no syncope, heart failure, or chest pain. She is hemodynamically stable. What is the best next step?
+A) Synchronized cardioversion 50 J
+B) Synchronized cardioversion 200 J
+C) Defibrillation
+D) Amiodarone
+E) IV diltiazem
+Correct Answer: E) IV diltiazem
+Explanation: In stable AF with preserved LVEF, IV diltiazem provides acute ventricular rate control; cardioversion is not first-line without addressing anticoagulation given the AF duration is ≥48 hours, and defibrillation is inappropriate for a non-shockable rhythm with a pulse.
+###
+Which finding alone is NOT considered an ACLS sign of hemodynamic instability in a patient with atrial flutter?
+A) Hypotension
+B) Ischemic chest discomfort
+C) A high ventricular rate alone
+D) Acute pulmonary edema
+Correct Answer: C) A high ventricular rate alone
+Explanation: ACLS instability criteria require hypotension, altered mental status, shock, ischemic chest pain, or acute heart failure attributable to the arrhythmia; a fast rate by itself, without these findings, does not define instability.
+###
+In a patient with atrial fibrillation, which factor determines whether rate control or rhythm control is prioritized, and how should ventricular rate be managed if AF is hemodynamically stable?
+A) If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)
+B) All stable AF patients require immediate cardioversion regardless of duration
+C) Diltiazem is preferred over beta-blockers regardless of ejection fraction
+D) Digoxin is always first-line for rate control
+Correct Answer: A) If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)
+Explanation: Unstable AF mandates immediate cardioversion; in stable AF, management is individualized, and non-dihydropyridine calcium channel blockers are restricted to patients with LVEF above 40% to avoid worsening heart failure.
+###
+A hemodynamically stable patient with atrial fibrillation has an LVEF of 30%. Which agent should be avoided for ventricular rate control?
+A) Digoxin
+B) IV amiodarone
+C) A compensated beta-blocker
+D) IV diltiazem or verapamil
+Correct Answer: D) IV diltiazem or verapamil
+Explanation: Non-dihydropyridine calcium channel blockers have negative inotropic effects and should be avoided when LVEF is below 40%; beta-blockers (if compensated), digoxin, or amiodarone in decompensated states are preferred alternatives.
+###
+A patient with Wolff-Parkinson-White syndrome presents in pre-excited atrial fibrillation. Which class of drugs must be avoided?
+A) Class Ia antiarrhythmics such as procainamide
+B) Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)
+C) Class III antiarrhythmics such as ibutilide
+D) Synchronized cardioversion
+Correct Answer: B) Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)
+Explanation: AV-nodal blocking agents can preferentially slow AV-node conduction while leaving the accessory pathway unopposed, accelerating ventricular conduction and precipitating ventricular fibrillation; procainamide or cardioversion are used instead.
+###
+What is the primary indication for emergency electrical cardioversion in atrial fibrillation?
+A) AF diagnosed incidentally on a routine ECG
+B) AF lasting less than 12 hours regardless of symptoms
+C) Any patient with LVEF below 40%
+D) Recurrent paroxysmal AF with prior successful rate control
+E) AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)
+Correct Answer: E) AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)
+Explanation: Emergency synchronized cardioversion is reserved for AF causing hemodynamic compromise; stable AF is managed with rate/rhythm-control strategies and appropriately timed anticoagulation.
+###
+[img: see ER0064]
+What rhythm is shown on this 12-lead ECG?
+A) Atrial flutter
+B) Multifocal atrial tachycardia
+C) Atrial fibrillation
+D) Sinus arrhythmia
+Correct Answer: C) Atrial fibrillation
+Explanation: The tracing shows an irregularly irregular ventricular rhythm without discrete P waves, replaced by fine fibrillatory baseline oscillations — diagnostic of atrial fibrillation.
+###
+A patient has symptomatic bradycardia with a heart rate of 32/min and a palpable pulse. Which of the following are acceptable therapeutic options if the initial drug is ineffective?
+A) Atropine, followed by transcutaneous pacing and/or dopamine or epinephrine infusion
+B) Immediate chest compressions regardless of pulse
+C) High-energy unsynchronized defibrillation
+D) Observation only, since bradycardia is never treated pharmacologically
+Correct Answer: A) Atropine, followed by transcutaneous pacing and/or dopamine or epinephrine infusion
+Explanation: Atropine is first-line for symptomatic bradycardia with a pulse; if ineffective, transcutaneous pacing and/or a chronotropic infusion are next-line options per the adult bradycardia algorithm.
+###
+An adult patient has symptomatic bradycardia with a pulse and poor perfusion. What is the correct approach to management?
+A) Chest compressions, cardiac drugs, defibrillation
+B) Chest compressions, invasive airway, transcutaneous pacing
+C) Chest compressions, defibrillation, cardiac drugs
+D) Support ABCs and give atropine; if ineffective, use transcutaneous pacing and/or a dopamine or epinephrine infusion
+Correct Answer: D) Support ABCs and give atropine; if ineffective, use transcutaneous pacing and/or a dopamine or epinephrine infusion
+Explanation: Since the patient has a pulse, chest compressions and defibrillation are not indicated; the adult bradycardia algorithm proceeds from atropine to pacing/chronotropic infusion if there is inadequate response.
+###
+What defines sinus arrest, and how does its ECG pause differ from a sinoatrial exit block?
+A) Sinus arrest shows a pause that is an exact multiple of the baseline P-P interval
+B) Sinus arrest is a pause from failure of sinus-node impulse formation, with absent expected P-QRS-T complexes, and the pause is not necessarily a multiple of the baseline P-P interval (unlike SA exit block, where it typically is)
+C) Sinus arrest and SA exit block are indistinguishable on ECG
+D) Sinus arrest requires a pause exceeding 10 seconds to be diagnosed
+Correct Answer: B) Sinus arrest is a pause from failure of sinus-node impulse formation, with absent expected P-QRS-T complexes, and the pause is not necessarily a multiple of the baseline P-P interval (unlike SA exit block, where it typically is)
+Explanation: Sinus arrest reflects failure of P-cell impulse generation (non-mathematical pause), whereas SA exit block reflects failed conduction of a normally generated impulse (pause is a multiple of the P-P interval).
+###
+What is the first-line medication to treat symptomatic bradycardia?
+A) Diltiazem
+B) Propranolol
+C) Dopamine
+D) Verapamil
+E) Atropine
+Correct Answer: E) Atropine
+Explanation: Atropine is the first drug given in the adult symptomatic bradycardia algorithm because it reverses excessive vagal tone at the SA/AV node; beta-blockers and calcium channel blockers would worsen bradycardia.
+###
+A patient has symptomatic bradycardia with cardiopulmonary compromise. What is the correct atropine dosing and next step if ineffective?
+A) Atropine 0.1 mg IV once only
+B) Atropine 5 mg IV bolus, single dose
+C) Atropine 1 mg IV every 3-5 minutes to a maximum of 3 mg; if ineffective, transcutaneous pacing and/or dopamine or epinephrine infusion
+D) Atropine is contraindicated in bradycardia
+Correct Answer: C) Atropine 1 mg IV every 3-5 minutes to a maximum of 3 mg; if ineffective, transcutaneous pacing and/or dopamine or epinephrine infusion
+Explanation: Current ACLS bradycardia dosing is atropine 1 mg IV push every 3-5 minutes (max 3 mg); persistent symptomatic bradycardia despite atropine warrants pacing or a chronotropic infusion while reversible causes are treated.
+###
+Which of the following is an EXTRINSIC (reversible) cause of bradycardia rather than intrinsic SA-node disease?
+A) Increased vagal tone or drug effect
+B) Sick sinus syndrome
+C) Idiopathic SA-node fibrosis
+D) Intrinsic AV node disease
+Correct Answer: A) Increased vagal tone (pain, vomiting, Valsalva, carotid sinus hypersensitivity) or drug effect (beta-blockers, digoxin)
+Explanation: Extrinsic bradycardia results from reversible factors like vagal stimulation, drugs, hypothyroidism, or raised ICP, distinguishing it from intrinsic structural SA-node disease such as sick sinus syndrome or fibrosis.
+###
+Which of the following is a pathological, intrinsic cause of bradycardia rather than a normal physiological variant?
+A) High resting vagal tone in a trained athlete
+B) Bradycardia during sleep
+C) Respiratory sinus arrhythmia in a healthy child
+D) Sick sinus syndrome
+Correct Answer: D) Sick sinus syndrome
+Explanation: Sick sinus syndrome reflects intrinsic structural SA-node disease (typically idiopathic fibrosis), unlike athletic bradycardia, sleep-related bradycardia, or respiratory sinus arrhythmia, which are normal physiological findings.
+###
+How is sinus arrhythmia defined, and what does a non-phasic pattern suggest in the context of sick sinus syndrome?
+A) It is a fixed P-P interval with no respiratory variation; non-phasic forms are always benign
+B) It is SA-node rhythm with P-P interval variation exceeding 120 ms; the classic phasic (respiratory) form is benign, but a non-phasic form in SSS suggests intrinsic SA-node dysfunction, often with sinus pauses or tachy-brady syndrome
+C) It requires a pause exceeding 3 seconds to diagnose
+D) It is defined only by heart rates below 40 bpm
+Correct Answer: B) It is SA-node rhythm with P-P interval variation exceeding 120 ms; the classic phasic (respiratory) form is benign, but a non-phasic form in SSS suggests intrinsic SA-node dysfunction, often with sinus pauses or tachy-brady syndrome
+Explanation: Sinus arrhythmia is diagnosed by P-P variation >120 ms; the respiratory (phasic) form disappears with breath-holding/exercise and is benign, whereas a non-phasic pattern in SSS reflects true SA-node dysfunction.
+###
+What is the first clinical issue assessed in the bradycardia algorithm?
+A) The QRS width
+B) The presence of a delta wave
+C) Whether the bradycardia is causing cardiopulmonary compromise/poor perfusion
+D) The serum potassium level
+Correct Answer: C) Whether the bradycardia is causing cardiopulmonary compromise/poor perfusion
+Explanation: The bradycardia algorithm begins by determining whether the slow rate is causing symptomatic hypoperfusion, since this determines whether pharmacologic/electrical treatment is needed or the patient can be observed.
+###
+[img: see ER0082]
+A 55-year-old asthmatic patient presents with palpitations. and she is hemodynamically stable. What is the best next step for management?
+A) Diltiazem
+B) Amiodarone
+C) Cardioversion
+D) Adenosine
+E) Atropine
+Correct Answer: A) Diltiazem
+Explanation: In stable AF, rate control is first-line; diltiazem is preferred over a beta-blocker in this asthmatic patient to avoid bronchospasm, while adenosine and atropine have no role in AF.
+###
+[img: see ER0083]
+A 73-year-old ICU patient becomes unresponsive with a tachyarrhythmia on ECG and a blood pressure of 70/40. What is the best next step for management?
+A) Adenosine 6 mg
+B) Amiodarone 300 mg
+C) Diltiazem 0.25 mg
+D) Synchronized cardioversion
+Correct Answer: D) Synchronized cardioversion
+Explanation: A tachyarrhythmia causing severe hypotension and unresponsiveness is unstable; immediate synchronized cardioversion is indicated rather than pharmacologic rate/rhythm control
+###
+[img: see ER0086]
+A patient becomes unresponsive and the ECG shows ventricular fibrillation. What is the immediate next step?
+A) Amiodarone
+B) Adenosine
+C) Synchronized cardioversion
+D) Beta-blocker
+E) Immediate unsynchronized defibrillation with high-quality CPR
+Correct Answer: E) Immediate unsynchronized defibrillation with high-quality CPR
+Explanation: Pulseless VF is a shockable rhythm requiring immediate unsynchronized defibrillation combined with high-quality CPR; synchronized cardioversion applies only to tachyarrhythmias with a pulse.
+###
+How is adult asystolic cardiac arrest managed?
+A) Immediate unsynchronized defibrillation
+B) Synchronized cardioversion followed by amiodarone
+C) Confirm true asystole in at least two leads, begin/continue high-quality CPR, give epinephrine as soon as possible and every 3-5 minutes, and treat reversible causes
+D) Transcutaneous pacing as the first intervention
+Correct Answer: C) Confirm true asystole in at least two leads, begin/continue high-quality CPR, give epinephrine as soon as possible and every 3-5 minutes, and treat reversible causes
+Explanation: Asystole is not a shockable rhythm; management relies on high-quality CPR and epinephrine, with a search for reversible causes (Hs and Ts), rather than defibrillation or routine pacing.
+###
+[img: see ER0088]
+A young athlete collapses and the his ECG. What is the rhythm?
+A) Torsades de pointes
+B) Monomorphic ventricular tachycardia
+C) Ventricular fibrillation
+D) Atrial fibrillation with aberrancy
+Correct Answer: A) Torsades de pointes
+Explanation: The twisting QRS axis around the isoelectric baseline is characteristic of torsades de pointes, a polymorphic VT associated with QT prolongation (e.g., congenital long-QT syndrome in a young patient).
+###
+[img: see ER0089]
+An 85-year-old previously healthy woman presents with recurrent syncope, the last episode an hour ago. Her ECG shows a fixed PR interval with intermittently nonconducted P waves. What type of block does she have?
+A) First-degree AV block
+B) Mobitz type I
+C) Complete heart block
+D) Mobitz type II
+Correct Answer: D) Mobitz type II
+Explanation: A constant PR interval with sudden, unpredicted dropped QRS complexes (no progressive lengthening) defines Mobitz type II, an infranodal block with a high risk of progression to complete heart block — consistent with her syncope.
+###
+[img: see ER0088]
+An ICU patient becomes unresponsive with no pulse and is not breathing. What is the best next step?
+A) Amiodarone
+B) Immediate defibrillation
+C) Epinephrine
+D) Secure the airway first
+Correct Answer: B) Immediate defibrillation
+Explanation: Pulseless polymorphic VT (torsades) is treated as a shockable rhythm; immediate defibrillation takes priority over airway management or drug administration.
+###
+Which intervention provides the greatest immediate survival benefit in ventricular fibrillation?
+A) IV amiodarone
+B) Advanced airway placement
+C) IV epinephrine
+D) Antiarrhythmic infusion
+E) Early unsynchronized defibrillation combined with high-quality CPR
+Correct Answer: E) Early unsynchronized defibrillation combined with high-quality CPR
+Explanation: Time to defibrillation is the strongest predictor of survival in VF; CPR maintains perfusion until a shock can be delivered, while drugs and airway management are adjunctive.
+###
+[img: see ER0088]
+A patient with a family history of sudden cardiac death has this ECG rhythm. What is the rhythm, and what should be evaluated?
+A) Monomorphic VT; evaluate for prior MI
+B) Atrial fibrillation with WPW; evaluate for an accessory pathway
+C) Torsades de pointes; evaluate for congenital long-QT syndrome
+D) Ventricular fibrillation; evaluate for a Brugada pattern
+Correct Answer: C) Torsades de pointes; evaluate for congenital long-QT syndrome
+Explanation: A polymorphic VT with twisting QRS morphology in a young patient with a family history of sudden death should prompt evaluation for congenital long-QT syndrome, a heritable cause of torsades.
+###
+[img: see ER0093]
+This ECG shows an irregularly irregular rhythm with absent P waves, a broad notched R wave in V5/V6, and deep S waves in V1/V2. What two abnormalities are present?
+A) Left bundle branch block with atrial fibrillation
+B) Right bundle branch block with atrial flutter
+C) Mobitz II block with left bundle branch block
+D) Atrial fibrillation with WPW pre-excitation
+Correct Answer: A) Left bundle branch block with atrial fibrillation
+Explanation: The broad, notched R wave in the lateral leads (V5/V6, I, aVL) with reciprocal deep S waves in V1/V2 is diagnostic of LBBB, occurring alongside an irregularly irregular rhythm without discrete P waves, consistent with atrial fibrillation.
+###
+Is a high ventricular rate alone sufficient to define ACLS hemodynamic instability in tachyarrhythmia, and what findings actually define it?
+A) Yes, any rate above 150 bpm defines instability
+B) Yes, but only in patients over 65 years old
+C) No; instability requires a wide QRS complex
+D) No; instability is defined by hypotension, altered mental status, signs of shock, ischemic chest discomfort, or acute heart failure attributable to the tachyarrhythmia
+Correct Answer: D) No; instability is defined by hypotension, altered mental status, signs of shock, ischemic chest discomfort, or acute heart failure attributable to the tachyarrhythmia
+Explanation: ACLS instability criteria require symptoms/signs of inadequate perfusion caused by the arrhythmia; a fast rate alone, without these findings, does not mandate emergent cardioversion.
+###
+What is the most important immediate precursor/risk factor for pulmonary embolism?
+A) Atrial fibrillation
+B) Deep-vein thrombosis, usually from the proximal lower-extremity or pelvic veins
+C) Left atrial appendage thrombus
+D) Patent foramen ovale
+Correct Answer: B) Deep-vein thrombosis, usually from the proximal lower-extremity or pelvic veins
+Explanation: Most pulmonary emboli originate from DVT in the proximal leg or pelvic veins embolizing to the right heart and pulmonary circulation, distinct from left atrial thrombus (which embolizes systemically, e.g., in AF).
+###
+[img: see ER0097]
+An athletic patient presents with a racing heart sensation and stable vitals. The ECG shows a regular narrow-complex tachycardia. What do you give?
+A) Atropine
+B) Diltiazem
+C) Adenosine
+D) Amiodarone
+Correct Answer: C) Adenosine
+Explanation: For a stable, regular narrow-complex (likely SVT) tachycardia, vagal maneuvers followed by IV adenosine is first-line; diltiazem/verapamil are second-line alternatives, and atropine/amiodarone have no role here.
+###
+[img: see ER0098]
+A patient has normal vital signs with a heart rate of 170/min. The ECG shows a regular, monomorphic wide-complex tachycardia. What do you give?
+A) Amiodarone
+B) Adenosine
+C) Diltiazem
+D) Synchronized DC cardioversion
+Correct Answer: A) Amiodarone
+Explanation: In stable, regular monomorphic wide-complex tachycardia (presumed VT with a pulse), an antiarrhythmic infusion such as amiodarone is appropriate with expert consultation; diltiazem/verapamil should be avoided in wide-complex tachycardia of uncertain origin.
+###
+[img: see ER0100]
+Progressive PR-interval prolongation followed by a dropped QRS complex identifies which rhythm?
+A) First-degree AV block
+B) Mobitz II
+C) Complete heart block
+D) Second-degree AV block, Mobitz I (Wenckebach)
+Correct Answer: D) Second-degree AV block, Mobitz I (Wenckebach)
+Explanation: Progressive PR lengthening culminating in a nonconducted P wave, with the cycle then repeating, is the defining feature of Mobitz I (Wenckebach) block.
+###
+What are the symptoms/signs of tachycardia (HR >150 bpm) that indicate urgent treatment?
+A) A heart rate consistently above 150 bpm on its own
+B) Hypotension, acutely altered mental status, signs of shock, ischemic chest discomfort, or acute heart failure attributable to the tachyarrhythmia
+C) Mild palpitations without other symptoms
+D) An irregular rhythm alone
+Correct Answer: B) Hypotension, acutely altered mental status, signs of shock, ischemic chest discomfort, or acute heart failure attributable to the tachyarrhythmia
+Explanation: Urgent treatment (synchronized cardioversion) is guided by signs of hemodynamic compromise caused by the tachyarrhythmia, not by rate alone.
+###
+A patient has a tachyarrhythmia with a rate above 150 bpm but is asymptomatic with normal blood pressure and mentation. How should this be classified?
+A) Automatically unstable, requiring cardioversion
+B) Requires immediate defibrillation
+C) Stable, since rate alone does not meet ACLS instability criteria
+D) Requires immediate epinephrine infusion
+Correct Answer: C) Stable, since rate alone does not meet ACLS instability criteria
+Explanation: Since instability requires hypotension, altered mentation, shock, ischemic pain, or heart failure attributable to the arrhythmia, an asymptomatic patient with normal perfusion despite a fast rate is managed as stable.
+###
+A patient is found pulseless with an organized rhythm on the monitor. What is the most appropriate management?
+A) Immediate high-quality CPR, epinephrine as soon as possible and every 3-5 minutes, and treatment of reversible Hs and Ts (no defibrillation)
+B) Synchronized cardioversion
+C) Unsynchronized defibrillation
+D) Atropine as the first drug
+Correct Answer: A) Immediate high-quality CPR, epinephrine as soon as possible and every 3-5 minutes, and treatment of reversible Hs and Ts (no defibrillation)
+Explanation: An organized rhythm without a pulse is pulseless electrical activity (PEA), which is not shockable; management centers on high-quality CPR, epinephrine, and correcting reversible causes.
+###
+In the treatment algorithm for tachyarrhythmia with a pulse, how should a stable regular narrow-complex tachycardia be approached versus an unstable tachyarrhythmia?
+A) Both are treated identically with adenosine
+B) Unstable patients should always receive adenosine first
+C) Stable narrow-complex tachycardia requires immediate cardioversion regardless of vagal maneuvers
+D) Unstable patients require immediate synchronized cardioversion; stable regular narrow-complex tachycardia is treated with vagal maneuvers followed by adenosine if ineffective
+Correct Answer: D) Unstable patients require immediate synchronized cardioversion; stable regular narrow-complex tachycardia is treated with vagal maneuvers followed by adenosine if ineffective
+Explanation: The presence of instability dictates immediate cardioversion; in stable patients, vagal maneuvers and adenosine are first-line for regular narrow-complex tachycardia before considering rate-control drugs.
+###
+An unresponsive, pulseless patient develops a shockable rhythm on the monitor. What is the immediate treatment?
+A) IV epinephrine before any shock
+B) Immediate unsynchronized defibrillation with prompt resumption of high-quality CPR
+C) Synchronized cardioversion
+D) Atropine
+Correct Answer: B) Immediate unsynchronized defibrillation with prompt resumption of high-quality CPR
+Explanation: A pulseless shockable rhythm (VF/pulseless VT) requires immediate unsynchronized defibrillation, with CPR resumed promptly afterward without pausing to reassess rhythm/pulse first.
+###
+[img: see ER0064]
+What rhythm is shown on this recovered ECG?
+A) Atrial flutter
+B) Heart block
+C) Sinus tachycardia
+D) Multifocal atrial tachycardia
+E) Atrial fibrillation
+Correct Answer: E) Atrial fibrillation
+Explanation: The irregularly irregular rhythm without discernible discrete P waves is characteristic of atrial fibrillation.
+###
+How is a hemodynamically stable, regular narrow-complex tachycardia managed?
+A) Immediate synchronized cardioversion
+B) IV amiodarone as first-line
+
+C) Begin with vagal maneuvers, then give adenosine if the rhythm remains regular; use synchronized cardioversion if the patient becomes unstable
+D) Diltiazem as first-line before any other measure
+Correct Answer: C) Begin with vagal maneuvers, then give adenosine if the rhythm remains regular; use synchronized cardioversion if the patient becomes unstable
+Explanation: Vagal maneuvers can terminate reentrant SVT non-invasively; adenosine is used if vagal maneuvers fail, reserving cardioversion for instability.
+Batch: Endorphin
+###
+[img: see ER0109]
+What is the diagnosis based on this ECG strip?
+A) Normal ECG
+B) First-degree heart block
+C) Second-degree heart block
+D) Atrial flutter
+E) Atrial fibrillation
+Correct Answer: A) Normal ECG
+Explanation: A regular rhythm with a normal P wave preceding every QRS complex, a normal PR interval, and no dropped beats represents a normal sinus rhythm.
+###
+[img: see ER0110]
+The ECG shows an anterior/anteroseptal infarction pattern. Which coronary artery is most likely involved?
+A) Left circumflex
+B) Left main
+C) Right coronary artery
+D) Left anterior descending artery
+Correct Answer: D) Left anterior descending artery
+Explanation: Anterior/anteroseptal ST-elevation MI reflects occlusion of the left anterior descending artery, which supplies the anterior wall and interventricular septum.
+###
+What are the ECG characteristics of multifocal atrial tachycardia (MAT)?
+A) A regular rhythm with a single P-wave morphology
+B) An irregular rhythm with atrial rate >100/min, at least 3 distinct P-wave morphologies, variable P-P/R-R/PR intervals, and an isoelectric baseline between P waves
+C) Absent P waves with fine fibrillatory baseline
+D) A sawtooth flutter-wave pattern
+Correct Answer: B) An irregular rhythm with atrial rate >100/min, at least 3 distinct P-wave morphologies, variable P-P/R-R/PR intervals, and an isoelectric baseline between P waves
+Explanation: MAT is defined by ≥3 morphologically distinct P waves with an irregular rate >100/min, most commonly due to underlying pulmonary disease or electrolyte disturbance; the underlying cause should be treated.
+###
+How can supraventricular tachycardia present atypically compared to classic palpitations?
+A) Only with syncope
+B) Only in elderly patients
+C) Exclusively with chest pain
+D) With a widened QRS complex in all cases
+E) Neck Pulsations and polyuria 
+Correct Answer: E)  Neck Pulsations and polyuria 
+Explanation: Prominent neck pulsations and polyuria. Atrial stretch can increase natriuretic-peptide release and urine output during sustained tachycardia.
+###
+Which unusual neck and urinary symptoms may occur during supraventricular tachycardia?
+A) Jugular venous distension with peripheral edema
+B) Oliguria due to reduced renal perfusion
+C) Prominent neck pulsations ("frog sign") and polyuria from atrial stretch-related natriuretic peptide release
+D) Carotid bruit and hematuria
+Correct Answer: C) Prominent neck pulsations ("frog sign") and polyuria from atrial stretch-related natriuretic peptide release
+Explanation: Simultaneous atrial and ventricular contraction against a closed AV valve during SVT produces visible neck pulsations, while atrial stretch increases ANP/BNP release, causing polyuria.
+###
+How is an unstable tachyarrhythmia with a pulse treated?
+A) Immediate synchronized cardioversion, with sedation if feasible without delaying the shock
+B) Carotid sinus massage
+C) IV adenosine
+D) Amiodarone infusion
+Correct Answer: A) Immediate synchronized cardioversion, with sedation if feasible without delaying the shock
+Explanation: An unstable tachyarrhythmia with a pulse (hypotension, altered mentation, shock, ischemic pain, or heart failure) requires immediate synchronized cardioversion rather than vagal maneuvers or drug therapy, which are for stable patients.
+###
+A patient treated for SVT develops transient flushing, chest pressure, and dyspnea immediately after a rapid IV drug push. Which drug most likely caused these effects?
+A) Aspirin
+B) Amitriptyline
+C) Amiodarone
+D) Adenosine
+Correct Answer: D) Adenosine
+Explanation: Adenosine causes brief, self-limited flushing, chest pressure, and dyspnea due to its very short half-life and transient AV-nodal/vasodilatory effects, which resolve within seconds.
+###
+A conscious, hemodynamically stable patient has regular monomorphic ventricular tachycardia with a pulse. What is the next treatment?
+A) Immediate synchronized cardioversion
+B) Obtain expert consultation and give an antiarrhythmic infusion (e.g., procainamide, amiodarone, or sotalol); cardiovert if instability develops
+C) Unsynchronized defibrillation
+D) Observation only
+Correct Answer: B) Obtain expert consultation and give an antiarrhythmic infusion (e.g., procainamide, amiodarone, or sotalol); cardiovert if instability develops
+Explanation: Stable monomorphic VT with a pulse is managed with antiarrhythmic drug therapy under expert guidance; cardioversion is reserved for instability, and defibrillation is inappropriate since the patient has a pulse.
+###
+A person with alcohol use disorder collapses and is found to be in torsades de pointes. What intervention is most likely to correct the underlying problem?
+A) Rewarm the individual to correct hypothermia
+B) Administer glucose to correct hypoglycemia
+C) Administer naloxone to correct narcotic overdose
+D) Administer high-dose oral potassium
+E) Administer IV magnesium sulfate
+Correct Answer: E) Administer IV magnesium sulfate
+Explanation: Torsades de pointes, especially in a patient with alcohol use (predisposing to hypomagnesemia/hypokalemia), is treated with IV magnesium sulfate even if the measured level is normal; defibrillation is needed if the patient becomes pulseless or unstable.
+###
+What is ventricular bigeminy?
+A) Three or more consecutive PVCs
+B) A single isolated PVC occurring randomly
+C) A repeating 1:1 pattern in which each normal conducted beat is followed by a PVC (normal beat-PVC-normal beat-PVC)
+D) Two consecutive PVCs followed by a compensatory pause
+Correct Answer: C) A repeating 1:1 pattern in which each normal conducted beat is followed by a PVC (normal beat-PVC-normal beat-PVC)
+Explanation: Bigeminy describes the fixed alternating pattern of one sinus beat followed by one PVC, repeating throughout the rhythm strip.
+###
+What is the underlying etiology of torsades de pointes?
+A) Prolonged QT interval, congenital or acquired (e.g., QT-prolonging drugs, hypokalemia, hypomagnesemia, hypocalcemia, marked bradycardia)
+B) Shortened PR interval with an accessory pathway
+C) A macro-reentrant circuit around the tricuspid isthmus
+D) Complete AV dissociation
+Correct Answer: A) Prolonged QT interval, congenital or acquired (e.g., QT-prolonging drugs, hypokalemia, hypomagnesemia, hypocalcemia, marked bradycardia)
+Explanation: Torsades de pointes is a polymorphic VT that occurs in the setting of QT prolongation, commonly precipitated by electrolyte disturbances, certain drugs, or congenital long-QT syndromes.
+###
+What is the first-line treatment for a drug-resistant, stable monomorphic ventricular tachycardia with a pulse that persists despite antiarrhythmic therapy?
+A) Unsynchronized defibrillation
+B) Repeat the same antiarrhythmic at a higher dose indefinitely
+C) Observation
+D) Synchronized cardioversion with expert support
+Correct Answer: D) Synchronized cardioversion with expert support
+Explanation: Stable monomorphic VT that persists despite (or cannot receive) antiarrhythmic therapy should be electrically cardioverted (synchronized, since a pulse is present); unsynchronized shocks are reserved for pulseless or polymorphic VT.
+###
+How many consecutive premature ventricular contractions (PVCs) are required to define ventricular tachycardia?
+A) 5 or more PVCs
+B) 3 or more consecutive PVCs
+C) 10 or more PVCs
+D) A single PVC repeated every other beat
+Correct Answer: B) 3 or more consecutive PVCs
+Explanation: Three or more consecutive PVCs at a rate typically 140-240 bpm defines (non-sustained, if <30 seconds) ventricular tachycardia.
+###
+[img: see ER0122]
+A patient has regular monomorphic ventricular tachycardia with a pulse and remains hemodynamically stable.
+What is an appropriate initial treatment?
+A) Unsynchronized defibrillation
+B) Observation only
+C) IV atropine
+D) Immediate synchronized cardioversion regardless of stability
+E) An antiarrhythmic infusion (procainamide, amiodarone, or sotalol) with expert consultation
+Correct Answer: E) An antiarrhythmic infusion (procainamide, amiodarone, or sotalol) with expert consultation
+Explanation: Stable monomorphic VT with a pulse is initially managed with an antiarrhythmic infusion under expert guidance; synchronized cardioversion is reserved for if instability develops.
+###
+Which of the following are recognized morphology-based classifications of ventricular tachycardia?
+A) Sustained and nonsustained only
+B) Narrow and wide only
+C) Monomorphic, polymorphic (including torsades when QT is prolonged), and bidirectional
+D) Junctional and idioventricular
+Correct Answer: C) Monomorphic, polymorphic (including torsades when QT is prolonged), and advanced VT
+Explanation: VT is classified by QRS morphology into monomorphic (uniform beat-to-beat morphology), polymorphic (varying morphology, including torsades with QT prolongation),
+###
+A patient has ventricular tachycardia with a heart rate of 300/min, blood pressure 94/78, and no chest pain. What is the most appropriate management?
+A) Reassess perfusion carefully; if instability (e.g., a narrow pulse pressure suggesting poor perfusion) is present despite the absence of chest pain, perform synchronized cardioversion rather than relying on drug therapy
+B) Observation only
+C) Lidocaine as sole therapy regardless of hemodynamic status
+D) Discharge home with outpatient follow-up
+Correct Answer: A) Reassess perfusion carefully; if instability (e.g., a narrow pulse pressure suggesting poor perfusion) is present despite the absence of chest pain, perform synchronized cardioversion rather than relying on drug therapy
+Explanation: A rate of 300/min with a narrow pulse pressure raises concern for inadequate perfusion despite the absence of chest pain; stability must be judged by the full clinical picture, not a single reassuring symptom.
+###
+Which drugs must be avoided in a patient with WPW syndrome who develops atrial fibrillation?
+A) Class Ia antiarrhythmics
+B) Class III antiarrhythmics such as ibutilide
+C) Synchronized cardioversion
+D) AV-nodal blocking agents (adenosine, beta-blockers, diltiazem/verapamil, digoxin)
+Correct Answer: D) AV-nodal blocking agents (adenosine, beta-blockers, diltiazem/verapamil, digoxin)
+Explanation: In pre-excited AF, AV-nodal blockers can preferentially block the AV node while accelerating conduction down the accessory pathway, risking degeneration into ventricular fibrillation; procainamide or cardioversion is used instead.
+###
+What is a delta wave on ECG?
+A) A notched, tall R wave in the inferior leads
+B) A slurred initial upstroke of the QRS complex from early ventricular activation through an accessory pathway
+C) A widened, deep S wave in the lateral leads
+D) A biphasic P wave in lead V1
+Correct Answer: B) A slurred initial upstroke of the QRS complex from early ventricular activation through an accessory pathway
+Explanation: The delta wave reflects pre-excitation — early ventricular depolarization via an accessory pathway bypassing the AV node's normal conduction delay — and, with a short PR interval, is diagnostic of WPW.
+###
+[img: see ER0127]
+What is the diagnostic ECG triad of Wolff-Parkinson-White pre-excitation?
+A) Prolonged PR interval, narrow QRS, and absent P waves
+B) Sawtooth flutter waves with a fixed AV conduction ratio
+C) Irregularly irregular rhythm with fibrillatory waves
+D) Progressive PR prolongation with a dropped beat
+E) Short PR interval, a delta wave (slurred initial QRS upstroke), and a widened QRS complex
+Correct Answer: E) Short PR interval, a delta wave (slurred initial QRS upstroke), and a widened QRS complex
+Explanation: The accessory pathway bypasses the AV node's conduction delay (short PR) and causes early, slurred ventricular depolarization (delta wave), widening the QRS complex.
+###
+What is the primary risk associated with WPW syndrome?
+A) Progression to sinus node dysfunction
+B) Development of first-degree AV block
+C) Rapid antegrade accessory-pathway conduction during atrial fibrillation degenerating into ventricular fibrillation and sudden cardiac death
+D) Gradual progression to dilated cardiomyopathy
+Correct Answer: C) Rapid antegrade accessory-pathway conduction during atrial fibrillation degenerating into ventricular fibrillation and sudden cardiac death
+Explanation: In pre-excited AF, the accessory pathway can conduct extremely rapidly to the ventricles (unimpeded by AV-nodal delay), risking degeneration into VF — this is why AV-nodal blocking drugs are dangerous in this setting.
+###
+How is a hemodynamically stable case of atrial fibrillation initially managed?
+A) Assess duration, stroke risk, heart failure/LVEF, blood pressure, and pre-excitation; use appropriate ventricular rate control and an anticoagulation/rhythm strategy as indicated
+B) Give amiodarone as a universal first-line agent regardless of other factors
+C) Perform immediate cardioversion regardless of duration
+D) Withhold all treatment until symptoms worsen
+Correct Answer: A) Assess duration, stroke risk, heart failure/LVEF, blood pressure, and pre-excitation; use appropriate ventricular rate control and an anticoagulation/rhythm strategy as indicated
+Explanation: Stable AF management is individualized based on AF duration, LVEF, stroke risk, and pre-excitation status; amiodarone is not a universal first-line choice.
+###
+What are the ECG characteristics of polymorphic ventricular tachycardia?
+A) A regular, uniform QRS morphology throughout
+B) A rapid wide-complex tachycardia with continuously changing QRS morphology and axis, with torsades de pointes being the form associated with a prolonged QT
+C) A narrow-complex tachycardia with absent P waves
+D) A sawtooth baseline pattern
+Correct Answer: B) A rapid wide-complex tachycardia with continuously changing QRS morphology and axis, with torsades de pointes being the form associated with a prolonged QT
+Explanation: Polymorphic VT shows beat-to-beat variation in QRS morphology/axis; when this occurs with QT prolongation, it is specifically termed torsades de pointes.
+###
+What are the ECG characteristics of a premature ventricular complex (PVC)?
+A) A narrow QRS preceded by an early, abnormal P wave
+B) A regular rhythm with progressive PR prolongation
+C) A wide QRS with a preceding normal P wave and no pause
+D) Absent P waves with an irregularly irregular rhythm
+E) A premature wide QRS complex, usually without a preceding normal P wave, ٪؜ followed by a compensatory pause
+Correct Answer: E) A premature wide QRS complex, usually without a preceding normal P wave, typically followed by a compensatory pause
+Explanation: PVCs arise from ventricular ectopic foci, producing an early, wide, bizarre QRS without a preceding P wave, and the post-ectopic pause creates the "skipped beat" sensation patients report.
