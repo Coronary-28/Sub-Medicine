@@ -1672,10 +1672,8 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "Vagal maneuvers can terminate reentrant SVT non-invasively; adenosine is used if vagal maneuvers fail, reserving cardioversion for instability.",
-            "batchName": "Endorphin",
-            "batchNames": [
-              "Endorphin"
-            ],
+            "batchName": "",
+            "batchNames": [],
             "note": "",
             "pageNumber": "",
             "subjectName": "Emergency",
@@ -2459,52 +2457,7 @@
       }
     ],
     "ai": [],
-    "years": [
-      {
-        "id": "emergency__year__endorphin",
-        "name": "Endorphin",
-        "type": "year",
-        "subjectName": "Emergency",
-        "questions": [
-          {
-            "id": "emergency__lecture__arrhythmias__50__pngwq5",
-            "number": "50",
-            "text": "How is a hemodynamically stable, regular narrow-complex tachycardia managed?",
-            "options": [
-              "Immediate synchronized cardioversion",
-              "IV amiodarone as first-line",
-              "Begin with vagal maneuvers, then give adenosine if the rhythm remains regular; use synchronized cardioversion if the patient becomes unstable",
-              "Diltiazem as first-line before any other measure"
-            ],
-            "originalOptions": [
-              "Immediate synchronized cardioversion",
-              "IV amiodarone as first-line",
-              "Begin with vagal maneuvers, then give adenosine if the rhythm remains regular; use synchronized cardioversion if the patient becomes unstable",
-              "Diltiazem as first-line before any other measure"
-            ],
-            "correctAnswer": "C) Begin with vagal maneuvers, then give adenosine if the rhythm remains regular; use synchronized cardioversion if the patient becomes unstable",
-            "correctAnswerText": "Begin with vagal maneuvers, then give adenosine if the rhythm remains regular; use synchronized cardioversion if the patient becomes unstable",
-            "correctIndex": 2,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "C",
-            "explanation": "Vagal maneuvers can terminate reentrant SVT non-invasively; adenosine is used if vagal maneuvers fail, reserving cardioversion for instability.",
-            "batchName": "Endorphin",
-            "batchNames": [
-              "Endorphin"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Emergency",
-            "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          }
-        ]
-      }
-    ],
+    "years": [],
     "allQuestions": [
       {
         "id": "emergency__lecture__arrhythmias__1__ngmfn5",
@@ -4168,10 +4121,8 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "Vagal maneuvers can terminate reentrant SVT non-invasively; adenosine is used if vagal maneuvers fail, reserving cardioversion for instability.",
-        "batchName": "Endorphin",
-        "batchNames": [
-          "Endorphin"
-        ],
+        "batchName": "",
+        "batchNames": [],
         "note": "",
         "pageNumber": "",
         "subjectName": "Emergency",
@@ -4953,7 +4904,7 @@
       }
     ],
     "totalQuestions": 73,
-    "totalLectures": 2,
+    "totalLectures": 1,
     "hasAiFolder": false
   },
   {
