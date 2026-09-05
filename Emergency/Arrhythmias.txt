@@ -423,12 +423,10 @@ Explanation: The irregularly irregular rhythm without discernible discrete P wav
 How is a hemodynamically stable, regular narrow-complex tachycardia managed?
 A) Immediate synchronized cardioversion
 B) IV amiodarone as first-line
-
 C) Begin with vagal maneuvers, then give adenosine if the rhythm remains regular; use synchronized cardioversion if the patient becomes unstable
 D) Diltiazem as first-line before any other measure
 Correct Answer: C) Begin with vagal maneuvers, then give adenosine if the rhythm remains regular; use synchronized cardioversion if the patient becomes unstable
 Explanation: Vagal maneuvers can terminate reentrant SVT non-invasively; adenosine is used if vagal maneuvers fail, reserving cardioversion for instability.
-Batch: Endorphin
 ###
 [img: see ER0109]
 What is the diagnosis based on this ECG strip?
