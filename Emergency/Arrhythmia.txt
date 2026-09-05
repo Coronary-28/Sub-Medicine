@@ -103,6 +103,57 @@ Correct Answer: B) Atrial fibrillation
 Explanation: Thyrotoxicosis sensitizes atrial myocardium and is a classic reversible cause of atrial fibrillation; thyroid function should be checked in all new-onset AF.
 ###
 [img: ERArrhythmia5.png]
+A patient has had palpitations for 1 week due to atrial fibrillation, with no syncope, heart failure, or chest pain. She is hemodynamically stable. What is the best next step?
+A) Synchronized cardioversion 50 J
+B) Synchronized cardioversion 200 J
+C) Defibrillation
+D) Amiodarone
+E) IV diltiazem
+Correct Answer: E) IV diltiazem
+Explanation: In stable AF with preserved LVEF, IV diltiazem provides acute ventricular rate control; cardioversion is not first-line without addressing anticoagulation given the AF duration is ≥48 hours, and defibrillation is inappropriate for a non-shockable rhythm with a pulse.
+###
+Which finding alone is NOT considered an ACLS sign of hemodynamic instability in a patient with atrial flutter?
+A) Hypotension
+B) Ischemic chest discomfort
+C) A high ventricular rate alone
+D) Acute pulmonary edema
+Correct Answer: C) A high ventricular rate alone
+Explanation: ACLS instability criteria require hypotension, altered mental status, shock, ischemic chest pain, or acute heart failure attributable to the arrhythmia; a fast rate by itself, without these findings, does not define instability.
+###
+In a patient with atrial fibrillation, which factor determines whether rate control or rhythm control is prioritized, and how should ventricular rate be managed if AF is hemodynamically stable?
+A) If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)
+B) All stable AF patients require immediate cardioversion regardless of duration
+C) Diltiazem is preferred over beta-blockers regardless of ejection fraction
+D) Digoxin is always first-line for rate control
+Correct Answer: A) If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)
+Explanation: Unstable AF mandates immediate cardioversion; in stable AF, management is individualized, and non-dihydropyridine calcium channel blockers are restricted to patients with LVEF above 40% to avoid worsening heart failure.
+###
+A hemodynamically stable patient with atrial fibrillation has an LVEF of 30%. Which agent should be avoided for ventricular rate control?
+A) Digoxin
+B) IV amiodarone
+C) A compensated beta-blocker
+D) IV diltiazem or verapamil
+Correct Answer: D) IV diltiazem or verapamil
+Explanation: Non-dihydropyridine calcium channel blockers have negative inotropic effects and should be avoided when LVEF is below 40%; beta-blockers (if compensated), digoxin, or amiodarone in decompensated states are preferred alternatives.
+###
+A patient with Wolff-Parkinson-White syndrome presents in pre-excited atrial fibrillation. Which class of drugs must be avoided?
+A) Class Ia antiarrhythmics such as procainamide
+B) Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)
+C) Class III antiarrhythmics such as ibutilide
+D) Synchronized cardioversion
+Correct Answer: B) Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)
+Explanation: AV-nodal blocking agents can preferentially slow AV-node conduction while leaving the accessory pathway unopposed, accelerating ventricular conduction and precipitating ventricular fibrillation; procainamide or cardioversion are used instead.
+###
+What is the primary indication for emergency electrical cardioversion in atrial fibrillation?
+A) AF diagnosed incidentally on a routine ECG
+B) AF lasting less than 12 hours regardless of symptoms
+C) Any patient with LVEF below 40%
+D) Recurrent paroxysmal AF with prior successful rate control
+E) AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)
+Correct Answer: E) AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)
+Explanation: Emergency synchronized cardioversion is reserved for AF causing hemodynamic compromise; stable AF is managed with rate/rhythm-control strategies and appropriately timed anticoagulation.
+###
+[img: ERArrhythmia5.png]
 What rhythm is shown on this 12-lead ECG?
 A) Atrial flutter
 B) Multifocal atrial tachycardia
