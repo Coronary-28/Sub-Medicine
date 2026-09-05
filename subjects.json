@@ -4,14 +4,14 @@
     "name": "Emergency",
     "lectures": [
       {
-        "id": "emergency__lecture__arrhythmias",
-        "name": "Arrhythmias",
+        "id": "emergency__lecture__arrhythmia",
+        "name": "Arrhythmia",
         "type": "lecture",
         "subjectName": "Emergency",
-        "path": "Emergency/Arrhythmias.txt",
+        "path": "Emergency/Arrhythmia.txt",
         "questions": [
           {
-            "id": "emergency__lecture__arrhythmias__1__ngmfn5",
+            "id": "emergency__lecture__arrhythmia__1__ngmfn5",
             "number": "1",
             "text": "An unresponsive patient regains a pulse after defibrillation for ventricular fibrillation, and the post-shock ECG shows third-degree AV block with a slow ventricular rate. What is the next most appropriate step in management?",
             "options": [
@@ -41,12 +41,12 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__2__gwkmyb",
+            "id": "emergency__lecture__arrhythmia__2__gwkmyb",
             "number": "2",
             "text": "The recovered ECG shows P waves marching out independently from QRS complexes at a faster rate than the ventricular rate, with no fixed relationship between P and QRS. What is the diagnosis? [img: ERArrhythmia1.png ]",
             "options": [
@@ -74,12 +74,12 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__3__tynsep",
+            "id": "emergency__lecture__arrhythmia__3__tynsep",
             "number": "3",
             "text": "Which statement correctly differentiates Mobitz type I from Mobitz type II second-degree AV block?",
             "options": [
@@ -107,12 +107,12 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__4__u42e86",
+            "id": "emergency__lecture__arrhythmia__4__u42e86",
             "number": "4",
             "text": "A 12-lead ECG shows a constant PR interval of 240 ms with every P wave followed by a QRS complex. What is the diagnosis?",
             "options": [
@@ -140,12 +140,12 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__5__ernni4",
+            "id": "emergency__lecture__arrhythmia__5__ernni4",
             "number": "5",
             "text": "[img: ERArrhythmia2.png ] The ECG shows constant PR intervals with intermittent nonconducted P waves in a patient with an acute anterior wall MI. What is the most appropriate next step?",
             "options": [
@@ -175,12 +175,12 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__6__tja0xp",
+            "id": "emergency__lecture__arrhythmia__6__tja0xp",
             "number": "6",
             "text": "[img: ERArrhythmia3.png ] An asymptomatic 29-year-old has first-degree AV block on this ECG with no other conduction disease. What is the best next step?",
             "options": [
@@ -210,12 +210,12 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__7__idkmrp",
+            "id": "emergency__lecture__arrhythmia__7__idkmrp",
             "number": "7",
             "text": "What are the defining ECG features of complete (third-degree) AV block?",
             "options": [
@@ -243,12 +243,12 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__8__etho2a",
+            "id": "emergency__lecture__arrhythmia__8__etho2a",
             "number": "8",
             "text": "What ECG finding is diagnostic of complete (third-degree) heart block?",
             "options": [
@@ -278,12 +278,12 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__9__is24yi",
+            "id": "emergency__lecture__arrhythmia__9__is24yi",
             "number": "9",
             "text": "A patient develops Mobitz II AV block complicating an acute anterior wall MI. When is a permanent pacemaker indicated?",
             "options": [
@@ -311,12 +311,12 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__10__6n61zt",
+            "id": "emergency__lecture__arrhythmia__10__6n61zt",
             "number": "10",
             "text": "A patient has atrial fibrillation of unknown duration and is hemodynamically stable. What anticoagulation strategy should precede elective cardioversion?",
             "options": [
@@ -344,12 +344,12 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__11__hq9n8l",
+            "id": "emergency__lecture__arrhythmia__11__hq9n8l",
             "number": "11",
             "text": "[img: ERArrhythmia4.png] A hemodynamically stable patient has atrial flutter with a ventricular rate around 130/min and no heart-failure symptoms. What is the best initial treatment?",
             "options": [
@@ -377,12 +377,12 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__12__aa2afb",
+            "id": "emergency__lecture__arrhythmia__12__aa2afb",
             "number": "12",
             "text": "Which arrhythmia is most commonly associated with thyrotoxicosis?",
             "options": [
@@ -410,13 +410,215 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__13__cvtiml",
+            "id": "emergency__lecture__arrhythmia__13__ice0m9",
             "number": "13",
+            "text": "[img: ERArrhythmia5.png] A patient has had palpitations for 1 week due to atrial fibrillation, with no syncope, heart failure, or chest pain. She is hemodynamically stable. What is the best next step?",
+            "options": [
+              "Synchronized cardioversion 50 J",
+              "Synchronized cardioversion 200 J",
+              "Defibrillation",
+              "Amiodarone",
+              "IV diltiazem"
+            ],
+            "originalOptions": [
+              "Synchronized cardioversion 50 J",
+              "Synchronized cardioversion 200 J",
+              "Defibrillation",
+              "Amiodarone",
+              "IV diltiazem"
+            ],
+            "correctAnswer": "E) IV diltiazem",
+            "correctAnswerText": "IV diltiazem",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "In stable AF with preserved LVEF, IV diltiazem provides acute ventricular rate control; cardioversion is not first-line without addressing anticoagulation given the AF duration is ≥48 hours, and defibrillation is inappropriate for a non-shockable rhythm with a pulse.",
+            "batchName": "",
+            "batchNames": [],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Emergency",
+            "subjectId": "emergency",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "emergency__lecture__arrhythmia__14__mpmyov",
+            "number": "14",
+            "text": "Which finding alone is NOT considered an ACLS sign of hemodynamic instability in a patient with atrial flutter?",
+            "options": [
+              "Hypotension",
+              "Ischemic chest discomfort",
+              "A high ventricular rate alone",
+              "Acute pulmonary edema"
+            ],
+            "originalOptions": [
+              "Hypotension",
+              "Ischemic chest discomfort",
+              "A high ventricular rate alone",
+              "Acute pulmonary edema"
+            ],
+            "correctAnswer": "C) A high ventricular rate alone",
+            "correctAnswerText": "A high ventricular rate alone",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "ACLS instability criteria require hypotension, altered mental status, shock, ischemic chest pain, or acute heart failure attributable to the arrhythmia; a fast rate by itself, without these findings, does not define instability.",
+            "batchName": "",
+            "batchNames": [],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Emergency",
+            "subjectId": "emergency",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "emergency__lecture__arrhythmia__15__b5p4up",
+            "number": "15",
+            "text": "In a patient with atrial fibrillation, which factor determines whether rate control or rhythm control is prioritized, and how should ventricular rate be managed if AF is hemodynamically stable?",
+            "options": [
+              "If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)",
+              "All stable AF patients require immediate cardioversion regardless of duration",
+              "Diltiazem is preferred over beta-blockers regardless of ejection fraction",
+              "Digoxin is always first-line for rate control"
+            ],
+            "originalOptions": [
+              "If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)",
+              "All stable AF patients require immediate cardioversion regardless of duration",
+              "Diltiazem is preferred over beta-blockers regardless of ejection fraction",
+              "Digoxin is always first-line for rate control"
+            ],
+            "correctAnswer": "A) If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)",
+            "correctAnswerText": "If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Unstable AF mandates immediate cardioversion; in stable AF, management is individualized, and non-dihydropyridine calcium channel blockers are restricted to patients with LVEF above 40% to avoid worsening heart failure.",
+            "batchName": "",
+            "batchNames": [],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Emergency",
+            "subjectId": "emergency",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "emergency__lecture__arrhythmia__16__7wxthc",
+            "number": "16",
+            "text": "A hemodynamically stable patient with atrial fibrillation has an LVEF of 30%. Which agent should be avoided for ventricular rate control?",
+            "options": [
+              "Digoxin",
+              "IV amiodarone",
+              "A compensated beta-blocker",
+              "IV diltiazem or verapamil"
+            ],
+            "originalOptions": [
+              "Digoxin",
+              "IV amiodarone",
+              "A compensated beta-blocker",
+              "IV diltiazem or verapamil"
+            ],
+            "correctAnswer": "D) IV diltiazem or verapamil",
+            "correctAnswerText": "IV diltiazem or verapamil",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Non-dihydropyridine calcium channel blockers have negative inotropic effects and should be avoided when LVEF is below 40%; beta-blockers (if compensated), digoxin, or amiodarone in decompensated states are preferred alternatives.",
+            "batchName": "",
+            "batchNames": [],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Emergency",
+            "subjectId": "emergency",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "emergency__lecture__arrhythmia__17__s2ka0o",
+            "number": "17",
+            "text": "A patient with Wolff-Parkinson-White syndrome presents in pre-excited atrial fibrillation. Which class of drugs must be avoided?",
+            "options": [
+              "Class Ia antiarrhythmics such as procainamide",
+              "Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)",
+              "Class III antiarrhythmics such as ibutilide",
+              "Synchronized cardioversion"
+            ],
+            "originalOptions": [
+              "Class Ia antiarrhythmics such as procainamide",
+              "Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)",
+              "Class III antiarrhythmics such as ibutilide",
+              "Synchronized cardioversion"
+            ],
+            "correctAnswer": "B) Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)",
+            "correctAnswerText": "Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "AV-nodal blocking agents can preferentially slow AV-node conduction while leaving the accessory pathway unopposed, accelerating ventricular conduction and precipitating ventricular fibrillation; procainamide or cardioversion are used instead.",
+            "batchName": "",
+            "batchNames": [],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Emergency",
+            "subjectId": "emergency",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "emergency__lecture__arrhythmia__18__qo9n5v",
+            "number": "18",
+            "text": "What is the primary indication for emergency electrical cardioversion in atrial fibrillation?",
+            "options": [
+              "AF diagnosed incidentally on a routine ECG",
+              "AF lasting less than 12 hours regardless of symptoms",
+              "Any patient with LVEF below 40%",
+              "Recurrent paroxysmal AF with prior successful rate control",
+              "AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)"
+            ],
+            "originalOptions": [
+              "AF diagnosed incidentally on a routine ECG",
+              "AF lasting less than 12 hours regardless of symptoms",
+              "Any patient with LVEF below 40%",
+              "Recurrent paroxysmal AF with prior successful rate control",
+              "AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)"
+            ],
+            "correctAnswer": "E) AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)",
+            "correctAnswerText": "AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Emergency synchronized cardioversion is reserved for AF causing hemodynamic compromise; stable AF is managed with rate/rhythm-control strategies and appropriately timed anticoagulation.",
+            "batchName": "",
+            "batchNames": [],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Emergency",
+            "subjectId": "emergency",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "emergency__lecture__arrhythmia__19__cvtiml",
+            "number": "19",
             "text": "[img: ERArrhythmia5.png] What rhythm is shown on this 12-lead ECG?",
             "options": [
               "Atrial flutter",
@@ -443,13 +645,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__14__4ks50h",
-            "number": "14",
+            "id": "emergency__lecture__arrhythmia__20__4ks50h",
+            "number": "20",
             "text": "A patient has symptomatic bradycardia with a heart rate of 32/min and a palpable pulse. Which of the following are acceptable therapeutic options if the initial drug is ineffective?",
             "options": [
               "Atropine, followed by transcutaneous pacing and/or dopamine or epinephrine infusion",
@@ -476,13 +678,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__15__o1t8q7",
-            "number": "15",
+            "id": "emergency__lecture__arrhythmia__21__o1t8q7",
+            "number": "21",
             "text": "[img: ERArrhythmia5.png] An adult patient has symptomatic bradycardia with a pulse and poor perfusion. What is the correct approach to management?",
             "options": [
               "Chest compressions, cardiac drugs, defibrillation",
@@ -509,13 +711,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__16__a7kbkp",
-            "number": "16",
+            "id": "emergency__lecture__arrhythmia__22__a7kbkp",
+            "number": "22",
             "text": "What defines sinus arrest, and how does its ECG pause differ from a sinoatrial exit block?",
             "options": [
               "Sinus arrest shows a pause that is an exact multiple of the baseline P-P interval",
@@ -542,13 +744,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__17__k011c5",
-            "number": "17",
+            "id": "emergency__lecture__arrhythmia__23__k011c5",
+            "number": "23",
             "text": "What is the first-line medication to treat symptomatic bradycardia?",
             "options": [
               "Diltiazem",
@@ -577,13 +779,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__18__34jnri",
-            "number": "18",
+            "id": "emergency__lecture__arrhythmia__24__34jnri",
+            "number": "24",
             "text": "A patient has symptomatic bradycardia with cardiopulmonary compromise. What is the correct atropine dosing and next step if ineffective?",
             "options": [
               "Atropine 0.1 mg IV once only",
@@ -610,13 +812,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__19__h10jpi",
-            "number": "19",
+            "id": "emergency__lecture__arrhythmia__25__h10jpi",
+            "number": "25",
             "text": "Which of the following is an EXTRINSIC (reversible) cause of bradycardia rather than intrinsic SA-node disease?",
             "options": [
               "Increased vagal tone or drug effect",
@@ -643,13 +845,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__20__9v4zn5",
-            "number": "20",
+            "id": "emergency__lecture__arrhythmia__26__9v4zn5",
+            "number": "26",
             "text": "Which of the following is a pathological, intrinsic cause of bradycardia rather than a normal physiological variant?",
             "options": [
               "High resting vagal tone in a trained athlete",
@@ -676,13 +878,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__21__82doc9",
-            "number": "21",
+            "id": "emergency__lecture__arrhythmia__27__82doc9",
+            "number": "27",
             "text": "How is sinus arrhythmia defined, and what does a non-phasic pattern suggest in the context of sick sinus syndrome?",
             "options": [
               "It is a fixed P-P interval with no respiratory variation; non-phasic forms are always benign",
@@ -709,13 +911,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__22__5rs7d6",
-            "number": "22",
+            "id": "emergency__lecture__arrhythmia__28__5rs7d6",
+            "number": "28",
             "text": "What is the first clinical issue assessed in the bradycardia algorithm?",
             "options": [
               "The QRS width",
@@ -742,13 +944,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__23__ryk1lt",
-            "number": "23",
+            "id": "emergency__lecture__arrhythmia__29__ryk1lt",
+            "number": "29",
             "text": "[img: ERArrhythmia6.png] A 55-year-old asthmatic patient presents with palpitations. and she is hemodynamically stable. What is the best next step for management?",
             "options": [
               "Diltiazem",
@@ -777,13 +979,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__24__xc8ezq",
-            "number": "24",
+            "id": "emergency__lecture__arrhythmia__30__xc8ezq",
+            "number": "30",
             "text": "[img: ERArrhythmia19.png] A 73-year-old ICU patient becomes unresponsive with a tachyarrhythmia on ECG and a blood pressure of 70/40. What is the best next step for management?",
             "options": [
               "Adenosine 6 mg",
@@ -810,13 +1012,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__25__j06beb",
-            "number": "25",
+            "id": "emergency__lecture__arrhythmia__31__j06beb",
+            "number": "31",
             "text": "[img: ERArrhythmia7.png] A patient becomes unresponsive and the ECG shows ventricular fibrillation. What is the immediate next step?",
             "options": [
               "Amiodarone",
@@ -845,13 +1047,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__26__hdjiaf",
-            "number": "26",
+            "id": "emergency__lecture__arrhythmia__32__hdjiaf",
+            "number": "32",
             "text": "How is adult asystolic cardiac arrest managed?",
             "options": [
               "Immediate unsynchronized defibrillation",
@@ -878,13 +1080,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__27__wb8l3",
-            "number": "27",
+            "id": "emergency__lecture__arrhythmia__33__wb8l3",
+            "number": "33",
             "text": "[img: ERArrhythmia8.png] A young athlete collapses and the his ECG. What is the rhythm?",
             "options": [
               "Torsades de pointes",
@@ -911,13 +1113,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__28__dlryj3",
-            "number": "28",
+            "id": "emergency__lecture__arrhythmia__34__dlryj3",
+            "number": "34",
             "text": "[img: ERArrhythmia9.png] An 85-year-old previously healthy woman presents with recurrent syncope, the last episode an hour ago. Her ECG shows a fixed PR interval with intermittently nonconducted P waves. What type of block does she have?",
             "options": [
               "First-degree AV block",
@@ -944,13 +1146,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__29__l92wgl",
-            "number": "29",
+            "id": "emergency__lecture__arrhythmia__35__l92wgl",
+            "number": "35",
             "text": "[img: ERArrhythmia8.png] An ICU patient becomes unresponsive with no pulse and is not breathing. What is the best next step?",
             "options": [
               "Amiodarone",
@@ -977,13 +1179,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__30__dycfg0",
-            "number": "30",
+            "id": "emergency__lecture__arrhythmia__36__dycfg0",
+            "number": "36",
             "text": "Which intervention provides the greatest immediate survival benefit in ventricular fibrillation?",
             "options": [
               "IV amiodarone",
@@ -1012,13 +1214,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__31__w51dsl",
-            "number": "31",
+            "id": "emergency__lecture__arrhythmia__37__w51dsl",
+            "number": "37",
             "text": "[img: ERArrhythmia8.png] A patient with a family history of sudden cardiac death has this ECG rhythm. What is the rhythm, and what should be evaluated?",
             "options": [
               "Monomorphic VT; evaluate for prior MI",
@@ -1045,13 +1247,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__32__1t9baw",
-            "number": "32",
+            "id": "emergency__lecture__arrhythmia__38__1t9baw",
+            "number": "38",
             "text": "[img: ERArrhythmia10.png] This ECG shows an irregularly irregular rhythm with absent P waves, a broad notched R wave in V5/V6, and deep S waves in V1/V2. What two abnormalities are present?",
             "options": [
               "Left bundle branch block with atrial fibrillation",
@@ -1078,13 +1280,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__33__h72y62",
-            "number": "33",
+            "id": "emergency__lecture__arrhythmia__39__h72y62",
+            "number": "39",
             "text": "Is a high ventricular rate alone sufficient to define ACLS hemodynamic instability in tachyarrhythmia, and what findings actually define it?",
             "options": [
               "Yes, any rate above 150 bpm defines instability",
@@ -1111,13 +1313,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__34__npjna0",
-            "number": "34",
+            "id": "emergency__lecture__arrhythmia__40__npjna0",
+            "number": "40",
             "text": "What is the most important immediate precursor/risk factor for pulmonary embolism?",
             "options": [
               "Atrial fibrillation",
@@ -1144,13 +1346,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__35__sv7d12",
-            "number": "35",
+            "id": "emergency__lecture__arrhythmia__41__sv7d12",
+            "number": "41",
             "text": "[img: ERArrhythmia11.png] An athletic patient presents with a racing heart sensation and stable vitals. The ECG shows a regular narrow-complex tachycardia. What do you give?",
             "options": [
               "Atropine",
@@ -1177,13 +1379,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__36__idhan0",
-            "number": "36",
+            "id": "emergency__lecture__arrhythmia__42__idhan0",
+            "number": "42",
             "text": "[img: ERArrhythmia12.png] A patient has normal vital signs with a heart rate of 170/min. The ECG shows a regular, monomorphic wide-complex tachycardia. What do you give?",
             "options": [
               "Amiodarone",
@@ -1210,13 +1412,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__37__km9n7f",
-            "number": "37",
+            "id": "emergency__lecture__arrhythmia__43__km9n7f",
+            "number": "43",
             "text": "[img: ERArrhythmia13.png] Progressive PR-interval prolongation followed by a dropped QRS complex identifies which rhythm?",
             "options": [
               "First-degree AV block",
@@ -1243,13 +1445,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__38__ipmp7o",
-            "number": "38",
+            "id": "emergency__lecture__arrhythmia__44__ipmp7o",
+            "number": "44",
             "text": "What are the symptoms/signs of tachycardia (HR >150 bpm) that indicate urgent treatment?",
             "options": [
               "A heart rate consistently above 150 bpm on its own",
@@ -1276,13 +1478,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__39__vxfuye",
-            "number": "39",
+            "id": "emergency__lecture__arrhythmia__45__vxfuye",
+            "number": "45",
             "text": "A patient has a tachyarrhythmia with a rate above 150 bpm but is asymptomatic with normal blood pressure and mentation. How should this be classified?",
             "options": [
               "Automatically unstable, requiring cardioversion",
@@ -1309,13 +1511,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__40__s6fi53",
-            "number": "40",
+            "id": "emergency__lecture__arrhythmia__46__s6fi53",
+            "number": "46",
             "text": "A patient is found pulseless with an organized rhythm on the monitor. What is the most appropriate management?",
             "options": [
               "Immediate high-quality CPR, epinephrine as soon as possible and every 3-5 minutes, and treatment of reversible Hs and Ts (no defibrillation)",
@@ -1342,13 +1544,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__41__elwih6",
-            "number": "41",
+            "id": "emergency__lecture__arrhythmia__47__elwih6",
+            "number": "47",
             "text": "In the treatment algorithm for tachyarrhythmia with a pulse, how should a stable regular narrow-complex tachycardia be approached versus an unstable tachyarrhythmia?",
             "options": [
               "Both are treated identically with adenosine",
@@ -1375,13 +1577,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__42__rw6n6z",
-            "number": "42",
+            "id": "emergency__lecture__arrhythmia__48__rw6n6z",
+            "number": "48",
             "text": "An unresponsive, pulseless patient develops a shockable rhythm on the monitor. What is the immediate treatment?",
             "options": [
               "IV epinephrine before any shock",
@@ -1408,13 +1610,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__43__exoc8g",
-            "number": "43",
+            "id": "emergency__lecture__arrhythmia__49__exoc8g",
+            "number": "49",
             "text": "[img: ERArrhythmia14.png] What rhythm is shown on this recovered ECG?",
             "options": [
               "Atrial flutter",
@@ -1443,13 +1645,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__44__pngwq5",
-            "number": "44",
+            "id": "emergency__lecture__arrhythmia__50__pngwq5",
+            "number": "50",
             "text": "How is a hemodynamically stable, regular narrow-complex tachycardia managed?",
             "options": [
               "Immediate synchronized cardioversion",
@@ -1476,13 +1678,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__45__qr8cc2",
-            "number": "45",
+            "id": "emergency__lecture__arrhythmia__51__qr8cc2",
+            "number": "51",
             "text": "[img: ERArrhythmia15.png ] What is the diagnosis based on this ECG strip?",
             "options": [
               "Normal ECG",
@@ -1511,13 +1713,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__46__nt7hji",
-            "number": "46",
+            "id": "emergency__lecture__arrhythmia__52__nt7hji",
+            "number": "52",
             "text": "[img: ERArrhythmia16.png ] The ECG shows an anterior/anteroseptal infarction pattern. Which coronary artery is most likely involved?",
             "options": [
               "Left circumflex",
@@ -1544,13 +1746,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__47__g6u05z",
-            "number": "47",
+            "id": "emergency__lecture__arrhythmia__53__g6u05z",
+            "number": "53",
             "text": "What are the ECG characteristics of multifocal atrial tachycardia (MAT)?",
             "options": [
               "A regular rhythm with a single P-wave morphology",
@@ -1577,13 +1779,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__48__e3sgkf",
-            "number": "48",
+            "id": "emergency__lecture__arrhythmia__54__e3sgkf",
+            "number": "54",
             "text": "How can supraventricular tachycardia present atypically compared to classic palpitations?",
             "options": [
               "Only with syncope",
@@ -1612,13 +1814,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__49__c9jduy",
-            "number": "49",
+            "id": "emergency__lecture__arrhythmia__55__c9jduy",
+            "number": "55",
             "text": "Which unusual neck and urinary symptoms may occur during supraventricular tachycardia?",
             "options": [
               "Jugular venous distension with peripheral edema",
@@ -1645,13 +1847,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__50__koft65",
-            "number": "50",
+            "id": "emergency__lecture__arrhythmia__56__koft65",
+            "number": "56",
             "text": "How is an unstable tachyarrhythmia with a pulse treated?",
             "options": [
               "Immediate synchronized cardioversion, with sedation if feasible without delaying the shock",
@@ -1678,13 +1880,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__51__hgpmxz",
-            "number": "51",
+            "id": "emergency__lecture__arrhythmia__57__hgpmxz",
+            "number": "57",
             "text": "A patient treated for SVT develops transient flushing, chest pressure, and dyspnea immediately after a rapid IV drug push. Which drug most likely caused these effects?",
             "options": [
               "Aspirin",
@@ -1711,13 +1913,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__52__a8yle7",
-            "number": "52",
+            "id": "emergency__lecture__arrhythmia__58__a8yle7",
+            "number": "58",
             "text": "A conscious, hemodynamically stable patient has regular monomorphic ventricular tachycardia with a pulse. What is the next treatment?",
             "options": [
               "Immediate synchronized cardioversion",
@@ -1744,13 +1946,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__53__3n3xg6",
-            "number": "53",
+            "id": "emergency__lecture__arrhythmia__59__3n3xg6",
+            "number": "59",
             "text": "A person with alcohol use disorder collapses and is found to be in torsades de pointes. What intervention is most likely to correct the underlying problem?",
             "options": [
               "Rewarm the individual to correct hypothermia",
@@ -1779,13 +1981,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__54__gjmd20",
-            "number": "54",
+            "id": "emergency__lecture__arrhythmia__60__gjmd20",
+            "number": "60",
             "text": "What is ventricular bigeminy?",
             "options": [
               "Three or more consecutive PVCs",
@@ -1812,13 +2014,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__55__vf09qe",
-            "number": "55",
+            "id": "emergency__lecture__arrhythmia__61__vf09qe",
+            "number": "61",
             "text": "What is the underlying etiology of torsades de pointes?",
             "options": [
               "Prolonged QT interval, congenital or acquired (e.g., QT-prolonging drugs, hypokalemia, hypomagnesemia, hypocalcemia, marked bradycardia)",
@@ -1845,13 +2047,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__56__bbmirt",
-            "number": "56",
+            "id": "emergency__lecture__arrhythmia__62__bbmirt",
+            "number": "62",
             "text": "What is the first-line treatment for a drug-resistant, stable monomorphic ventricular tachycardia with a pulse that persists despite antiarrhythmic therapy?",
             "options": [
               "Unsynchronized defibrillation",
@@ -1878,13 +2080,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__57__kql4qf",
-            "number": "57",
+            "id": "emergency__lecture__arrhythmia__63__kql4qf",
+            "number": "63",
             "text": "How many consecutive premature ventricular contractions (PVCs) are required to define ventricular tachycardia?",
             "options": [
               "5 or more PVCs",
@@ -1911,13 +2113,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__58__sw957p",
-            "number": "58",
+            "id": "emergency__lecture__arrhythmia__64__sw957p",
+            "number": "64",
             "text": "[img: ERArrhythmia17.png ] A patient has regular monomorphic ventricular tachycardia with a pulse and remains hemodynamically stable. What is an appropriate initial treatment?",
             "options": [
               "Unsynchronized defibrillation",
@@ -1946,13 +2148,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__59__8nbmkd",
-            "number": "59",
+            "id": "emergency__lecture__arrhythmia__65__8nbmkd",
+            "number": "65",
             "text": "Which of the following are recognized morphology-based classifications of ventricular tachycardia?",
             "options": [
               "Sustained and nonsustained only",
@@ -1979,13 +2181,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__60__xv67l2",
-            "number": "60",
+            "id": "emergency__lecture__arrhythmia__66__xv67l2",
+            "number": "66",
             "text": "A patient has ventricular tachycardia with a heart rate of 300/min, blood pressure 94/78, and no chest pain. What is the most appropriate management?",
             "options": [
               "Reassess perfusion carefully; if instability (e.g., a narrow pulse pressure suggesting poor perfusion) is present despite the absence of chest pain, perform synchronized cardioversion rather than relying on drug therapy",
@@ -2012,13 +2214,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__61__ujcqfr",
-            "number": "61",
+            "id": "emergency__lecture__arrhythmia__67__ujcqfr",
+            "number": "67",
             "text": "Which drugs must be avoided in a patient with WPW syndrome who develops atrial fibrillation?",
             "options": [
               "Class Ia antiarrhythmics",
@@ -2045,13 +2247,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__62__g7i1vz",
-            "number": "62",
+            "id": "emergency__lecture__arrhythmia__68__g7i1vz",
+            "number": "68",
             "text": "What is a delta wave on ECG?",
             "options": [
               "A notched, tall R wave in the inferior leads",
@@ -2078,13 +2280,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__63__y6pbti",
-            "number": "63",
+            "id": "emergency__lecture__arrhythmia__69__y6pbti",
+            "number": "69",
             "text": "[img: ERArrhythmia18.png ] What is the diagnostic ECG triad of Wolff-Parkinson-White pre-excitation?",
             "options": [
               "Prolonged PR interval, narrow QRS, and absent P waves",
@@ -2113,13 +2315,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__64__2bchvi",
-            "number": "64",
+            "id": "emergency__lecture__arrhythmia__70__2bchvi",
+            "number": "70",
             "text": "What is the primary risk associated with WPW syndrome?",
             "options": [
               "Progression to sinus node dysfunction",
@@ -2146,13 +2348,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__65__wwlzw6",
-            "number": "65",
+            "id": "emergency__lecture__arrhythmia__71__wwlzw6",
+            "number": "71",
             "text": "How is a hemodynamically stable case of atrial fibrillation initially managed?",
             "options": [
               "Assess duration, stroke risk, heart failure/LVEF, blood pressure, and pre-excitation; use appropriate ventricular rate control and an anticoagulation/rhythm strategy as indicated",
@@ -2179,13 +2381,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__66__4spsq6",
-            "number": "66",
+            "id": "emergency__lecture__arrhythmia__72__4spsq6",
+            "number": "72",
             "text": "What are the ECG characteristics of polymorphic ventricular tachycardia?",
             "options": [
               "A regular, uniform QRS morphology throughout",
@@ -2212,13 +2414,13 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmias__67__pqli4d",
-            "number": "67",
+            "id": "emergency__lecture__arrhythmia__73__pqli4d",
+            "number": "73",
             "text": "What are the ECG characteristics of a premature ventricular complex (PVC)?",
             "options": [
               "A narrow QRS preceded by an early, abnormal P wave",
@@ -2247,8 +2449,8 @@
             "pageNumber": "",
             "subjectName": "Emergency",
             "subjectId": "emergency",
-            "lectureName": "Arrhythmias",
-            "groupName": "Arrhythmias",
+            "lectureName": "Arrhythmia",
+            "groupName": "Arrhythmia",
             "sourceType": "lecture"
           }
         ]
@@ -2258,7 +2460,7 @@
     "years": [],
     "allQuestions": [
       {
-        "id": "emergency__lecture__arrhythmias__1__ngmfn5",
+        "id": "emergency__lecture__arrhythmia__1__ngmfn5",
         "number": "1",
         "text": "An unresponsive patient regains a pulse after defibrillation for ventricular fibrillation, and the post-shock ECG shows third-degree AV block with a slow ventricular rate. What is the next most appropriate step in management?",
         "options": [
@@ -2288,12 +2490,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__2__gwkmyb",
+        "id": "emergency__lecture__arrhythmia__2__gwkmyb",
         "number": "2",
         "text": "The recovered ECG shows P waves marching out independently from QRS complexes at a faster rate than the ventricular rate, with no fixed relationship between P and QRS. What is the diagnosis? [img: ERArrhythmia1.png ]",
         "options": [
@@ -2321,12 +2523,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__3__tynsep",
+        "id": "emergency__lecture__arrhythmia__3__tynsep",
         "number": "3",
         "text": "Which statement correctly differentiates Mobitz type I from Mobitz type II second-degree AV block?",
         "options": [
@@ -2354,12 +2556,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__4__u42e86",
+        "id": "emergency__lecture__arrhythmia__4__u42e86",
         "number": "4",
         "text": "A 12-lead ECG shows a constant PR interval of 240 ms with every P wave followed by a QRS complex. What is the diagnosis?",
         "options": [
@@ -2387,12 +2589,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__5__ernni4",
+        "id": "emergency__lecture__arrhythmia__5__ernni4",
         "number": "5",
         "text": "[img: ERArrhythmia2.png ] The ECG shows constant PR intervals with intermittent nonconducted P waves in a patient with an acute anterior wall MI. What is the most appropriate next step?",
         "options": [
@@ -2422,12 +2624,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__6__tja0xp",
+        "id": "emergency__lecture__arrhythmia__6__tja0xp",
         "number": "6",
         "text": "[img: ERArrhythmia3.png ] An asymptomatic 29-year-old has first-degree AV block on this ECG with no other conduction disease. What is the best next step?",
         "options": [
@@ -2457,12 +2659,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__7__idkmrp",
+        "id": "emergency__lecture__arrhythmia__7__idkmrp",
         "number": "7",
         "text": "What are the defining ECG features of complete (third-degree) AV block?",
         "options": [
@@ -2490,12 +2692,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__8__etho2a",
+        "id": "emergency__lecture__arrhythmia__8__etho2a",
         "number": "8",
         "text": "What ECG finding is diagnostic of complete (third-degree) heart block?",
         "options": [
@@ -2525,12 +2727,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__9__is24yi",
+        "id": "emergency__lecture__arrhythmia__9__is24yi",
         "number": "9",
         "text": "A patient develops Mobitz II AV block complicating an acute anterior wall MI. When is a permanent pacemaker indicated?",
         "options": [
@@ -2558,12 +2760,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__10__6n61zt",
+        "id": "emergency__lecture__arrhythmia__10__6n61zt",
         "number": "10",
         "text": "A patient has atrial fibrillation of unknown duration and is hemodynamically stable. What anticoagulation strategy should precede elective cardioversion?",
         "options": [
@@ -2591,12 +2793,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__11__hq9n8l",
+        "id": "emergency__lecture__arrhythmia__11__hq9n8l",
         "number": "11",
         "text": "[img: ERArrhythmia4.png] A hemodynamically stable patient has atrial flutter with a ventricular rate around 130/min and no heart-failure symptoms. What is the best initial treatment?",
         "options": [
@@ -2624,12 +2826,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__12__aa2afb",
+        "id": "emergency__lecture__arrhythmia__12__aa2afb",
         "number": "12",
         "text": "Which arrhythmia is most commonly associated with thyrotoxicosis?",
         "options": [
@@ -2657,13 +2859,215 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__13__cvtiml",
+        "id": "emergency__lecture__arrhythmia__13__ice0m9",
         "number": "13",
+        "text": "[img: ERArrhythmia5.png] A patient has had palpitations for 1 week due to atrial fibrillation, with no syncope, heart failure, or chest pain. She is hemodynamically stable. What is the best next step?",
+        "options": [
+          "Synchronized cardioversion 50 J",
+          "Synchronized cardioversion 200 J",
+          "Defibrillation",
+          "Amiodarone",
+          "IV diltiazem"
+        ],
+        "originalOptions": [
+          "Synchronized cardioversion 50 J",
+          "Synchronized cardioversion 200 J",
+          "Defibrillation",
+          "Amiodarone",
+          "IV diltiazem"
+        ],
+        "correctAnswer": "E) IV diltiazem",
+        "correctAnswerText": "IV diltiazem",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "In stable AF with preserved LVEF, IV diltiazem provides acute ventricular rate control; cardioversion is not first-line without addressing anticoagulation given the AF duration is ≥48 hours, and defibrillation is inappropriate for a non-shockable rhythm with a pulse.",
+        "batchName": "",
+        "batchNames": [],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Emergency",
+        "subjectId": "emergency",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "emergency__lecture__arrhythmia__14__mpmyov",
+        "number": "14",
+        "text": "Which finding alone is NOT considered an ACLS sign of hemodynamic instability in a patient with atrial flutter?",
+        "options": [
+          "Hypotension",
+          "Ischemic chest discomfort",
+          "A high ventricular rate alone",
+          "Acute pulmonary edema"
+        ],
+        "originalOptions": [
+          "Hypotension",
+          "Ischemic chest discomfort",
+          "A high ventricular rate alone",
+          "Acute pulmonary edema"
+        ],
+        "correctAnswer": "C) A high ventricular rate alone",
+        "correctAnswerText": "A high ventricular rate alone",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "ACLS instability criteria require hypotension, altered mental status, shock, ischemic chest pain, or acute heart failure attributable to the arrhythmia; a fast rate by itself, without these findings, does not define instability.",
+        "batchName": "",
+        "batchNames": [],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Emergency",
+        "subjectId": "emergency",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "emergency__lecture__arrhythmia__15__b5p4up",
+        "number": "15",
+        "text": "In a patient with atrial fibrillation, which factor determines whether rate control or rhythm control is prioritized, and how should ventricular rate be managed if AF is hemodynamically stable?",
+        "options": [
+          "If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)",
+          "All stable AF patients require immediate cardioversion regardless of duration",
+          "Diltiazem is preferred over beta-blockers regardless of ejection fraction",
+          "Digoxin is always first-line for rate control"
+        ],
+        "originalOptions": [
+          "If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)",
+          "All stable AF patients require immediate cardioversion regardless of duration",
+          "Diltiazem is preferred over beta-blockers regardless of ejection fraction",
+          "Digoxin is always first-line for rate control"
+        ],
+        "correctAnswer": "A) If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)",
+        "correctAnswerText": "If AF causes instability, perform immediate synchronized cardioversion; if stable, choose rate or rhythm control based on symptoms/comorbidities, using a beta-blocker as an acute rate-control option (diltiazem/verapamil reserved for LVEF >40%)",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Unstable AF mandates immediate cardioversion; in stable AF, management is individualized, and non-dihydropyridine calcium channel blockers are restricted to patients with LVEF above 40% to avoid worsening heart failure.",
+        "batchName": "",
+        "batchNames": [],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Emergency",
+        "subjectId": "emergency",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "emergency__lecture__arrhythmia__16__7wxthc",
+        "number": "16",
+        "text": "A hemodynamically stable patient with atrial fibrillation has an LVEF of 30%. Which agent should be avoided for ventricular rate control?",
+        "options": [
+          "Digoxin",
+          "IV amiodarone",
+          "A compensated beta-blocker",
+          "IV diltiazem or verapamil"
+        ],
+        "originalOptions": [
+          "Digoxin",
+          "IV amiodarone",
+          "A compensated beta-blocker",
+          "IV diltiazem or verapamil"
+        ],
+        "correctAnswer": "D) IV diltiazem or verapamil",
+        "correctAnswerText": "IV diltiazem or verapamil",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Non-dihydropyridine calcium channel blockers have negative inotropic effects and should be avoided when LVEF is below 40%; beta-blockers (if compensated), digoxin, or amiodarone in decompensated states are preferred alternatives.",
+        "batchName": "",
+        "batchNames": [],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Emergency",
+        "subjectId": "emergency",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "emergency__lecture__arrhythmia__17__s2ka0o",
+        "number": "17",
+        "text": "A patient with Wolff-Parkinson-White syndrome presents in pre-excited atrial fibrillation. Which class of drugs must be avoided?",
+        "options": [
+          "Class Ia antiarrhythmics such as procainamide",
+          "Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)",
+          "Class III antiarrhythmics such as ibutilide",
+          "Synchronized cardioversion"
+        ],
+        "originalOptions": [
+          "Class Ia antiarrhythmics such as procainamide",
+          "Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)",
+          "Class III antiarrhythmics such as ibutilide",
+          "Synchronized cardioversion"
+        ],
+        "correctAnswer": "B) Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)",
+        "correctAnswerText": "Isolated AV-nodal blockers (adenosine, beta-blockers, diltiazem/verapamil, digoxin)",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "AV-nodal blocking agents can preferentially slow AV-node conduction while leaving the accessory pathway unopposed, accelerating ventricular conduction and precipitating ventricular fibrillation; procainamide or cardioversion are used instead.",
+        "batchName": "",
+        "batchNames": [],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Emergency",
+        "subjectId": "emergency",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "emergency__lecture__arrhythmia__18__qo9n5v",
+        "number": "18",
+        "text": "What is the primary indication for emergency electrical cardioversion in atrial fibrillation?",
+        "options": [
+          "AF diagnosed incidentally on a routine ECG",
+          "AF lasting less than 12 hours regardless of symptoms",
+          "Any patient with LVEF below 40%",
+          "Recurrent paroxysmal AF with prior successful rate control",
+          "AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)"
+        ],
+        "originalOptions": [
+          "AF diagnosed incidentally on a routine ECG",
+          "AF lasting less than 12 hours regardless of symptoms",
+          "Any patient with LVEF below 40%",
+          "Recurrent paroxysmal AF with prior successful rate control",
+          "AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)"
+        ],
+        "correctAnswer": "E) AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)",
+        "correctAnswerText": "AF causing hemodynamic instability (hypotension, shock, pulmonary edema, or ongoing ischemia)",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "Emergency synchronized cardioversion is reserved for AF causing hemodynamic compromise; stable AF is managed with rate/rhythm-control strategies and appropriately timed anticoagulation.",
+        "batchName": "",
+        "batchNames": [],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Emergency",
+        "subjectId": "emergency",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "emergency__lecture__arrhythmia__19__cvtiml",
+        "number": "19",
         "text": "[img: ERArrhythmia5.png] What rhythm is shown on this 12-lead ECG?",
         "options": [
           "Atrial flutter",
@@ -2690,13 +3094,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__14__4ks50h",
-        "number": "14",
+        "id": "emergency__lecture__arrhythmia__20__4ks50h",
+        "number": "20",
         "text": "A patient has symptomatic bradycardia with a heart rate of 32/min and a palpable pulse. Which of the following are acceptable therapeutic options if the initial drug is ineffective?",
         "options": [
           "Atropine, followed by transcutaneous pacing and/or dopamine or epinephrine infusion",
@@ -2723,13 +3127,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__15__o1t8q7",
-        "number": "15",
+        "id": "emergency__lecture__arrhythmia__21__o1t8q7",
+        "number": "21",
         "text": "[img: ERArrhythmia5.png] An adult patient has symptomatic bradycardia with a pulse and poor perfusion. What is the correct approach to management?",
         "options": [
           "Chest compressions, cardiac drugs, defibrillation",
@@ -2756,13 +3160,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__16__a7kbkp",
-        "number": "16",
+        "id": "emergency__lecture__arrhythmia__22__a7kbkp",
+        "number": "22",
         "text": "What defines sinus arrest, and how does its ECG pause differ from a sinoatrial exit block?",
         "options": [
           "Sinus arrest shows a pause that is an exact multiple of the baseline P-P interval",
@@ -2789,13 +3193,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__17__k011c5",
-        "number": "17",
+        "id": "emergency__lecture__arrhythmia__23__k011c5",
+        "number": "23",
         "text": "What is the first-line medication to treat symptomatic bradycardia?",
         "options": [
           "Diltiazem",
@@ -2824,13 +3228,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__18__34jnri",
-        "number": "18",
+        "id": "emergency__lecture__arrhythmia__24__34jnri",
+        "number": "24",
         "text": "A patient has symptomatic bradycardia with cardiopulmonary compromise. What is the correct atropine dosing and next step if ineffective?",
         "options": [
           "Atropine 0.1 mg IV once only",
@@ -2857,13 +3261,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__19__h10jpi",
-        "number": "19",
+        "id": "emergency__lecture__arrhythmia__25__h10jpi",
+        "number": "25",
         "text": "Which of the following is an EXTRINSIC (reversible) cause of bradycardia rather than intrinsic SA-node disease?",
         "options": [
           "Increased vagal tone or drug effect",
@@ -2890,13 +3294,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__20__9v4zn5",
-        "number": "20",
+        "id": "emergency__lecture__arrhythmia__26__9v4zn5",
+        "number": "26",
         "text": "Which of the following is a pathological, intrinsic cause of bradycardia rather than a normal physiological variant?",
         "options": [
           "High resting vagal tone in a trained athlete",
@@ -2923,13 +3327,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__21__82doc9",
-        "number": "21",
+        "id": "emergency__lecture__arrhythmia__27__82doc9",
+        "number": "27",
         "text": "How is sinus arrhythmia defined, and what does a non-phasic pattern suggest in the context of sick sinus syndrome?",
         "options": [
           "It is a fixed P-P interval with no respiratory variation; non-phasic forms are always benign",
@@ -2956,13 +3360,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__22__5rs7d6",
-        "number": "22",
+        "id": "emergency__lecture__arrhythmia__28__5rs7d6",
+        "number": "28",
         "text": "What is the first clinical issue assessed in the bradycardia algorithm?",
         "options": [
           "The QRS width",
@@ -2989,13 +3393,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__23__ryk1lt",
-        "number": "23",
+        "id": "emergency__lecture__arrhythmia__29__ryk1lt",
+        "number": "29",
         "text": "[img: ERArrhythmia6.png] A 55-year-old asthmatic patient presents with palpitations. and she is hemodynamically stable. What is the best next step for management?",
         "options": [
           "Diltiazem",
@@ -3024,13 +3428,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__24__xc8ezq",
-        "number": "24",
+        "id": "emergency__lecture__arrhythmia__30__xc8ezq",
+        "number": "30",
         "text": "[img: ERArrhythmia19.png] A 73-year-old ICU patient becomes unresponsive with a tachyarrhythmia on ECG and a blood pressure of 70/40. What is the best next step for management?",
         "options": [
           "Adenosine 6 mg",
@@ -3057,13 +3461,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__25__j06beb",
-        "number": "25",
+        "id": "emergency__lecture__arrhythmia__31__j06beb",
+        "number": "31",
         "text": "[img: ERArrhythmia7.png] A patient becomes unresponsive and the ECG shows ventricular fibrillation. What is the immediate next step?",
         "options": [
           "Amiodarone",
@@ -3092,13 +3496,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__26__hdjiaf",
-        "number": "26",
+        "id": "emergency__lecture__arrhythmia__32__hdjiaf",
+        "number": "32",
         "text": "How is adult asystolic cardiac arrest managed?",
         "options": [
           "Immediate unsynchronized defibrillation",
@@ -3125,13 +3529,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__27__wb8l3",
-        "number": "27",
+        "id": "emergency__lecture__arrhythmia__33__wb8l3",
+        "number": "33",
         "text": "[img: ERArrhythmia8.png] A young athlete collapses and the his ECG. What is the rhythm?",
         "options": [
           "Torsades de pointes",
@@ -3158,13 +3562,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__28__dlryj3",
-        "number": "28",
+        "id": "emergency__lecture__arrhythmia__34__dlryj3",
+        "number": "34",
         "text": "[img: ERArrhythmia9.png] An 85-year-old previously healthy woman presents with recurrent syncope, the last episode an hour ago. Her ECG shows a fixed PR interval with intermittently nonconducted P waves. What type of block does she have?",
         "options": [
           "First-degree AV block",
@@ -3191,13 +3595,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__29__l92wgl",
-        "number": "29",
+        "id": "emergency__lecture__arrhythmia__35__l92wgl",
+        "number": "35",
         "text": "[img: ERArrhythmia8.png] An ICU patient becomes unresponsive with no pulse and is not breathing. What is the best next step?",
         "options": [
           "Amiodarone",
@@ -3224,13 +3628,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__30__dycfg0",
-        "number": "30",
+        "id": "emergency__lecture__arrhythmia__36__dycfg0",
+        "number": "36",
         "text": "Which intervention provides the greatest immediate survival benefit in ventricular fibrillation?",
         "options": [
           "IV amiodarone",
@@ -3259,13 +3663,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__31__w51dsl",
-        "number": "31",
+        "id": "emergency__lecture__arrhythmia__37__w51dsl",
+        "number": "37",
         "text": "[img: ERArrhythmia8.png] A patient with a family history of sudden cardiac death has this ECG rhythm. What is the rhythm, and what should be evaluated?",
         "options": [
           "Monomorphic VT; evaluate for prior MI",
@@ -3292,13 +3696,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__32__1t9baw",
-        "number": "32",
+        "id": "emergency__lecture__arrhythmia__38__1t9baw",
+        "number": "38",
         "text": "[img: ERArrhythmia10.png] This ECG shows an irregularly irregular rhythm with absent P waves, a broad notched R wave in V5/V6, and deep S waves in V1/V2. What two abnormalities are present?",
         "options": [
           "Left bundle branch block with atrial fibrillation",
@@ -3325,13 +3729,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__33__h72y62",
-        "number": "33",
+        "id": "emergency__lecture__arrhythmia__39__h72y62",
+        "number": "39",
         "text": "Is a high ventricular rate alone sufficient to define ACLS hemodynamic instability in tachyarrhythmia, and what findings actually define it?",
         "options": [
           "Yes, any rate above 150 bpm defines instability",
@@ -3358,13 +3762,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__34__npjna0",
-        "number": "34",
+        "id": "emergency__lecture__arrhythmia__40__npjna0",
+        "number": "40",
         "text": "What is the most important immediate precursor/risk factor for pulmonary embolism?",
         "options": [
           "Atrial fibrillation",
@@ -3391,13 +3795,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__35__sv7d12",
-        "number": "35",
+        "id": "emergency__lecture__arrhythmia__41__sv7d12",
+        "number": "41",
         "text": "[img: ERArrhythmia11.png] An athletic patient presents with a racing heart sensation and stable vitals. The ECG shows a regular narrow-complex tachycardia. What do you give?",
         "options": [
           "Atropine",
@@ -3424,13 +3828,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__36__idhan0",
-        "number": "36",
+        "id": "emergency__lecture__arrhythmia__42__idhan0",
+        "number": "42",
         "text": "[img: ERArrhythmia12.png] A patient has normal vital signs with a heart rate of 170/min. The ECG shows a regular, monomorphic wide-complex tachycardia. What do you give?",
         "options": [
           "Amiodarone",
@@ -3457,13 +3861,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__37__km9n7f",
-        "number": "37",
+        "id": "emergency__lecture__arrhythmia__43__km9n7f",
+        "number": "43",
         "text": "[img: ERArrhythmia13.png] Progressive PR-interval prolongation followed by a dropped QRS complex identifies which rhythm?",
         "options": [
           "First-degree AV block",
@@ -3490,13 +3894,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__38__ipmp7o",
-        "number": "38",
+        "id": "emergency__lecture__arrhythmia__44__ipmp7o",
+        "number": "44",
         "text": "What are the symptoms/signs of tachycardia (HR >150 bpm) that indicate urgent treatment?",
         "options": [
           "A heart rate consistently above 150 bpm on its own",
@@ -3523,13 +3927,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__39__vxfuye",
-        "number": "39",
+        "id": "emergency__lecture__arrhythmia__45__vxfuye",
+        "number": "45",
         "text": "A patient has a tachyarrhythmia with a rate above 150 bpm but is asymptomatic with normal blood pressure and mentation. How should this be classified?",
         "options": [
           "Automatically unstable, requiring cardioversion",
@@ -3556,13 +3960,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__40__s6fi53",
-        "number": "40",
+        "id": "emergency__lecture__arrhythmia__46__s6fi53",
+        "number": "46",
         "text": "A patient is found pulseless with an organized rhythm on the monitor. What is the most appropriate management?",
         "options": [
           "Immediate high-quality CPR, epinephrine as soon as possible and every 3-5 minutes, and treatment of reversible Hs and Ts (no defibrillation)",
@@ -3589,13 +3993,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__41__elwih6",
-        "number": "41",
+        "id": "emergency__lecture__arrhythmia__47__elwih6",
+        "number": "47",
         "text": "In the treatment algorithm for tachyarrhythmia with a pulse, how should a stable regular narrow-complex tachycardia be approached versus an unstable tachyarrhythmia?",
         "options": [
           "Both are treated identically with adenosine",
@@ -3622,13 +4026,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__42__rw6n6z",
-        "number": "42",
+        "id": "emergency__lecture__arrhythmia__48__rw6n6z",
+        "number": "48",
         "text": "An unresponsive, pulseless patient develops a shockable rhythm on the monitor. What is the immediate treatment?",
         "options": [
           "IV epinephrine before any shock",
@@ -3655,13 +4059,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__43__exoc8g",
-        "number": "43",
+        "id": "emergency__lecture__arrhythmia__49__exoc8g",
+        "number": "49",
         "text": "[img: ERArrhythmia14.png] What rhythm is shown on this recovered ECG?",
         "options": [
           "Atrial flutter",
@@ -3690,13 +4094,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__44__pngwq5",
-        "number": "44",
+        "id": "emergency__lecture__arrhythmia__50__pngwq5",
+        "number": "50",
         "text": "How is a hemodynamically stable, regular narrow-complex tachycardia managed?",
         "options": [
           "Immediate synchronized cardioversion",
@@ -3723,13 +4127,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__45__qr8cc2",
-        "number": "45",
+        "id": "emergency__lecture__arrhythmia__51__qr8cc2",
+        "number": "51",
         "text": "[img: ERArrhythmia15.png ] What is the diagnosis based on this ECG strip?",
         "options": [
           "Normal ECG",
@@ -3758,13 +4162,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__46__nt7hji",
-        "number": "46",
+        "id": "emergency__lecture__arrhythmia__52__nt7hji",
+        "number": "52",
         "text": "[img: ERArrhythmia16.png ] The ECG shows an anterior/anteroseptal infarction pattern. Which coronary artery is most likely involved?",
         "options": [
           "Left circumflex",
@@ -3791,13 +4195,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__47__g6u05z",
-        "number": "47",
+        "id": "emergency__lecture__arrhythmia__53__g6u05z",
+        "number": "53",
         "text": "What are the ECG characteristics of multifocal atrial tachycardia (MAT)?",
         "options": [
           "A regular rhythm with a single P-wave morphology",
@@ -3824,13 +4228,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__48__e3sgkf",
-        "number": "48",
+        "id": "emergency__lecture__arrhythmia__54__e3sgkf",
+        "number": "54",
         "text": "How can supraventricular tachycardia present atypically compared to classic palpitations?",
         "options": [
           "Only with syncope",
@@ -3859,13 +4263,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__49__c9jduy",
-        "number": "49",
+        "id": "emergency__lecture__arrhythmia__55__c9jduy",
+        "number": "55",
         "text": "Which unusual neck and urinary symptoms may occur during supraventricular tachycardia?",
         "options": [
           "Jugular venous distension with peripheral edema",
@@ -3892,13 +4296,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__50__koft65",
-        "number": "50",
+        "id": "emergency__lecture__arrhythmia__56__koft65",
+        "number": "56",
         "text": "How is an unstable tachyarrhythmia with a pulse treated?",
         "options": [
           "Immediate synchronized cardioversion, with sedation if feasible without delaying the shock",
@@ -3925,13 +4329,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__51__hgpmxz",
-        "number": "51",
+        "id": "emergency__lecture__arrhythmia__57__hgpmxz",
+        "number": "57",
         "text": "A patient treated for SVT develops transient flushing, chest pressure, and dyspnea immediately after a rapid IV drug push. Which drug most likely caused these effects?",
         "options": [
           "Aspirin",
@@ -3958,13 +4362,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__52__a8yle7",
-        "number": "52",
+        "id": "emergency__lecture__arrhythmia__58__a8yle7",
+        "number": "58",
         "text": "A conscious, hemodynamically stable patient has regular monomorphic ventricular tachycardia with a pulse. What is the next treatment?",
         "options": [
           "Immediate synchronized cardioversion",
@@ -3991,13 +4395,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__53__3n3xg6",
-        "number": "53",
+        "id": "emergency__lecture__arrhythmia__59__3n3xg6",
+        "number": "59",
         "text": "A person with alcohol use disorder collapses and is found to be in torsades de pointes. What intervention is most likely to correct the underlying problem?",
         "options": [
           "Rewarm the individual to correct hypothermia",
@@ -4026,13 +4430,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__54__gjmd20",
-        "number": "54",
+        "id": "emergency__lecture__arrhythmia__60__gjmd20",
+        "number": "60",
         "text": "What is ventricular bigeminy?",
         "options": [
           "Three or more consecutive PVCs",
@@ -4059,13 +4463,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__55__vf09qe",
-        "number": "55",
+        "id": "emergency__lecture__arrhythmia__61__vf09qe",
+        "number": "61",
         "text": "What is the underlying etiology of torsades de pointes?",
         "options": [
           "Prolonged QT interval, congenital or acquired (e.g., QT-prolonging drugs, hypokalemia, hypomagnesemia, hypocalcemia, marked bradycardia)",
@@ -4092,13 +4496,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__56__bbmirt",
-        "number": "56",
+        "id": "emergency__lecture__arrhythmia__62__bbmirt",
+        "number": "62",
         "text": "What is the first-line treatment for a drug-resistant, stable monomorphic ventricular tachycardia with a pulse that persists despite antiarrhythmic therapy?",
         "options": [
           "Unsynchronized defibrillation",
@@ -4125,13 +4529,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__57__kql4qf",
-        "number": "57",
+        "id": "emergency__lecture__arrhythmia__63__kql4qf",
+        "number": "63",
         "text": "How many consecutive premature ventricular contractions (PVCs) are required to define ventricular tachycardia?",
         "options": [
           "5 or more PVCs",
@@ -4158,13 +4562,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__58__sw957p",
-        "number": "58",
+        "id": "emergency__lecture__arrhythmia__64__sw957p",
+        "number": "64",
         "text": "[img: ERArrhythmia17.png ] A patient has regular monomorphic ventricular tachycardia with a pulse and remains hemodynamically stable. What is an appropriate initial treatment?",
         "options": [
           "Unsynchronized defibrillation",
@@ -4193,13 +4597,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__59__8nbmkd",
-        "number": "59",
+        "id": "emergency__lecture__arrhythmia__65__8nbmkd",
+        "number": "65",
         "text": "Which of the following are recognized morphology-based classifications of ventricular tachycardia?",
         "options": [
           "Sustained and nonsustained only",
@@ -4226,13 +4630,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__60__xv67l2",
-        "number": "60",
+        "id": "emergency__lecture__arrhythmia__66__xv67l2",
+        "number": "66",
         "text": "A patient has ventricular tachycardia with a heart rate of 300/min, blood pressure 94/78, and no chest pain. What is the most appropriate management?",
         "options": [
           "Reassess perfusion carefully; if instability (e.g., a narrow pulse pressure suggesting poor perfusion) is present despite the absence of chest pain, perform synchronized cardioversion rather than relying on drug therapy",
@@ -4259,13 +4663,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__61__ujcqfr",
-        "number": "61",
+        "id": "emergency__lecture__arrhythmia__67__ujcqfr",
+        "number": "67",
         "text": "Which drugs must be avoided in a patient with WPW syndrome who develops atrial fibrillation?",
         "options": [
           "Class Ia antiarrhythmics",
@@ -4292,13 +4696,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__62__g7i1vz",
-        "number": "62",
+        "id": "emergency__lecture__arrhythmia__68__g7i1vz",
+        "number": "68",
         "text": "What is a delta wave on ECG?",
         "options": [
           "A notched, tall R wave in the inferior leads",
@@ -4325,13 +4729,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__63__y6pbti",
-        "number": "63",
+        "id": "emergency__lecture__arrhythmia__69__y6pbti",
+        "number": "69",
         "text": "[img: ERArrhythmia18.png ] What is the diagnostic ECG triad of Wolff-Parkinson-White pre-excitation?",
         "options": [
           "Prolonged PR interval, narrow QRS, and absent P waves",
@@ -4360,13 +4764,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__64__2bchvi",
-        "number": "64",
+        "id": "emergency__lecture__arrhythmia__70__2bchvi",
+        "number": "70",
         "text": "What is the primary risk associated with WPW syndrome?",
         "options": [
           "Progression to sinus node dysfunction",
@@ -4393,13 +4797,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__65__wwlzw6",
-        "number": "65",
+        "id": "emergency__lecture__arrhythmia__71__wwlzw6",
+        "number": "71",
         "text": "How is a hemodynamically stable case of atrial fibrillation initially managed?",
         "options": [
           "Assess duration, stroke risk, heart failure/LVEF, blood pressure, and pre-excitation; use appropriate ventricular rate control and an anticoagulation/rhythm strategy as indicated",
@@ -4426,13 +4830,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__66__4spsq6",
-        "number": "66",
+        "id": "emergency__lecture__arrhythmia__72__4spsq6",
+        "number": "72",
         "text": "What are the ECG characteristics of polymorphic ventricular tachycardia?",
         "options": [
           "A regular, uniform QRS morphology throughout",
@@ -4459,13 +4863,13 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmias__67__pqli4d",
-        "number": "67",
+        "id": "emergency__lecture__arrhythmia__73__pqli4d",
+        "number": "73",
         "text": "What are the ECG characteristics of a premature ventricular complex (PVC)?",
         "options": [
           "A narrow QRS preceded by an early, abnormal P wave",
@@ -4494,12 +4898,12 @@
         "pageNumber": "",
         "subjectName": "Emergency",
         "subjectId": "emergency",
-        "lectureName": "Arrhythmias",
-        "groupName": "Arrhythmias",
+        "lectureName": "Arrhythmia",
+        "groupName": "Arrhythmia",
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 67,
+    "totalQuestions": 73,
     "totalLectures": 1,
     "hasAiFolder": false
   },
