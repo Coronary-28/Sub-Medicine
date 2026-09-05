@@ -1252,9 +1252,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "emergency__lecture__arrhythmia__38__1t9baw",
+            "id": "emergency__lecture__arrhythmia__38__goc61",
             "number": "38",
-            "text": "[img: ERArrhythmia10.png] This ECG shows an irregularly irregular rhythm with absent P waves, a broad notched R wave in V5/V6, and deep S waves in V1/V2. What two abnormalities are present?",
+            "text": "[img: ERArrhythmia10.png] What two abnormalities are shown on this ECG?",
             "options": [
               "Left bundle branch block with atrial fibrillation",
               "Right bundle branch block with atrial flutter",
@@ -3701,9 +3701,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "emergency__lecture__arrhythmia__38__1t9baw",
+        "id": "emergency__lecture__arrhythmia__38__goc61",
         "number": "38",
-        "text": "[img: ERArrhythmia10.png] This ECG shows an irregularly irregular rhythm with absent P waves, a broad notched R wave in V5/V6, and deep S waves in V1/V2. What two abnormalities are present?",
+        "text": "[img: ERArrhythmia10.png] What two abnormalities are shown on this ECG?",
         "options": [
           "Left bundle branch block with atrial fibrillation",
           "Right bundle branch block with atrial flutter",
