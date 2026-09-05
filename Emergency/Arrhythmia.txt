@@ -319,7 +319,7 @@ Correct Answer: C) Torsades de pointes; evaluate for congenital long-QT syndrome
 Explanation: A polymorphic VT with twisting QRS morphology in a young patient with a family history of sudden death should prompt evaluation for congenital long-QT syndrome, a heritable cause of torsades.
 ###
 [img: ERArrhythmia10.png]
-This ECG shows an irregularly irregular rhythm with absent P waves, a broad notched R wave in V5/V6, and deep S waves in V1/V2. What two abnormalities are present?
+What two abnormalities are shown on this ECG?
 A) Left bundle branch block with atrial fibrillation
 B) Right bundle branch block with atrial flutter
 C) Mobitz II block with left bundle branch block
