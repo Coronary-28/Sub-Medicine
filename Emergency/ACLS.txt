@@ -1,0 +1,529 @@
+What is the primary treatment goal in managing sinus tachycardia?
+A) Give adenosine
+B) Prepare for synchronized cardioversion
+C) Identify and treat the underlying cause
+Correct Answer: C) Identify and treat the underlying cause
+Explanation: Sinus tachycardia is usually a physiologic response to an underlying stressor (pain, fever, hypovolemia, etc.); treating the cause resolves the tachycardia,whereas adenosine and cardioversion are for reentrant arrhythmias, not sinus tach.
+###
+After delivering a defibrillation shock to a patient in VF/pulseless VT, what is the immediate next step?
+A) Resume CPR immediately, starting with chest compressions
+B) Check pulse
+C) Check rhythm on the monitor
+D) Administer epinephrine
+Correct Answer: A) Resume CPR immediately, starting with chest compressions
+Explanation: CPR must resume immediately after a shock without pausing to check pulse or rhythm, since even a successful shock rarely produces an immediately palpable pulse; rhythm is reassessed after the 2-minute CPR cycle.
+###
+In adult cardiac arrest, when is the first dose of epinephrine given, and how often is it repeated?
+A) 1 mg IV/IO once, immediately after the first shock
+B) 1 mg IV/IO every 10 minutes throughout the arrest
+C) 2 mg IV/IO every 3-5 minutes starting immediately
+D) 1 mg IV/IO every 3-5 minutes, given as soon as possible in PEA/asystole or during the CPR cycle after the second shock in VF/pVT
+Correct Answer: D) 1 mg IV/IO every 3-5 minutes, given as soon as possible in PEA/asystole or during the CPR cycle after the second shock in VF/pVT
+Explanation: Epinephrine dosing is time-interval based (every 3-5 minutes), not a fixed number of doses, and its first administration differs by rhythm: immediate in PEA/asystole, after the second shock in VF/pVT.
+###
+Which drug is used specifically to treat torsades de pointes during cardiac arrest management?
+A) Amiodarone
+B) Magnesium sulfate
+C) Lidocaine
+D) Sodium bicarbonate
+Correct Answer: B) Magnesium sulfate
+Explanation: Magnesium sulfate directly stabilizes the myocardial membrane in torsades de pointes, unlike amiodarone/lidocaine which are used for refractory VF/pVT, or sodium bicarbonate which is reserved for hyperkalemia, TCA overdose, or severe acidosis.
+###
+Which of the following is used for cardiac reperfusion in an ACS patient when timely PCI is unavailable?
+A) Fibrinolytic therapy, if the patient has an eligible STEMI and PCI is not available in time
+B) Epinephrine
+C) Atropine
+D) Both epinephrine and atropine
+Correct Answer: A) Fibrinolytic therapy, if the patient has an eligible STEMI and PCI is not available in time
+Explanation: Fibrinolytics achieve coronary reperfusion when timely PCI cannot be performed; epinephrine and atropine have no role in coronary reperfusion.
+###
+In the VF/pulseless VT algorithm, when are epinephrine and amiodarone typically administered relative to defibrillation?
+A) Epinephrine after every shock; amiodarone after the first shock
+B) Epinephrine every 10 minutes; amiodarone after the fifth shock
+C) Epinephrine every 3-5 minutes, given during the CPR cycle after the second shock; amiodarone (or lidocaine) for refractory VF/pVT typically after the third shock
+D) Epinephrine only once at the start; amiodarone continuously infused
+Correct Answer: C) Epinephrine every 3-5 minutes, given during the CPR cycle after the second shock; amiodarone (or lidocaine) for refractory VF/pVT typically after the third shock
+Explanation: The standard sequence gives epinephrine after the second shock and repeats it every 3-5 minutes; amiodarone/lidocaine are added for shock-refractory VF/pVT after the third shock, without ever replacing CPR or defibrillation.
+###
+A 55-year-old male has stroke symptoms, and CT shows multilobar infarction (more than one-third of the cerebral hemisphere). What therapy is contraindicated?
+A) Thrombolytic therapy
+B) Oxygen
+C) Monitoring glucose
+D) Blood pressure monitoring
+Correct Answer: A) Thrombolytic therapy
+Explanation: A large established infarct substantially increases the risk of hemorrhagic transformation with thrombolysis; current decisions also weigh time window, disabling deficit, and modern imaging criteria rather than this legacy size cutoff alone.
+###
+A 79-year-old patient in supraventricular tachycardia has a blood pressure of 80/50 and complains of chest discomfort with near-syncope. What is the next appropriate step?
+A) Carotid massage
+B) Amiodarone
+C) Lidocaine
+D) Synchronized cardioversion
+Correct Answer: D) Synchronized cardioversion
+Explanation: Hypotension and chest discomfort attributable to the tachyarrhythmia define instability, requiring immediate synchronized cardioversion; carotid massage risks complications in elderly patients, and amiodarone/lidocaine are not first-line for unstable SVT.
+###
+_______ access is preferred in cardiac arrest due to easy access and no interruption in CPR.
+A) Central
+B) Peripheral
+C) Intraosseous
+D) Endotracheal
+Correct Answer: B) Peripheral
+Explanation: Peripheral IV access can be obtained without interrupting chest compressions and carries fewer complications than central lines, making it the preferred first-line route during arrest.
+###
+All of the following are bradycardic rhythms except:
+A) First-degree heart block
+B) Atrial fibrillation
+C) Mobitz type I
+D) Third-degree heart block
+Correct Answer: B) Atrial fibrillation
+Explanation: Atrial fibrillation is typically associated with an irregular, often rapid ventricular response, not bradycardia, unlike the listed AV blocks which characteristically slow ventricular rate.
+###
+Choose the correct sequence of electrical activity in the heart for normal sinus rhythm.
+A) SA node, Purkinje fibers, AV node, Bundle of His
+B) Purkinje fibers, Bundle of His, AV node, SA node
+C) SA node, AV node, Bundle of His, Purkinje fibers
+D) AV node, SA node, Bundle of His, Purkinje fibers
+Correct Answer: C) SA node, AV node, Bundle of His, Purkinje fibers
+Explanation: The normal conduction pathway originates in the SA node, passes through the AV node, then the Bundle of His, and finally the Purkinje fibers to depolarize the ventricles.
+###
+In children and infants, when should 2 minutes of CPR be given before activating EMS in a single-rescuer scenario?
+A) Unwitnessed collapse
+B) Witnessed cardiac arrest
+C) Witnessed choking incident
+D) Unresponsive victim with pulse and breathing
+Correct Answer: A) Unwitnessed collapse
+Explanation: For an unwitnessed pediatric collapse, a lone rescuer should perform about 2 minutes of CPR before leaving to activate EMS/get an AED, since the initial cause is often respiratory rather than a witnessed cardiac event.
+###
+In CPR, what is the maximum time a rescuer should take to check for a pulse?
+A) No more than 10 seconds
+B) 5 seconds
+C) 15 seconds
+Correct Answer: A) No more than 10 seconds
+Explanation: If a definite pulse is not felt within 10 seconds, the rescuer should begin or resume CPR without further delay to avoid prolonging a no-flow state.
+###
+Most cases of pediatric cardiac arrest begin with which underlying process?
+A) Primary ventricular fibrillation
+B) Respiratory distress/failure or shock (asphyxial arrest)
+C) Sudden primary arrhythmia
+D) Coronary artery occlusion
+Correct Answer: B) Respiratory distress/failure or shock (asphyxial arrest)
+Explanation: Unlike adults, most pediatric arrests are asphyxial, progressing from respiratory failure or shock rather than a primary shockable arrhythmia — this is why early ventilation is emphasized in pediatric resuscitation.
+###
+What best describes the traditional stroke-care time benchmarks of ED evaluation within 10 minutes, neurologic evaluation within 25 minutes, and head CT read within 45 minutes of arrival?
+A) These are current mandatory legal requirements in all hospitals
+B) These are outdated absolute rules that should never be exceeded
+C) These are legacy process targets; current care still requires immediate evaluation and rapid imaging without avoidable delay, per local stroke protocol
+D) These times apply only to hemorrhagic stroke
+Correct Answer: C) These are legacy process targets; current care still requires immediate evaluation and rapid imaging without avoidable delay, per local stroke protocol
+Explanation: These specific minute-benchmarks are legacy process targets rather than fixed universal rules; the underlying principle of minimizing delay to imaging and treatment remains current.
+###
+When should out-of-hospital resuscitation efforts be terminated in adults?
+A) After exactly 20 minutes of CPR regardless of rhythm
+B) After exactly 3 rounds of epinephrine
+C) Based on a validated termination-of-resuscitation rule (arrest not witnessed by EMS, no shock delivered, no ROSC), combined with clinical judgment
+D) Only when family requests it
+Correct Answer: C) Based on a validated termination-of-resuscitation rule (arrest not witnessed by EMS, no shock delivered, no ROSC), combined with clinical judgment
+Explanation: Termination decisions rely on validated criteria and clinical/legal judgment rather than an arbitrary elapsed time; in-hospital decisions remain individualized.
+###
+Select the proper pairing regarding chest compressions for an adult.
+A) 100 to 120 compressions/minute; 2 to 2.4 inches (5-6 cm) deep
+B) 60 to 80 compressions/minute; 2 inches (5 cm) deep
+C) 80 compressions/minute; 1.5 inches (4 cm) deep
+D) 100 compressions/minute; 3 inches (8 cm) deep
+Correct Answer: A) 100 to 120 compressions/minute; 2 to 2.4 inches (5-6 cm) deep
+Explanation: High-quality adult CPR requires a compression rate of 100-120/min and a depth of 5-6 cm, avoiding both underventilation of blood flow and excessive depth that risks injury.
+###
+Symptomatic bradycardia (HR 32, hypotension, altered mental status): what is the first-line medication?
+A) Epinephrine
+B) Dopamine
+C) All of the above
+D) Atropine
+Correct Answer: D) Atropine
+Explanation: Atropine is the first-line drug for symptomatic bradycardia; dopamine or epinephrine infusions and transcutaneous pacing are reserved as next-line options if atropine fails, not co-first-line agents.
+###
+In the treatment of a stable tachyarrhythmia, how many CPR cycles must elapse before reassessing the rhythm?
+A) 5 cycles
+B) CPR cycles are not the relevant measure — reassessment depends on the patient's response to treatment (vagal maneuvers, adenosine, or cardioversion), not a fixed number of CPR cycles
+C) 3 cycles
+D) 1 cycle
+Correct Answer: B) CPR cycles are not the relevant measure — reassessment depends on the patient's response to treatment (vagal maneuvers, adenosine, or cardioversion), not a fixed number of CPR cycles
+Explanation: The tachycardia-with-a-pulse algorithm is response-driven, not cycle-counted like the pulseless arrest algorithm; "5 CPR cycles" is a pulseless-arrest concept misapplied here.
+###
+The 6 steps in the Adult Chain of Survival include all of the following except:
+A) Early CPR
+B) Rapid defibrillation
+C) Integrated post-cardiac arrest care
+D) Use of cardiovascular medications
+Correct Answer: D) Use of cardiovascular medications
+Explanation: The Chain of Survival emphasizes early recognition/CPR, rapid defibrillation, and integrated post-arrest care; routine cardiovascular medications are not one of its defined links.
+Note: The Adult Chain of Survival (AHA, out-of-hospital version) has 6 links:
+ 1. Recognition of cardiac arrest and activation of emergency response
+ 2. Early, high-quality CPR
+ 3. Rapid defibrillation
+ 4. Advanced resuscitation (ACLS)
+ 5. Post-cardiac arrest care
+ 6. Recovery
+###
+Which elements are included in the ACLS Survey?
+A) Airway, Breathing, Circulation, Defibrillation
+B) Airway, Breathing, CPR, Arrest rhythm
+C) Airway, Breathing, Circulation, Differential diagnosis
+D) Assessment, Breathing, Circulation, Defibrillation
+Correct Answer: C) Airway, Breathing, Circulation, Differential diagnosis
+Explanation: The ACLS Survey (as opposed to the BLS Survey) systematically assesses Airway, Breathing, Circulation, and Differential diagnosis to identify and treat reversible causes.
+###
+What term describes an organized electrical rhythm with no palpable pulse, and how is it treated?
+A) Pulseless electrical activity (PEA); treat with high-quality CPR, epinephrine every 3-5 minutes, and correction of reversible causes (do not shock)
+B) Ventricular fibrillation; treat with immediate defibrillation
+C) Asystole; treat with epinephrine only
+D) Pulseless VT; treat with synchronized cardioversion
+Correct Answer: A) Pulseless electrical activity (PEA); treat with high-quality CPR, epinephrine every 3-5 minutes, and correction of reversible causes (do not shock)
+Explanation: PEA is defined by an organized rhythm without a detectable pulse; it is not shockable, so treatment centers on CPR, epinephrine, and correcting the underlying Hs and Ts
+###
+The normal sinus rhythm of the heart starts in the:
+A) Left ventricle
+B) Atrioventricular node
+C) Right ventricle
+D) Sinoatrial node
+Correct Answer: D) Sinoatrial node
+Explanation: The SA node is the heart's natural pacemaker, initiating the electrical impulse that spreads through the atria to the AV node.
+###
+The primary focus of treating cardiac arrest is:
+A) Effective CPR
+B) Both effective CPR and early defibrillation
+C) Drug administration
+D) Early defibrillation
+Correct Answer: B) Both effective CPR and early defibrillation
+Explanation: High-quality CPR and early defibrillation are the two interventions most strongly linked to survival in cardiac arrest, more so than drug administration.
+###
+A 3-year-old child begins breathing at 18 breaths/min and has a pulse of 50/min. What should you do next?
+A) Begin CPR with chest compressions
+B) Give faster rescue breaths
+C) Perform carotid massage
+D) Monitor the child without intervention
+Correct Answer: A) Begin CPR with chest compressions
+Explanation: CPR should be initiated in pediatric patients whose pulse is ≤60/min despite adequate oxygenation and ventilation, since this reflects inadequate perfusion.
+###
+What age is considered an infant for BLS purposes?
+A) Two years
+B) Four years
+C) Under one year
+D) Three years
+Correct Answer: C) Under one year
+Explanation: BLS classifications define an infant as under one year of age, a child as 1 year to puberty, and adolescents and older as the adult category.
+###
+What does the QRS complex on an ECG represent?
+A) Ventricular contraction
+B) AV valve closure
+C) Atrial contraction
+D) Septal relaxation
+Correct Answer: A) Ventricular contraction
+Explanation: The QRS complex reflects ventricular depolarization leading to contraction; the T wave, not the QRS, represents ventricular repolarization.
+###
+What factor is critical to assess in any emergency situation before approaching the patient?
+A) Age of the individual
+B) Resuscitation status
+C) Pregnancy status
+D) Scene safety
+Correct Answer: D) Scene safety
+Explanation: Scene safety must always be confirmed first so the rescuer does not become a second casualty, before any patient-specific assessment is made.
+###
+What is the first step in the assessment of an individual found "down"?
+A) Check their blood pressure
+B) Check to see if they are conscious or unconscious
+C) Check their heart rate
+D) Check their pupil size
+Correct Answer: B) Check to see if they are conscious or unconscious
+Explanation: Establishing responsiveness is the first assessment step, as it determines whether the emergency response/resuscitation sequence should be activated.
+###
+What is the recommended method to monitor breathing/ventilation during ACLS care?
+A) Look, listen, and feel
+B) Capnography
+C) Venous blood gas
+D) Monitoring chest rise
+Correct Answer: B) Capnography
+###
+Where should you attempt to perform a pulse check in an adult?
+A) Brachial artery
+B) Popliteal artery
+C) Carotid artery
+D) Temporal artery
+Correct Answer: C) Carotid artery
+Explanation: The carotid artery is the standard site for adult pulse checks due to its accessibility and reliability during low-flow states.
+###
+Which of the following is first-line treatment for ACS?
+A) Morphine
+B) Nitroglycerin
+C) Aspirin, unless contraindicated
+D) All of the above
+Correct Answer: C) Aspirin, unless contraindicated
+Explanation: Aspirin provides mortality benefit in acute coronary syndrome (ACS) and is given to essentially all eligible patients, whereas morphine and nitroglycerin are selective symptom therapies rather than universal first-line treatment.
+###
+Which of the following is NOT an example of an advanced airway?
+A) Oropharyngeal airway
+B) Esophageal-tracheal tube
+C) Laryngeal mask airway
+D) Combitube
+Correct Answer: A) Oropharyngeal airway
+Explanation: An OPA is a basic airway adjunct, unlike the esophageal-tracheal tube, laryngeal mask airway, and Combitube, which are all advanced airway devices.
+###
+Which of the following is true regarding BLS?
+A) It is obsolete
+B) Recent changes prohibit mouth-to-mouth
+C) It has little impact on survival
+D) It should be mastered prior to ACLS
+Correct Answer: D) It should be mastered prior to ACLS
+Explanation: ACLS providers are presumed to have already mastered BLS skills, since high-quality CPR remains foundational to resuscitation outcomes.
+###
+Which sequence best represents the adult Chain of Survival?
+A) Check responsiveness, call EMS/AED, provide ventilations, defibrillate, recovery
+B) Check responsiveness, call EMS/AED, begin chest compressions, provide early defibrillation, recovery
+C) Check responsiveness, call EMS/AED, defibrillate, recovery
+D) Check responsiveness, call EMS/AED, wait for advanced care, recovery
+Correct Answer: B) Check responsiveness, call EMS/AED, begin chest compressions, provide early defibrillation, recovery
+Explanation: The Chain of Survival emphasizes early CPR (chest compressions) and early defibrillation as the key steps between activation of emergency response and recovery.
+###
+While one rescuer is performing CPR on an infant, a second rescuer arrives. What should happen next?
+A) The second rescuer takes over compressions alone while the first rescuer leaves
+B) The second rescuer waits until the first rescuer is exhausted
+C) The second rescuer immediately applies AED pads without confirming EMS activation
+D) The second rescuer activates the emergency response system/retrieves the AED if not already done, then assists with two-rescuer CPR
+Correct Answer: D) The second rescuer activates the emergency response system/retrieves the AED if not already done, then assists with two-rescuer CPR
+Explanation: Two-rescuer infant CPR uses coordinated roles — one ensures EMS/AED activation while the other continues compressions — rather than one rescuer working alone or waiting
+###
+During adult CPR with an advanced airway in place, what ventilation rate should be used?
+A) Two breaths every 6-8 seconds
+B) 30 compressions to 2 breaths
+C) One breath every 6 seconds with continuous chest compressions
+D) One breath every 10 seconds
+Correct Answer: C) One breath every 6 seconds with continuous chest compressions
+Explanation: Once an advanced airway is placed, compressions are continuous and ventilations are delivered asynchronously at one breath every 6 seconds (10/min), avoiding pauses in compressions.
+###
+You are alone with an unresponsive 3-year-old child who is not breathing and appears cyanotic. What should you do first?
+A) Give about 2 minutes of CPR, then activate EMS and get an AED
+B) Leave immediately to activate EMS and get an AED
+C) Give rescue breaths only for 2 minutes
+D) Place the child in the recovery position
+Correct Answer: A) Give about 2 minutes of CPR, then activate EMS and get an AED
+Explanation: For an unwitnessed pediatric arrest with a lone rescuer, 2 minutes of CPR should be performed before leaving the child to activate EMS/retrieve an AED, since pediatric arrests are often asphyxial and respond to early ventilation/compressions.
+###
+You are transporting an individual who goes into cardiac arrest during transport. IV access is unsuccessful. What is the next step?
+A) Terminate resuscitation
+B) Place a central line
+C) Administer all medications through the ET tube
+D) Obtain intraosseous access
+Correct Answer: D) Obtain intraosseous access
+Explanation: IO access can be established rapidly and is the preferred next route for drug delivery when IV access fails, since ET tube drug absorption is unreliable and central lines interrupt CPR.
+###
+CPR is initiated and the patient's pulse returns, but he is not breathing normally. What ventilation rate should be used?
+A) 6-8 breaths per minute
+B) 10 breaths per minute (1 breath every 6 seconds), with visible chest rise
+C) 18-20 breaths per minute
+D) Depends on his skin color
+Correct Answer: B) 10 breaths per minute (1 breath every 6 seconds), with visible chest rise
+Explanation: For an adult with a pulse who is not breathing normally, rescue breathing is given at one breath every 6 seconds (10/min) with visible chest rise, per current AHA guidance.
+###
+What is the single-rescuer adult chest compression-to-ventilation ratio before placement of an advanced airway?
+A) 15:2
+B) 5:1
+C) 30 compressions to 2 breaths, before placement of an advanced airway
+D) Continuous breaths without compressions
+Correct Answer: C) 30 compressions to 2 breaths, before placement of an advanced airway
+Explanation: Without an advanced airway, adult CPR uses a 30:2 compression-to-ventilation ratio; once an advanced airway is placed, ventilation becomes continuous at one breath every 6 seconds.
+###d
+In two-rescuer adult CPR, after an advanced airway is placed, what is the compression-to-ventilation approach?
+A) Continuous compressions at 100-120/min with 1 breath every 6 seconds
+B) 30:2
+C) 15:2
+D) 30:1
+Correct Answer: A) Continuous compressions at 100-120/min with 1 breath every 6 seconds
+Explanation: After advanced airway placement, compressions become continuous (not paused for breaths) while ventilations are delivered asynchronously every 6 seconds.
+###
+During high-quality CPR, what ETCO2 range indicates adequate chest compressions?
+A) 30-40 mmHg
+B) Less than 5 mmHg
+C) Greater than 50 mmHg
+D) 10-20 mmHg
+Correct Answer: D) 10-20 mmHg
+Explanation: An ETCO2 of at least 10-20 mmHg during CPR reflects adequate compressions and perfusion; persistently low ETCO2 suggests poor CPR quality, while a sudden rise to ≥40 mmHg suggests ROSC.
+###
+According to current guidelines, what is the pediatric chest compression-to-ventilation ratio for single-rescuer versus two-rescuer CPR (without an advanced airway)?
+A) 15:2 for single-rescuer; 30:2 for two-rescuer
+B) 30:2 for single-rescuer; 15:2 for two-rescuer
+C) 15:2 for all scenarios regardless of rescuer number
+D) 30:2 for all scenarios regardless of rescuer number
+Correct Answer: B) 30:2 for single-rescuer; 15:2 for two-rescuer
+Explanation: Pediatric CPR uses 30:2 for a lone rescuer (matching adult ratio) but shifts to 15:2 when a second rescuer is present to allow more frequent ventilation for the child.
+###
+What are the possible effects of hyperventilation during CPR?
+A) Increased intrathoracic pressure
+B) Increased intrathoracic pressure and decreased venous return to the heart (both)
+C) Decreased venous return to the heart
+D) None of the above
+Correct Answer: B) Increased intrathoracic pressure and decreased venous return to the heart (both)
+Explanation: Excessive ventilation raises intrathoracic pressure, which impedes venous return to the heart and reduces cardiac output generated by compressions.
+###
+Why are ventilations given to a pediatric arrest victim before seeking assistance in a single-rescuer scenario?
+A) 911/EMS response times are generally slow
+B) The parents are often nearby
+C) Most pediatric cardiac arrests are due to respiratory arrest
+D) AED use is contraindicated in pediatrics
+Correct Answer: C) Most pediatric cardiac arrests are due to respiratory arrest
+Explanation: Since pediatric arrests are predominantly asphyxial, restoring oxygenation/ventilation early can be lifesaving and may prevent progression to full cardiac arrest
+###
+Pulseless electrical activity (PEA) includes any pulseless rhythm EXCEPT which of the following?
+A) Sinus bradycardia
+B) Idioventricular rhythm
+C) Junctional rhythm
+D) Ventricular fibrillation, pulseless VT, and true asystole
+Correct Answer: D) Ventricular fibrillation, pulseless VT, and true asystole
+Explanation: PEA is defined as any organized pulseless rhythm; VF, pulseless VT, and true asystole are managed as separate distinct categories in the cardiac arrest algorithm and are excluded from the PEA definition.
+###
+Which of the following can present as pulseless electrical activity (PEA)?
+A) Ventricular fibrillation
+B) Any organized rhythm without a pulse (e.g., sinus rhythm, sinus bradycardia, idioventricular, or junctional rhythm)
+C) True asystole (flat line)
+D) Pulseless ventricular tachycardia
+Correct Answer: B) Any organized rhythm without a pulse (e.g., sinus rhythm, sinus bradycardia, idioventricular, or junctional rhythm)
+Explanation: PEA encompasses any organized electrical activity on the monitor that lacks a detectable pulse, while VF, pulseless VT, and asystole are treated as separate rhythm categories.
+###
+Which of the following is NOT a cause of pulseless electrical activity (PEA)?
+A) Hypoxia
+B) Hyperventilation
+C) Hypovolemia
+Correct Answer: B) Hyperventilation
+Explanation: PEA causes follow the 5H/5T mnemonic (Hypoxia, Hypovolemia, Hydrogen ion/acidosis, Hypo/Hyperkalemia, Hypothermia, Tension pneumothorax, Tamponade, Toxins, Thrombosis, Trauma); hyperventilation is not one of these reversible causes.
+###
+Which medication can be used to treat hypotension during the post-cardiac arrest phase?
+A) Milrinone
+B) Amiodarone
+C) Dopamine
+D) Both A and B
+Correct Answer: C) Dopamine
+Explanation: Dopamine is a vasopressor/inotrope used to support blood pressure in the post-arrest period; amiodarone treats arrhythmias, and milrinone is not typically used for post-arrest hypotension.
+###
+After activating EMS and sending someone for an AED, what is the correct action for one-rescuer BLS of an unresponsive individual with no pulse?
+A) Begin chest compressions
+B) Start rescue breathing
+C) Apply AED pads
+D) Run to get help
+Correct Answer: A) Begin chest compressions
+Explanation: Once help has been activated, the lone rescuer should immediately begin chest compressions, since compressions take priority in adult CPR sequencing.
+###
+In which of the following situations should the AED NOT be applied without first modifying the patient or environment?
+A) Victim with an implanted pacemaker (pad placement adjusted)
+B) Victim lying in the snow
+C) Victim with a transdermal medication patch (patch removed first)
+D) Victim lying partially in water (should be moved to a dry area first)
+Correct Answer: D) Victim lying partially in water (should be moved to a dry area first)
+Explanation: Water on the chest can short-circuit or reduce shock delivery, so the victim must be moved to a dry area and dried before AED use; pacemakers and patches only require adjusted pad placement or removal, not avoidance of the AED.
+###
+A patient with a pulse has unstable monomorphic ventricular tachycardia with hypotension and altered mental status. What is the indicated treatment?
+A) Adenosine
+B) Synchronized cardioversion
+C) Atropine
+D) Amiodarone
+Correct Answer: B) Synchronized cardioversion
+Explanation: Unstable VT with a pulse requires immediate synchronized cardioversion; amiodarone is an adjunct for stable or refractory VT, not the first action in instability.
+###
+At what age is it preferable to use pediatric AED pads instead of adult pads?
+A) 8 years of age or older
+B) 12 years of age or younger
+C) Less than 8 years of age
+D) 18 years of age or younger
+Correct Answer: C) Less than 8 years of age
+Explanation: Pediatric AED pads/attenuated energy settings are preferred for children under 8 years old to deliver an age-appropriate energy dose; adult pads are used for older children and adults.
+###
+How much energy is delivered for an adult shock with a monophasic defibrillator?
+A) 380 J
+B) 320 J
+C) 360 J
+D) 340 J
+Correct Answer: C) 360 J
+Explanation: Monophasic defibrillators deliver a fixed 360 J for all adult shocks, unlike biphasic devices which use 120-200 J per manufacturer recommendation.
+###
+A patient in pulseless VT receives CPR/defibrillation cycles and remains pulseless, now with an organized SVT-like rhythm on the monitor. What is the next step?
+A) Treat as pulseless electrical activity (PEA): resume high-quality CPR, give epinephrine every 3-5 minutes, and treat reversible causes; do not shock unless VF/pulseless VT recurs
+B) Continue treating as pulseless VT with another shock
+C) Give adenosine to convert the SVT-like rhythm
+D) Shock the new rhythm since it originated from pulseless VT
+Correct Answer: A) Treat as pulseless electrical activity (PEA): resume high-quality CPR, give epinephrine every 3-5 minutes, and treat reversible causes; do not shock unless VF/pulseless VT recurs
+Explanation: Treatment is dictated by the current pulseless rhythm, not the preceding one; an organized rhythm without a pulse is PEA and should not be shocked unless VF/pulseless VT recurs.
+###
+What are the criteria for applying an AED to a collapsed patient?
+A) The patient is unresponsive but has a strong pulse
+B) The patient is breathing normally but confused
+C) The patient is responsive with chest pain
+D) The patient is unresponsive, not breathing normally, and has no definite pulse
+Correct Answer: D) The patient is unresponsive, not breathing normally, and has no definite pulse
+Explanation: An AED should be applied as soon as available to a patient meeting all three criteria — unresponsive, abnormal/absent breathing, and no definite pulse — with minimal interruption of CPR to attach it.
+###
+What is the recommended defibrillation energy for monophasic versus biphasic defibrillators?
+A) Monophasic: 200 J for all shocks; Biphasic: 360 J fixed
+B) Monophasic: 360 J for all shocks; Biphasic: 120-200 J per manufacturer recommendation (or maximum available dose if unknown)
+C) Monophasic: 120 J; Biphasic: 360 J
+D) Both monophasic and biphasic use 150 J fixed
+Correct Answer: B) Monophasic: 360 J for all shocks; Biphasic: 120-200 J per manufacturer recommendation (or maximum available dose if unknown)
+Explanation: Monophasic defibrillators use a fixed 360 J dose, while biphasic devices deliver lower energy (120-200 J) per manufacturer guidance, defaulting to maximum available energy if unspecified.
+###
+The AED indicates "Shock." What is the next step?
+A) Deliver two additional minutes of CPR before delivering the shock
+B) Ventilate while the shock is delivered
+C) Assume error and do not deliver the shock
+D) Clear the person and deliver the shock
+Correct Answer: D) Clear the person and deliver the shock
+Explanation: Once the AED advises a shock, the rescuer should ensure everyone is clear of the patient and deliver it promptly, without delaying for additional CPR or assuming device error.
+###
+Which listed medication is NOT used in the adult algorithm for persistent ventricular fibrillation or pulseless ventricular tachycardia?
+A) Amiodarone
+B) Lidocaine
+C) Atropine
+D) Epinephrine
+Correct Answer: C) Atropine
+Explanation: Persistent VF/pulseless VT management relies on defibrillation, high-quality CPR, epinephrine, and amiodarone/lidocaine; atropine has no role in shockable pulseless arrest.
+###
+What are the proper steps for operating an AED?
+A) Power on the AED, attach electrode pads, analyze the rhythm, and shock the person
+B) Power on the AED, attach electrode pads, shock the person, and analyze the rhythm
+C) Power on the AED, analyze the rhythm, attach electrode pads, and shock the person
+D) Power on the AED, shock the person, attach electrode pads, and analyze the rhythm
+Correct Answer: A) Power on the AED, attach electrode pads, analyze the rhythm, and shock the person
+Explanation: The AED must be powered on and pads attached before it can analyze the rhythm; a shock is only delivered after rhythm analysis confirms a shockable rhythm.
+###
+How is refractory ventricular fibrillation managed in the adult cardiac arrest algorithm?
+A) Stop CPR and give epinephrine alone
+B) Switch immediately to synchronized cardioversion
+C) Give atropine as the primary antiarrhythmic
+D) Continue high-quality CPR with repeated defibrillation, epinephrine every 3-5 minutes, and amiodarone or lidocaine (typically after the third shock), while treating reversible causes
+Correct Answer: D) Continue high-quality CPR with repeated defibrillation, epinephrine every 3-5 minutes, and amiodarone or lidocaine (typically after the third shock), while treating reversible causes
+Explanation: Refractory VF is managed by continuing CPR and defibrillation with epinephrine and adding amiodarone or lidocaine (usually after the third shock), while actively searching for reversible causes.
+###
+What does AED stand for?
+A) Automatic Energy Delivery
+B) Automated External Defibrillator
+C) Automated External Device
+D) Autonomous Energy Defibrillator
+Correct Answer: B) Automated External Defibrillator
+Explanation: AED stands for Automated External Defibrillator, a device that analyzes cardiac rhythm and delivers a shock if a shockable rhythm is detected.
+###
+What is the first step after detecting a shockable rhythm on the defibrillator?
+A) Administer amiodarone
+B) Check pulse
+C) Deliver shock and immediately resume CPR
+Correct Answer: C) Deliver shock and immediately resume CPR
+Explanation: Once a shockable rhythm is confirmed, the shock should be delivered promptly and CPR resumed immediately afterward, without pausing for a pulse check or drug administration first.
+###
+When should rhythm be checked after using an AED?
+A) Immediately
+B) After 5 minutes
+C) After one 2-minute CPR cycle (or whenever the AED prompts a rhythm analysis)
+D) After 30 compressions
+Correct Answer: C) After one 2-minute CPR cycle (or whenever the AED prompts a rhythm analysis)
+Explanation: CPR resumes immediately after a shock and continues for a full 2-minute cycle before the rhythm is reassessed, avoiding an immediate pulse/rhythm pause.
+###
+Where are standard anterolateral AED pads placed?
+A) Right upper chest (below the right clavicle) and left lower/lateral chest (below the left armpit)
+B) Both pads on the anterior chest, side by side
+C) Right lower chest and left upper chest
+D) Directly over the sternum, one above the other
+Correct Answer: A) Right upper chest (below the right clavicle) and left lower/lateral chest (below the left armpit)
+Explanation: The anterolateral placement positions one pad below the right clavicle and the other on the left lateral chest below the armpit, maximizing current flow through the heart.
