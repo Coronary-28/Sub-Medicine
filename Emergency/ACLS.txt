@@ -155,13 +155,7 @@ C) Integrated post-cardiac arrest care
 D) Use of cardiovascular medications
 Correct Answer: D) Use of cardiovascular medications
 Explanation: The Chain of Survival emphasizes early recognition/CPR, rapid defibrillation, and integrated post-arrest care; routine cardiovascular medications are not one of its defined links.
-Note: The Adult Chain of Survival (AHA, out-of-hospital version) has 6 links:
- 1. Recognition of cardiac arrest and activation of emergency response
- 2. Early, high-quality CPR
- 3. Rapid defibrillation
- 4. Advanced resuscitation (ACLS)
- 5. Post-cardiac arrest care
- 6. Recovery
+Note: The Adult Chain of Survival (AHA, out-of-hospital version) has 6 links: 1. Recognition of cardiac arrest and activation of emergency response . 2. Early, high-quality CPR . 3. Rapid defibrillation . 4. Advanced resuscitation (ACLS) . 5. Post-cardiac arrest care . 6. Recovery .
 ###
 Which elements are included in the ACLS Survey?
 A) Airway, Breathing, Circulation, Defibrillation
