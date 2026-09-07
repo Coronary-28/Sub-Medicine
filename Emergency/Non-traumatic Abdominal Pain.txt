@@ -1,0 +1,266 @@
+Which of the following is NOT a classic sign of appendicitis?
+A) Right-lower-quadrant tenderness
+B) Rebound tenderness
+C) Grey Turner sign
+D) Rovsing sign
+E) Psoas sign
+Correct Answer: C) Grey Turner sign
+Explanation: Grey Turner's sign (flank ecchymosis) reflects retroperitoneal hemorrhage, classically severe hemorrhagic pancreatitis, not appendicitis; RLQ tenderness, rebound, Rovsing, and psoas/obturator signs are appendicitis findings.
+###
+The psoas sign is tested by passive extension of the right hip, often with the patient in the left lateral position. What does a positive result suggest?
+A) Retrocecal appendicitis or psoas muscle irritation
+B) Acute cholecystitis
+C) Perforated peptic ulcer
+D) Testicular torsion
+Correct Answer: A) Retrocecal appendicitis or psoas muscle irritation
+Explanation: Passive hip extension stretches the iliopsoas muscle, reproducing pain when an inflamed retrocecal appendix (or a retroperitoneal process) lies against it; it is supportive but neither sensitive nor specific enough to rule appendicitis in or out alone.
+###
+What proportion of appendicitis patients present with the full classic combination of fever, nausea/vomiting, RLQ pain, and leukocytosis?
+A) About 80%
+B) About 60%
+C) About 50%
+D) About 20%
+Correct Answer: D) About 20%
+Explanation: Only around 20% of patients show the complete classic tetrad; this is a general limitation of clinical diagnosis, not specific to elderly patients (who in fact tend to have even more atypical presentations).
+###
+A patient has RUQ pain, localized tenderness, no fever, no peritonism, a negative Murphy sign, and ultrasound showing a gallstone with acoustic shadowing. After pain control, what is the best disposition?
+A) Emergency cholecystectomy within 24 hours
+B) Discharge with analgesia, return precautions, and elective surgical referral
+C) Admit for IV antibiotics
+D) Urgent ERCP
+Correct Answer: B) Discharge with analgesia, return precautions, and elective surgical referral
+Explanation: This presentation is uncomplicated biliary colic (no fever, peritonism, or Murphy sign); once pain resolves and vitals/labs are reassuring, outpatient management with elective cholecystectomy referral is appropriate, reserving admission/urgent intervention for complicated disease.
+###
+Which statement about choledocholithiasis is correct?
+A) It requires a common bile duct dilated below 5-7 mm
+B) It is synonymous with cholangitis
+C) It always presents with Charcot's triad
+D) It is defined by the presence of a stone in the common bile duct, and the duct may be normal or dilated
+E) It only occurs after cholecystectomy
+Correct Answer: D) It is defined by the presence of a stone in the common bile duct, and the duct may be normal or dilated
+Explanation: Choledocholithiasis is defined by stone location (CBD), not by a specific duct diameter cutoff; duct diameter thresholds are age- and context-dependent, and cholangitis is a distinct, more severe infectious complication.
+###
+Murphy's sign — inspiratory arrest on deep palpation under the right costal margin — is characteristic of which condition?
+A) Peptic ulcer disease
+B) Mesenteric ischemia
+C) Acute cholecystitis
+D) Appendicitis
+Correct Answer: C) Acute cholecystitis
+Explanation: Murphy's sign reflects gallbladder inflammation causing pain-induced inspiratory arrest when the inflamed gallbladder contacts the examiner's fingers; it is not a feature of appendicitis, for which psoas/Rovsing signs are used instead.
+###
+Which term describes infection of the biliary tree, usually occurring behind an obstructed common bile duct?
+A) Cholangitis
+B) Cholelithiasis
+C) Cholecystitis
+D) Choledocholithiasis
+Correct Answer: A) Cholangitis
+Explanation: Cholangitis is biliary tree infection typically from CBD obstruction (often by a stone), presenting with Charcot's triad (fever, jaundice, RUQ pain), which can progress to Reynolds' pentad with hypotension and altered mental status; this differs from cholecystitis, which is gallbladder inflammation from cystic-duct obstruction.
+###
+Which statement about Meckel's diverticulum is FALSE?
+A) It contains ectopic gastric tissue
+B) It can cause GI bleeding
+C) It follows the "rule of 2s"
+D) It is more common in females
+Correct Answer: D) It is more common in females
+Explanation: Meckel diverticulum complications are actually more common in males; ectopic gastric/pancreatic tissue, bleeding, and the "rule of 2s" (2 inches long, 2 feet from the ileocecal valve, ~2% of population) are classic true associations.
+###
+Which of the following is NOT considered an independent predictor of adverse outcome in upper GI bleeding?
+A) Systolic blood pressure <100 mmHg
+B) Initial hematocrit <45%
+C) Red blood in NG lavage
+D) Cirrhosis/ascites or hematemesis
+Correct Answer: B) Initial hematocrit <45%
+Explanation: A hematocrit below 45% is not itself a validated adverse-outcome threshold; the recognized poor-prognostic features include hematocrit <30%, SBP <100 mmHg, red blood on NG lavage, and cirrhosis/ascites, since initial hematocrit can lag behind acute blood loss.
+###
+What does visible blood in a nasogastric aspirate suggest in a patient with GI bleeding?
+A) It excludes a lower-GI source definitively
+B) A negative aspirate excludes an upper-GI bleed
+C) It confirms variceal bleeding specifically
+D) It supports an upper-GI source and higher-risk bleeding, but a negative aspirate does not exclude an upper-GI bleed
+E) It is diagnostic of Mallory-Weiss tear
+Correct Answer: D) It supports an upper-GI source and higher-risk bleeding, but a negative aspirate does not exclude an upper-GI bleed
+Explanation: A bloody NG aspirate raises suspicion for an upper-GI source and higher-risk bleeding, but a clear aspirate can occur even with active upper-GI bleeding (e.g., duodenal source with pylorospasm), so it cannot rule it out.
+###
+A patient with chronic alcohol-related liver disease presents with hematemesis. Which source of upper-GI bleeding must be urgently considered?
+A) Mallory-Weiss tear
+B) Peptic ulcer disease
+C) Esophageal or gastric variceal hemorrhage
+D) Angiodysplasia
+Correct Answer: C) Esophageal or gastric variceal hemorrhage
+Explanation: Chronic liver disease predisposes to portal hypertension and variceal bleeding, which requires urgent vasoactive/antibiotic therapy and endoscopy; however, chronic alcohol use alone does not confirm the diagnosis, so other causes should still be considered.
+###
+A patient presents with acute right lower quadrant pain and McBurney's point tenderness. What is the most likely diagnosis and initial management approach?
+A) Acute appendicitis; imaging (ultrasound in children/pregnant women, CT in adults), IV fluids/antibiotics, and surgical evaluation
+B) Mesenteric ischemia; immediate CT angiography and heparin
+C) Testicular torsion; urgent urology consult only
+D) Nonspecific abdominal pain; discharge with follow-up
+Correct Answer: A) Acute appendicitis; imaging (ultrasound in children/pregnant women, CT in adults), IV fluids/antibiotics, and surgical evaluation
+Explanation: McBurney's point tenderness in the RLQ is classic for acute appendicitis, prompting confirmatory imaging (modality chosen by age/pregnancy status), supportive care, and prompt surgical evaluation.
+###
+Which statement about angiodysplasia is correct?
+A) It consists of healthy new vessels that never bleed
+B) It is a congenital malformation exclusive to the colon
+C) It always requires surgical resection
+D) It consists of fragile, dilated mucosal/submucosal vessels that can cause intermittent GI bleeding
+Correct Answer: D) It consists of fragile, dilated mucosal/submucosal vessels that can cause intermittent GI bleeding
+Explanation: Angiodysplasia represents acquired, fragile vascular ectasias prone to intermittent bleeding, most commonly in the cecum/right colon, unlike the false premise that these are healthy, non-bleeding vessels.
+###
+Which set of features supports a diagnosis of nonspecific abdominal pain (NSAP) as a diagnosis of exclusion?
+A) Peritonism, toxic appearance, and worsening symptoms
+B) Hemodynamic instability with rigid abdomen
+C) Hemodynamic stability, no peritonism/toxic appearance, mild or nonlocalizing tenderness, normal/nondiagnostic investigations, and improving symptoms tolerating oral intake
+D) Positive imaging for a surgical cause
+Correct Answer: C) Hemodynamic stability, no peritonism/toxic appearance, mild or nonlocalizing tenderness, normal/nondiagnostic investigations, and improving symptoms tolerating oral intake
+Explanation: NSAP is a diagnosis of exclusion made after ruling out surgical emergencies; it is characterized by stability, absence of peritoneal signs, nondiagnostic workup, and clinical improvement, with reliable follow-up arranged.
+###
+What does the cremasteric reflex assess, and what is its clinical significance?
+A) Stroking the inner thigh causes ipsilateral testicular elevation via cremaster muscle contraction; it is commonly absent in testicular torsion
+B) Stroking the lateral thigh causes contralateral testicular elevation; it confirms epididymitis
+C) It is elicited by palpating the scrotum directly and is always present in torsion
+D) It assesses inguinal hernia reducibility
+E) It has no clinical significance in scrotal pain evaluation
+Correct Answer: A) Stroking the inner thigh causes ipsilateral testicular elevation via cremaster muscle contraction; it is commonly absent in testicular torsion
+Explanation: The cremasteric reflex is often absent with testicular torsion due to cord compromise, but its presence does not exclude torsion, so urgent surgical evaluation should not be delayed when clinical suspicion is high.
+###
+How should a patient with an Alvarado score of 6 be managed?
+A) Immediate discharge with no further workup
+B) Immediate appendectomy without imaging
+C) Observation/admission with further imaging
+D) Oral antibiotics alone as outpatient therapy
+Correct Answer: C) Observation/admission with further imaging
+Explanation: An intermediate (5,6 score) does not reliably confirm or exclude appendicitis, so further imaging and reassessment (rather than discharge or immediate surgery) is the appropriate next step.
+###
+Among alcohol, gallstones, idiopathic disease, hypertriglyceridemia, and snake bite, which is the LEAST typical cause of acute pancreatitis?
+A) Snake bite
+B) Gallstones
+C) Alcohol
+D) Hypertriglyceridemia
+Correct Answer: A) Snake bite
+Explanation: Gallstones and alcohol are the most common causes of pancreatitis, with hypertriglyceridemia and idiopathic disease also well-established; venom-related pancreatitis is rare and classically associated with scorpion (not snake) envenomation in teaching mnemonics.
+###
+What is the most common overall cause of acute abdominal pain presenting to the emergency department?
+A) Acute appendicitis
+B) Biliary colic
+C) Nonspecific abdominal pain
+D) Mesenteric ischemia
+Correct Answer: C) Nonspecific abdominal pain
+Explanation: Nonspecific abdominal pain accounts for the largest proportion (roughly a third) of ED abdominal pain presentations overall, though the most common surgical cause or the leading cause in a specific age group may differ.
+###
+What is the most significant risk factor for developing an abdominal aortic aneurysm (AAA)?
+A) Diabetes mellitus
+B) Smoking
+C) Hyperlipidemia
+D) Hypertension
+Correct Answer: B) Smoking
+Explanation: Smoking is the strongest modifiable risk factor for AAA; other risk factors include age >65, male sex, hypertension, COPD, family history, and atherosclerosis, whereas diabetes is paradoxically associated with a lower AAA risk.
+###
+Is mild, nonlocalizing tenderness compatible with a diagnosis of nonspecific abdominal pain?
+A) No, any tenderness excludes NSAP
+B) No, NSAP requires a completely painless abdomen
+C) True; NSAP is a diagnosis of exclusion but can include mild, nonlocalizing tenderness
+D) True, but only in pediatric patients
+E) False, tenderness always indicates a surgical cause
+Correct Answer: C) True; NSAP is a diagnosis of exclusion but can include mild, nonlocalizing tenderness
+Explanation: NSAP can present with mild, nonlocalizing tenderness, but guarding, rigidity, rebound, hemodynamic instability, or a toxic appearance should prompt evaluation for a specific serious cause before the diagnosis of exclusion is made.
+###
+Which of the following is NOT a major compartment for occult blood loss causing hemorrhagic shock in an adult?
+A) Pelvis
+B) Abdomen/retroperitoneum
+C) Head (intracranial space)
+D) Chest
+Correct Answer: C) Head (intracranial space)
+Explanation: Intracranial hemorrhage is neurologically devastating but the closed, limited cranial vault cannot accommodate enough blood loss to cause systemic hemorrhagic shock in an adult, unlike the chest, abdomen/retroperitoneum, pelvis, and long bones.
+###
+At what age does testicular torsion most commonly occur?
+A) Adolescence, approximately 12-16 years
+B) 20-30 years
+C) 40-50 years
+D) Any age with equal frequency
+Correct Answer: A) Adolescence, approximately 12-16 years
+Explanation: Testicular torsion peaks during adolescence; while it can occur at any age (so older age doesn't exclude it), only a minority of cases occur after age 20.
+###
+A patient presents with acute RUQ pain, no fever, and imaging revealing gallstones without other complicating features. What is the next step?
+A) Emergency cholecystectomy
+B) IV antibiotics and admission
+C) Urgent ERCP
+D) Analgesia with follow-up for elective cholecystectomy
+Correct Answer: D) Analgesia with follow-up for elective cholecystectomy
+Explanation: Afebrile biliary colic without inflammatory or obstructive features (no Murphy sign, jaundice, or duct dilation) is managed with analgesia and elective surgical follow-up, reserving admission and urgent intervention for complicated disease.
+###
+Which statement about biliary colic pain is correct?
+A) It is specifically triggered only by protein intake
+B) It may radiate to the right shoulder or subscapular region
+C) It always begins exactly 15 minutes after eating
+D) It is relieved specifically by antacids
+Correct Answer: B) It may radiate to the right shoulder or subscapular region
+Explanation: Biliary colic classically radiates to the right shoulder/subscapular area due to shared phrenic nerve innervation; episodes are commonly precipitated by fatty meals, but timing and triggers vary between patients.
+###
+Which of the following is NOT a sign of retroperitoneal hemorrhage?
+A) Cullen sign
+B) Grey Turner sign
+C) Battle sign
+Correct Answer: C) Battle sign
+Explanation: Battle sign (mastoid ecchymosis) suggests a basilar skull fracture, not retroperitoneal bleeding; Cullen sign (periumbilical) and Grey Turner sign (flank) are both associated with intra-abdominal or retroperitoneal hemorrhage.
+###
+Which of the following statements about testicular torsion is WRONG?
+A) It peaks in age 20-30 years
+B) Rapid growth of the testis may predispose to torsion
+C) Spontaneous detorsion occurs in about 10% of cases
+Correct Answer: A) It peaks in age 20-30 years
+Explanation: Testicular torsion actually peaks in adolescence (approximately 12-16 years), not the 20-30 age range; rapid testicular growth and spontaneous detorsion in a minority of cases are recognized features.
+###
+Is serum lactate a sensitive marker to rule out acute bowel ischemia?
+A) True; lactate lacks adequate sensitivity, and a normal value does not exclude ischemia
+B) False; a normal lactate reliably excludes bowel ischemia
+C) True, but only in pediatric patients
+D) False; lactate is always elevated in early ischemia
+Correct Answer: A) True; lactate lacks adequate sensitivity, and a normal value does not exclude ischemia
+Explanation: Lactate may rise late in the course of mesenteric ischemia, so a normal or low value must not delay CT angiography when clinical suspicion is meaningful.
+###
+Is the pain of acute mesenteric ischemia sometimes poorly relieved by analgesics?
+A) True; the pain is classically out of proportion to exam findings and may remain poorly responsive to analgesics
+B) False; mesenteric ischemia pain always resolves completely with standard analgesia
+C) True, but only in chronic mesenteric ischemia
+D) False; pain relief with analgesics confirms the diagnosis
+Correct Answer: A) True; the pain is classically out of proportion to exam findings and may remain poorly responsive to analgesics
+Explanation: Poor response to analgesia is a diagnostic clue (not a diagnostic test) in acute mesenteric ischemia, which classically causes severe pain disproportionate to physical exam findings; analgesia should still be given while arranging urgent CTA.
+###
+How does the classic symptom triad of chronic mesenteric ischemia differ from acute mesenteric ischemia?
+A) Chronic disease causes sudden severe pain; acute disease causes postprandial pain and weight loss
+B) Chronic disease causes postprandial pain, food fear, and weight loss; acute disease causes sudden severe pain out of proportion to exam findings
+C) Both present identically with sudden onset pain
+D) Chronic disease is always painless
+Correct Answer: B) Chronic disease causes postprandial pain, food fear, and weight loss; acute disease causes sudden severe pain out of proportion to exam findings
+Explanation: Chronic mesenteric ischemia reflects progressive atherosclerotic narrowing causing "intestinal angina" (postprandial pain, sitophobia, weight loss), whereas acute ischemia presents abruptly with severe pain disproportionate to initially unremarkable exam findings.
+###
+What is the preferred initial imaging test when acute mesenteric ischemia is suspected?
+A) Abdominal ultrasound
+B) Plain abdominal X-ray
+C) MRI abdomen
+D) Contrast-enhanced CT (CT angiography)
+E) Diagnostic laparoscopy
+Correct Answer: D) Contrast-enhanced CT (CT angiography)
+Explanation: CT angiography is the preferred rapid diagnostic study for suspected acute mesenteric ischemia, allowing prompt visualization of mesenteric vasculature and bowel viability.
+###
+Which of the following statements is WRONG?
+A) Bowel strangulation/ischemia causes metabolic alkalosis and hypokalemia
+B) An elevated lactate supports mesenteric ischemia
+Correct Answer: A) Bowel strangulation/ischemia causes metabolic alkalosis and hypokalemia
+Explanation: Bowel strangulation classically produces lactic (metabolic) acidosis from tissue hypoperfusion, not alkalosis; hypokalemic, hypochloremic metabolic alkalosis is instead associated with vomiting/GI fluid losses, an independent mechanism.
+###
+How do patients classically describe the pain of a ruptured abdominal aortic aneurysm?
+A) A dull, intermittent ache that improves with rest
+B) The most severe/worst pain of their life — sudden, severe, tearing abdominal/flank/back pain
+C) Mild colicky pain relieved by antacids
+D) Painless with isolated hypotension
+Correct Answer: B) The most severe/worst pain of their life — sudden, severe, tearing abdominal/flank/back pain
+Explanation: Ruptured AAA classically presents with sudden, excruciating, tearing pain often associated with hypotension and a pulsatile abdominal mass, reflecting acute hemorrhage into the retroperitoneum or peritoneal cavity.
+###
+Which is the most important predictor of abdominal aortic aneurysm rupture?
+A) Age
+B) Hypertension
+C) Male sex
+D) Size (maximum diameter) of the aneurysm
+E) Smoking
+Correct Answer: D) Size (maximum diameter) of the aneurysm
+Explanation: Aneurysm diameter is the single strongest predictor of rupture risk, with rapid expansion and symptomatic aneurysms also raising concern; smoking and uncontrolled hypertension are contributory but secondary risk factors.
