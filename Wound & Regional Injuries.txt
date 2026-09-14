@@ -1,0 +1,277 @@
+Hesitation marks are seen in:
+A) Homicidal attempts
+B) Accidental injury
+C) Suicidal attempts
+D) Defense wounds
+Correct Answer: C) Suicidal attempts
+Explanation: Hesitation marks are multiple shallow, parallel test cuts made before the fatal incision — characteristic of suicidal cut-throat/wrist injuries.
+###
+In suicidal cut throats, we see:
+A) Hesitation marks
+B) Multiple deep stab wounds
+C) Incised wounds on the back
+D) No pattern
+Correct Answer: A) Hesitation marks
+Explanation: Suicidal cut-throats show progressive hesitation marks reflecting the "testing" phase before the fatal incision, unlike homicidal single deep wounds.
+###
+Green color in a bruise is due to:
+A) Hemosiderin
+B) Bilirubin
+C) Oxyhemoglobin
+D) Biliverdin
+Correct Answer: D) Biliverdin
+Explanation: Biliverdin production (~3–5 days post-injury) gives bruises their green color, following the red/blue → brown progression.
+###
+Which is FALSE about abrasions?
+A) They are superficial wounds
+B) Third healing stage involves granulation tissue
+C) They indicate the direction of force
+D) They heal without scarring
+Correct Answer: B) Third healing stage involves granulation tissue
+Explanation: Abrasions involve only the epidermis and heal by re-epithelialization, not granulation tissue — granulation is a deeper-wound healing feature, making this statement false.
+###
+True about abrasion:
+A) Even if it bleeds, it heals WITHOUT scarring
+B) Always leaves a scar
+C) Cannot be dated
+D) Only caused by blunt objects
+Correct Answer: A) Even if it bleeds, it heals WITHOUT scarring
+Explanation: Because abrasions are epidermal-only injuries, they heal by re-epithelialization without significant scarring even if superficial bleeding occurs.
+###
+The best type of injury for indicating the tool used:
+A) Laceration
+B) Cut wound
+C) Abrasions
+Correct Answer: C) Abrasions
+Explanation: Patterned abrasions best reproduce the surface contour of the inflicting object (e.g., tyre marks, buckle imprints), making abrasions the most useful for tool identification.
+###
+Importance of Langer's lines (Lines of Langerhans):
+A) Gaping of wounds
+B) Direction of wound healing
+C) Infection risk assessment
+D) Pattern identification
+Correct Answer: A) Gaping of wounds
+Explanation: Langer's lines reflect skin tension/collagen orientation; wounds parallel to them gape less, while perpendicular wounds gape widely.
+###
+Clinical importance of Langer's lines in a wound:
+A) Determines the depth of the wound
+B) Determines the direction of hair growth
+C) Predicts infection risk
+D) Determines the degree of gaping of an incised wound
+Correct Answer: D) Determines the degree of gaping of an incised wound
+Explanation: The clinical value of Langer's lines is predicting the degree of gaping of an incised wound based on its orientation relative to skin tension lines.
+###
+Crescent-shaped abrasions are caused by:
+A) Blunt instrument
+B) Fingernail
+C) Teeth
+D) Ring
+Correct Answer: B) Fingernail
+Explanation: Fingernails produce characteristic crescent (semi-lunar) shaped abrasions, distinct from the paired arcuate marks of teeth.
+###
+The superficial layer of skin scraped off (tangential force) is called:
+A) Pressure abrasion
+B) Graze abrasion
+C) Friction abrasion
+D) Impact abrasion
+Correct Answer: B) Graze abrasion
+Explanation: A graze (brush) abrasion results from tangential force scraping off the superficial epidermis, as in road-rash type injuries.
+###
+Graze abrasion is the same as:
+A) Punch abrasion
+B) Friction abrasion
+C) Brush abrasion
+D) Pressure abrasion
+Correct Answer: C) Brush abrasion
+Explanation: "Graze" and "brush" abrasion are synonymous terms for the same tangential scraping mechanism.
+###
+Prominence abrasion is most commonly found in which area of the body?
+A) Scalp
+B) Face
+C) Chest
+D) Back
+Correct Answer: A) Scalp
+Explanation: Over the scalp, skin is tightly applied to the underlying bone with minimal soft-tissue cushioning, allowing the clearest reproduction of a patterned abrasion.
+###
+Patterned abrasion looks clearest when the injury is on the:
+A) Abdomen
+B) Back
+C) Forearm
+D) Scalp
+Correct Answer: D) Scalp
+Explanation: Bony prominences like the scalp lack a soft-tissue cushion, so the weapon's surface pattern is reproduced most clearly there.
+###
+NOT necessary to see a patterned abrasion:
+A) Bone underneath
+B) Soft tissue (subcutaneous fat)
+C) Skin
+Correct Answer: B) Soft tissue (subcutaneous fat)
+Explanation: Subcutaneous fat cushions the blow and distorts the pattern, so its absence (not its presence) is what favors clear patterned abrasions — bone underneath is what's required.
+###
+Incised-like lacerations can be seen in all of the following EXCEPT:
+A) Scalp
+B) Eyebrow
+C) Chest
+D) Shin
+Correct Answer: C) Chest
+Explanation: Incised-like lacerations occur where skin is crushed directly against underlying bone (scalp, eyebrow, shin); the chest wall has more soft-tissue cushioning, preventing this clean-split appearance.
+###
+Blunt trauma can simulate an incised wound specifically over which part of the body:
+A) Abdomen
+B) Back
+C) Scalp (over bony prominences)
+D) Thighs
+Correct Answer: C) Scalp (over bony prominences)
+Explanation: Blunt force over the thin, bone-backed scalp can split the skin cleanly enough to mimic an incised wound.
+###
+One of the following is NOT TRUE concerning bruises:
+A) Bruising is most commonly seen in the skin, but it NEVER occurs in the deeper tissues, including muscle and internal organs
+B) The source of bleeding is usually small-caliber blood vessels such as veins and arterioles
+C) Bruises are caused by leakage of blood into underlying tissues from damaged blood vessels
+D) The size and appearance of a bruise is related to the site of the injured part of the body
+E) Bruises are discoloration of the skin surface due to a blunt force instrument
+Correct Answer: A) Bruising is most commonly seen in the skin, but it NEVER occurs in the deeper tissues, including muscle and internal organs
+Explanation: Bruising is not confined to skin — it can and does occur in deep tissues, muscle, and internal organs (e.g., deep haematomas, organ contusions), making this statement false.
+###
+Intradermal bruising is best described as:
+A) Deep bruise
+B) Petechial hemorrhage
+C) Hypostasis
+D) Patterned bruise
+Correct Answer: D) Patterned bruise
+Explanation: Intradermal bruising traps blood within the dermis, reproducing the pattern of the inflicting object — the most forensically informative type of bruise.
+###
+One of the following is TRUE concerning laceration:
+A) Laceration is always connected to intentional violent acts
+B) Lacerations appear as cuts, splits or tears in the skin
+C) The more resilient tissues will always be damaged by the forces that split the other weaker tissues
+D) They appear as the result of a sharp object against skin
+E) They never bleed profusely
+Correct Answer: B) Lacerations appear as cuts, splits or tears in the skin
+Explanation: Lacerations are defined as tears/splits in the skin from blunt force, with irregular edges and surrounding bruising — not from sharp objects.
+###
+NOT true regarding a lacerated wound:
+A) Edges are irregular
+B) Associated with bruising
+C) Caused by blunt force
+D) Always irregular
+Correct Answer: D) Always irregular
+Explanation: While lacerations are usually irregular, those over bony prominences (scalp, shin) can appear deceptively regular/incised-like, so "always irregular" is not strictly true.
+###
+Blunt instruments/weapons can usually cause all of the following EXCEPT:
+A) Abrasions
+B) Erythema
+C) Sharp cut edges
+D) Contusion
+E) Edema
+Correct Answer: C) Sharp cut edges
+Explanation: Sharp, clean-cut edges are a feature of sharp-weapon injuries, not blunt trauma, which instead produces abrasions, contusions, and ragged lacerations.
+###
+One of the following is NOT characteristic of self-inflicted injuries:
+A) Usually multiple and deep wounds
+B) Superficial or minor injury
+C) Injuries are grouped on the contralateral side to the patient's common hand use
+D) On an area of the body that the individual can access themselves
+E) Tentative injuries
+Correct Answer: A) Usually multiple and deep wounds
+Explanation: Self-inflicted wounds are typically superficial and tentative (hesitation marks); multiple deep wounds instead suggest homicidal or accidental injury.
+###
+Fabricated wounds are mostly:
+A) Abrasions
+B) Contusions
+C) Lacerations
+D) Incised wounds
+Correct Answer: D) Incised wounds
+Explanation: Fabricated (self-inflicted for secondary gain) wounds are usually incised, made with a sharp object on visible, accessible areas.
+###
+Which is the most frequent type of wound seen in DEFENSE wounds:
+A) Abrasion
+B) Cut wound
+C) Laceration
+D) Contusion
+Correct Answer: B) Cut wound
+Explanation: Defense wounds are most often cut/incised injuries sustained when the victim grabs or deflects a blade.
+###
+Defense wounds are most likely seen in:
+A) Back of hands / dorsum of forearms
+B) Self-inflicted cut throat
+C) Chest
+D) Lower limbs
+Correct Answer: A) Back of hands / dorsum of forearms
+Explanation: Classic defense wound sites are the ulnar border and dorsum of the forearms/hands, raised instinctively to shield the face and neck.
+###
+Hesitation wound – which is NOT correct:
+A) Superficial
+B) Not lethal
+C) Surrounded by bruises
+D) Parallel
+E) Regular edges
+Correct Answer: C) Surrounded by bruises
+Explanation: Hesitation marks are superficial, parallel, regular-edged tentative cuts — they are not surrounded by bruising, which would instead suggest blunt trauma.
+###
+Yellow discoloration of a bruise is expected at approximately what time?
+A) 5–7 days
+B) 1–2 days
+C) 3–5 days
+D) 10–14 days
+Correct Answer: A) 5–7 days
+Explanation: Bilirubin formation from degraded haemoglobin typically produces the yellow discoloration of a bruise around 5–7 days post-injury.
+###
+Common cause of death in extradural hemorrhage:
+A) Hemorrhagic shock
+B) Cardiac arrest
+C) Sepsis
+D) Respiratory failure
+E) Renal failure
+Correct Answer: D) Respiratory failure
+Explanation: Extradural hemorrhage causes rapid mass effect and brainstem herniation, leading to death primarily from respiratory centre failure.
+###
+Picture of stabbing wounds — what is the main characteristic of this lesion? [img: ]
+A) Ragged, irregular edges with tissue bridging
+B) Sharp, clean edges with regular margins and no surrounding bruising
+C) Diffuse bruising with poorly defined margins
+D) Multiple parallel superficial hesitation cuts
+Correct Answer: B) Sharp, clean edges with regular margins and no surrounding bruising
+Explanation: Stab/incised wounds show sharp, clean, regular margins with minimal surrounding tissue damage, distinguishing them from the ragged, bruised margins of lacerations.
+###
+Concerning stab wounds, one of the following statements is NOT correct:
+A) A slit-like wound will usually distort after removal of the weapon
+B) An irregularly-shaped skin wound may result if the knife is twisted
+C) Movement of the knife may cause wound enlargement
+D) One wound apex is sharp if the weapon is single sharp-edged
+E) The resulting defect of the edges is usually the exact size as the knife
+Correct Answer: E) The resulting defect of the edges is usually the exact size as the knife
+Explanation: Skin elasticity, wound-edge retraction, and any blade movement mean the resulting skin defect is rarely the exact size of the knife, even when edges are approximated.
+###
+A fully conscious person sustained a head injury during a fight. Boggy swelling 6x4 cm on the right parietal area. X-ray showed a fracture of the parietal bone without displacement. The nature of the injury is:
+A) Depressed Fracture
+B) Open wound Fracture
+C) Fissure fracture
+D) Comminuted fracture
+E) Complicated fracture
+Correct Answer: C) Fissure fracture
+Explanation: A single linear fracture without bone displacement is classified as a fissure (linear) fracture, distinct from depressed or comminuted patterns.
+###
+A skull fracture with multiple bone fragments is termed:
+A) Comminuted (fragmented) fracture
+B) Linear (fissure) fracture
+C) Greenstick fracture
+D) Compression fracture
+Correct Answer: A) Comminuted (fragmented) fracture
+Explanation: A comminuted (fragmented) skull fracture is defined by multiple bone fragments, as opposed to a single linear fissure line.
+###
+A burn that is full-thickness and painless due to nerve destruction is classified as:
+A) 1st degree
+B) 2nd degree
+C) 4th degree
+D) 3rd degree
+Correct Answer: D) 3rd degree
+Explanation: Full-thickness skin destruction with loss of sensation (due to nerve destruction) defines a 3rd-degree burn, distinguishing it from the painful, blistering 2nd-degree burn.
+###
+In a gunshot wound case during surgery, the correct approach regarding the bullet is:
+A) Remove and discard the bullet immediately to prevent further injury
+B) Treat the wound; preserve the bullet in situ if possible; document; do NOT discard it
+C) The bullet is the surgeon's property
+D) The bullet must be handed to the patient's family
+Correct Answer: B) Treat the wound; preserve the bullet in situ if possible; document; do NOT discard it
+Explanation: A retrieved bullet is critical ballistic evidence — it must be preserved in situ where possible, handled carefully, documented, and never discarded.
