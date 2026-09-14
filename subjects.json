@@ -12867,42 +12867,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__aptrzx",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__406r4r",
             "number": "10",
-            "text": "All of the following are seen in non-accidental trauma EXCEPT:",
-            "options": [
-              "Bucket handle (metaphyseal corner) fracture",
-              "Parietal bone fracture",
-              "Posterior rib fractures"
-            ],
-            "originalOptions": [
-              "Bucket handle (metaphyseal corner) fracture",
-              "Parietal bone fracture",
-              "Posterior rib fractures"
-            ],
-            "correctAnswer": "B) Parietal bone fracture",
-            "correctAnswerText": "Parietal bone fracture",
-            "correctIndex": 1,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury.",
-            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
-            "batchNames": [
-              "Endorphin Mini-OSCE (Group B)",
-              "Endorphin Mini-OSCE (Group D)"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Radiology",
-            "subjectId": "radiology",
-            "lectureName": "Musculoskeletal (MSK) radiology",
-            "groupName": "Musculoskeletal (MSK) radiology",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__11__406r4r",
-            "number": "11",
             "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
             "options": [
               "Metaphyseal corner (bucket handle) fracture",
@@ -12938,8 +12904,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__12__o1ahef",
-            "number": "12",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__11__o1ahef",
+            "number": "11",
             "text": "All of the following are seen in hyperparathyroidism EXCEPT:",
             "options": [
               "Bamboo spine",
@@ -12973,8 +12939,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__b2cwmd",
-            "number": "13",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__12__b2cwmd",
+            "number": "12",
             "text": "Which of the following is NOT true regarding osteogenesis imperfecta?",
             "options": [
               "Normal bone density on X-ray",
@@ -13007,8 +12973,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__7x5fyc",
-            "number": "14",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__7x5fyc",
+            "number": "13",
             "text": "What is the name of the labelled tarsal bone? [img: cuboidanatomy.png ]",
             "options": [
               "Cuneiform bone",
@@ -13040,9 +13006,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__15__y4ma9b",
-            "number": "15",
-            "text": "What is the name of the labelled carpal bone? [img: capitateanatomy.png ]",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__n6oprj",
+            "number": "14",
+            "text": "What is the name of the labelled carpal bone (Number 6) ? [img: capitateanatomy.png ]",
             "options": [
               "Hamate",
               "Lunate",
@@ -13062,9 +13028,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).",
-            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
             "batchNames": [
-              "Endorphin Mini-OSCE (Group B)"
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group E)"
             ],
             "note": "",
             "pageNumber": "",
@@ -14503,43 +14470,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__aptrzx",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__406r4r",
             "number": "10",
-            "text": "All of the following are seen in non-accidental trauma EXCEPT:",
-            "options": [
-              "Bucket handle (metaphyseal corner) fracture",
-              "Parietal bone fracture",
-              "Posterior rib fractures"
-            ],
-            "originalOptions": [
-              "Bucket handle (metaphyseal corner) fracture",
-              "Parietal bone fracture",
-              "Posterior rib fractures"
-            ],
-            "correctAnswer": "B) Parietal bone fracture",
-            "correctAnswerText": "Parietal bone fracture",
-            "correctIndex": 1,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury.",
-            "batchName": "Endorphin Mini-OSCE (Group B)",
-            "batchNames": [
-              "Endorphin Mini-OSCE (Group B)",
-              "Endorphin Mini-OSCE (Group D)"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Radiology",
-            "subjectId": "radiology",
-            "lectureName": "Musculoskeletal (MSK) radiology",
-            "groupName": "Musculoskeletal (MSK) radiology",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          },
-          {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__11__406r4r",
-            "number": "11",
             "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
             "options": [
               "Metaphyseal corner (bucket handle) fracture",
@@ -14576,8 +14508,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__12__o1ahef",
-            "number": "12",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__11__o1ahef",
+            "number": "11",
             "text": "All of the following are seen in hyperparathyroidism EXCEPT:",
             "options": [
               "Bamboo spine",
@@ -14612,8 +14544,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__b2cwmd",
-            "number": "13",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__12__b2cwmd",
+            "number": "12",
             "text": "Which of the following is NOT true regarding osteogenesis imperfecta?",
             "options": [
               "Normal bone density on X-ray",
@@ -14647,8 +14579,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__7x5fyc",
-            "number": "14",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__7x5fyc",
+            "number": "13",
             "text": "What is the name of the labelled tarsal bone? [img: cuboidanatomy.png ]",
             "options": [
               "Cuneiform bone",
@@ -14681,9 +14613,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__15__y4ma9b",
-            "number": "15",
-            "text": "What is the name of the labelled carpal bone? [img: capitateanatomy.png ]",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__n6oprj",
+            "number": "14",
+            "text": "What is the name of the labelled carpal bone (Number 6) ? [img: capitateanatomy.png ]",
             "options": [
               "Hamate",
               "Lunate",
@@ -14705,7 +14637,8 @@
             "explanation": "The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
-              "Endorphin Mini-OSCE (Group B)"
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group E)"
             ],
             "note": "",
             "pageNumber": "",
@@ -15418,43 +15351,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__aptrzx",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__406r4r",
             "number": "10",
-            "text": "All of the following are seen in non-accidental trauma EXCEPT:",
-            "options": [
-              "Bucket handle (metaphyseal corner) fracture",
-              "Parietal bone fracture",
-              "Posterior rib fractures"
-            ],
-            "originalOptions": [
-              "Bucket handle (metaphyseal corner) fracture",
-              "Parietal bone fracture",
-              "Posterior rib fractures"
-            ],
-            "correctAnswer": "B) Parietal bone fracture",
-            "correctAnswerText": "Parietal bone fracture",
-            "correctIndex": 1,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury.",
-            "batchName": "Endorphin Mini-OSCE (Group D)",
-            "batchNames": [
-              "Endorphin Mini-OSCE (Group B)",
-              "Endorphin Mini-OSCE (Group D)"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Radiology",
-            "subjectId": "radiology",
-            "lectureName": "Musculoskeletal (MSK) radiology",
-            "groupName": "Musculoskeletal (MSK) radiology",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          },
-          {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__11__406r4r",
-            "number": "11",
             "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
             "options": [
               "Metaphyseal corner (bucket handle) fracture",
@@ -15491,8 +15389,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__b2cwmd",
-            "number": "13",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__12__b2cwmd",
+            "number": "12",
             "text": "Which of the following is NOT true regarding osteogenesis imperfecta?",
             "options": [
               "Normal bone density on X-ray",
@@ -15870,8 +15768,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__11__406r4r",
-            "number": "11",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__406r4r",
+            "number": "10",
             "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
             "options": [
               "Metaphyseal corner (bucket handle) fracture",
@@ -15896,6 +15794,43 @@
             "batchNames": [
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__n6oprj",
+            "number": "14",
+            "text": "What is the name of the labelled carpal bone (Number 6) ? [img: capitateanatomy.png ]",
+            "options": [
+              "Hamate",
+              "Lunate",
+              "Capitate",
+              "Trapezoid"
+            ],
+            "originalOptions": [
+              "Hamate",
+              "Lunate",
+              "Capitate",
+              "Trapezoid"
+            ],
+            "correctAnswer": "C) Capitate",
+            "correctAnswerText": "Capitate",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).",
+            "batchName": "Endorphin Mini-OSCE (Group E)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)"
             ],
             "note": "",
@@ -18513,42 +18448,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__10__aptrzx",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__10__406r4r",
         "number": "10",
-        "text": "All of the following are seen in non-accidental trauma EXCEPT:",
-        "options": [
-          "Bucket handle (metaphyseal corner) fracture",
-          "Parietal bone fracture",
-          "Posterior rib fractures"
-        ],
-        "originalOptions": [
-          "Bucket handle (metaphyseal corner) fracture",
-          "Parietal bone fracture",
-          "Posterior rib fractures"
-        ],
-        "correctAnswer": "B) Parietal bone fracture",
-        "correctAnswerText": "Parietal bone fracture",
-        "correctIndex": 1,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "B",
-        "explanation": "Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury.",
-        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
-        "batchNames": [
-          "Endorphin Mini-OSCE (Group B)",
-          "Endorphin Mini-OSCE (Group D)"
-        ],
-        "note": "",
-        "pageNumber": "",
-        "subjectName": "Radiology",
-        "subjectId": "radiology",
-        "lectureName": "Musculoskeletal (MSK) radiology",
-        "groupName": "Musculoskeletal (MSK) radiology",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__11__406r4r",
-        "number": "11",
         "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
         "options": [
           "Metaphyseal corner (bucket handle) fracture",
@@ -18584,8 +18485,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__12__o1ahef",
-        "number": "12",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__11__o1ahef",
+        "number": "11",
         "text": "All of the following are seen in hyperparathyroidism EXCEPT:",
         "options": [
           "Bamboo spine",
@@ -18619,8 +18520,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__13__b2cwmd",
-        "number": "13",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__12__b2cwmd",
+        "number": "12",
         "text": "Which of the following is NOT true regarding osteogenesis imperfecta?",
         "options": [
           "Normal bone density on X-ray",
@@ -18653,8 +18554,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__14__7x5fyc",
-        "number": "14",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__13__7x5fyc",
+        "number": "13",
         "text": "What is the name of the labelled tarsal bone? [img: cuboidanatomy.png ]",
         "options": [
           "Cuneiform bone",
@@ -18686,9 +18587,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__15__y4ma9b",
-        "number": "15",
-        "text": "What is the name of the labelled carpal bone? [img: capitateanatomy.png ]",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__14__n6oprj",
+        "number": "14",
+        "text": "What is the name of the labelled carpal bone (Number 6) ? [img: capitateanatomy.png ]",
         "options": [
           "Hamate",
           "Lunate",
@@ -18708,9 +18609,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).",
-        "batchName": "Endorphin Mini-OSCE (Group B)",
+        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
         "batchNames": [
-          "Endorphin Mini-OSCE (Group B)"
+          "Endorphin Mini-OSCE (Group B)",
+          "Endorphin Mini-OSCE (Group E)"
         ],
         "note": "",
         "pageNumber": "",
@@ -18721,7 +18623,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 46,
+    "totalQuestions": 45,
     "totalLectures": 19,
     "hasAiFolder": false
   },
