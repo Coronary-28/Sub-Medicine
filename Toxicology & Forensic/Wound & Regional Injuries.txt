@@ -226,7 +226,7 @@ E) Renal failure
 Correct Answer: D) Respiratory failure
 Explanation: Extradural hemorrhage causes rapid mass effect and brainstem herniation, leading to death primarily from respiratory centre failure.
 ###
-Picture of stabbing wounds — what is the main characteristic of this lesion? [img: ]
+What is the main characteristic of the wound shown in the image? [img: forensic1stabwound.jpg ]
 A) Ragged, irregular edges with tissue bridging
 B) Sharp, clean edges with regular margins and no surrounding bruising
 C) Diffuse bruising with poorly defined margins
