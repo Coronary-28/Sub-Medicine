@@ -1,0 +1,87 @@
+Which specific enzyme is reactivated after organophosphate poisoning (before aging)?
+A) Acetylcholinesterase (AChE) — reactivated by Pralidoxime
+B) Monoamine oxidase
+C) Butyrylcholinesterase only
+D) Atropinase
+Correct Answer: A) Acetylcholinesterase (AChE) — reactivated by Pralidoxime
+Explanation: OP poisons phosphorylate AChE; before "aging" occurs (~48h), pralidoxime can remove the phosphoryl group and restore enzyme activity.
+###
+The drug that reactivates phosphorylated AChE in organophosphate poisoning (before aging):
+A) Atropine
+B) Diazepam
+C) Pralidoxime (2-PAM)
+D) Physostigmine
+Correct Answer: C) Pralidoxime (2-PAM)
+Explanation: Pralidoxime is an oxime AChE reactivator effective only before aging; atropine blocks muscarinic effects but does not reactivate the enzyme.
+###
+Enzyme reactivated by pralidoxime in organophosphate poisoning:
+A) Acetylcholinesterase (AChE)
+B) Monoamine oxidase
+C) Pseudocholinesterase
+D) Cytochrome P450
+Correct Answer: A) Acetylcholinesterase (AChE)
+Explanation: Pralidoxime specifically reactivates AChE (not pseudocholinesterase/BuChE), and only before the phosphorylated enzyme ages.
+###
+Which of the following statements about carbamate and organophosphate poisoning is FALSE?
+A) Both cause muscarinic and nicotinic symptoms
+B) Atropine is used for symptomatic treatment
+C) Both can lead to respiratory failure
+D) Both are treated with pralidoxime
+Correct Answer: D) Both are treated with pralidoxime
+Explanation: Pralidoxime is not indicated for carbamate poisoning because carbamate-enzyme inhibition does not undergo aging (it's spontaneously reversible), unlike OP poisoning.
+###
+Management of carbamate toxicity – all of the following EXCEPT:
+A) Protect airway
+B) Starting treatment should be delayed until level of anti-cholinesterase is known
+C) Remove clothes
+D) Atropine
+Correct Answer: B) Starting treatment should be delayed until level of anti-cholinesterase is known
+Explanation: Treatment (ABC + atropine) must never be delayed for lab confirmation in cholinesterase-inhibitor poisoning, as this is a time-critical emergency.
+###
+Not a muscarinic sign of organophosphate poisoning:
+A) Urinary incontinence
+B) Urinary retention
+C) Anuria
+D) Oliguria
+Correct Answer: B) Urinary retention
+Explanation: Muscarinic (SLUDGE) effects cause urinary incontinence/frequency; urinary retention instead reflects a nicotinic/sympathetic effect.
+###
+What is the role of atropine in the treatment of organophosphate poisoning?
+A) Block nicotinic effects
+B) Neutralize the poison
+C) Block muscarinic effects
+D) Promote toxin elimination
+Correct Answer: C) Block muscarinic effects
+Explanation: Atropine is a competitive muscarinic antagonist that dries secretions and reverses muscarinic toxicity; it has no effect on nicotinic weakness, which requires pralidoxime.
+###
+Management and treatment of organophosphate poisoning – which is TRUE:
+A) Suctioning of secretions
+B) Start with antidote (pralidoxime)
+C) Atropine is antidote for nicotinic receptor
+D) Delay until laboratory tests shown
+Correct Answer: A) Suctioning of secretions
+Explanation: Initial priority is airway management including suctioning of bronchial secretions, followed by atropine for muscarinic symptoms and then pralidoxime.
+###
+Low dose of organophosphates is NOT associated with:
+A) Increased bronchial secretion
+B) Miosis
+C) Salivation
+D) Paralysis
+Correct Answer: D) Paralysis
+Explanation: Low-dose OP exposure produces muscarinic effects (bronchorrhea, miosis, salivation); paralysis is a nicotinic effect seen at high dose.
+###
+Organophosphate-induced neuropsychiatric disorder (OPIDP) happens:
+A) Immediately
+B) After 1-5 weeks of OP poisoning
+C) Within 24 hours
+D) After 6 months
+Correct Answer: B) After 1-5 weeks of OP poisoning
+Explanation: OPIDP is a delayed peripheral polyneuropathy appearing 1–5 weeks post-exposure, distinct from the immediate cholinergic crisis and the 24–96h intermediate syndrome.
+###
+Antidote of organophosphate poisoning:
+A) Naloxone
+B) N-Acetylcysteine
+C) Atropine + Pralidoxime
+D) Flumazenil
+Correct Answer: C) Atropine + Pralidoxime
+Explanation: Dual therapy is required — atropine blocks muscarinic toxicity while pralidoxime reactivates AChE, addressing nicotinic and central effects.
