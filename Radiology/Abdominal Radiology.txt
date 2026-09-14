@@ -1,0 +1,282 @@
+What is the most likely diagnosis? [img: Radiologyapancreatitis.png ]
+A) Mesenteric ischemia
+B) Appendicitis
+C) Acute pancreatitis
+D) Pancreatic adenocarcinoma
+Correct Answer: C) Acute pancreatitis
+Explanation: The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final / Aorta Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE
+###
+Identify the labeled structure in this axial contrast CT of the abdomen. [img: Radiologyaleftrenalvein.png ]
+A) Left renal artery
+B) Left renal vein
+C) Superior mesenteric artery
+D) Right renal artery
+Correct Answer: B) Left renal vein
+Explanation: The labeled vessel courses anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).
+Batch: Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Vagus Mini-OSCE (Group C)
+###
+What is the diagnosis? [img: Radiologyasigmoidvolvulus.png ]
+A) Cecal volvulus
+B) Sigmoid volvulus
+C) Small bowel obstruction
+D) Large bowel obstruction (non-volvulus)
+Correct Answer: B) Sigmoid volvulus
+Explanation: The fluoroscopic/contrast image shows the classic bird's-beak tapering at the point of torsion of a massively dilated sigmoid loop, diagnostic of sigmoid volvulus rather than a generic obstruction.
+Batch: Aorta Mini-OSCE (Group A) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE
+###
+What is the diagnosis? [img: Radiologyapneumobilia.png ]
+A) Portal venous gas
+B) Pneumobilia
+C) Pneumoperitoneum
+D) Emphysematous cholecystitis
+Correct Answer: B) Pneumobilia
+Explanation: The gas is centrally located within the biliary tree near the porta hepatis; portal venous gas classically extends to within 2 cm of the liver capsule (peripheral), which distinguishes it from pneumobilia.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A) / Serotonin Mini-OSCE
+###
+What is the name of this radiological sign? [img: Radiologyafootballsign.png ]
+A) Rigler (double-wall) sign
+B) Football sign
+C) Continuous diaphragm sign
+D) Falciform ligament sign
+Correct Answer: B) Football sign
+Explanation: A massive pneumoperitoneum outlines the entire abdominal cavity in an oval, football-like shape on a supine film, which is the football sign (seen especially in neonates/infants).
+Batch: Iris Mini-OSCE (Group C) / Aorta Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologyapneumoperitoneum.png ]
+A) Small bowel obstruction
+B) Pneumoperitoneum
+C) Sigmoid volvulus
+D) Ascites
+Correct Answer: B) Pneumoperitoneum
+Explanation: Free intraperitoneal air is seen outlining the bowel loops and under the diaphragm, diagnostic of pneumoperitoneum rather than a fluid- or obstruction-related process.
+Batch: Endorphin Mini-OSCE (Group B) / Aorta Final / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+###
+Which statement regarding intussusception is incorrect?
+A) The majority occur after 3 week of birth
+B) Target sign on ultrasound
+C) The prolapsed part is the intussusceptum and the receiving segment the intussuscipiens
+D) Invagination of one part of intestine into an adjacent/distal bowel segment
+Correct Answer: A) The majority occur after 3 week of birth
+Explanation: Intussusception classically occurs after the first three months of life (usually 3 months–2 years), not simply "after 3 week of birth," making this the incorrect statement; the other options correctly describe its mechanism and ultrasound appearance.
+Batch: Coronary Mini-OSCE (Group C)
+###
+What is the diagnosis? [img: Radiologyadiverticulitis.png ]
+A) Pancreatitis
+B) Diverticulitis
+C) Cholecystitis
+D) Appendicitis
+Correct Answer: B) Diverticulitis
+Explanation: The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.
+Batch: Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE
+###
+All of the following is true except:
+A) In Midgut volvulus → whirlpool sign
+B) In cecal volvulus → colonic haustral pattern is lost
+C) In sigmoid volvulus → coffee bean sign
+D) Volvulus is twisting of the intestine around its mesentery
+Correct Answer: B) In cecal volvulus → colonic haustral pattern is lost
+Explanation: In cecal volvulus the colonic haustral pattern is typically maintained (unlike sigmoid volvulus, where it is generally lost/ahaustral), so this statement is false.
+Batch: Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)
+###
+Most likely diagnosis? [img: Radiologyacolorectalcancer.png ]
+A) Colorectal cancer
+B) Intussusception
+C) Volvulus
+D) Bowel ischemia
+Correct Answer: A) Colorectal cancer
+Explanation: The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.
+Batch: Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)
+###
+What is the most likely diagnosis? [img: Radiologyaportalvenousgas.png ]
+A) Pneumobilia
+B) Portal venous gas
+C) Pneumoperitoneum
+D) Pancreatitis
+Correct Answer: B) Portal venous gas
+Explanation: The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.
+Batch: Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final
+###
+What is the diagnosis? [img: Radiologylefthydronephrosis.png ]
+A) Left hydronephrosis
+B) Renal stone
+C) Hydroureter
+D) Renal cyst
+Correct Answer: A) Left hydronephrosis
+Explanation: The coronal CT shows dilatation of the left renal collecting system (pelvicalyceal dilation) without a discrete simple fluid collection, consistent with hydronephrosis rather than an isolated stone or cyst.
+Batch: Endorphin Mini-OSCE (Group A) / Aorta Final / Vagus Mini-OSCE (Group D)
+###
+All of the following signs can be seen in bowel obstruction except:
+A) Coffee bean sign
+B) Whirlpool sign
+C) Bird-beak sign
+D) Multiple air-fluid levels
+Correct Answer: C) Bird-beak sign
+Explanation: The bird-beak sign is the classic finding of achalasia at the gastroesophageal junction, not a sign of bowel obstruction, unlike the coffee bean (sigmoid volvulus) and whirlpool (midgut volvulus) signs.
+Batch: Endorphin Mini-OSCE (Group B) / Vagus Final
+###
+Which of the following is not a typical radiologic feature of appendicitis?
+A) Dilated appendiceal diameter
+B) Periappendiceal fat stranding
+C) Thin appendix wall thickness
+D) Distended appendiceal lumen
+Correct Answer: C) Thin appendix wall thickness
+Explanation: In acute appendicitis the appendiceal wall is thickened and enhancing, not normal/thin; a normal wall thickness argues against the diagnosis.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)
+###
+All of the following can be seen in intestinal ischemia except:
+A) Pneumobilia
+B) Portal vein thrombosis
+C) Thickened wall loops
+D) Surrounding fatty stranding
+Correct Answer: A) Pneumobilia
+Explanation: Pneumobilia reflects biliary tree gas (usually from a prior sphincterotomy or biliary-enteric fistula), not a feature of bowel ischemia; ischemia is instead associated with portal venous gas, bowel wall thickening, and mesenteric fat stranding.
+Batch: Endorphin Mini-OSCE (Group B)
+###
+Which is not a typical finding in acute cholecystitis on ultrasound?
+A) Distended gallbladder
+B) Thin gallbladder wall
+C) Pericholecystic fluid
+D) Gallstones with acoustic shadowing
+Correct Answer: B) Thin gallbladder wall
+Explanation: Acute cholecystitis classically shows a thickened (>3 mm), edematous gallbladder wall; a thin, normal wall argues against the diagnosis.
+Batch: Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Vagus Final
+###
+Which is Not a typical finding in pancreatitis ?
+A) Small pancreas
+B) Fat stranding
+C) Necrosis or pseudocyst (complications)
+D) Peripancreatic fluid
+Correct Answer: A) Small pancreas
+Explanation: Acute pancreatitis causes an enlarged, edematous gland with irregular borders, not a small pancreas; the other options are recognized features/complications.
+Batch: Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)
+###
+Wrong about hiatal hernia?
+A) Rolling (paraesophageal) hernias carry a risk of gastric volvulus
+B) Sliding type is the most common
+C) Sliding hernias are associated with gastroesophageal reflux
+D) Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm
+Correct Answer: D) Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm
+Explanation: Upward displacement of the gastroesophageal junction (>2 cm above the hiatus) defines a sliding hiatal hernia, not a paraesophageal one, in which the GEJ stays in normal position while the fundus herniates.
+Batch: Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)
+###
+Which of the following is not a typical radiological feature of achalasia?
+A) Bird-beak appearance at the gastroesophageal junction
+B) Retro-tracheal air-fluid level
+C) Anterior displacement and bowing of the trachea
+D) Mediastinal widening
+E) Dilated esophagus
+Correct Answer: D) Mediastinal widening
+Explanation: Achalasia causes mediastinal widening (not narrowing) from the dilated, fluid-filled esophagus, so calling it "mediastinal narrowing" as a listed feature is incorrect — but among the options here, the true described finding is widening, and identifying "narrowing" as false is the tested trap; the correct fact is mediastinal widening occurs, making a statement of narrowing the false one.
+Batch: Endorphin Mini-OSCE (Group C) / Endorphin Final
+###
+Best imaging modality for detecting air under the diaphragm:
+A) Supine abdominal x-ray
+B) Expiratory erect chest x-ray
+C) Non-contrast CT
+D) Abdominal ultrasound
+Correct Answer: B) Expiratory erect chest x-ray
+Explanation: An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.
+Batch: Endorphin Mini-OSCE (Group C)
+###
+Not true about achalasia?
+A) Mediastinal widening
+B) Anterior displacement and bowing of the trachea is seen on the frontal view
+C) Bird-beak deformity
+D) Retro-tracheal air-fluid level
+Correct Answer: B) Anterior displacement and bowing of the trachea is seen on the frontal view
+Explanation: Anterior tracheal displacement/bowing from the dilated esophagus is a lateral-view finding, not a frontal-view finding, making this statement false.
+Batch: Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group D) / Aorta Final
+###
+What is incorrect about diverticulitis?
+A) Typically occurs after age 40
+B) Is commonly seen in the ileum
+C) There will be fat stranding
+D) Segmental colonic wall thickening is seen
+Correct Answer: B) Is commonly seen in the ileum
+Explanation: Diverticulitis characteristically affects the sigmoid colon, not the ileum, which is where small-bowel diverticula (much rarer) would occur.
+Batch: Endorphin Mini-OSCE (Group E)
+###
+One of these is not a sign in bowel ischemia?
+A) Portal venous gas
+B) Thumbprinting sign
+C) Thickened bowel wall
+D) Bird-beak deformity
+Correct Answer: D) Bird-beak deformity
+Explanation: The bird-beak deformity is the classic sign of achalasia at the gastroesophageal junction, not a recognized sign of bowel ischemia, unlike portal venous gas, thumbprinting, and wall thickening.
+Batch: Endorphin Mini-OSCE (Group E)
+###
+What of these statements is wrong about cecal volvulus?
+A) Torsion of the cecum around its mesentery
+B) The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus
+C) If unrecognized, it can result in bowel perforation and fecal peritonitis
+D) It typically shows a single air-fluid level
+Correct Answer: B) The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus
+Explanation: The opposite is true — the haustral pattern is generally maintained in cecal volvulus, whereas it is lost (ahaustral) in sigmoid volvulus.
+Batch: Endorphin Mini-OSCE (Group E)
+###
+What of these is not seen in ischemic colitis?
+A) Portal venous gas
+B) Thumbprinting sign
+C) Segmental wall thickening
+D) Pneumobilia
+Correct Answer: D) Pneumobilia
+Explanation: Pneumobilia reflects biliary gas and is not a feature of ischemic colitis; thumbprinting, segmental wall thickening, and portal venous gas are all recognized ischemic colitis findings.
+Batch: Endorphin Mini-OSCE (Group E)
+###
+Which of the following statements about radiologic imaging is incorrect?
+A) Single contrast enema uses only barium without air
+B) Ultrasound is effective for evaluating the biliary and urinary systems
+C) Female ovarian assessment requires an empty urinary bladder
+D) Free intraperitoneal air can be seen under the diaphragm on an erect chest X-ray
+Correct Answer: C) Female ovarian assessment requires an empty urinary bladder
+Explanation: Transabdominal pelvic/ovarian ultrasound requires a FULL bladder as an acoustic window, not an empty one; the other statements are correct.
+Batch: Iris Mini-OSCE (Group A) / Endorphin Final
+###
+All are signs of pneumoperitoneum except:
+A) Rigler (double-wall) sign
+B) Football sign
+C) Single-wall sign
+D) Falciform ligament sign
+E) Continuous diaphragm sign
+Correct Answer: C) Single-wall sign
+Explanation: There is no recognized "single-wall sign" for pneumoperitoneum — the real analogous sign is the double-wall (Rigler) sign, where gas outlines both sides of the bowel wall.
+Batch: Iris Mini-OSCE (Group A)
+###
+Gallbladder stones may be seen on ultrasound as:
+A) Isoechoic mass without shadowing
+B) Hypoechoic foci with posterior enhancement
+C) Anechoic structures without shadowing
+D) Hyperechoic foci with posterior acoustic shadowing
+Correct Answer: D) Hyperechoic foci with posterior acoustic shadowing
+Explanation: Gallstones reflect sound strongly (hyperechoic) and block further transmission, producing a characteristic posterior acoustic shadow.
+Batch: Iris Mini-OSCE (Group C)
+###
+Which is the most important imaging criterion for pyloric stenosis?
+A) Pyloric canal length > 17 mm
+B) Single pyloric muscle wall thickness > 3 mm
+C) Pyloric transverse diameter > 20 mm
+D) Gastric distension
+Correct Answer: B) Single pyloric muscle wall thickness > 3 mm
+Explanation: A single muscular wall thickness greater than 3 mm on transverse ultrasound is the most accurate criterion for hypertrophic pyloric stenosis.
+Batch: Iris Mini-OSCE (Group C)
+###
+Which statement is FALSE regarding hypertrophic pyloric stenosis?
+A) Pyloric muscle thickness is typically > 3 mm
+B) Pyloric canal length is usually > 15–18 mm
+C) It commonly presents with non-bilious projectile vomiting
+D) Pyloric muscle thickness is < 7 mm
+Correct Answer: D) Pyloric muscle thickness is < 7 mm
+Explanation: There is no established "<7 mm" criterion for pyloric stenosis; the recognized diagnostic thickness threshold is greater than 3 mm, making this statement inaccurate and false.
+Batch: Iris Mini-OSCE (Group D)
+###
+Which of the following is NOT a direct branch of the abdominal aorta?
+A) Celiac trunk
+B) Superior mesenteric artery
+C) Renal artery
+D) Splenic artery
+E) Inferior mesenteric artery
+Correct Answer: D) Splenic artery
+Explanation: The splenic artery is a branch of the celiac trunk, not a direct branch of the abdominal aorta itself.
+Batch: Iris Mini-OSCE (Group D)
+###
