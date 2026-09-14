@@ -80,14 +80,6 @@ Correct Answer: B) Considered a Salter-Harris type III fracture
 Explanation: SCFE is a Salter-Harris type I fracture of the subcapital femoral physis due to chronic weight-bearing stress, not type III.
 Batch: Endorphin Mini-OSCE (Group C)
 ###
-All of the following are seen in non-accidental trauma EXCEPT:
-A) Bucket handle (metaphyseal corner) fracture
-B) Parietal bone fracture
-C) Posterior rib fractures
-Correct Answer: B) Parietal bone fracture
-Explanation: Simple linear parietal bone fractures have low specificity for abuse and are commonly seen in accidental trauma, unlike metaphyseal corner and posterior rib fractures which are highly specific for non-accidental injury.
-Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)
-###
 Which of the following is NOT typically involved in non-traumatic fractures of child abuse?
 A) Metaphyseal corner (bucket handle) fracture
 B) Posterior rib fracture
@@ -122,11 +114,11 @@ Correct Answer: B) Cuboid
 Explanation: The cuboid is the laterally positioned tarsal bone articulating with the calcaneus proximally and the 4th/5th metatarsals distally, distinguishing it from the medially located navicular and cuneiforms.
 Batch: Endorphin Mini-OSCE (Group B)
 ###
-What is the name of the labelled carpal bone? [img: capitateanatomy.png ]
+What is the name of the labelled carpal bone (Number 6) ? [img: capitateanatomy.png ]
 A) Hamate
 B) Lunate
 C) Capitate
 D) Trapezoid
 Correct Answer: C) Capitate
 Explanation: The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).
-Batch: Endorphin Mini-OSCE (Group B)
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)
