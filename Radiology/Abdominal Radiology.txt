@@ -113,7 +113,7 @@ C) Coffee bean sign
 D) Multiple air-fluid levels
 Correct Answer: A) Bird-beak sign
 Explanation: The bird-beak sign is the classic finding of achalasia at the gastroesophageal junction, not a sign of bowel obstruction, unlike the coffee bean (sigmoid volvulus) and whirlpool (midgut volvulus) signs.
-Batch: Endorphin Mini-OSCE (Group B) / Vagus Final
+Batch: Endorphin Mini-OSCE (Group B)
 ###
 Which of the following is not a typical radiologic feature of appendicitis?
 A) Dilated appendiceal diameter
@@ -396,8 +396,8 @@ C) Calcified uterine fibroid
 D) Pelvic phlebolith
 Correct Answer: C) Calcified uterine fibroid
 Explanation: The sagittal CT shows a coarse, popcorn-like calcification within the uterus, adjacent to the bladder, the classic appearance of a calcified leiomyoma.
-Note: Uterine leiomyomas (fibroids) are the most common benign solid uterine tumors of myometrial origin, commonly found incidentally. They can be evaluated via US, MRI, CT, and classically present as "popcorn calcification" on X-ray when calcified.
 Batch: Waman A7yaha Mini-OSCE
+Note: Uterine leiomyomas (fibroids) are the most common benign solid uterine tumors of myometrial origin, commonly found incidentally. They can be evaluated via US, MRI, CT, and classically present as "popcorn calcification" on X-ray when calcified.
 ###
 What is the most likely diagnosis? [img: Radiologyarenalstonehydronephrosis.png ]
 A) Obstructing renal stone with hydronephrosis
@@ -507,3 +507,216 @@ Correct Answer: C) Functional ileus can present with a discrete transition point
 Explanation: Functional (adynamic) ileus shows diffuse bowel dilatation without a discrete transition point, unlike mechanical obstruction; a discrete transition point argues against ileus.
 Batch: Endorphin Final
 ###
+Which of the following is false regarding cecal volvulus?
+A) Colonic haustral pattern is generally maintained
+B) Extends towards the right upper quadrant
+C) One air-fluid level may be seen
+D) Distal colon is usually collapsed and the small bowel is distended
+E) Arises in the right lower quadrant
+Correct Answer: B) Extends towards the right upper quadrant
+Explanation: Cecal volvulus classically extends toward the epigastrium or left upper quadrant, not the right upper quadrant, distinguishing it from the expected distension pattern.
+Batch: Overdose Final
+###
+Which of the following is false regarding achalasia?
+A) Mediastinal widening
+B) Bird-beak appearance
+C) Retro-tracheal air-fluid level
+D) Anterior displacement and bowing of the trachea
+E) Normal diameter of esophagus
+Correct Answer: E) Normal diameter of esophagus
+Explanation: Achalasia produces marked esophageal dilatation, not a normal-caliber esophagus, making this the false statement.
+Batch: Overdose Final
+###
+Which of the following is true regarding acute cholecystitis?
+A) Stones appear hyperintense on MRI
+B) Normal diameter of the gallbladder
+C) No pericholecystic edema
+D) Seen on ultrasound as hyperechoic foci with acoustic shadowing
+Correct Answer: D) Seen on ultrasound as hyperechoic foci with acoustic shadowing
+Explanation: Gallstones are hyperechoic with posterior shadowing on ultrasound; stones are actually hypointense (dark) on MRI, and cholecystitis typically shows gallbladder distension with pericholecystic edema, making the other options false.
+Batch: Overdose Final
+###
+Regarding abdomen anatomy, which of the following is wrong?
+A) The second part of the duodenum passes between the liver and pancreas
+B) The inferior mesenteric artery arises at the level of L3
+C) The superior mesenteric artery is at the level of T11, above the celiac axis
+D) The renal arteries arise at approximately L1–L2
+Correct Answer: C) The superior mesenteric artery is at the level of T11, above the celiac axis
+Explanation: The celiac trunk (T12) actually arises above the SMA (L1), so stating the SMA is at T11 "above" the celiac axis reverses the correct order and is anatomically wrong.
+Batch: Vagus Final
+###
+Wrong about appendicitis?
+A) Most common cause of acute abdomen in young patients
+B) Can present with periumbilical pain migrating to the right lower quadrant
+C) A fecalith may be seen as an appendicolith
+D) Less common in the pediatric age group
+Correct Answer: D) Less common in the pediatric age group
+Explanation: Appendicitis is actually common in children and young adults, not less common in this age group, making this statement false.
+Batch: Vagus Final
+###
+False about volvulus?
+A) Midgut volvulus shows a whirlpool sign
+B) Cecal volvulus has no haustration
+C) Sigmoid volvulus shows a coffee bean sign
+D) Volvulus is twisting of the bowel around its mesentery
+Correct Answer: B) Cecal volvulus has no haustration
+Explanation: Cecal volvulus generally maintains a haustral pattern, unlike sigmoid volvulus which is typically ahaustral, making this statement false.
+Batch: Vagus Final
+###
+All are signs of pneumoperitoneum except:
+A) Rigler sign
+B) Football sign
+C) Continuous diaphragm sign
+D) Falciform ligament sign
+E) Bird-beak sign
+Correct Answer: E) Bird-beak sign
+Explanation: The bird-beak sign is a feature of achalasia (or volvulus), not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.
+Batch: Vagus Final
+###
+Regarding abdominal calcifications, which one of the following is TRUE?
+A. Phleboliths are small arterial wall calcifications seen in the pelvis
+B. Bilateral adrenal calcifications seen at the level of L5 usually
+C. Eighty five percent of gall bladder stones seen on CT Scan
+D. Eighty five percent of renal stones seen on Radiograph
+E. The most likely diagnosis of pelvic calcification in a male is intravesical stone
+Correct Answer: D) Eighty five percent of renal stones seen on Radiograph
+Explanation: Approximately 85% of urinary/renal stones are radio-opaque and visible on plain radiograph (X-ray); phleboliths are small venous (not arterial) calcifications, and adrenal glands lie much higher than L5.
+Batch: Serotonin Final
+###
+Regarding Free air in the abdomen, which of following is TRUE?
+A. History of abdominal surgery within one month is an indication of pneumoperitoneum
+B. The most common cause of free intraperitoneal air is perforated sigmoid colon
+C. Falciform ligament sign lowers the possibility of pneumoperitoneum
+D. Portal venous gas is only seen in the center of the liver
+E. Erect chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph
+Correct Answer: E) Erect chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph
+Explanation: An erect chest film is the most sensitive plain radiograph for detecting free subdiaphragmatic gas; the falciform ligament sign actually supports (not lowers) the diagnosis, and portal venous gas is peripheral, not central.
+Batch: Serotonin Final
+###
+Regarding bowel obstruction, which of the following is TRUE?
+A. Ascending colon diameter of 8 cm meets the criteria of dilatation
+B. Hernia is the most common cause of small bowel obstruction
+C. Cecal diameter of 7 cm meets the criteria of dilatation
+D. Sigmoid volvulus usually extends to the left upper quadrant
+E. Two air fluid levels of 3 cm width each apply the definition of obstruction
+Correct Answer: A) Ascending colon diameter of 8 cm meets the criteria of dilatation
+Explanation: The "3-6-9 rule" sets the large bowel dilatation threshold at 6 cm, so 8 cm exceeds this; the cecal threshold is actually 9 cm, and adhesions (not hernia) are the overall most common cause of small bowel obstruction.
+Batch: Serotonin Final
+###
+Regarding abdomen anatomy, which of the following is TRUE?
+A. The portal vein confluence lies anterior to the neck of the pancreas
+B. The right adrenal gland is higher than the left adrenal gland
+C. The right renal vein is longer than the left renal vein
+D. The third part of the duodenum passes between liver and pancreas
+E. The Inferior mesenteric artery arises at the level of L3
+Correct Answer: E) The Inferior mesenteric artery arises at the level of L3
+Explanation: The IMA arises from the anterior aorta at L3, near the inferior duodenum, consistent with standard anatomy; the portal vein actually forms posterior to the pancreatic neck, and the left (not right) renal vein is the longer vessel.
+Batch: Serotonin Final
+###
+Regarding abdomen anatomy, which of the following is TRUE?
+A. The Inferior mesenteric artery arises at the level of L2
+B. The second part of the duodenum passes between liver and pancreas
+C. The right adrenal gland is higher than left adrenal gland
+D. The right renal vein is longer than the left renal vein
+E. The portal vein confluence lies anterior to the neck of pancreas
+Correct Answer: B) The second part of the duodenum passes between liver and pancreas
+Explanation: The duodenal C-loop's second (descending) part lies in the region between the liver above and the pancreatic head medially; the IMA actually arises at L3, not L2, and the left renal vein is longer than the right.
+Batch: Waman A7yaha Final
+###
+Regarding bowel obstruction, which of the following is TRUE?
+A. Cecal diameter of 7 cm meets the criteria of dilatation
+B. Cecal volvulus usually extends to the right upper quadrant
+C. Descending colon diameter of 5 cm meets the criteria of dilatation
+D. Hernia is the most common cause of small bowel obstruction
+E. More than three air-fluid levels, each >2.5 cm in width, support bowel obstruction
+Correct Answer: E) More than three air-fluid levels, each >2.5 cm in width, support bowel obstruction
+Explanation: Multiple (more than three) air-fluid levels exceeding 2.5 cm in width is a standard supportive criterion for bowel obstruction; the cecal dilatation threshold is 9 cm, and cecal volvulus extends toward the epigastrium/left upper quadrant, not the right.
+Batch: Waman A7yaha Final
+###
+Regarding Free air in the abdomen, which of following is TRUE?
+A. The most common cause of free intraperitoneal air is perforated sigmoid colon
+B. Falciform ligament sign lowers the possibility of pneumoperitoneum
+C. History of abdominal surgery within one week is a cause of pneumoperitoneum
+D. Portal venous gas is only seen in the center of the liver
+E. Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine
+Correct Answer: C) History of abdominal surgery within one week is a cause of pneumoperitoneum
+Explanation: Physiologic post-operative free air can persist for up to a week or more, so recent abdominal surgery is a recognized benign cause of pneumoperitoneum; the falciform ligament sign actually supports the diagnosis, and portal venous gas is peripheral, not central.
+Batch: Waman A7yaha Final
+###
+Regarding abdominal calcifications, which one of the following is TRUE?
+A. Phleboliths are small arterial wall calcifications seen in the pelvis
+B. Eighty five percent of renal stones seen lucent on Radiograph
+C. The most likely diagnosis of pelvic calcification in a male is intravesical stone
+D. Ninety five percent of gall bladder stones seen on Ultrasound imaging
+E. Pelvic calcification seen medial to the sacroiliac joint usually represents appendicolith
+Correct Answer: D) Ninety five percent of gall bladder stones seen on Ultrasound imaging
+Explanation: Ultrasound detects the vast majority (~95%) of gallstones regardless of their radiographic composition; phleboliths are venous (not arterial), and most renal stones are radiopaque (not lucent) on plain film.
+Batch: Waman A7yaha Final
+###
+Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]
+A) Choledocholithiasis
+B) Gallstones
+C) Porcelain gallbladder
+D) Gallbladder polyp
+Correct Answer: B) Gallstones
+Explanation: The MRI/MRCP shows the gallbladder packed with multiple calculi, the defining finding for cholelithiasis (gallstones); the dilated CBD with ductal stones represents an associated complication rather than the primary diagnosis being tested.
+Batch: Aorta Final
+###
+What is the most likely diagnosis? [img: Radiologyagastriccancer.png ]
+A) Benign peptic ulcer
+B) Hiatal hernia
+C) Gastric lymphoma
+D) Gastric carcinoma
+Correct Answer: D) Gastric carcinoma
+Explanation: The barium meal shows an irregular, ulcerated mass with abnormal mucosal folds, a pattern typical of malignant gastric ulceration rather than a benign ulcer.
+Batch: Serotonin Mini-OSCE
+Note: This question is not covered in the course slides.
+###
+What is the most likely diagnosis? [img: Radiologyapcos.png ]
+A) PCOS
+B) Ovarian torsion
+C) Endometrioma
+D) Simple ovarian cyst
+Correct Answer: A) PCOS
+Explanation: Transvaginal ultrasound in this recalled station shows multiple small peripheral follicles ("string of pearls") in an enlarged ovary, characteristic of polycystic ovary syndrome.
+Batch: Serotonin Mini-OSCE
+Note: This question is not covered in the course slides.
+###
+The arrow (labeled 42) in this axial contrast CT points to which structure? [img: Radiologyaabdominalanatomygallbladder.png ]
+A) Liver
+B) Right kidney
+C) Descending aorta
+D) Gallbladder
+Correct Answer: D) Gallbladder
+Explanation: The labeled structure sits in the right upper quadrant along the undersurface of the liver, the typical anatomical position of the gallbladder.
+Batch: Waman A7yaha Mini-OSCE
+Note: 41. main pancreatic duct ~ 42. body of the gallbladder ~ 43. epiploic foramen (of Winslow) ~ 44. right crus of the diaphragm
+###
+Wrong about Wilms tumor?
+A) Most common renal tumor of childhood
+B) Lung metastases are less common than bone metastases
+C) Presents as a painless abdominal mass
+D) Usually unilateral
+Correct Answer: B) Lung metastases are less common than bone metastases
+Explanation: The lungs are the most common site of metastasis in Wilms tumor (not less common than bone) , bone metastases are actually rare.
+Batch: Aorta Final
+Note: This question is not covered in the course slides.
+###
+The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]
+A) Celiac artery
+B) Superior mesenteric artery
+C) Splenic artery
+D) Renal artery
+Correct Answer: A) Celiac artery
+Explanation: This recurring recalled anatomy image explicitly labels celiac artery, arising from the anterior aorta at the T12 level.
+Batch: Waman A7yaha Mini-OSCE
+Note: 51. pylorus ~ 52. coeliac trunk ~ 53. abdominal aorta
+###
+What is the most likely diagnosis? [img: Radiologyabilateraladrenalcalcification.png ]
+A) Splenic granulomas
+B) Bilateral renal calculi
+C) Pancreatic calcification
+D) Bilateral adrenal calcification
+Correct Answer: D) Bilateral adrenal calcification
+Explanation: This recalled station describes calcifications localized to both adrenal glands rather than the kidneys, pancreas, or spleen.
+Batch: Waman A7yaha Mini-OSCE
