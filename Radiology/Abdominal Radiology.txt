@@ -97,14 +97,14 @@ Correct Answer: C) Portal venous gas
 Explanation: The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.
 Batch: Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final
 ###
-What is the diagnosis? [img: Radiologylefthydronephrosis.png ]
+What is the diagnosis? [img: Radiologyahydronephrosis.png ]
 A) Renal cyst
 B) Renal stone
 C) Hydroureter
-D) Left hydronephrosis
-Correct Answer: D) Left hydronephrosis
+D) Hydronephrosis
+Correct Answer: D) Hydronephrosis
 Explanation: The coronal CT shows dilatation of the left renal collecting system (pelvicalyceal dilation) without a discrete simple fluid collection, consistent with hydronephrosis rather than an isolated stone or cyst.
-Batch: Endorphin Mini-OSCE (Group A) / Aorta Final / Vagus Mini-OSCE (Group D)
+Batch: Endorphin Mini-OSCE (Group A) / Aorta Final / Vagus Mini-OSCE (Group D) / Serotonin Mini-OSCE
 ###
 All of the following signs can be seen in bowel obstruction except:
 A) Bird-beak sign
@@ -297,4 +297,31 @@ D) Gallstone
 Correct Answer: B) Left renal stone
 Explanation: A well-defined, rounded radiopaque calcification overlying the renal shadow on KUB is most consistent with a renal calculus rather than a pelvic phlebolith or lymph node calcification.
 Batch: Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologyaureterstone.png ]
+A) Appendicolith
+B) Phlebolith
+C) Ureteric stone
+D) Renal stone
+Correct Answer: C) Ureteric stone
+Explanation: The calcification lies along the expected course of the ureter (from renal pelvis to bladder), distinguishing it from a phlebolith, which sits in the pelvis away from this line.
+Batch: Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+###
+Which imaging modality and plane is shown in this image? [img: Radiologyacoronalctabdomen.png ]
+A) Axial CT abdomen
+B) Coronal CT abdomen with contrast
+C) Sagittal MRI abdomen
+D) Coronal ultrasound
+Correct Answer: B) Coronal CT abdomen with contrast
+Explanation: The image demonstrates the liver, kidneys, and spine in a coronal (frontal) cross-sectional plane typical of coronal reformatted contrast-enhanced CT.
+Batch: Serotonin Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologyamidgutvolvulus.png ]
+A) Intussusception
+B) Cecal volvulus
+C) Sigmoid volvulus
+D) Midgut volvulus
+Correct Answer: D) Midgut volvulus
+Explanation: The CT shows the classic whirlpool sign of the superior mesenteric vessels and mesentery twisting around each other, diagnostic of midgut volvulus (from malrotation).
+Batch: Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
 ###
