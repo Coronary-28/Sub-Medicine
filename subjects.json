@@ -12795,13 +12795,15 @@
               "Left adrenal gland",
               "Spleen",
               "Left kidney",
-              "Descending colon"
+              "Descending colon",
+              "Right kidney"
             ],
             "originalOptions": [
               "Left adrenal gland",
               "Spleen",
               "Left kidney",
-              "Descending colon"
+              "Descending colon",
+              "Right kidney"
             ],
             "correctAnswer": "C) Left kidney",
             "correctAnswerText": "Left kidney",
@@ -12810,9 +12812,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
-            "batchName": "Vagus Mini-OSCE (Group D)",
+            "batchName": "Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
             "batchNames": [
-              "Vagus Mini-OSCE (Group D)"
+              "Vagus Mini-OSCE (Group D)",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -12918,6 +12921,500 @@
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__43__l9zaoa",
+            "number": "43",
+            "text": "What is the most likely diagnosis? [img: Radiologyaachalasia.png ]",
+            "options": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "originalOptions": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "correctAnswer": "B) Achalasia",
+            "correctAnswerText": "Achalasia",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
+            "batchName": "Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__44__y4gare",
+            "number": "44",
+            "text": "What is the most likely diagnosis? [img: Radiologyacalcifiedfibroid.jpg ]",
+            "options": [
+              "Bladder calculus",
+              "Ovarian dermoid cyst",
+              "Calcified uterine fibroid",
+              "Pelvic phlebolith"
+            ],
+            "originalOptions": [
+              "Bladder calculus",
+              "Ovarian dermoid cyst",
+              "Calcified uterine fibroid",
+              "Pelvic phlebolith"
+            ],
+            "correctAnswer": "C) Calcified uterine fibroid",
+            "correctAnswerText": "Calcified uterine fibroid",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The sagittal CT shows a coarse, popcorn-like calcification within the uterus, adjacent to the bladder, the classic appearance of a calcified leiomyoma.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "Uterine leiomyomas (fibroids) are the most common benign solid uterine tumors of myometrial origin, commonly found incidentally. They can be evaluated via US, MRI, CT, and classically present as \"popcorn calcification\" on X-ray when calcified.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__45__6lx25b",
+            "number": "45",
+            "text": "What is the most likely diagnosis? [img: Radiologyarenalstonehydronephrosis.png ]",
+            "options": [
+              "Obstructing renal stone with hydronephrosis",
+              "Simple renal cyst",
+              "Renal cell carcinoma",
+              "Pyonephrosis"
+            ],
+            "originalOptions": [
+              "Obstructing renal stone with hydronephrosis",
+              "Simple renal cyst",
+              "Renal cell carcinoma",
+              "Pyonephrosis"
+            ],
+            "correctAnswer": "A) Obstructing renal stone with hydronephrosis",
+            "correctAnswerText": "Obstructing renal stone with hydronephrosis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The CT shows a calculus with upstream dilatation of the collecting system, consistent with an obstructing stone causing hydronephrosis.",
+            "batchName": "Aorta Final / Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__46__chi0p6",
+            "number": "46",
+            "text": "What is the most likely diagnosis? [img: Radiologysmallbowelobstruction.png ]",
+            "options": [
+              "Pneumoperitoneum",
+              "Large bowel obstruction",
+              "Small bowel obstruction",
+              "Sigmoid volvulus"
+            ],
+            "originalOptions": [
+              "Pneumoperitoneum",
+              "Large bowel obstruction",
+              "Small bowel obstruction",
+              "Sigmoid volvulus"
+            ],
+            "correctAnswer": "C) Small bowel obstruction",
+            "correctAnswerText": "Small bowel obstruction",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The supine film shows multiple centrally located dilated loops with valvulae conniventes crossing the full lumen width, typical of small (not large) bowel obstruction.",
+            "batchName": "Endorphin Final / Aorta Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__47__dy8ald",
+            "number": "47",
+            "text": "Which statement is wrong about pyloric stenosis?",
+            "options": [
+              "A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+              "Pyloric canal length is usually 15–17 mm",
+              "Single pyloric wall thickness > 3 mm is diagnostic",
+              "There is a male predilection (~4:1)"
+            ],
+            "originalOptions": [
+              "A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+              "Pyloric canal length is usually 15–17 mm",
+              "Single pyloric wall thickness > 3 mm is diagnostic",
+              "There is a male predilection (~4:1)"
+            ],
+            "correctAnswer": "A) A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+            "correctAnswerText": "A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The accepted diagnostic criteria are muscle wall thickness > 3 mm and canal length > 15–17 mm; a \"> 7 mm\" longitudinal measurement is not the recognized standalone criterion.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__48__fqml61",
+            "number": "48",
+            "text": "Which statement is wrong about intussusception?",
+            "options": [
+              "Most common in children under 2 years",
+              "Most commonly due to a benign tumor in adults",
+              "Target sign on ultrasound",
+              "Ileocolic type is the most common location"
+            ],
+            "originalOptions": [
+              "Most common in children under 2 years",
+              "Most commonly due to a benign tumor in adults",
+              "Target sign on ultrasound",
+              "Ileocolic type is the most common location"
+            ],
+            "correctAnswer": "B) Most commonly due to a benign tumor in adults",
+            "correctAnswerText": "Most commonly due to a benign tumor in adults",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "In adults, intussusception is more often caused by a malignant lead point (tumor) than a benign one, making this statement false.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__49__r60xom",
+            "number": "49",
+            "text": "Which artery is most likely shown? [img: Radiologysuperiormesentericartery.png ]",
+            "options": [
+              "Inferior mesenteric artery",
+              "Celiac trunk",
+              "Renal artery",
+              "Superior mesenteric artery"
+            ],
+            "originalOptions": [
+              "Inferior mesenteric artery",
+              "Celiac trunk",
+              "Renal artery",
+              "Superior mesenteric artery"
+            ],
+            "correctAnswer": "D) Superior mesenteric artery",
+            "correctAnswerText": "Superior mesenteric artery",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The arrow points to a single anterior aortic branch arising at approximately the L1 level, just below the celiac trunk, the typical origin of the SMA.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__50__kh2clo",
+            "number": "50",
+            "text": "What is the most likely diagnosis? [img: Radiologyagallstonexray.png ]",
+            "options": [
+              "Gallbladder stones",
+              "Renal stones",
+              "Appendicitis",
+              "Pancreatitis"
+            ],
+            "originalOptions": [
+              "Gallbladder stones",
+              "Renal stones",
+              "Appendicitis",
+              "Pancreatitis"
+            ],
+            "correctAnswer": "A) Gallbladder stones",
+            "correctAnswerText": "Gallbladder stones",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The abdominal x-ray shows rounded, faintly calcified opacities in the right upper quadrant overlying the expected gallbladder location, consistent with radiopaque gallstones.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__51__b011zi",
+            "number": "51",
+            "text": "Which of the following is not a typical radiologic feature of acute pancreatitis?",
+            "options": [
+              "Necrosis or pseudocyst formation",
+              "Smooth outline of the pancreas",
+              "Peripancreatic fluid collections",
+              "Peripancreatic fat stranding"
+            ],
+            "originalOptions": [
+              "Necrosis or pseudocyst formation",
+              "Smooth outline of the pancreas",
+              "Peripancreatic fluid collections",
+              "Peripancreatic fat stranding"
+            ],
+            "correctAnswer": "B) Smooth outline of the pancreas",
+            "correctAnswerText": "Smooth outline of the pancreas",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Acute pancreatitis causes irregular, fuzzy pancreatic borders due to inflammation and edema, not a smooth outline.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__52__6jw3ap",
+            "number": "52",
+            "text": "Which of the following statements regarding abdominal vasculature is false?",
+            "options": [
+              "Renal arteries are paired vessels that arise superior to the gonadal arteries",
+              "The IVC passes through the diaphragm at the T8 level",
+              "The hindgut is supplied by the superior mesenteric artery",
+              "The IVC has a retroperitoneal course within the abdomen"
+            ],
+            "originalOptions": [
+              "Renal arteries are paired vessels that arise superior to the gonadal arteries",
+              "The IVC passes through the diaphragm at the T8 level",
+              "The hindgut is supplied by the superior mesenteric artery",
+              "The IVC has a retroperitoneal course within the abdomen"
+            ],
+            "correctAnswer": "C) The hindgut is supplied by the superior mesenteric artery",
+            "correctAnswerText": "The hindgut is supplied by the superior mesenteric artery",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The hindgut is supplied by the inferior mesenteric artery, not the SMA (which supplies the midgut); the other statements are correct.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__53__3c2cfg",
+            "number": "53",
+            "text": "Which of the following statements about pneumobilia is false?",
+            "options": [
+              "Pneumobilia refers to the presence of gas in the biliary tree",
+              "Most commonly seen after endoscopic procedures",
+              "Plain X-ray shows branching lucencies",
+              "It appears peripherally on CT"
+            ],
+            "originalOptions": [
+              "Pneumobilia refers to the presence of gas in the biliary tree",
+              "Most commonly seen after endoscopic procedures",
+              "Plain X-ray shows branching lucencies",
+              "It appears peripherally on CT"
+            ],
+            "correctAnswer": "D) It appears peripherally on CT",
+            "correctAnswerText": "It appears peripherally on CT",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Pneumobilia is centrally distributed near the porta hepatis on CT; it is portal venous gas that characteristically extends peripherally to the liver capsule.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__54__2zebpe",
+            "number": "54",
+            "text": "Which of the following statements about hiatal hernias is false?",
+            "options": [
+              "Rolling hernias are more common than sliding hernias",
+              "Sliding hernias are often associated with gastroesophageal reflux",
+              "Rolling hernias increase the risk of volvulus",
+              "In sliding hernias, the gastroesophageal junction moves above the diaphragm"
+            ],
+            "originalOptions": [
+              "Rolling hernias are more common than sliding hernias",
+              "Sliding hernias are often associated with gastroesophageal reflux",
+              "Rolling hernias increase the risk of volvulus",
+              "In sliding hernias, the gastroesophageal junction moves above the diaphragm"
+            ],
+            "correctAnswer": "A) Rolling hernias are more common than sliding hernias",
+            "correctAnswerText": "Rolling hernias are more common than sliding hernias",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Sliding hernias account for over 90% of cases and are far more common than rolling (paraesophageal) hernias, making this statement false.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__55__fwh4yx",
+            "number": "55",
+            "text": "Which of the following is a false CT finding in acute appendicitis?",
+            "options": [
+              "Distended appendiceal lumen",
+              "No appendicolith is identified",
+              "Thickened enhancing appendiceal wall",
+              "Periappendiceal fat stranding"
+            ],
+            "originalOptions": [
+              "Distended appendiceal lumen",
+              "No appendicolith is identified",
+              "Thickened enhancing appendiceal wall",
+              "Periappendiceal fat stranding"
+            ],
+            "correctAnswer": "B) No appendicolith is identified",
+            "correctAnswerText": "No appendicolith is identified",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "An appendicolith is present in a significant proportion of appendicitis cases; stating \"no appendicolith is identified\" as a defining CT finding is inaccurate, since its absence does not exclude nor define the diagnosis.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__56__eg2150",
+            "number": "56",
+            "text": "Which of the following statements regarding the small intestine is incorrect?",
+            "options": [
+              "Jejunum shows more prominent folds than ileum",
+              "Valvulae conniventes span the entire lumen of the small intestine",
+              "Functional ileus can present with a discrete transition point",
+              "The cecum displays haustration"
+            ],
+            "originalOptions": [
+              "Jejunum shows more prominent folds than ileum",
+              "Valvulae conniventes span the entire lumen of the small intestine",
+              "Functional ileus can present with a discrete transition point",
+              "The cecum displays haustration"
+            ],
+            "correctAnswer": "C) Functional ileus can present with a discrete transition point",
+            "correctAnswerText": "Functional ileus can present with a discrete transition point",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Functional (adynamic) ileus shows diffuse bowel dilatation without a discrete transition point, unlike mechanical obstruction; a discrete transition point argues against ileus.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
             ],
             "note": "",
             "pageNumber": "",
@@ -13679,6 +14176,190 @@
             "groupName": "Abdominal Radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__43__l9zaoa",
+            "number": "43",
+            "text": "What is the most likely diagnosis? [img: Radiologyaachalasia.png ]",
+            "options": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "originalOptions": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "correctAnswer": "B) Achalasia",
+            "correctAnswerText": "Achalasia",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__45__6lx25b",
+            "number": "45",
+            "text": "What is the most likely diagnosis? [img: Radiologyarenalstonehydronephrosis.png ]",
+            "options": [
+              "Obstructing renal stone with hydronephrosis",
+              "Simple renal cyst",
+              "Renal cell carcinoma",
+              "Pyonephrosis"
+            ],
+            "originalOptions": [
+              "Obstructing renal stone with hydronephrosis",
+              "Simple renal cyst",
+              "Renal cell carcinoma",
+              "Pyonephrosis"
+            ],
+            "correctAnswer": "A) Obstructing renal stone with hydronephrosis",
+            "correctAnswerText": "Obstructing renal stone with hydronephrosis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The CT shows a calculus with upstream dilatation of the collecting system, consistent with an obstructing stone causing hydronephrosis.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__46__chi0p6",
+            "number": "46",
+            "text": "What is the most likely diagnosis? [img: Radiologysmallbowelobstruction.png ]",
+            "options": [
+              "Pneumoperitoneum",
+              "Large bowel obstruction",
+              "Small bowel obstruction",
+              "Sigmoid volvulus"
+            ],
+            "originalOptions": [
+              "Pneumoperitoneum",
+              "Large bowel obstruction",
+              "Small bowel obstruction",
+              "Sigmoid volvulus"
+            ],
+            "correctAnswer": "C) Small bowel obstruction",
+            "correctAnswerText": "Small bowel obstruction",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The supine film shows multiple centrally located dilated loops with valvulae conniventes crossing the full lumen width, typical of small (not large) bowel obstruction.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__47__dy8ald",
+            "number": "47",
+            "text": "Which statement is wrong about pyloric stenosis?",
+            "options": [
+              "A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+              "Pyloric canal length is usually 15–17 mm",
+              "Single pyloric wall thickness > 3 mm is diagnostic",
+              "There is a male predilection (~4:1)"
+            ],
+            "originalOptions": [
+              "A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+              "Pyloric canal length is usually 15–17 mm",
+              "Single pyloric wall thickness > 3 mm is diagnostic",
+              "There is a male predilection (~4:1)"
+            ],
+            "correctAnswer": "A) A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+            "correctAnswerText": "A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The accepted diagnostic criteria are muscle wall thickness > 3 mm and canal length > 15–17 mm; a \"> 7 mm\" longitudinal measurement is not the recognized standalone criterion.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__48__fqml61",
+            "number": "48",
+            "text": "Which statement is wrong about intussusception?",
+            "options": [
+              "Most common in children under 2 years",
+              "Most commonly due to a benign tumor in adults",
+              "Target sign on ultrasound",
+              "Ileocolic type is the most common location"
+            ],
+            "originalOptions": [
+              "Most common in children under 2 years",
+              "Most commonly due to a benign tumor in adults",
+              "Target sign on ultrasound",
+              "Ileocolic type is the most common location"
+            ],
+            "correctAnswer": "B) Most commonly due to a benign tumor in adults",
+            "correctAnswerText": "Most commonly due to a benign tumor in adults",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "In adults, intussusception is more often caused by a malignant lead point (tumor) than a benign one, making this statement false.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -14258,6 +14939,369 @@
             "batchName": "Endorphin Final",
             "batchNames": [
               "Iris Mini-OSCE (Group A)",
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__43__l9zaoa",
+            "number": "43",
+            "text": "What is the most likely diagnosis? [img: Radiologyaachalasia.png ]",
+            "options": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "originalOptions": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "correctAnswer": "B) Achalasia",
+            "correctAnswerText": "Achalasia",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__46__chi0p6",
+            "number": "46",
+            "text": "What is the most likely diagnosis? [img: Radiologysmallbowelobstruction.png ]",
+            "options": [
+              "Pneumoperitoneum",
+              "Large bowel obstruction",
+              "Small bowel obstruction",
+              "Sigmoid volvulus"
+            ],
+            "originalOptions": [
+              "Pneumoperitoneum",
+              "Large bowel obstruction",
+              "Small bowel obstruction",
+              "Sigmoid volvulus"
+            ],
+            "correctAnswer": "C) Small bowel obstruction",
+            "correctAnswerText": "Small bowel obstruction",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The supine film shows multiple centrally located dilated loops with valvulae conniventes crossing the full lumen width, typical of small (not large) bowel obstruction.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__49__r60xom",
+            "number": "49",
+            "text": "Which artery is most likely shown? [img: Radiologysuperiormesentericartery.png ]",
+            "options": [
+              "Inferior mesenteric artery",
+              "Celiac trunk",
+              "Renal artery",
+              "Superior mesenteric artery"
+            ],
+            "originalOptions": [
+              "Inferior mesenteric artery",
+              "Celiac trunk",
+              "Renal artery",
+              "Superior mesenteric artery"
+            ],
+            "correctAnswer": "D) Superior mesenteric artery",
+            "correctAnswerText": "Superior mesenteric artery",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The arrow points to a single anterior aortic branch arising at approximately the L1 level, just below the celiac trunk, the typical origin of the SMA.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__50__kh2clo",
+            "number": "50",
+            "text": "What is the most likely diagnosis? [img: Radiologyagallstonexray.png ]",
+            "options": [
+              "Gallbladder stones",
+              "Renal stones",
+              "Appendicitis",
+              "Pancreatitis"
+            ],
+            "originalOptions": [
+              "Gallbladder stones",
+              "Renal stones",
+              "Appendicitis",
+              "Pancreatitis"
+            ],
+            "correctAnswer": "A) Gallbladder stones",
+            "correctAnswerText": "Gallbladder stones",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The abdominal x-ray shows rounded, faintly calcified opacities in the right upper quadrant overlying the expected gallbladder location, consistent with radiopaque gallstones.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__51__b011zi",
+            "number": "51",
+            "text": "Which of the following is not a typical radiologic feature of acute pancreatitis?",
+            "options": [
+              "Necrosis or pseudocyst formation",
+              "Smooth outline of the pancreas",
+              "Peripancreatic fluid collections",
+              "Peripancreatic fat stranding"
+            ],
+            "originalOptions": [
+              "Necrosis or pseudocyst formation",
+              "Smooth outline of the pancreas",
+              "Peripancreatic fluid collections",
+              "Peripancreatic fat stranding"
+            ],
+            "correctAnswer": "B) Smooth outline of the pancreas",
+            "correctAnswerText": "Smooth outline of the pancreas",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Acute pancreatitis causes irregular, fuzzy pancreatic borders due to inflammation and edema, not a smooth outline.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__52__6jw3ap",
+            "number": "52",
+            "text": "Which of the following statements regarding abdominal vasculature is false?",
+            "options": [
+              "Renal arteries are paired vessels that arise superior to the gonadal arteries",
+              "The IVC passes through the diaphragm at the T8 level",
+              "The hindgut is supplied by the superior mesenteric artery",
+              "The IVC has a retroperitoneal course within the abdomen"
+            ],
+            "originalOptions": [
+              "Renal arteries are paired vessels that arise superior to the gonadal arteries",
+              "The IVC passes through the diaphragm at the T8 level",
+              "The hindgut is supplied by the superior mesenteric artery",
+              "The IVC has a retroperitoneal course within the abdomen"
+            ],
+            "correctAnswer": "C) The hindgut is supplied by the superior mesenteric artery",
+            "correctAnswerText": "The hindgut is supplied by the superior mesenteric artery",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The hindgut is supplied by the inferior mesenteric artery, not the SMA (which supplies the midgut); the other statements are correct.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__53__3c2cfg",
+            "number": "53",
+            "text": "Which of the following statements about pneumobilia is false?",
+            "options": [
+              "Pneumobilia refers to the presence of gas in the biliary tree",
+              "Most commonly seen after endoscopic procedures",
+              "Plain X-ray shows branching lucencies",
+              "It appears peripherally on CT"
+            ],
+            "originalOptions": [
+              "Pneumobilia refers to the presence of gas in the biliary tree",
+              "Most commonly seen after endoscopic procedures",
+              "Plain X-ray shows branching lucencies",
+              "It appears peripherally on CT"
+            ],
+            "correctAnswer": "D) It appears peripherally on CT",
+            "correctAnswerText": "It appears peripherally on CT",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Pneumobilia is centrally distributed near the porta hepatis on CT; it is portal venous gas that characteristically extends peripherally to the liver capsule.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__54__2zebpe",
+            "number": "54",
+            "text": "Which of the following statements about hiatal hernias is false?",
+            "options": [
+              "Rolling hernias are more common than sliding hernias",
+              "Sliding hernias are often associated with gastroesophageal reflux",
+              "Rolling hernias increase the risk of volvulus",
+              "In sliding hernias, the gastroesophageal junction moves above the diaphragm"
+            ],
+            "originalOptions": [
+              "Rolling hernias are more common than sliding hernias",
+              "Sliding hernias are often associated with gastroesophageal reflux",
+              "Rolling hernias increase the risk of volvulus",
+              "In sliding hernias, the gastroesophageal junction moves above the diaphragm"
+            ],
+            "correctAnswer": "A) Rolling hernias are more common than sliding hernias",
+            "correctAnswerText": "Rolling hernias are more common than sliding hernias",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Sliding hernias account for over 90% of cases and are far more common than rolling (paraesophageal) hernias, making this statement false.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__55__fwh4yx",
+            "number": "55",
+            "text": "Which of the following is a false CT finding in acute appendicitis?",
+            "options": [
+              "Distended appendiceal lumen",
+              "No appendicolith is identified",
+              "Thickened enhancing appendiceal wall",
+              "Periappendiceal fat stranding"
+            ],
+            "originalOptions": [
+              "Distended appendiceal lumen",
+              "No appendicolith is identified",
+              "Thickened enhancing appendiceal wall",
+              "Periappendiceal fat stranding"
+            ],
+            "correctAnswer": "B) No appendicolith is identified",
+            "correctAnswerText": "No appendicolith is identified",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "An appendicolith is present in a significant proportion of appendicitis cases; stating \"no appendicolith is identified\" as a defining CT finding is inaccurate, since its absence does not exclude nor define the diagnosis.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__56__eg2150",
+            "number": "56",
+            "text": "Which of the following statements regarding the small intestine is incorrect?",
+            "options": [
+              "Jejunum shows more prominent folds than ileum",
+              "Valvulae conniventes span the entire lumen of the small intestine",
+              "Functional ileus can present with a discrete transition point",
+              "The cecum displays haustration"
+            ],
+            "originalOptions": [
+              "Jejunum shows more prominent folds than ileum",
+              "Valvulae conniventes span the entire lumen of the small intestine",
+              "Functional ileus can present with a discrete transition point",
+              "The cecum displays haustration"
+            ],
+            "correctAnswer": "C) Functional ileus can present with a discrete transition point",
+            "correctAnswerText": "Functional ileus can present with a discrete transition point",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Functional (adynamic) ileus shows diffuse bowel dilatation without a discrete transition point, unlike mechanical obstruction; a discrete transition point argues against ileus.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
               "Endorphin Final"
             ],
             "note": "",
@@ -17528,13 +18572,15 @@
               "Left adrenal gland",
               "Spleen",
               "Left kidney",
-              "Descending colon"
+              "Descending colon",
+              "Right kidney"
             ],
             "originalOptions": [
               "Left adrenal gland",
               "Spleen",
               "Left kidney",
-              "Descending colon"
+              "Descending colon",
+              "Right kidney"
             ],
             "correctAnswer": "C) Left kidney",
             "correctAnswerText": "Left kidney",
@@ -17545,7 +18591,8 @@
             "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
             "batchName": "Vagus Mini-OSCE (Group D)",
             "batchNames": [
-              "Vagus Mini-OSCE (Group D)"
+              "Vagus Mini-OSCE (Group D)",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -18021,6 +19068,45 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__abdominal-radiology__39__2oyn26",
+            "number": "39",
+            "text": "In this labeled axial CT, structure \"3\" corresponds to which organ? [img: Radiologyaabdominalanatomyleftkidney.png ]",
+            "options": [
+              "Left adrenal gland",
+              "Spleen",
+              "Left kidney",
+              "Descending colon",
+              "Right kidney"
+            ],
+            "originalOptions": [
+              "Left adrenal gland",
+              "Spleen",
+              "Left kidney",
+              "Descending colon",
+              "Right kidney"
+            ],
+            "correctAnswer": "C) Left kidney",
+            "correctAnswerText": "Left kidney",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Vagus Mini-OSCE (Group D)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__abdominal-radiology__40__kngv1v",
             "number": "40",
             "text": "What is the most likely diagnosis? [img: Radiologyacecalvolvulus.png ]",
@@ -18117,6 +19203,117 @@
             "explanation": "The CT shows a thickened, enhancing gallbladder wall with a pericholecystic rim of fluid.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__43__l9zaoa",
+            "number": "43",
+            "text": "What is the most likely diagnosis? [img: Radiologyaachalasia.png ]",
+            "options": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "originalOptions": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "correctAnswer": "B) Achalasia",
+            "correctAnswerText": "Achalasia",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__44__y4gare",
+            "number": "44",
+            "text": "What is the most likely diagnosis? [img: Radiologyacalcifiedfibroid.jpg ]",
+            "options": [
+              "Bladder calculus",
+              "Ovarian dermoid cyst",
+              "Calcified uterine fibroid",
+              "Pelvic phlebolith"
+            ],
+            "originalOptions": [
+              "Bladder calculus",
+              "Ovarian dermoid cyst",
+              "Calcified uterine fibroid",
+              "Pelvic phlebolith"
+            ],
+            "correctAnswer": "C) Calcified uterine fibroid",
+            "correctAnswerText": "Calcified uterine fibroid",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The sagittal CT shows a coarse, popcorn-like calcification within the uterus, adjacent to the bladder, the classic appearance of a calcified leiomyoma.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "Uterine leiomyomas (fibroids) are the most common benign solid uterine tumors of myometrial origin, commonly found incidentally. They can be evaluated via US, MRI, CT, and classically present as \"popcorn calcification\" on X-ray when calcified.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__45__6lx25b",
+            "number": "45",
+            "text": "What is the most likely diagnosis? [img: Radiologyarenalstonehydronephrosis.png ]",
+            "options": [
+              "Obstructing renal stone with hydronephrosis",
+              "Simple renal cyst",
+              "Renal cell carcinoma",
+              "Pyonephrosis"
+            ],
+            "originalOptions": [
+              "Obstructing renal stone with hydronephrosis",
+              "Simple renal cyst",
+              "Renal cell carcinoma",
+              "Pyonephrosis"
+            ],
+            "correctAnswer": "A) Obstructing renal stone with hydronephrosis",
+            "correctAnswerText": "Obstructing renal stone with hydronephrosis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The CT shows a calculus with upstream dilatation of the collecting system, consistent with an obstructing stone causing hydronephrosis.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Aorta Final",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -19568,13 +20765,15 @@
           "Left adrenal gland",
           "Spleen",
           "Left kidney",
-          "Descending colon"
+          "Descending colon",
+          "Right kidney"
         ],
         "originalOptions": [
           "Left adrenal gland",
           "Spleen",
           "Left kidney",
-          "Descending colon"
+          "Descending colon",
+          "Right kidney"
         ],
         "correctAnswer": "C) Left kidney",
         "correctAnswerText": "Left kidney",
@@ -19583,9 +20782,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
-        "batchName": "Vagus Mini-OSCE (Group D)",
+        "batchName": "Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
         "batchNames": [
-          "Vagus Mini-OSCE (Group D)"
+          "Vagus Mini-OSCE (Group D)",
+          "Waman A7yaha Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -19691,6 +20891,500 @@
         "batchName": "Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__43__l9zaoa",
+        "number": "43",
+        "text": "What is the most likely diagnosis? [img: Radiologyaachalasia.png ]",
+        "options": [
+          "Zenker diverticulum",
+          "Achalasia",
+          "Esophageal cancer",
+          "Hiatal hernia"
+        ],
+        "originalOptions": [
+          "Zenker diverticulum",
+          "Achalasia",
+          "Esophageal cancer",
+          "Hiatal hernia"
+        ],
+        "correctAnswer": "B) Achalasia",
+        "correctAnswerText": "Achalasia",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
+        "batchName": "Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Endorphin Final",
+          "Aorta Final",
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__44__y4gare",
+        "number": "44",
+        "text": "What is the most likely diagnosis? [img: Radiologyacalcifiedfibroid.jpg ]",
+        "options": [
+          "Bladder calculus",
+          "Ovarian dermoid cyst",
+          "Calcified uterine fibroid",
+          "Pelvic phlebolith"
+        ],
+        "originalOptions": [
+          "Bladder calculus",
+          "Ovarian dermoid cyst",
+          "Calcified uterine fibroid",
+          "Pelvic phlebolith"
+        ],
+        "correctAnswer": "C) Calcified uterine fibroid",
+        "correctAnswerText": "Calcified uterine fibroid",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The sagittal CT shows a coarse, popcorn-like calcification within the uterus, adjacent to the bladder, the classic appearance of a calcified leiomyoma.",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "Uterine leiomyomas (fibroids) are the most common benign solid uterine tumors of myometrial origin, commonly found incidentally. They can be evaluated via US, MRI, CT, and classically present as \"popcorn calcification\" on X-ray when calcified.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__45__6lx25b",
+        "number": "45",
+        "text": "What is the most likely diagnosis? [img: Radiologyarenalstonehydronephrosis.png ]",
+        "options": [
+          "Obstructing renal stone with hydronephrosis",
+          "Simple renal cyst",
+          "Renal cell carcinoma",
+          "Pyonephrosis"
+        ],
+        "originalOptions": [
+          "Obstructing renal stone with hydronephrosis",
+          "Simple renal cyst",
+          "Renal cell carcinoma",
+          "Pyonephrosis"
+        ],
+        "correctAnswer": "A) Obstructing renal stone with hydronephrosis",
+        "correctAnswerText": "Obstructing renal stone with hydronephrosis",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "The CT shows a calculus with upstream dilatation of the collecting system, consistent with an obstructing stone causing hydronephrosis.",
+        "batchName": "Aorta Final / Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Aorta Final",
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__46__chi0p6",
+        "number": "46",
+        "text": "What is the most likely diagnosis? [img: Radiologysmallbowelobstruction.png ]",
+        "options": [
+          "Pneumoperitoneum",
+          "Large bowel obstruction",
+          "Small bowel obstruction",
+          "Sigmoid volvulus"
+        ],
+        "originalOptions": [
+          "Pneumoperitoneum",
+          "Large bowel obstruction",
+          "Small bowel obstruction",
+          "Sigmoid volvulus"
+        ],
+        "correctAnswer": "C) Small bowel obstruction",
+        "correctAnswerText": "Small bowel obstruction",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The supine film shows multiple centrally located dilated loops with valvulae conniventes crossing the full lumen width, typical of small (not large) bowel obstruction.",
+        "batchName": "Endorphin Final / Aorta Final",
+        "batchNames": [
+          "Endorphin Final",
+          "Aorta Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__47__dy8ald",
+        "number": "47",
+        "text": "Which statement is wrong about pyloric stenosis?",
+        "options": [
+          "A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+          "Pyloric canal length is usually 15–17 mm",
+          "Single pyloric wall thickness > 3 mm is diagnostic",
+          "There is a male predilection (~4:1)"
+        ],
+        "originalOptions": [
+          "A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+          "Pyloric canal length is usually 15–17 mm",
+          "Single pyloric wall thickness > 3 mm is diagnostic",
+          "There is a male predilection (~4:1)"
+        ],
+        "correctAnswer": "A) A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+        "correctAnswerText": "A longitudinal measurement > 7 mm alone is the defining diagnostic criterion",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "The accepted diagnostic criteria are muscle wall thickness > 3 mm and canal length > 15–17 mm; a \"> 7 mm\" longitudinal measurement is not the recognized standalone criterion.",
+        "batchName": "Aorta Final",
+        "batchNames": [
+          "Aorta Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__48__fqml61",
+        "number": "48",
+        "text": "Which statement is wrong about intussusception?",
+        "options": [
+          "Most common in children under 2 years",
+          "Most commonly due to a benign tumor in adults",
+          "Target sign on ultrasound",
+          "Ileocolic type is the most common location"
+        ],
+        "originalOptions": [
+          "Most common in children under 2 years",
+          "Most commonly due to a benign tumor in adults",
+          "Target sign on ultrasound",
+          "Ileocolic type is the most common location"
+        ],
+        "correctAnswer": "B) Most commonly due to a benign tumor in adults",
+        "correctAnswerText": "Most commonly due to a benign tumor in adults",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "In adults, intussusception is more often caused by a malignant lead point (tumor) than a benign one, making this statement false.",
+        "batchName": "Aorta Final",
+        "batchNames": [
+          "Aorta Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__49__r60xom",
+        "number": "49",
+        "text": "Which artery is most likely shown? [img: Radiologysuperiormesentericartery.png ]",
+        "options": [
+          "Inferior mesenteric artery",
+          "Celiac trunk",
+          "Renal artery",
+          "Superior mesenteric artery"
+        ],
+        "originalOptions": [
+          "Inferior mesenteric artery",
+          "Celiac trunk",
+          "Renal artery",
+          "Superior mesenteric artery"
+        ],
+        "correctAnswer": "D) Superior mesenteric artery",
+        "correctAnswerText": "Superior mesenteric artery",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The arrow points to a single anterior aortic branch arising at approximately the L1 level, just below the celiac trunk, the typical origin of the SMA.",
+        "batchName": "Endorphin Final",
+        "batchNames": [
+          "Endorphin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__50__kh2clo",
+        "number": "50",
+        "text": "What is the most likely diagnosis? [img: Radiologyagallstonexray.png ]",
+        "options": [
+          "Gallbladder stones",
+          "Renal stones",
+          "Appendicitis",
+          "Pancreatitis"
+        ],
+        "originalOptions": [
+          "Gallbladder stones",
+          "Renal stones",
+          "Appendicitis",
+          "Pancreatitis"
+        ],
+        "correctAnswer": "A) Gallbladder stones",
+        "correctAnswerText": "Gallbladder stones",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "The abdominal x-ray shows rounded, faintly calcified opacities in the right upper quadrant overlying the expected gallbladder location, consistent with radiopaque gallstones.",
+        "batchName": "Endorphin Final",
+        "batchNames": [
+          "Endorphin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__51__b011zi",
+        "number": "51",
+        "text": "Which of the following is not a typical radiologic feature of acute pancreatitis?",
+        "options": [
+          "Necrosis or pseudocyst formation",
+          "Smooth outline of the pancreas",
+          "Peripancreatic fluid collections",
+          "Peripancreatic fat stranding"
+        ],
+        "originalOptions": [
+          "Necrosis or pseudocyst formation",
+          "Smooth outline of the pancreas",
+          "Peripancreatic fluid collections",
+          "Peripancreatic fat stranding"
+        ],
+        "correctAnswer": "B) Smooth outline of the pancreas",
+        "correctAnswerText": "Smooth outline of the pancreas",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Acute pancreatitis causes irregular, fuzzy pancreatic borders due to inflammation and edema, not a smooth outline.",
+        "batchName": "Endorphin Final",
+        "batchNames": [
+          "Endorphin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__52__6jw3ap",
+        "number": "52",
+        "text": "Which of the following statements regarding abdominal vasculature is false?",
+        "options": [
+          "Renal arteries are paired vessels that arise superior to the gonadal arteries",
+          "The IVC passes through the diaphragm at the T8 level",
+          "The hindgut is supplied by the superior mesenteric artery",
+          "The IVC has a retroperitoneal course within the abdomen"
+        ],
+        "originalOptions": [
+          "Renal arteries are paired vessels that arise superior to the gonadal arteries",
+          "The IVC passes through the diaphragm at the T8 level",
+          "The hindgut is supplied by the superior mesenteric artery",
+          "The IVC has a retroperitoneal course within the abdomen"
+        ],
+        "correctAnswer": "C) The hindgut is supplied by the superior mesenteric artery",
+        "correctAnswerText": "The hindgut is supplied by the superior mesenteric artery",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The hindgut is supplied by the inferior mesenteric artery, not the SMA (which supplies the midgut); the other statements are correct.",
+        "batchName": "Endorphin Final",
+        "batchNames": [
+          "Endorphin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__53__3c2cfg",
+        "number": "53",
+        "text": "Which of the following statements about pneumobilia is false?",
+        "options": [
+          "Pneumobilia refers to the presence of gas in the biliary tree",
+          "Most commonly seen after endoscopic procedures",
+          "Plain X-ray shows branching lucencies",
+          "It appears peripherally on CT"
+        ],
+        "originalOptions": [
+          "Pneumobilia refers to the presence of gas in the biliary tree",
+          "Most commonly seen after endoscopic procedures",
+          "Plain X-ray shows branching lucencies",
+          "It appears peripherally on CT"
+        ],
+        "correctAnswer": "D) It appears peripherally on CT",
+        "correctAnswerText": "It appears peripherally on CT",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Pneumobilia is centrally distributed near the porta hepatis on CT; it is portal venous gas that characteristically extends peripherally to the liver capsule.",
+        "batchName": "Endorphin Final",
+        "batchNames": [
+          "Endorphin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__54__2zebpe",
+        "number": "54",
+        "text": "Which of the following statements about hiatal hernias is false?",
+        "options": [
+          "Rolling hernias are more common than sliding hernias",
+          "Sliding hernias are often associated with gastroesophageal reflux",
+          "Rolling hernias increase the risk of volvulus",
+          "In sliding hernias, the gastroesophageal junction moves above the diaphragm"
+        ],
+        "originalOptions": [
+          "Rolling hernias are more common than sliding hernias",
+          "Sliding hernias are often associated with gastroesophageal reflux",
+          "Rolling hernias increase the risk of volvulus",
+          "In sliding hernias, the gastroesophageal junction moves above the diaphragm"
+        ],
+        "correctAnswer": "A) Rolling hernias are more common than sliding hernias",
+        "correctAnswerText": "Rolling hernias are more common than sliding hernias",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Sliding hernias account for over 90% of cases and are far more common than rolling (paraesophageal) hernias, making this statement false.",
+        "batchName": "Endorphin Final",
+        "batchNames": [
+          "Endorphin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__55__fwh4yx",
+        "number": "55",
+        "text": "Which of the following is a false CT finding in acute appendicitis?",
+        "options": [
+          "Distended appendiceal lumen",
+          "No appendicolith is identified",
+          "Thickened enhancing appendiceal wall",
+          "Periappendiceal fat stranding"
+        ],
+        "originalOptions": [
+          "Distended appendiceal lumen",
+          "No appendicolith is identified",
+          "Thickened enhancing appendiceal wall",
+          "Periappendiceal fat stranding"
+        ],
+        "correctAnswer": "B) No appendicolith is identified",
+        "correctAnswerText": "No appendicolith is identified",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "An appendicolith is present in a significant proportion of appendicitis cases; stating \"no appendicolith is identified\" as a defining CT finding is inaccurate, since its absence does not exclude nor define the diagnosis.",
+        "batchName": "Endorphin Final",
+        "batchNames": [
+          "Endorphin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__56__eg2150",
+        "number": "56",
+        "text": "Which of the following statements regarding the small intestine is incorrect?",
+        "options": [
+          "Jejunum shows more prominent folds than ileum",
+          "Valvulae conniventes span the entire lumen of the small intestine",
+          "Functional ileus can present with a discrete transition point",
+          "The cecum displays haustration"
+        ],
+        "originalOptions": [
+          "Jejunum shows more prominent folds than ileum",
+          "Valvulae conniventes span the entire lumen of the small intestine",
+          "Functional ileus can present with a discrete transition point",
+          "The cecum displays haustration"
+        ],
+        "correctAnswer": "C) Functional ileus can present with a discrete transition point",
+        "correctAnswerText": "Functional ileus can present with a discrete transition point",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Functional (adynamic) ileus shows diffuse bowel dilatation without a discrete transition point, unlike mechanical obstruction; a discrete transition point argues against ileus.",
+        "batchName": "Endorphin Final",
+        "batchNames": [
+          "Endorphin Final"
         ],
         "note": "",
         "pageNumber": "",
@@ -20201,7 +21895,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 56,
+    "totalQuestions": 70,
     "totalLectures": 19,
     "hasAiFolder": false
   },
