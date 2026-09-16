@@ -348,9 +348,10 @@ A) Left adrenal gland
 B) Spleen
 C) Left kidney
 D) Descending colon
+E) Right kidney
 Correct Answer: C) Left kidney
 Explanation: The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.
-Batch: Vagus Mini-OSCE (Group D)
+Batch: Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE
 ###
 What is the most likely diagnosis? [img: Radiologyacecalvolvulus.png ]
 A) Midgut volvulus
@@ -378,3 +379,131 @@ D) Hiatal hernia
 Correct Answer: C) Cholecystitis
 Explanation: The CT shows a thickened, enhancing gallbladder wall with a pericholecystic rim of fluid.
 Batch: Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologyaachalasia.png ]
+A) Zenker diverticulum
+B) Achalasia
+C) Esophageal cancer
+D) Hiatal hernia
+Correct Answer: B) Achalasia
+Explanation: The barium swallow shows a dilated esophagus tapering smoothly to a "bird-beak" narrowing at the gastroesophageal junction, the classic finding of achalasia.
+Batch: Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologyacalcifiedfibroid.jpg ]
+A) Bladder calculus
+B) Ovarian dermoid cyst
+C) Calcified uterine fibroid
+D) Pelvic phlebolith
+Correct Answer: C) Calcified uterine fibroid
+Explanation: The sagittal CT shows a coarse, popcorn-like calcification within the uterus, adjacent to the bladder, the classic appearance of a calcified leiomyoma.
+Note: Uterine leiomyomas (fibroids) are the most common benign solid uterine tumors of myometrial origin, commonly found incidentally. They can be evaluated via US, MRI, CT, and classically present as "popcorn calcification" on X-ray when calcified.
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologyarenalstonehydronephrosis.png ]
+A) Obstructing renal stone with hydronephrosis
+B) Simple renal cyst
+C) Renal cell carcinoma
+D) Pyonephrosis
+Correct Answer: A) Obstructing renal stone with hydronephrosis
+Explanation: The CT shows a calculus with upstream dilatation of the collecting system, consistent with an obstructing stone causing hydronephrosis.
+Batch: Aorta Final / Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologysmallbowelobstruction.png ]
+A) Pneumoperitoneum
+B) Large bowel obstruction
+C) Small bowel obstruction
+D) Sigmoid volvulus
+Correct Answer: C) Small bowel obstruction
+Explanation: The supine film shows multiple centrally located dilated loops with valvulae conniventes crossing the full lumen width, typical of small (not large) bowel obstruction.
+Batch: Endorphin Final / Aorta Final
+###
+Which statement is wrong about pyloric stenosis?
+A) A longitudinal measurement > 7 mm alone is the defining diagnostic criterion
+B) Pyloric canal length is usually 15–17 mm
+C) Single pyloric wall thickness > 3 mm is diagnostic
+D) There is a male predilection (~4:1)
+Correct Answer: A) A longitudinal measurement > 7 mm alone is the defining diagnostic criterion
+Explanation: The accepted diagnostic criteria are muscle wall thickness > 3 mm and canal length > 15–17 mm; a "> 7 mm" longitudinal measurement is not the recognized standalone criterion.
+Batch: Aorta Final
+###
+Which statement is wrong about intussusception?
+A) Most common in children under 2 years
+B) Most commonly due to a benign tumor in adults
+C) Target sign on ultrasound
+D) Ileocolic type is the most common location
+Correct Answer: B) Most commonly due to a benign tumor in adults
+Explanation: In adults, intussusception is more often caused by a malignant lead point (tumor) than a benign one, making this statement false.
+Batch: Aorta Final
+###
+Which artery is most likely shown? [img: Radiologysuperiormesentericartery.png ]
+A) Inferior mesenteric artery
+B) Celiac trunk
+C) Renal artery
+D) Superior mesenteric artery
+Correct Answer: D) Superior mesenteric artery
+Explanation: The arrow points to a single anterior aortic branch arising at approximately the L1 level, just below the celiac trunk, the typical origin of the SMA.
+Batch: Endorphin Final
+###
+What is the most likely diagnosis? [img: Radiologyagallstonexray.png ]
+A) Gallbladder stones
+B) Renal stones
+C) Appendicitis
+D) Pancreatitis
+Correct Answer: A) Gallbladder stones
+Explanation: The abdominal x-ray shows rounded, faintly calcified opacities in the right upper quadrant overlying the expected gallbladder location, consistent with radiopaque gallstones.
+Batch: Endorphin Final
+###
+Which of the following is not a typical radiologic feature of acute pancreatitis?
+A) Necrosis or pseudocyst formation
+B) Smooth outline of the pancreas
+C) Peripancreatic fluid collections
+D) Peripancreatic fat stranding
+Correct Answer: B) Smooth outline of the pancreas
+Explanation: Acute pancreatitis causes irregular, fuzzy pancreatic borders due to inflammation and edema, not a smooth outline.
+Batch: Endorphin Final
+###
+Which of the following statements regarding abdominal vasculature is false?
+A) Renal arteries are paired vessels that arise superior to the gonadal arteries
+B) The IVC passes through the diaphragm at the T8 level
+C) The hindgut is supplied by the superior mesenteric artery
+D) The IVC has a retroperitoneal course within the abdomen
+Correct Answer: C) The hindgut is supplied by the superior mesenteric artery
+Explanation: The hindgut is supplied by the inferior mesenteric artery, not the SMA (which supplies the midgut); the other statements are correct.
+Batch: Endorphin Final
+###
+Which of the following statements about pneumobilia is false?
+A) Pneumobilia refers to the presence of gas in the biliary tree
+B) Most commonly seen after endoscopic procedures
+C) Plain X-ray shows branching lucencies
+D) It appears peripherally on CT
+Correct Answer: D) It appears peripherally on CT
+Explanation: Pneumobilia is centrally distributed near the porta hepatis on CT; it is portal venous gas that characteristically extends peripherally to the liver capsule.
+Batch: Endorphin Final
+###
+Which of the following statements about hiatal hernias is false?
+A) Rolling hernias are more common than sliding hernias
+B) Sliding hernias are often associated with gastroesophageal reflux
+C) Rolling hernias increase the risk of volvulus
+D) In sliding hernias, the gastroesophageal junction moves above the diaphragm
+Correct Answer: A) Rolling hernias are more common than sliding hernias
+Explanation: Sliding hernias account for over 90% of cases and are far more common than rolling (paraesophageal) hernias, making this statement false.
+Batch: Endorphin Final
+###
+Which of the following is a false CT finding in acute appendicitis?
+A) Distended appendiceal lumen
+B) No appendicolith is identified
+C) Thickened enhancing appendiceal wall
+D) Periappendiceal fat stranding
+Correct Answer: B) No appendicolith is identified
+Explanation: An appendicolith is present in a significant proportion of appendicitis cases; stating "no appendicolith is identified" as a defining CT finding is inaccurate, since its absence does not exclude nor define the diagnosis.
+Batch: Endorphin Final
+###
+Which of the following statements regarding the small intestine is incorrect?
+A) Jejunum shows more prominent folds than ileum
+B) Valvulae conniventes span the entire lumen of the small intestine
+C) Functional ileus can present with a discrete transition point
+D) The cecum displays haustration
+Correct Answer: C) Functional ileus can present with a discrete transition point
+Explanation: Functional (adynamic) ileus shows diffuse bowel dilatation without a discrete transition point, unlike mechanical obstruction; a discrete transition point argues against ileus.
+Batch: Endorphin Final
+###
