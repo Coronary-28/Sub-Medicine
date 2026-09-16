@@ -7,13 +7,13 @@ Correct Answer: A) Acute pancreatitis
 Explanation: The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.
 Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final / Aorta Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE
 ###
-Identify the labeled structure in this axial contrast CT of the abdomen. [img: Radiologyaleftrenalvein.png ]
+In this labeled axial CT image, what does structure "3" represent? [img: Radiologyaleftrenalvein.png ]
 A) Left renal artery
 B) Left renal vein
 C) Superior mesenteric artery
 D) Right renal artery
 Correct Answer: B) Left renal vein
-Explanation: The labeled vessel courses anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).
+Explanation: In this labeled slice the numbered structures correspond to liver, gallbladder, and left renal vein, consistent with the vein's typical course anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).
 Batch: Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Vagus Mini-OSCE (Group C)
 ###
 What is the diagnosis? [img: Radiologyasigmoidvolvulus.png ]
@@ -86,7 +86,7 @@ C) Volvulus
 D) Bowel ischemia
 Correct Answer: B) Colorectal cancer
 Explanation: The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.
-Batch: Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)
+Batch: Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE
 ###
 What is the most likely diagnosis? [img: Radiologyaportalvenousgas.png ]
 A) Pneumobilia
@@ -325,3 +325,56 @@ Correct Answer: D) Midgut volvulus
 Explanation: The CT shows the classic whirlpool sign of the superior mesenteric vessels and mesentery twisting around each other, diagnostic of midgut volvulus (from malrotation).
 Batch: Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
 ###
+What is the most likely diagnosis? [img: Radiologyagallstoneus.png ]
+A) Biliary sludge
+B) Gallbladder polyp
+C) Porcelain gallbladder
+D) Gallbladder stone
+Correct Answer: D) Gallbladder stone
+Explanation: Ultrasound shows a hyperechoic intraluminal focus with posterior acoustic shadowing within the gallbladder, the classic appearance of a gallstone.
+Batch: Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologyaappendicitisct.png ]
+A) Appendicitis
+B) Mesenteric ischemia
+C) Diverticulitis
+D) Crohn's disease
+Correct Answer: A) Appendicitis
+Explanation: The coronal CT shows an appendicolith with a dilated, thick-walled appendix and surrounding fat stranding, diagnostic of acute appendicitis.
+Batch: Aorta Final / Vagus Mini-OSCE (Group C) / Waman A7yaha Mini-OSCE
+###
+In this labeled axial CT, structure "3" corresponds to which organ? [img: Radiologyaabdominalanatomyleftkidney.png ]
+A) Left adrenal gland
+B) Spleen
+C) Left kidney
+D) Descending colon
+Correct Answer: C) Left kidney
+Explanation: The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.
+Batch: Vagus Mini-OSCE (Group D)
+###
+What is the most likely diagnosis? [img: Radiologyacecalvolvulus.png ]
+A) Midgut volvulus
+B) Sigmoid volvulus
+C) Small bowel obstruction
+D) Cecal volvulus
+Correct Answer: D) Cecal volvulus
+Explanation: The x-ray shows a massively dilated loop of large bowel extending from the right lower quadrant toward the epigastrium, with the haustral pattern maintained, consistent with cecal volvulus.
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologyacholecystitisus.jpg ]
+A) Acute cholecystitis with cholelithiasis
+B) Biliary colic without cholecystitis
+C) Gallbladder polyp
+D) Porcelain gallbladder
+Correct Answer: A) Acute cholecystitis with cholelithiasis
+Explanation: Ultrasound shows a gallstone with a thickened, edematous gallbladder wall, consistent with acute calculous cholecystitis rather than simple biliary colic.
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologyacholecystitisct.jpg ]
+A) Bowel obstruction
+B) Pancreatitis
+C) Cholecystitis
+D) Hiatal hernia
+Correct Answer: C) Cholecystitis
+Explanation: The CT shows a thickened, enhancing gallbladder wall with a pericholecystic rim of fluid.
+Batch: Waman A7yaha Mini-OSCE
