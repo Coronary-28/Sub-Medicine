@@ -11405,23 +11405,23 @@
             "number": "1",
             "text": "What is the most likely diagnosis? [img: Radiologyapancreatitis.png ]",
             "options": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
             "originalOptions": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
-            "correctAnswer": "C) Acute pancreatitis",
+            "correctAnswer": "A) Acute pancreatitis",
             "correctAnswerText": "Acute pancreatitis",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.",
             "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final / Aorta Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
             "batchNames": [
@@ -11482,22 +11482,22 @@
             "text": "What is the diagnosis? [img: Radiologyasigmoidvolvulus.png ]",
             "options": [
               "Cecal volvulus",
-              "Sigmoid volvulus",
               "Small bowel obstruction",
+              "Sigmoid volvulus",
               "Large bowel obstruction (non-volvulus)"
             ],
             "originalOptions": [
               "Cecal volvulus",
-              "Sigmoid volvulus",
               "Small bowel obstruction",
+              "Sigmoid volvulus",
               "Large bowel obstruction (non-volvulus)"
             ],
-            "correctAnswer": "B) Sigmoid volvulus",
+            "correctAnswer": "C) Sigmoid volvulus",
             "correctAnswerText": "Sigmoid volvulus",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The fluoroscopic/contrast image shows the classic bird's-beak tapering at the point of torsion of a massively dilated sigmoid loop, diagnostic of sigmoid volvulus rather than a generic obstruction.",
             "batchName": "Aorta Mini-OSCE (Group A) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
             "batchNames": [
@@ -11519,22 +11519,22 @@
             "text": "What is the diagnosis? [img: Radiologyapneumobilia.png ]",
             "options": [
               "Portal venous gas",
-              "Pneumobilia",
+              "Emphysematous cholecystitis",
               "Pneumoperitoneum",
-              "Emphysematous cholecystitis"
+              "Pneumobilia"
             ],
             "originalOptions": [
               "Portal venous gas",
-              "Pneumobilia",
+              "Emphysematous cholecystitis",
               "Pneumoperitoneum",
-              "Emphysematous cholecystitis"
+              "Pneumobilia"
             ],
-            "correctAnswer": "B) Pneumobilia",
+            "correctAnswer": "D) Pneumobilia",
             "correctAnswerText": "Pneumobilia",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "The gas is centrally located within the biliary tree near the porta hepatis; portal venous gas classically extends to within 2 cm of the liver capsule (peripheral), which distinguishes it from pneumobilia.",
             "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A) / Serotonin Mini-OSCE",
             "batchNames": [
@@ -11556,23 +11556,23 @@
             "number": "5",
             "text": "What is the name of this radiological sign? [img: Radiologyafootballsign.png ]",
             "options": [
-              "Rigler (double-wall) sign",
               "Football sign",
+              "Rigler (double-wall) sign",
               "Continuous diaphragm sign",
               "Falciform ligament sign"
             ],
             "originalOptions": [
-              "Rigler (double-wall) sign",
               "Football sign",
+              "Rigler (double-wall) sign",
               "Continuous diaphragm sign",
               "Falciform ligament sign"
             ],
-            "correctAnswer": "B) Football sign",
+            "correctAnswer": "A) Football sign",
             "correctAnswerText": "Football sign",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "A massive pneumoperitoneum outlines the entire abdominal cavity in an oval, football-like shape on a supine film, which is the football sign (seen especially in neonates/infants).",
             "batchName": "Iris Mini-OSCE (Group C) / Aorta Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
             "batchNames": [
@@ -11632,23 +11632,23 @@
             "number": "7",
             "text": "Which statement regarding intussusception is incorrect?",
             "options": [
-              "The majority occur after 3 week of birth",
-              "Target sign on ultrasound",
               "The prolapsed part is the intussusceptum and the receiving segment the intussuscipiens",
+              "Target sign on ultrasound",
+              "The majority occur after 3 week of birth",
               "Invagination of one part of intestine into an adjacent/distal bowel segment"
             ],
             "originalOptions": [
-              "The majority occur after 3 week of birth",
-              "Target sign on ultrasound",
               "The prolapsed part is the intussusceptum and the receiving segment the intussuscipiens",
+              "Target sign on ultrasound",
+              "The majority occur after 3 week of birth",
               "Invagination of one part of intestine into an adjacent/distal bowel segment"
             ],
-            "correctAnswer": "A) The majority occur after 3 week of birth",
+            "correctAnswer": "C) The majority occur after 3 week of birth",
             "correctAnswerText": "The majority occur after 3 week of birth",
-            "correctIndex": 0,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "C",
             "explanation": "Intussusception classically occurs after the first three months of life (usually 3 months–2 years), not simply \"after 3 week of birth,\" making this the incorrect statement; the other options correctly describe its mechanism and ultrasound appearance.",
             "batchName": "Coronary Mini-OSCE (Group C)",
             "batchNames": [
@@ -11668,22 +11668,22 @@
             "text": "What is the diagnosis? [img: Radiologyadiverticulitis.png ]",
             "options": [
               "Pancreatitis",
-              "Diverticulitis",
+              "Appendicitis",
               "Cholecystitis",
-              "Appendicitis"
+              "Diverticulitis"
             ],
             "originalOptions": [
               "Pancreatitis",
-              "Diverticulitis",
+              "Appendicitis",
               "Cholecystitis",
-              "Appendicitis"
+              "Diverticulitis"
             ],
-            "correctAnswer": "B) Diverticulitis",
+            "correctAnswer": "D) Diverticulitis",
             "correctAnswerText": "Diverticulitis",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
             "batchName": "Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
             "batchNames": [
@@ -11703,23 +11703,23 @@
             "number": "9",
             "text": "All of the following is true except:",
             "options": [
-              "In Midgut volvulus → whirlpool sign",
               "In cecal volvulus → colonic haustral pattern is lost",
+              "In Midgut volvulus → whirlpool sign",
               "In sigmoid volvulus → coffee bean sign",
               "Volvulus is twisting of the intestine around its mesentery"
             ],
             "originalOptions": [
-              "In Midgut volvulus → whirlpool sign",
               "In cecal volvulus → colonic haustral pattern is lost",
+              "In Midgut volvulus → whirlpool sign",
               "In sigmoid volvulus → coffee bean sign",
               "Volvulus is twisting of the intestine around its mesentery"
             ],
-            "correctAnswer": "B) In cecal volvulus → colonic haustral pattern is lost",
+            "correctAnswer": "A) In cecal volvulus → colonic haustral pattern is lost",
             "correctAnswerText": "In cecal volvulus → colonic haustral pattern is lost",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "In cecal volvulus the colonic haustral pattern is typically maintained (unlike sigmoid volvulus, where it is generally lost/ahaustral), so this statement is false.",
             "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
             "batchNames": [
@@ -11741,23 +11741,23 @@
             "number": "10",
             "text": "Most likely diagnosis? [img: Radiologyacolorectalcancer.png ]",
             "options": [
-              "Colorectal cancer",
               "Intussusception",
+              "Colorectal cancer",
               "Volvulus",
               "Bowel ischemia"
             ],
             "originalOptions": [
-              "Colorectal cancer",
               "Intussusception",
+              "Colorectal cancer",
               "Volvulus",
               "Bowel ischemia"
             ],
-            "correctAnswer": "A) Colorectal cancer",
+            "correctAnswer": "B) Colorectal cancer",
             "correctAnswerText": "Colorectal cancer",
-            "correctIndex": 0,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "B",
             "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
             "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
             "batchNames": [
@@ -11779,22 +11779,22 @@
             "text": "What is the most likely diagnosis? [img: Radiologyaportalvenousgas.png ]",
             "options": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
             "originalOptions": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
-            "correctAnswer": "B) Portal venous gas",
+            "correctAnswer": "C) Portal venous gas",
             "correctAnswerText": "Portal venous gas",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
             "batchName": "Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final",
             "batchNames": [
@@ -11813,33 +11813,34 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__12__dg4ccn",
+            "id": "radiology__lecture__abdominal-radiology__12__vhm7pb",
             "number": "12",
-            "text": "What is the diagnosis? [img: Radiologylefthydronephrosis.png ]",
+            "text": "What is the diagnosis? [img: Radiologyahydronephrosis.png ]",
             "options": [
-              "Left hydronephrosis",
+              "Renal cyst",
               "Renal stone",
               "Hydroureter",
-              "Renal cyst"
+              "Hydronephrosis"
             ],
             "originalOptions": [
-              "Left hydronephrosis",
+              "Renal cyst",
               "Renal stone",
               "Hydroureter",
-              "Renal cyst"
+              "Hydronephrosis"
             ],
-            "correctAnswer": "A) Left hydronephrosis",
-            "correctAnswerText": "Left hydronephrosis",
-            "correctIndex": 0,
+            "correctAnswer": "D) Hydronephrosis",
+            "correctAnswerText": "Hydronephrosis",
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "D",
             "explanation": "The coronal CT shows dilatation of the left renal collecting system (pelvicalyceal dilation) without a discrete simple fluid collection, consistent with hydronephrosis rather than an isolated stone or cyst.",
-            "batchName": "Endorphin Mini-OSCE (Group A) / Aorta Final / Vagus Mini-OSCE (Group D)",
+            "batchName": "Endorphin Mini-OSCE (Group A) / Aorta Final / Vagus Mini-OSCE (Group D) / Serotonin Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
               "Aorta Final",
-              "Vagus Mini-OSCE (Group D)"
+              "Vagus Mini-OSCE (Group D)",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -11854,23 +11855,23 @@
             "number": "13",
             "text": "All of the following signs can be seen in bowel obstruction except:",
             "options": [
-              "Coffee bean sign",
-              "Whirlpool sign",
               "Bird-beak sign",
+              "Whirlpool sign",
+              "Coffee bean sign",
               "Multiple air-fluid levels"
             ],
             "originalOptions": [
-              "Coffee bean sign",
-              "Whirlpool sign",
               "Bird-beak sign",
+              "Whirlpool sign",
+              "Coffee bean sign",
               "Multiple air-fluid levels"
             ],
-            "correctAnswer": "C) Bird-beak sign",
+            "correctAnswer": "A) Bird-beak sign",
             "correctAnswerText": "Bird-beak sign",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "The bird-beak sign is the classic finding of achalasia at the gastroesophageal junction, not a sign of bowel obstruction, unlike the coffee bean (sigmoid volvulus) and whirlpool (midgut volvulus) signs.",
             "batchName": "Endorphin Mini-OSCE (Group B) / Vagus Final",
             "batchNames": [
@@ -11891,22 +11892,22 @@
             "text": "Which of the following is not a typical radiologic feature of appendicitis?",
             "options": [
               "Dilated appendiceal diameter",
+              "Thin appendiceal wall",
               "Periappendiceal fat stranding",
-              "Thin appendix wall thickness",
               "Distended appendiceal lumen"
             ],
             "originalOptions": [
               "Dilated appendiceal diameter",
+              "Thin appendiceal wall",
               "Periappendiceal fat stranding",
-              "Thin appendix wall thickness",
               "Distended appendiceal lumen"
             ],
-            "correctAnswer": "C) Thin appendix wall thickness",
-            "correctAnswerText": "Thin appendix wall thickness",
-            "correctIndex": 2,
+            "correctAnswer": "B) Thin appendiceal wall",
+            "correctAnswerText": "Thin appendiceal wall",
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "B",
             "explanation": "In acute appendicitis the appendiceal wall is thickened and enhancing, not normal/thin; a normal wall thickness argues against the diagnosis.",
             "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
             "batchNames": [
@@ -11926,23 +11927,23 @@
             "number": "15",
             "text": "All of the following can be seen in intestinal ischemia except:",
             "options": [
-              "Pneumobilia",
-              "Portal vein thrombosis",
               "Thickened wall loops",
+              "Portal vein thrombosis",
+              "Pneumobilia",
               "Surrounding fatty stranding"
             ],
             "originalOptions": [
-              "Pneumobilia",
-              "Portal vein thrombosis",
               "Thickened wall loops",
+              "Portal vein thrombosis",
+              "Pneumobilia",
               "Surrounding fatty stranding"
             ],
-            "correctAnswer": "A) Pneumobilia",
+            "correctAnswer": "C) Pneumobilia",
             "correctAnswerText": "Pneumobilia",
-            "correctIndex": 0,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "C",
             "explanation": "Pneumobilia reflects biliary tree gas (usually from a prior sphincterotomy or biliary-enteric fistula), not a feature of bowel ischemia; ischemia is instead associated with portal venous gas, bowel wall thickening, and mesenteric fat stranding.",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
@@ -11962,22 +11963,22 @@
             "text": "Which is not a typical finding in acute cholecystitis on ultrasound?",
             "options": [
               "Distended gallbladder",
-              "Thin gallbladder wall",
+              "Gallstones with acoustic shadowing",
               "Pericholecystic fluid",
-              "Gallstones with acoustic shadowing"
+              "Thin gallbladder wall"
             ],
             "originalOptions": [
               "Distended gallbladder",
-              "Thin gallbladder wall",
+              "Gallstones with acoustic shadowing",
               "Pericholecystic fluid",
-              "Gallstones with acoustic shadowing"
+              "Thin gallbladder wall"
             ],
-            "correctAnswer": "B) Thin gallbladder wall",
+            "correctAnswer": "D) Thin gallbladder wall",
             "correctAnswerText": "Thin gallbladder wall",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "Acute cholecystitis classically shows a thickened (>3 mm), edematous gallbladder wall; a thin, normal wall argues against the diagnosis.",
             "batchName": "Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Vagus Final",
             "batchNames": [
@@ -12037,22 +12038,22 @@
             "text": "Wrong about hiatal hernia?",
             "options": [
               "Rolling (paraesophageal) hernias carry a risk of gastric volvulus",
-              "Sliding type is the most common",
+              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
               "Sliding hernias are associated with gastroesophageal reflux",
-              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm"
+              "Sliding type is the most common"
             ],
             "originalOptions": [
               "Rolling (paraesophageal) hernias carry a risk of gastric volvulus",
-              "Sliding type is the most common",
+              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
               "Sliding hernias are associated with gastroesophageal reflux",
-              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm"
+              "Sliding type is the most common"
             ],
-            "correctAnswer": "D) Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
+            "correctAnswer": "B) Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
             "correctAnswerText": "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
-            "correctIndex": 3,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "B",
             "explanation": "Upward displacement of the gastroesophageal junction (>2 cm above the hiatus) defines a sliding hiatal hernia, not a paraesophageal one, in which the GEJ stays in normal position while the fundus herniates.",
             "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
             "batchNames": [
@@ -12075,22 +12076,22 @@
               "Bird-beak appearance at the gastroesophageal junction",
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
-              "Mediastinal widening",
-              "Dilated esophagus"
+              "Dilated esophagus",
+              "Mediastinal widening"
             ],
             "originalOptions": [
               "Bird-beak appearance at the gastroesophageal junction",
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
-              "Mediastinal widening",
-              "Dilated esophagus"
+              "Dilated esophagus",
+              "Mediastinal widening"
             ],
-            "correctAnswer": "D) Mediastinal widening",
+            "correctAnswer": "E) Mediastinal widening",
             "correctAnswerText": "Mediastinal widening",
-            "correctIndex": 3,
+            "correctIndex": 4,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "E",
             "explanation": "Achalasia causes mediastinal widening (not narrowing) from the dilated, fluid-filled esophagus, so calling it \"mediastinal narrowing\" as a listed feature is incorrect — but among the options here, the true described finding is widening, and identifying \"narrowing\" as false is the tested trap; the correct fact is mediastinal widening occurs, making a statement of narrowing the false one.",
             "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Final",
             "batchNames": [
@@ -12111,22 +12112,22 @@
             "text": "Best imaging modality for detecting air under the diaphragm:",
             "options": [
               "Supine abdominal x-ray",
-              "Expiratory erect chest x-ray",
               "Non-contrast CT",
+              "Expiratory erect chest x-ray",
               "Abdominal ultrasound"
             ],
             "originalOptions": [
               "Supine abdominal x-ray",
-              "Expiratory erect chest x-ray",
               "Non-contrast CT",
+              "Expiratory erect chest x-ray",
               "Abdominal ultrasound"
             ],
-            "correctAnswer": "B) Expiratory erect chest x-ray",
+            "correctAnswer": "C) Expiratory erect chest x-ray",
             "correctAnswerText": "Expiratory erect chest x-ray",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
@@ -12146,22 +12147,22 @@
             "text": "Not true about achalasia?",
             "options": [
               "Mediastinal widening",
-              "Anterior displacement and bowing of the trachea is seen on the frontal view",
+              "Retro-tracheal air-fluid level",
               "Bird-beak deformity",
-              "Retro-tracheal air-fluid level"
+              "Anterior displacement and bowing of the trachea is seen on the frontal view"
             ],
             "originalOptions": [
               "Mediastinal widening",
-              "Anterior displacement and bowing of the trachea is seen on the frontal view",
+              "Retro-tracheal air-fluid level",
               "Bird-beak deformity",
-              "Retro-tracheal air-fluid level"
+              "Anterior displacement and bowing of the trachea is seen on the frontal view"
             ],
-            "correctAnswer": "B) Anterior displacement and bowing of the trachea is seen on the frontal view",
+            "correctAnswer": "D) Anterior displacement and bowing of the trachea is seen on the frontal view",
             "correctAnswerText": "Anterior displacement and bowing of the trachea is seen on the frontal view",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "Anterior tracheal displacement/bowing from the dilated esophagus is a lateral-view finding, not a frontal-view finding, making this statement false.",
             "batchName": "Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group D) / Aorta Final",
             "batchNames": [
@@ -12182,23 +12183,23 @@
             "number": "22",
             "text": "What is incorrect about diverticulitis?",
             "options": [
-              "Typically occurs after age 40",
               "Is commonly seen in the ileum",
+              "Typically occurs after age 40",
               "There will be fat stranding",
               "Segmental colonic wall thickening is seen"
             ],
             "originalOptions": [
-              "Typically occurs after age 40",
               "Is commonly seen in the ileum",
+              "Typically occurs after age 40",
               "There will be fat stranding",
               "Segmental colonic wall thickening is seen"
             ],
-            "correctAnswer": "B) Is commonly seen in the ileum",
+            "correctAnswer": "A) Is commonly seen in the ileum",
             "correctAnswerText": "Is commonly seen in the ileum",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "Diverticulitis characteristically affects the sigmoid colon, not the ileum, which is where small-bowel diverticula (much rarer) would occur.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
@@ -12218,22 +12219,22 @@
             "text": "One of these is not a sign in bowel ischemia?",
             "options": [
               "Portal venous gas",
-              "Thumbprinting sign",
+              "Bird-beak deformity",
               "Thickened bowel wall",
-              "Bird-beak deformity"
+              "Thumbprinting sign"
             ],
             "originalOptions": [
               "Portal venous gas",
-              "Thumbprinting sign",
+              "Bird-beak deformity",
               "Thickened bowel wall",
-              "Bird-beak deformity"
+              "Thumbprinting sign"
             ],
-            "correctAnswer": "D) Bird-beak deformity",
+            "correctAnswer": "B) Bird-beak deformity",
             "correctAnswerText": "Bird-beak deformity",
-            "correctIndex": 3,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "B",
             "explanation": "The bird-beak deformity is the classic sign of achalasia at the gastroesophageal junction, not a recognized sign of bowel ischemia, unlike portal venous gas, thumbprinting, and wall thickening.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
@@ -12253,22 +12254,22 @@
             "text": "What of these statements is wrong about cecal volvulus?",
             "options": [
               "Torsion of the cecum around its mesentery",
-              "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
               "If unrecognized, it can result in bowel perforation and fecal peritonitis",
+              "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
               "It typically shows a single air-fluid level"
             ],
             "originalOptions": [
               "Torsion of the cecum around its mesentery",
-              "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
               "If unrecognized, it can result in bowel perforation and fecal peritonitis",
+              "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
               "It typically shows a single air-fluid level"
             ],
-            "correctAnswer": "B) The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
+            "correctAnswer": "C) The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
             "correctAnswerText": "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The opposite is true — the haustral pattern is generally maintained in cecal volvulus, whereas it is lost (ahaustral) in sigmoid volvulus.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
@@ -12322,23 +12323,23 @@
             "number": "26",
             "text": "Which of the following statements about radiologic imaging is incorrect?",
             "options": [
-              "Single contrast enema uses only barium without air",
-              "Ultrasound is effective for evaluating the biliary and urinary systems",
               "Female ovarian assessment requires an empty urinary bladder",
+              "Ultrasound is effective for evaluating the biliary and urinary systems",
+              "Single contrast enema uses only barium without air",
               "Free intraperitoneal air can be seen under the diaphragm on an erect chest X-ray"
             ],
             "originalOptions": [
-              "Single contrast enema uses only barium without air",
-              "Ultrasound is effective for evaluating the biliary and urinary systems",
               "Female ovarian assessment requires an empty urinary bladder",
+              "Ultrasound is effective for evaluating the biliary and urinary systems",
+              "Single contrast enema uses only barium without air",
               "Free intraperitoneal air can be seen under the diaphragm on an erect chest X-ray"
             ],
-            "correctAnswer": "C) Female ovarian assessment requires an empty urinary bladder",
+            "correctAnswer": "A) Female ovarian assessment requires an empty urinary bladder",
             "correctAnswerText": "Female ovarian assessment requires an empty urinary bladder",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "Transabdominal pelvic/ovarian ultrasound requires a FULL bladder as an acoustic window, not an empty one; the other statements are correct.",
             "batchName": "Iris Mini-OSCE (Group A) / Endorphin Final",
             "batchNames": [
@@ -12358,25 +12359,25 @@
             "number": "27",
             "text": "All are signs of pneumoperitoneum except:",
             "options": [
-              "Rigler (double-wall) sign",
-              "Football sign",
               "Single-wall sign",
+              "Football sign",
+              "Rigler (double-wall) sign",
               "Falciform ligament sign",
               "Continuous diaphragm sign"
             ],
             "originalOptions": [
-              "Rigler (double-wall) sign",
-              "Football sign",
               "Single-wall sign",
+              "Football sign",
+              "Rigler (double-wall) sign",
               "Falciform ligament sign",
               "Continuous diaphragm sign"
             ],
-            "correctAnswer": "C) Single-wall sign",
+            "correctAnswer": "A) Single-wall sign",
             "correctAnswerText": "Single-wall sign",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "There is no recognized \"single-wall sign\" for pneumoperitoneum — the real analogous sign is the double-wall (Rigler) sign, where gas outlines both sides of the bowel wall.",
             "batchName": "Iris Mini-OSCE (Group A)",
             "batchNames": [
@@ -12396,22 +12397,22 @@
             "text": "Gallbladder stones may be seen on ultrasound as:",
             "options": [
               "Isoechoic mass without shadowing",
-              "Hypoechoic foci with posterior enhancement",
+              "Hyperechoic foci with posterior acoustic shadowing",
               "Anechoic structures without shadowing",
-              "Hyperechoic foci with posterior acoustic shadowing"
+              "Hypoechoic foci with posterior enhancement"
             ],
             "originalOptions": [
               "Isoechoic mass without shadowing",
-              "Hypoechoic foci with posterior enhancement",
+              "Hyperechoic foci with posterior acoustic shadowing",
               "Anechoic structures without shadowing",
-              "Hyperechoic foci with posterior acoustic shadowing"
+              "Hypoechoic foci with posterior enhancement"
             ],
-            "correctAnswer": "D) Hyperechoic foci with posterior acoustic shadowing",
+            "correctAnswer": "B) Hyperechoic foci with posterior acoustic shadowing",
             "correctAnswerText": "Hyperechoic foci with posterior acoustic shadowing",
-            "correctIndex": 3,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "B",
             "explanation": "Gallstones reflect sound strongly (hyperechoic) and block further transmission, producing a characteristic posterior acoustic shadow.",
             "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
@@ -12431,22 +12432,22 @@
             "text": "Which is the most important imaging criterion for pyloric stenosis?",
             "options": [
               "Pyloric canal length > 17 mm",
-              "Single pyloric muscle wall thickness > 3 mm",
               "Pyloric transverse diameter > 20 mm",
+              "Single pyloric muscle wall thickness > 3 mm",
               "Gastric distension"
             ],
             "originalOptions": [
               "Pyloric canal length > 17 mm",
-              "Single pyloric muscle wall thickness > 3 mm",
               "Pyloric transverse diameter > 20 mm",
+              "Single pyloric muscle wall thickness > 3 mm",
               "Gastric distension"
             ],
-            "correctAnswer": "B) Single pyloric muscle wall thickness > 3 mm",
+            "correctAnswer": "C) Single pyloric muscle wall thickness > 3 mm",
             "correctAnswerText": "Single pyloric muscle wall thickness > 3 mm",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "A single muscular wall thickness greater than 3 mm on transverse ultrasound is the most accurate criterion for hypertrophic pyloric stenosis.",
             "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
@@ -12503,26 +12504,206 @@
               "Celiac trunk",
               "Superior mesenteric artery",
               "Renal artery",
-              "Splenic artery",
-              "Inferior mesenteric artery"
+              "Inferior mesenteric artery",
+              "Splenic artery"
             ],
             "originalOptions": [
               "Celiac trunk",
               "Superior mesenteric artery",
               "Renal artery",
-              "Splenic artery",
-              "Inferior mesenteric artery"
+              "Inferior mesenteric artery",
+              "Splenic artery"
             ],
-            "correctAnswer": "D) Splenic artery",
+            "correctAnswer": "E) Splenic artery",
             "correctAnswerText": "Splenic artery",
-            "correctIndex": 3,
+            "correctIndex": 4,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "E",
             "explanation": "The splenic artery is a branch of the celiac trunk, not a direct branch of the abdominal aorta itself.",
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
               "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__32__mgheow",
+            "number": "32",
+            "text": "What is the most likely diagnosis? [img: Radiologyaappendicitisus.jpg ]",
+            "options": [
+              "Acute appendicitis",
+              "Mesenteric adenitis",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "originalOptions": [
+              "Acute appendicitis",
+              "Mesenteric adenitis",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "correctAnswer": "A) Acute appendicitis",
+            "correctAnswerText": "Acute appendicitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The imaging (Ultrasound) shows a dilated, non-compressible appendix with periappendiceal fluid/fat stranding ± appendicolith, the classic combination for acute appendicitis.",
+            "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__33__g5sv8n",
+            "number": "33",
+            "text": "What is the most likely diagnosis? [img: Radiologyaleftrenalstone.png ]",
+            "options": [
+              "Phlebolith",
+              "Left renal stone",
+              "Calcified lymph node",
+              "Gallstone"
+            ],
+            "originalOptions": [
+              "Phlebolith",
+              "Left renal stone",
+              "Calcified lymph node",
+              "Gallstone"
+            ],
+            "correctAnswer": "B) Left renal stone",
+            "correctAnswerText": "Left renal stone",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "A well-defined, rounded radiopaque calcification overlying the renal shadow on KUB is most consistent with a renal calculus rather than a pelvic phlebolith or lymph node calcification.",
+            "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__34__2n2605",
+            "number": "34",
+            "text": "What is the most likely diagnosis? [img: Radiologyaureterstone.png ]",
+            "options": [
+              "Appendicolith",
+              "Phlebolith",
+              "Ureteric stone",
+              "Renal stone"
+            ],
+            "originalOptions": [
+              "Appendicolith",
+              "Phlebolith",
+              "Ureteric stone",
+              "Renal stone"
+            ],
+            "correctAnswer": "C) Ureteric stone",
+            "correctAnswerText": "Ureteric stone",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The calcification lies along the expected course of the ureter (from renal pelvis to bladder), distinguishing it from a phlebolith, which sits in the pelvis away from this line.",
+            "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__35__bsl6sv",
+            "number": "35",
+            "text": "Which imaging modality and plane is shown in this image? [img: Radiologyacoronalctabdomen.png ]",
+            "options": [
+              "Axial CT abdomen",
+              "Coronal CT abdomen with contrast",
+              "Sagittal MRI abdomen",
+              "Coronal ultrasound"
+            ],
+            "originalOptions": [
+              "Axial CT abdomen",
+              "Coronal CT abdomen with contrast",
+              "Sagittal MRI abdomen",
+              "Coronal ultrasound"
+            ],
+            "correctAnswer": "B) Coronal CT abdomen with contrast",
+            "correctAnswerText": "Coronal CT abdomen with contrast",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The image demonstrates the liver, kidneys, and spine in a coronal (frontal) cross-sectional plane typical of coronal reformatted contrast-enhanced CT.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__36__tsa7jr",
+            "number": "36",
+            "text": "What is the most likely diagnosis? [img: Radiologyamidgutvolvulus.png ]",
+            "options": [
+              "Intussusception",
+              "Cecal volvulus",
+              "Sigmoid volvulus",
+              "Midgut volvulus"
+            ],
+            "originalOptions": [
+              "Intussusception",
+              "Cecal volvulus",
+              "Sigmoid volvulus",
+              "Midgut volvulus"
+            ],
+            "correctAnswer": "D) Midgut volvulus",
+            "correctAnswerText": "Midgut volvulus",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The CT shows the classic whirlpool sign of the superior mesenteric vessels and mesentery twisting around each other, diagnostic of midgut volvulus (from malrotation).",
+            "batchName": "Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+            "batchNames": [
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -13098,22 +13279,22 @@
             "text": "What is the most likely diagnosis? [img: Radiologyaportalvenousgas.png ]",
             "options": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
             "originalOptions": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
-            "correctAnswer": "B) Portal venous gas",
+            "correctAnswer": "C) Portal venous gas",
             "correctAnswerText": "Portal venous gas",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
             "batchName": "Aorta Final",
             "batchNames": [
@@ -13133,33 +13314,34 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__12__dg4ccn",
+            "id": "radiology__lecture__abdominal-radiology__12__vhm7pb",
             "number": "12",
-            "text": "What is the diagnosis? [img: Radiologylefthydronephrosis.png ]",
+            "text": "What is the diagnosis? [img: Radiologyahydronephrosis.png ]",
             "options": [
-              "Left hydronephrosis",
+              "Renal cyst",
               "Renal stone",
               "Hydroureter",
-              "Renal cyst"
+              "Hydronephrosis"
             ],
             "originalOptions": [
-              "Left hydronephrosis",
+              "Renal cyst",
               "Renal stone",
               "Hydroureter",
-              "Renal cyst"
+              "Hydronephrosis"
             ],
-            "correctAnswer": "A) Left hydronephrosis",
-            "correctAnswerText": "Left hydronephrosis",
-            "correctIndex": 0,
+            "correctAnswer": "D) Hydronephrosis",
+            "correctAnswerText": "Hydronephrosis",
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "D",
             "explanation": "The coronal CT shows dilatation of the left renal collecting system (pelvicalyceal dilation) without a discrete simple fluid collection, consistent with hydronephrosis rather than an isolated stone or cyst.",
             "batchName": "Aorta Final",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
               "Aorta Final",
-              "Vagus Mini-OSCE (Group D)"
+              "Vagus Mini-OSCE (Group D)",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -13176,28 +13358,66 @@
             "text": "Not true about achalasia?",
             "options": [
               "Mediastinal widening",
-              "Anterior displacement and bowing of the trachea is seen on the frontal view",
+              "Retro-tracheal air-fluid level",
               "Bird-beak deformity",
-              "Retro-tracheal air-fluid level"
+              "Anterior displacement and bowing of the trachea is seen on the frontal view"
             ],
             "originalOptions": [
               "Mediastinal widening",
-              "Anterior displacement and bowing of the trachea is seen on the frontal view",
+              "Retro-tracheal air-fluid level",
               "Bird-beak deformity",
-              "Retro-tracheal air-fluid level"
+              "Anterior displacement and bowing of the trachea is seen on the frontal view"
             ],
-            "correctAnswer": "B) Anterior displacement and bowing of the trachea is seen on the frontal view",
+            "correctAnswer": "D) Anterior displacement and bowing of the trachea is seen on the frontal view",
             "correctAnswerText": "Anterior displacement and bowing of the trachea is seen on the frontal view",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "Anterior tracheal displacement/bowing from the dilated esophagus is a lateral-view finding, not a frontal-view finding, making this statement false.",
             "batchName": "Aorta Final",
             "batchNames": [
               "Iris Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group D)",
               "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__36__tsa7jr",
+            "number": "36",
+            "text": "What is the most likely diagnosis? [img: Radiologyamidgutvolvulus.png ]",
+            "options": [
+              "Intussusception",
+              "Cecal volvulus",
+              "Sigmoid volvulus",
+              "Midgut volvulus"
+            ],
+            "originalOptions": [
+              "Intussusception",
+              "Cecal volvulus",
+              "Sigmoid volvulus",
+              "Midgut volvulus"
+            ],
+            "correctAnswer": "D) Midgut volvulus",
+            "correctAnswerText": "Midgut volvulus",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The CT shows the classic whirlpool sign of the superior mesenteric vessels and mesentery twisting around each other, diagnostic of midgut volvulus (from malrotation).",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -13221,23 +13441,23 @@
             "number": "1",
             "text": "What is the most likely diagnosis? [img: Radiologyapancreatitis.png ]",
             "options": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
             "originalOptions": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
-            "correctAnswer": "C) Acute pancreatitis",
+            "correctAnswer": "A) Acute pancreatitis",
             "correctAnswerText": "Acute pancreatitis",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
@@ -13300,22 +13520,22 @@
             "text": "What is the diagnosis? [img: Radiologyasigmoidvolvulus.png ]",
             "options": [
               "Cecal volvulus",
-              "Sigmoid volvulus",
               "Small bowel obstruction",
+              "Sigmoid volvulus",
               "Large bowel obstruction (non-volvulus)"
             ],
             "originalOptions": [
               "Cecal volvulus",
-              "Sigmoid volvulus",
               "Small bowel obstruction",
+              "Sigmoid volvulus",
               "Large bowel obstruction (non-volvulus)"
             ],
-            "correctAnswer": "B) Sigmoid volvulus",
+            "correctAnswer": "C) Sigmoid volvulus",
             "correctAnswerText": "Sigmoid volvulus",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The fluoroscopic/contrast image shows the classic bird's-beak tapering at the point of torsion of a massively dilated sigmoid loop, diagnostic of sigmoid volvulus rather than a generic obstruction.",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
@@ -13338,22 +13558,22 @@
             "text": "What is the diagnosis? [img: Radiologyapneumobilia.png ]",
             "options": [
               "Portal venous gas",
-              "Pneumobilia",
+              "Emphysematous cholecystitis",
               "Pneumoperitoneum",
-              "Emphysematous cholecystitis"
+              "Pneumobilia"
             ],
             "originalOptions": [
               "Portal venous gas",
-              "Pneumobilia",
+              "Emphysematous cholecystitis",
               "Pneumoperitoneum",
-              "Emphysematous cholecystitis"
+              "Pneumobilia"
             ],
-            "correctAnswer": "B) Pneumobilia",
+            "correctAnswer": "D) Pneumobilia",
             "correctAnswerText": "Pneumobilia",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "The gas is centrally located within the biliary tree near the porta hepatis; portal venous gas classically extends to within 2 cm of the liver capsule (peripheral), which distinguishes it from pneumobilia.",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
@@ -13376,23 +13596,23 @@
             "number": "5",
             "text": "What is the name of this radiological sign? [img: Radiologyafootballsign.png ]",
             "options": [
-              "Rigler (double-wall) sign",
               "Football sign",
+              "Rigler (double-wall) sign",
               "Continuous diaphragm sign",
               "Falciform ligament sign"
             ],
             "originalOptions": [
-              "Rigler (double-wall) sign",
               "Football sign",
+              "Rigler (double-wall) sign",
               "Continuous diaphragm sign",
               "Falciform ligament sign"
             ],
-            "correctAnswer": "B) Football sign",
+            "correctAnswer": "A) Football sign",
             "correctAnswerText": "Football sign",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "A massive pneumoperitoneum outlines the entire abdominal cavity in an oval, football-like shape on a supine film, which is the football sign (seen especially in neonates/infants).",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
@@ -13604,23 +13824,23 @@
             "number": "7",
             "text": "Which statement regarding intussusception is incorrect?",
             "options": [
-              "The majority occur after 3 week of birth",
-              "Target sign on ultrasound",
               "The prolapsed part is the intussusceptum and the receiving segment the intussuscipiens",
+              "Target sign on ultrasound",
+              "The majority occur after 3 week of birth",
               "Invagination of one part of intestine into an adjacent/distal bowel segment"
             ],
             "originalOptions": [
-              "The majority occur after 3 week of birth",
-              "Target sign on ultrasound",
               "The prolapsed part is the intussusceptum and the receiving segment the intussuscipiens",
+              "Target sign on ultrasound",
+              "The majority occur after 3 week of birth",
               "Invagination of one part of intestine into an adjacent/distal bowel segment"
             ],
-            "correctAnswer": "A) The majority occur after 3 week of birth",
+            "correctAnswer": "C) The majority occur after 3 week of birth",
             "correctAnswerText": "The majority occur after 3 week of birth",
-            "correctIndex": 0,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "C",
             "explanation": "Intussusception classically occurs after the first three months of life (usually 3 months–2 years), not simply \"after 3 week of birth,\" making this the incorrect statement; the other options correctly describe its mechanism and ultrasound appearance.",
             "batchName": "Coronary Mini-OSCE (Group C)",
             "batchNames": [
@@ -13686,23 +13906,23 @@
             "number": "1",
             "text": "What is the most likely diagnosis? [img: Radiologyapancreatitis.png ]",
             "options": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
             "originalOptions": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
-            "correctAnswer": "C) Acute pancreatitis",
+            "correctAnswer": "A) Acute pancreatitis",
             "correctAnswerText": "Acute pancreatitis",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.",
             "batchName": "Endorphin Final",
             "batchNames": [
@@ -13729,22 +13949,22 @@
               "Bird-beak appearance at the gastroesophageal junction",
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
-              "Mediastinal widening",
-              "Dilated esophagus"
+              "Dilated esophagus",
+              "Mediastinal widening"
             ],
             "originalOptions": [
               "Bird-beak appearance at the gastroesophageal junction",
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
-              "Mediastinal widening",
-              "Dilated esophagus"
+              "Dilated esophagus",
+              "Mediastinal widening"
             ],
-            "correctAnswer": "D) Mediastinal widening",
+            "correctAnswer": "E) Mediastinal widening",
             "correctAnswerText": "Mediastinal widening",
-            "correctIndex": 3,
+            "correctIndex": 4,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "E",
             "explanation": "Achalasia causes mediastinal widening (not narrowing) from the dilated, fluid-filled esophagus, so calling it \"mediastinal narrowing\" as a listed feature is incorrect — but among the options here, the true described finding is widening, and identifying \"narrowing\" as false is the tested trap; the correct fact is mediastinal widening occurs, making a statement of narrowing the false one.",
             "batchName": "Endorphin Final",
             "batchNames": [
@@ -13765,23 +13985,23 @@
             "number": "26",
             "text": "Which of the following statements about radiologic imaging is incorrect?",
             "options": [
-              "Single contrast enema uses only barium without air",
-              "Ultrasound is effective for evaluating the biliary and urinary systems",
               "Female ovarian assessment requires an empty urinary bladder",
+              "Ultrasound is effective for evaluating the biliary and urinary systems",
+              "Single contrast enema uses only barium without air",
               "Free intraperitoneal air can be seen under the diaphragm on an erect chest X-ray"
             ],
             "originalOptions": [
-              "Single contrast enema uses only barium without air",
-              "Ultrasound is effective for evaluating the biliary and urinary systems",
               "Female ovarian assessment requires an empty urinary bladder",
+              "Ultrasound is effective for evaluating the biliary and urinary systems",
+              "Single contrast enema uses only barium without air",
               "Free intraperitoneal air can be seen under the diaphragm on an erect chest X-ray"
             ],
-            "correctAnswer": "C) Female ovarian assessment requires an empty urinary bladder",
+            "correctAnswer": "A) Female ovarian assessment requires an empty urinary bladder",
             "correctAnswerText": "Female ovarian assessment requires an empty urinary bladder",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "Transabdominal pelvic/ovarian ultrasound requires a FULL bladder as an acoustic window, not an empty one; the other statements are correct.",
             "batchName": "Endorphin Final",
             "batchNames": [
@@ -13852,22 +14072,22 @@
             "text": "What is the diagnosis? [img: Radiologyadiverticulitis.png ]",
             "options": [
               "Pancreatitis",
-              "Diverticulitis",
+              "Appendicitis",
               "Cholecystitis",
-              "Appendicitis"
+              "Diverticulitis"
             ],
             "originalOptions": [
               "Pancreatitis",
-              "Diverticulitis",
+              "Appendicitis",
               "Cholecystitis",
-              "Appendicitis"
+              "Diverticulitis"
             ],
-            "correctAnswer": "B) Diverticulitis",
+            "correctAnswer": "D) Diverticulitis",
             "correctAnswerText": "Diverticulitis",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
@@ -13888,23 +14108,23 @@
             "number": "9",
             "text": "All of the following is true except:",
             "options": [
-              "In Midgut volvulus → whirlpool sign",
               "In cecal volvulus → colonic haustral pattern is lost",
+              "In Midgut volvulus → whirlpool sign",
               "In sigmoid volvulus → coffee bean sign",
               "Volvulus is twisting of the intestine around its mesentery"
             ],
             "originalOptions": [
-              "In Midgut volvulus → whirlpool sign",
               "In cecal volvulus → colonic haustral pattern is lost",
+              "In Midgut volvulus → whirlpool sign",
               "In sigmoid volvulus → coffee bean sign",
               "Volvulus is twisting of the intestine around its mesentery"
             ],
-            "correctAnswer": "B) In cecal volvulus → colonic haustral pattern is lost",
+            "correctAnswer": "A) In cecal volvulus → colonic haustral pattern is lost",
             "correctAnswerText": "In cecal volvulus → colonic haustral pattern is lost",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "In cecal volvulus the colonic haustral pattern is typically maintained (unlike sigmoid volvulus, where it is generally lost/ahaustral), so this statement is false.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
@@ -13927,23 +14147,23 @@
             "number": "10",
             "text": "Most likely diagnosis? [img: Radiologyacolorectalcancer.png ]",
             "options": [
-              "Colorectal cancer",
               "Intussusception",
+              "Colorectal cancer",
               "Volvulus",
               "Bowel ischemia"
             ],
             "originalOptions": [
-              "Colorectal cancer",
               "Intussusception",
+              "Colorectal cancer",
               "Volvulus",
               "Bowel ischemia"
             ],
-            "correctAnswer": "A) Colorectal cancer",
+            "correctAnswer": "B) Colorectal cancer",
             "correctAnswerText": "Colorectal cancer",
-            "correctIndex": 0,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "B",
             "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
@@ -13966,22 +14186,22 @@
             "text": "What is the most likely diagnosis? [img: Radiologyaportalvenousgas.png ]",
             "options": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
             "originalOptions": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
-            "correctAnswer": "B) Portal venous gas",
+            "correctAnswer": "C) Portal venous gas",
             "correctAnswerText": "Portal venous gas",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
@@ -14001,33 +14221,34 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__12__dg4ccn",
+            "id": "radiology__lecture__abdominal-radiology__12__vhm7pb",
             "number": "12",
-            "text": "What is the diagnosis? [img: Radiologylefthydronephrosis.png ]",
+            "text": "What is the diagnosis? [img: Radiologyahydronephrosis.png ]",
             "options": [
-              "Left hydronephrosis",
+              "Renal cyst",
               "Renal stone",
               "Hydroureter",
-              "Renal cyst"
+              "Hydronephrosis"
             ],
             "originalOptions": [
-              "Left hydronephrosis",
+              "Renal cyst",
               "Renal stone",
               "Hydroureter",
-              "Renal cyst"
+              "Hydronephrosis"
             ],
-            "correctAnswer": "A) Left hydronephrosis",
-            "correctAnswerText": "Left hydronephrosis",
-            "correctIndex": 0,
+            "correctAnswer": "D) Hydronephrosis",
+            "correctAnswerText": "Hydronephrosis",
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "D",
             "explanation": "The coronal CT shows dilatation of the left renal collecting system (pelvicalyceal dilation) without a discrete simple fluid collection, consistent with hydronephrosis rather than an isolated stone or cyst.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
               "Aorta Final",
-              "Vagus Mini-OSCE (Group D)"
+              "Vagus Mini-OSCE (Group D)",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -14168,23 +14389,23 @@
             "number": "1",
             "text": "What is the most likely diagnosis? [img: Radiologyapancreatitis.png ]",
             "options": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
             "originalOptions": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
-            "correctAnswer": "C) Acute pancreatitis",
+            "correctAnswer": "A) Acute pancreatitis",
             "correctAnswerText": "Acute pancreatitis",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
@@ -14209,22 +14430,22 @@
             "text": "What is the diagnosis? [img: Radiologyapneumobilia.png ]",
             "options": [
               "Portal venous gas",
-              "Pneumobilia",
+              "Emphysematous cholecystitis",
               "Pneumoperitoneum",
-              "Emphysematous cholecystitis"
+              "Pneumobilia"
             ],
             "originalOptions": [
               "Portal venous gas",
-              "Pneumobilia",
+              "Emphysematous cholecystitis",
               "Pneumoperitoneum",
-              "Emphysematous cholecystitis"
+              "Pneumobilia"
             ],
-            "correctAnswer": "B) Pneumobilia",
+            "correctAnswer": "D) Pneumobilia",
             "correctAnswerText": "Pneumobilia",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "The gas is centrally located within the biliary tree near the porta hepatis; portal venous gas classically extends to within 2 cm of the liver capsule (peripheral), which distinguishes it from pneumobilia.",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
@@ -14287,23 +14508,23 @@
             "number": "9",
             "text": "All of the following is true except:",
             "options": [
-              "In Midgut volvulus → whirlpool sign",
               "In cecal volvulus → colonic haustral pattern is lost",
+              "In Midgut volvulus → whirlpool sign",
               "In sigmoid volvulus → coffee bean sign",
               "Volvulus is twisting of the intestine around its mesentery"
             ],
             "originalOptions": [
-              "In Midgut volvulus → whirlpool sign",
               "In cecal volvulus → colonic haustral pattern is lost",
+              "In Midgut volvulus → whirlpool sign",
               "In sigmoid volvulus → coffee bean sign",
               "Volvulus is twisting of the intestine around its mesentery"
             ],
-            "correctAnswer": "B) In cecal volvulus → colonic haustral pattern is lost",
+            "correctAnswer": "A) In cecal volvulus → colonic haustral pattern is lost",
             "correctAnswerText": "In cecal volvulus → colonic haustral pattern is lost",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "In cecal volvulus the colonic haustral pattern is typically maintained (unlike sigmoid volvulus, where it is generally lost/ahaustral), so this statement is false.",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
@@ -14326,23 +14547,23 @@
             "number": "13",
             "text": "All of the following signs can be seen in bowel obstruction except:",
             "options": [
-              "Coffee bean sign",
-              "Whirlpool sign",
               "Bird-beak sign",
+              "Whirlpool sign",
+              "Coffee bean sign",
               "Multiple air-fluid levels"
             ],
             "originalOptions": [
-              "Coffee bean sign",
-              "Whirlpool sign",
               "Bird-beak sign",
+              "Whirlpool sign",
+              "Coffee bean sign",
               "Multiple air-fluid levels"
             ],
-            "correctAnswer": "C) Bird-beak sign",
+            "correctAnswer": "A) Bird-beak sign",
             "correctAnswerText": "Bird-beak sign",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "The bird-beak sign is the classic finding of achalasia at the gastroesophageal junction, not a sign of bowel obstruction, unlike the coffee bean (sigmoid volvulus) and whirlpool (midgut volvulus) signs.",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
@@ -14364,22 +14585,22 @@
             "text": "Which of the following is not a typical radiologic feature of appendicitis?",
             "options": [
               "Dilated appendiceal diameter",
+              "Thin appendiceal wall",
               "Periappendiceal fat stranding",
-              "Thin appendix wall thickness",
               "Distended appendiceal lumen"
             ],
             "originalOptions": [
               "Dilated appendiceal diameter",
+              "Thin appendiceal wall",
               "Periappendiceal fat stranding",
-              "Thin appendix wall thickness",
               "Distended appendiceal lumen"
             ],
-            "correctAnswer": "C) Thin appendix wall thickness",
-            "correctAnswerText": "Thin appendix wall thickness",
-            "correctIndex": 2,
+            "correctAnswer": "B) Thin appendiceal wall",
+            "correctAnswerText": "Thin appendiceal wall",
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "B",
             "explanation": "In acute appendicitis the appendiceal wall is thickened and enhancing, not normal/thin; a normal wall thickness argues against the diagnosis.",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
@@ -14400,23 +14621,23 @@
             "number": "15",
             "text": "All of the following can be seen in intestinal ischemia except:",
             "options": [
-              "Pneumobilia",
-              "Portal vein thrombosis",
               "Thickened wall loops",
+              "Portal vein thrombosis",
+              "Pneumobilia",
               "Surrounding fatty stranding"
             ],
             "originalOptions": [
-              "Pneumobilia",
-              "Portal vein thrombosis",
               "Thickened wall loops",
+              "Portal vein thrombosis",
+              "Pneumobilia",
               "Surrounding fatty stranding"
             ],
-            "correctAnswer": "A) Pneumobilia",
+            "correctAnswer": "C) Pneumobilia",
             "correctAnswerText": "Pneumobilia",
-            "correctIndex": 0,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "C",
             "explanation": "Pneumobilia reflects biliary tree gas (usually from a prior sphincterotomy or biliary-enteric fistula), not a feature of bowel ischemia; ischemia is instead associated with portal venous gas, bowel wall thickening, and mesenteric fat stranding.",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
@@ -14662,23 +14883,23 @@
             "number": "9",
             "text": "All of the following is true except:",
             "options": [
-              "In Midgut volvulus → whirlpool sign",
               "In cecal volvulus → colonic haustral pattern is lost",
+              "In Midgut volvulus → whirlpool sign",
               "In sigmoid volvulus → coffee bean sign",
               "Volvulus is twisting of the intestine around its mesentery"
             ],
             "originalOptions": [
-              "In Midgut volvulus → whirlpool sign",
               "In cecal volvulus → colonic haustral pattern is lost",
+              "In Midgut volvulus → whirlpool sign",
               "In sigmoid volvulus → coffee bean sign",
               "Volvulus is twisting of the intestine around its mesentery"
             ],
-            "correctAnswer": "B) In cecal volvulus → colonic haustral pattern is lost",
+            "correctAnswer": "A) In cecal volvulus → colonic haustral pattern is lost",
             "correctAnswerText": "In cecal volvulus → colonic haustral pattern is lost",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "In cecal volvulus the colonic haustral pattern is typically maintained (unlike sigmoid volvulus, where it is generally lost/ahaustral), so this statement is false.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
@@ -14701,23 +14922,23 @@
             "number": "10",
             "text": "Most likely diagnosis? [img: Radiologyacolorectalcancer.png ]",
             "options": [
-              "Colorectal cancer",
               "Intussusception",
+              "Colorectal cancer",
               "Volvulus",
               "Bowel ischemia"
             ],
             "originalOptions": [
-              "Colorectal cancer",
               "Intussusception",
+              "Colorectal cancer",
               "Volvulus",
               "Bowel ischemia"
             ],
-            "correctAnswer": "A) Colorectal cancer",
+            "correctAnswer": "B) Colorectal cancer",
             "correctAnswerText": "Colorectal cancer",
-            "correctIndex": 0,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "B",
             "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
@@ -14740,22 +14961,22 @@
             "text": "What is the most likely diagnosis? [img: Radiologyaportalvenousgas.png ]",
             "options": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
             "originalOptions": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
-            "correctAnswer": "B) Portal venous gas",
+            "correctAnswer": "C) Portal venous gas",
             "correctAnswerText": "Portal venous gas",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
@@ -14780,22 +15001,22 @@
             "text": "Which is not a typical finding in acute cholecystitis on ultrasound?",
             "options": [
               "Distended gallbladder",
-              "Thin gallbladder wall",
+              "Gallstones with acoustic shadowing",
               "Pericholecystic fluid",
-              "Gallstones with acoustic shadowing"
+              "Thin gallbladder wall"
             ],
             "originalOptions": [
               "Distended gallbladder",
-              "Thin gallbladder wall",
+              "Gallstones with acoustic shadowing",
               "Pericholecystic fluid",
-              "Gallstones with acoustic shadowing"
+              "Thin gallbladder wall"
             ],
-            "correctAnswer": "B) Thin gallbladder wall",
+            "correctAnswer": "D) Thin gallbladder wall",
             "correctAnswerText": "Thin gallbladder wall",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "Acute cholecystitis classically shows a thickened (>3 mm), edematous gallbladder wall; a thin, normal wall argues against the diagnosis.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
@@ -14857,22 +15078,22 @@
             "text": "Wrong about hiatal hernia?",
             "options": [
               "Rolling (paraesophageal) hernias carry a risk of gastric volvulus",
-              "Sliding type is the most common",
+              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
               "Sliding hernias are associated with gastroesophageal reflux",
-              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm"
+              "Sliding type is the most common"
             ],
             "originalOptions": [
               "Rolling (paraesophageal) hernias carry a risk of gastric volvulus",
-              "Sliding type is the most common",
+              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
               "Sliding hernias are associated with gastroesophageal reflux",
-              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm"
+              "Sliding type is the most common"
             ],
-            "correctAnswer": "D) Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
+            "correctAnswer": "B) Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
             "correctAnswerText": "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
-            "correctIndex": 3,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "B",
             "explanation": "Upward displacement of the gastroesophageal junction (>2 cm above the hiatus) defines a sliding hiatal hernia, not a paraesophageal one, in which the GEJ stays in normal position while the fundus herniates.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
@@ -14896,22 +15117,22 @@
               "Bird-beak appearance at the gastroesophageal junction",
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
-              "Mediastinal widening",
-              "Dilated esophagus"
+              "Dilated esophagus",
+              "Mediastinal widening"
             ],
             "originalOptions": [
               "Bird-beak appearance at the gastroesophageal junction",
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
-              "Mediastinal widening",
-              "Dilated esophagus"
+              "Dilated esophagus",
+              "Mediastinal widening"
             ],
-            "correctAnswer": "D) Mediastinal widening",
+            "correctAnswer": "E) Mediastinal widening",
             "correctAnswerText": "Mediastinal widening",
-            "correctIndex": 3,
+            "correctIndex": 4,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "E",
             "explanation": "Achalasia causes mediastinal widening (not narrowing) from the dilated, fluid-filled esophagus, so calling it \"mediastinal narrowing\" as a listed feature is incorrect — but among the options here, the true described finding is widening, and identifying \"narrowing\" as false is the tested trap; the correct fact is mediastinal widening occurs, making a statement of narrowing the false one.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
@@ -14933,22 +15154,22 @@
             "text": "Best imaging modality for detecting air under the diaphragm:",
             "options": [
               "Supine abdominal x-ray",
-              "Expiratory erect chest x-ray",
               "Non-contrast CT",
+              "Expiratory erect chest x-ray",
               "Abdominal ultrasound"
             ],
             "originalOptions": [
               "Supine abdominal x-ray",
-              "Expiratory erect chest x-ray",
               "Non-contrast CT",
+              "Expiratory erect chest x-ray",
               "Abdominal ultrasound"
             ],
-            "correctAnswer": "B) Expiratory erect chest x-ray",
+            "correctAnswer": "C) Expiratory erect chest x-ray",
             "correctAnswerText": "Expiratory erect chest x-ray",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
@@ -15049,23 +15270,23 @@
             "number": "9",
             "text": "All of the following is true except:",
             "options": [
-              "In Midgut volvulus → whirlpool sign",
               "In cecal volvulus → colonic haustral pattern is lost",
+              "In Midgut volvulus → whirlpool sign",
               "In sigmoid volvulus → coffee bean sign",
               "Volvulus is twisting of the intestine around its mesentery"
             ],
             "originalOptions": [
-              "In Midgut volvulus → whirlpool sign",
               "In cecal volvulus → colonic haustral pattern is lost",
+              "In Midgut volvulus → whirlpool sign",
               "In sigmoid volvulus → coffee bean sign",
               "Volvulus is twisting of the intestine around its mesentery"
             ],
-            "correctAnswer": "B) In cecal volvulus → colonic haustral pattern is lost",
+            "correctAnswer": "A) In cecal volvulus → colonic haustral pattern is lost",
             "correctAnswerText": "In cecal volvulus → colonic haustral pattern is lost",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "In cecal volvulus the colonic haustral pattern is typically maintained (unlike sigmoid volvulus, where it is generally lost/ahaustral), so this statement is false.",
             "batchName": "Endorphin Mini-OSCE (Group D)",
             "batchNames": [
@@ -15088,23 +15309,23 @@
             "number": "10",
             "text": "Most likely diagnosis? [img: Radiologyacolorectalcancer.png ]",
             "options": [
-              "Colorectal cancer",
               "Intussusception",
+              "Colorectal cancer",
               "Volvulus",
               "Bowel ischemia"
             ],
             "originalOptions": [
-              "Colorectal cancer",
               "Intussusception",
+              "Colorectal cancer",
               "Volvulus",
               "Bowel ischemia"
             ],
-            "correctAnswer": "A) Colorectal cancer",
+            "correctAnswer": "B) Colorectal cancer",
             "correctAnswerText": "Colorectal cancer",
-            "correctIndex": 0,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "B",
             "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
             "batchName": "Endorphin Mini-OSCE (Group D)",
             "batchNames": [
@@ -15127,22 +15348,22 @@
             "text": "What is the most likely diagnosis? [img: Radiologyaportalvenousgas.png ]",
             "options": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
             "originalOptions": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
-            "correctAnswer": "B) Portal venous gas",
+            "correctAnswer": "C) Portal venous gas",
             "correctAnswerText": "Portal venous gas",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
             "batchName": "Endorphin Mini-OSCE (Group D)",
             "batchNames": [
@@ -15167,22 +15388,22 @@
             "text": "Which is not a typical finding in acute cholecystitis on ultrasound?",
             "options": [
               "Distended gallbladder",
-              "Thin gallbladder wall",
+              "Gallstones with acoustic shadowing",
               "Pericholecystic fluid",
-              "Gallstones with acoustic shadowing"
+              "Thin gallbladder wall"
             ],
             "originalOptions": [
               "Distended gallbladder",
-              "Thin gallbladder wall",
+              "Gallstones with acoustic shadowing",
               "Pericholecystic fluid",
-              "Gallstones with acoustic shadowing"
+              "Thin gallbladder wall"
             ],
-            "correctAnswer": "B) Thin gallbladder wall",
+            "correctAnswer": "D) Thin gallbladder wall",
             "correctAnswerText": "Thin gallbladder wall",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "Acute cholecystitis classically shows a thickened (>3 mm), edematous gallbladder wall; a thin, normal wall argues against the diagnosis.",
             "batchName": "Endorphin Mini-OSCE (Group D)",
             "batchNames": [
@@ -15244,22 +15465,22 @@
             "text": "Wrong about hiatal hernia?",
             "options": [
               "Rolling (paraesophageal) hernias carry a risk of gastric volvulus",
-              "Sliding type is the most common",
+              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
               "Sliding hernias are associated with gastroesophageal reflux",
-              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm"
+              "Sliding type is the most common"
             ],
             "originalOptions": [
               "Rolling (paraesophageal) hernias carry a risk of gastric volvulus",
-              "Sliding type is the most common",
+              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
               "Sliding hernias are associated with gastroesophageal reflux",
-              "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm"
+              "Sliding type is the most common"
             ],
-            "correctAnswer": "D) Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
+            "correctAnswer": "B) Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
             "correctAnswerText": "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
-            "correctIndex": 3,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "B",
             "explanation": "Upward displacement of the gastroesophageal junction (>2 cm above the hiatus) defines a sliding hiatal hernia, not a paraesophageal one, in which the GEJ stays in normal position while the fundus herniates.",
             "batchName": "Endorphin Mini-OSCE (Group D)",
             "batchNames": [
@@ -15281,22 +15502,22 @@
             "text": "Not true about achalasia?",
             "options": [
               "Mediastinal widening",
-              "Anterior displacement and bowing of the trachea is seen on the frontal view",
+              "Retro-tracheal air-fluid level",
               "Bird-beak deformity",
-              "Retro-tracheal air-fluid level"
+              "Anterior displacement and bowing of the trachea is seen on the frontal view"
             ],
             "originalOptions": [
               "Mediastinal widening",
-              "Anterior displacement and bowing of the trachea is seen on the frontal view",
+              "Retro-tracheal air-fluid level",
               "Bird-beak deformity",
-              "Retro-tracheal air-fluid level"
+              "Anterior displacement and bowing of the trachea is seen on the frontal view"
             ],
-            "correctAnswer": "B) Anterior displacement and bowing of the trachea is seen on the frontal view",
+            "correctAnswer": "D) Anterior displacement and bowing of the trachea is seen on the frontal view",
             "correctAnswerText": "Anterior displacement and bowing of the trachea is seen on the frontal view",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "Anterior tracheal displacement/bowing from the dilated esophagus is a lateral-view finding, not a frontal-view finding, making this statement false.",
             "batchName": "Endorphin Mini-OSCE (Group D)",
             "batchNames": [
@@ -15436,23 +15657,23 @@
             "number": "1",
             "text": "What is the most likely diagnosis? [img: Radiologyapancreatitis.png ]",
             "options": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
             "originalOptions": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
-            "correctAnswer": "C) Acute pancreatitis",
+            "correctAnswer": "A) Acute pancreatitis",
             "correctAnswerText": "Acute pancreatitis",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
@@ -15477,22 +15698,22 @@
             "text": "What is the diagnosis? [img: Radiologyapneumobilia.png ]",
             "options": [
               "Portal venous gas",
-              "Pneumobilia",
+              "Emphysematous cholecystitis",
               "Pneumoperitoneum",
-              "Emphysematous cholecystitis"
+              "Pneumobilia"
             ],
             "originalOptions": [
               "Portal venous gas",
-              "Pneumobilia",
+              "Emphysematous cholecystitis",
               "Pneumoperitoneum",
-              "Emphysematous cholecystitis"
+              "Pneumobilia"
             ],
-            "correctAnswer": "B) Pneumobilia",
+            "correctAnswer": "D) Pneumobilia",
             "correctAnswerText": "Pneumobilia",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "The gas is centrally located within the biliary tree near the porta hepatis; portal venous gas classically extends to within 2 cm of the liver capsule (peripheral), which distinguishes it from pneumobilia.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
@@ -15516,22 +15737,22 @@
             "text": "Which of the following is not a typical radiologic feature of appendicitis?",
             "options": [
               "Dilated appendiceal diameter",
+              "Thin appendiceal wall",
               "Periappendiceal fat stranding",
-              "Thin appendix wall thickness",
               "Distended appendiceal lumen"
             ],
             "originalOptions": [
               "Dilated appendiceal diameter",
+              "Thin appendiceal wall",
               "Periappendiceal fat stranding",
-              "Thin appendix wall thickness",
               "Distended appendiceal lumen"
             ],
-            "correctAnswer": "C) Thin appendix wall thickness",
-            "correctAnswerText": "Thin appendix wall thickness",
-            "correctIndex": 2,
+            "correctAnswer": "B) Thin appendiceal wall",
+            "correctAnswerText": "Thin appendiceal wall",
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "B",
             "explanation": "In acute appendicitis the appendiceal wall is thickened and enhancing, not normal/thin; a normal wall thickness argues against the diagnosis.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
@@ -15552,23 +15773,23 @@
             "number": "22",
             "text": "What is incorrect about diverticulitis?",
             "options": [
-              "Typically occurs after age 40",
               "Is commonly seen in the ileum",
+              "Typically occurs after age 40",
               "There will be fat stranding",
               "Segmental colonic wall thickening is seen"
             ],
             "originalOptions": [
-              "Typically occurs after age 40",
               "Is commonly seen in the ileum",
+              "Typically occurs after age 40",
               "There will be fat stranding",
               "Segmental colonic wall thickening is seen"
             ],
-            "correctAnswer": "B) Is commonly seen in the ileum",
+            "correctAnswer": "A) Is commonly seen in the ileum",
             "correctAnswerText": "Is commonly seen in the ileum",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "Diverticulitis characteristically affects the sigmoid colon, not the ileum, which is where small-bowel diverticula (much rarer) would occur.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
@@ -15589,22 +15810,22 @@
             "text": "One of these is not a sign in bowel ischemia?",
             "options": [
               "Portal venous gas",
-              "Thumbprinting sign",
+              "Bird-beak deformity",
               "Thickened bowel wall",
-              "Bird-beak deformity"
+              "Thumbprinting sign"
             ],
             "originalOptions": [
               "Portal venous gas",
-              "Thumbprinting sign",
+              "Bird-beak deformity",
               "Thickened bowel wall",
-              "Bird-beak deformity"
+              "Thumbprinting sign"
             ],
-            "correctAnswer": "D) Bird-beak deformity",
+            "correctAnswer": "B) Bird-beak deformity",
             "correctAnswerText": "Bird-beak deformity",
-            "correctIndex": 3,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "B",
             "explanation": "The bird-beak deformity is the classic sign of achalasia at the gastroesophageal junction, not a recognized sign of bowel ischemia, unlike portal venous gas, thumbprinting, and wall thickening.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
@@ -15625,22 +15846,22 @@
             "text": "What of these statements is wrong about cecal volvulus?",
             "options": [
               "Torsion of the cecum around its mesentery",
-              "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
               "If unrecognized, it can result in bowel perforation and fecal peritonitis",
+              "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
               "It typically shows a single air-fluid level"
             ],
             "originalOptions": [
               "Torsion of the cecum around its mesentery",
-              "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
               "If unrecognized, it can result in bowel perforation and fecal peritonitis",
+              "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
               "It typically shows a single air-fluid level"
             ],
-            "correctAnswer": "B) The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
+            "correctAnswer": "C) The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
             "correctAnswerText": "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The opposite is true — the haustral pattern is generally maintained in cecal volvulus, whereas it is lost (ahaustral) in sigmoid volvulus.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
@@ -15894,22 +16115,22 @@
             "text": "Not true about achalasia?",
             "options": [
               "Mediastinal widening",
-              "Anterior displacement and bowing of the trachea is seen on the frontal view",
+              "Retro-tracheal air-fluid level",
               "Bird-beak deformity",
-              "Retro-tracheal air-fluid level"
+              "Anterior displacement and bowing of the trachea is seen on the frontal view"
             ],
             "originalOptions": [
               "Mediastinal widening",
-              "Anterior displacement and bowing of the trachea is seen on the frontal view",
+              "Retro-tracheal air-fluid level",
               "Bird-beak deformity",
-              "Retro-tracheal air-fluid level"
+              "Anterior displacement and bowing of the trachea is seen on the frontal view"
             ],
-            "correctAnswer": "B) Anterior displacement and bowing of the trachea is seen on the frontal view",
+            "correctAnswer": "D) Anterior displacement and bowing of the trachea is seen on the frontal view",
             "correctAnswerText": "Anterior displacement and bowing of the trachea is seen on the frontal view",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "Anterior tracheal displacement/bowing from the dilated esophagus is a lateral-view finding, not a frontal-view finding, making this statement false.",
             "batchName": "Iris Mini-OSCE (Group A)",
             "batchNames": [
@@ -15931,23 +16152,23 @@
             "number": "26",
             "text": "Which of the following statements about radiologic imaging is incorrect?",
             "options": [
-              "Single contrast enema uses only barium without air",
-              "Ultrasound is effective for evaluating the biliary and urinary systems",
               "Female ovarian assessment requires an empty urinary bladder",
+              "Ultrasound is effective for evaluating the biliary and urinary systems",
+              "Single contrast enema uses only barium without air",
               "Free intraperitoneal air can be seen under the diaphragm on an erect chest X-ray"
             ],
             "originalOptions": [
-              "Single contrast enema uses only barium without air",
-              "Ultrasound is effective for evaluating the biliary and urinary systems",
               "Female ovarian assessment requires an empty urinary bladder",
+              "Ultrasound is effective for evaluating the biliary and urinary systems",
+              "Single contrast enema uses only barium without air",
               "Free intraperitoneal air can be seen under the diaphragm on an erect chest X-ray"
             ],
-            "correctAnswer": "C) Female ovarian assessment requires an empty urinary bladder",
+            "correctAnswer": "A) Female ovarian assessment requires an empty urinary bladder",
             "correctAnswerText": "Female ovarian assessment requires an empty urinary bladder",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "Transabdominal pelvic/ovarian ultrasound requires a FULL bladder as an acoustic window, not an empty one; the other statements are correct.",
             "batchName": "Iris Mini-OSCE (Group A)",
             "batchNames": [
@@ -15968,25 +16189,25 @@
             "number": "27",
             "text": "All are signs of pneumoperitoneum except:",
             "options": [
-              "Rigler (double-wall) sign",
-              "Football sign",
               "Single-wall sign",
+              "Football sign",
+              "Rigler (double-wall) sign",
               "Falciform ligament sign",
               "Continuous diaphragm sign"
             ],
             "originalOptions": [
-              "Rigler (double-wall) sign",
-              "Football sign",
               "Single-wall sign",
+              "Football sign",
+              "Rigler (double-wall) sign",
               "Falciform ligament sign",
               "Continuous diaphragm sign"
             ],
-            "correctAnswer": "C) Single-wall sign",
+            "correctAnswer": "A) Single-wall sign",
             "correctAnswerText": "Single-wall sign",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "There is no recognized \"single-wall sign\" for pneumoperitoneum — the real analogous sign is the double-wall (Rigler) sign, where gas outlines both sides of the bowel wall.",
             "batchName": "Iris Mini-OSCE (Group A)",
             "batchNames": [
@@ -16014,23 +16235,23 @@
             "number": "5",
             "text": "What is the name of this radiological sign? [img: Radiologyafootballsign.png ]",
             "options": [
-              "Rigler (double-wall) sign",
               "Football sign",
+              "Rigler (double-wall) sign",
               "Continuous diaphragm sign",
               "Falciform ligament sign"
             ],
             "originalOptions": [
-              "Rigler (double-wall) sign",
               "Football sign",
+              "Rigler (double-wall) sign",
               "Continuous diaphragm sign",
               "Falciform ligament sign"
             ],
-            "correctAnswer": "B) Football sign",
+            "correctAnswer": "A) Football sign",
             "correctAnswerText": "Football sign",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "A massive pneumoperitoneum outlines the entire abdominal cavity in an oval, football-like shape on a supine film, which is the football sign (seen especially in neonates/infants).",
             "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
@@ -16053,22 +16274,22 @@
             "text": "Which is not a typical finding in acute cholecystitis on ultrasound?",
             "options": [
               "Distended gallbladder",
-              "Thin gallbladder wall",
+              "Gallstones with acoustic shadowing",
               "Pericholecystic fluid",
-              "Gallstones with acoustic shadowing"
+              "Thin gallbladder wall"
             ],
             "originalOptions": [
               "Distended gallbladder",
-              "Thin gallbladder wall",
+              "Gallstones with acoustic shadowing",
               "Pericholecystic fluid",
-              "Gallstones with acoustic shadowing"
+              "Thin gallbladder wall"
             ],
-            "correctAnswer": "B) Thin gallbladder wall",
+            "correctAnswer": "D) Thin gallbladder wall",
             "correctAnswerText": "Thin gallbladder wall",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "Acute cholecystitis classically shows a thickened (>3 mm), edematous gallbladder wall; a thin, normal wall argues against the diagnosis.",
             "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
@@ -16092,22 +16313,22 @@
             "text": "Gallbladder stones may be seen on ultrasound as:",
             "options": [
               "Isoechoic mass without shadowing",
-              "Hypoechoic foci with posterior enhancement",
+              "Hyperechoic foci with posterior acoustic shadowing",
               "Anechoic structures without shadowing",
-              "Hyperechoic foci with posterior acoustic shadowing"
+              "Hypoechoic foci with posterior enhancement"
             ],
             "originalOptions": [
               "Isoechoic mass without shadowing",
-              "Hypoechoic foci with posterior enhancement",
+              "Hyperechoic foci with posterior acoustic shadowing",
               "Anechoic structures without shadowing",
-              "Hyperechoic foci with posterior acoustic shadowing"
+              "Hypoechoic foci with posterior enhancement"
             ],
-            "correctAnswer": "D) Hyperechoic foci with posterior acoustic shadowing",
+            "correctAnswer": "B) Hyperechoic foci with posterior acoustic shadowing",
             "correctAnswerText": "Hyperechoic foci with posterior acoustic shadowing",
-            "correctIndex": 3,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "B",
             "explanation": "Gallstones reflect sound strongly (hyperechoic) and block further transmission, producing a characteristic posterior acoustic shadow.",
             "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
@@ -16128,22 +16349,22 @@
             "text": "Which is the most important imaging criterion for pyloric stenosis?",
             "options": [
               "Pyloric canal length > 17 mm",
-              "Single pyloric muscle wall thickness > 3 mm",
               "Pyloric transverse diameter > 20 mm",
+              "Single pyloric muscle wall thickness > 3 mm",
               "Gastric distension"
             ],
             "originalOptions": [
               "Pyloric canal length > 17 mm",
-              "Single pyloric muscle wall thickness > 3 mm",
               "Pyloric transverse diameter > 20 mm",
+              "Single pyloric muscle wall thickness > 3 mm",
               "Gastric distension"
             ],
-            "correctAnswer": "B) Single pyloric muscle wall thickness > 3 mm",
+            "correctAnswer": "C) Single pyloric muscle wall thickness > 3 mm",
             "correctAnswerText": "Single pyloric muscle wall thickness > 3 mm",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "A single muscular wall thickness greater than 3 mm on transverse ultrasound is the most accurate criterion for hypertrophic pyloric stenosis.",
             "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
@@ -16213,22 +16434,22 @@
             "text": "What is the most likely diagnosis? [img: Radiologyaportalvenousgas.png ]",
             "options": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
             "originalOptions": [
               "Pneumobilia",
-              "Portal venous gas",
               "Pneumoperitoneum",
+              "Portal venous gas",
               "Pancreatitis"
             ],
-            "correctAnswer": "B) Portal venous gas",
+            "correctAnswer": "C) Portal venous gas",
             "correctAnswerText": "Portal venous gas",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
@@ -16291,22 +16512,22 @@
               "Celiac trunk",
               "Superior mesenteric artery",
               "Renal artery",
-              "Splenic artery",
-              "Inferior mesenteric artery"
+              "Inferior mesenteric artery",
+              "Splenic artery"
             ],
             "originalOptions": [
               "Celiac trunk",
               "Superior mesenteric artery",
               "Renal artery",
-              "Splenic artery",
-              "Inferior mesenteric artery"
+              "Inferior mesenteric artery",
+              "Splenic artery"
             ],
-            "correctAnswer": "D) Splenic artery",
+            "correctAnswer": "E) Splenic artery",
             "correctAnswerText": "Splenic artery",
-            "correctIndex": 3,
+            "correctIndex": 4,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "E",
             "explanation": "The splenic artery is a branch of the celiac trunk, not a direct branch of the abdominal aorta itself.",
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
@@ -16376,22 +16597,22 @@
             "text": "What is the diagnosis? [img: Radiologyapneumobilia.png ]",
             "options": [
               "Portal venous gas",
-              "Pneumobilia",
+              "Emphysematous cholecystitis",
               "Pneumoperitoneum",
-              "Emphysematous cholecystitis"
+              "Pneumobilia"
             ],
             "originalOptions": [
               "Portal venous gas",
-              "Pneumobilia",
+              "Emphysematous cholecystitis",
               "Pneumoperitoneum",
-              "Emphysematous cholecystitis"
+              "Pneumobilia"
             ],
-            "correctAnswer": "B) Pneumobilia",
+            "correctAnswer": "D) Pneumobilia",
             "correctAnswerText": "Pneumobilia",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "The gas is centrally located within the biliary tree near the porta hepatis; portal venous gas classically extends to within 2 cm of the liver capsule (peripheral), which distinguishes it from pneumobilia.",
             "batchName": "Serotonin Mini-OSCE",
             "batchNames": [
@@ -16437,6 +16658,230 @@
               "Endorphin Mini-OSCE (Group B)",
               "Aorta Final",
               "Vagus Mini-OSCE (Group D)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__12__vhm7pb",
+            "number": "12",
+            "text": "What is the diagnosis? [img: Radiologyahydronephrosis.png ]",
+            "options": [
+              "Renal cyst",
+              "Renal stone",
+              "Hydroureter",
+              "Hydronephrosis"
+            ],
+            "originalOptions": [
+              "Renal cyst",
+              "Renal stone",
+              "Hydroureter",
+              "Hydronephrosis"
+            ],
+            "correctAnswer": "D) Hydronephrosis",
+            "correctAnswerText": "Hydronephrosis",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The coronal CT shows dilatation of the left renal collecting system (pelvicalyceal dilation) without a discrete simple fluid collection, consistent with hydronephrosis rather than an isolated stone or cyst.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group D)",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__32__mgheow",
+            "number": "32",
+            "text": "What is the most likely diagnosis? [img: Radiologyaappendicitisus.jpg ]",
+            "options": [
+              "Acute appendicitis",
+              "Mesenteric adenitis",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "originalOptions": [
+              "Acute appendicitis",
+              "Mesenteric adenitis",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "correctAnswer": "A) Acute appendicitis",
+            "correctAnswerText": "Acute appendicitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The imaging (Ultrasound) shows a dilated, non-compressible appendix with periappendiceal fluid/fat stranding ± appendicolith, the classic combination for acute appendicitis.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__33__g5sv8n",
+            "number": "33",
+            "text": "What is the most likely diagnosis? [img: Radiologyaleftrenalstone.png ]",
+            "options": [
+              "Phlebolith",
+              "Left renal stone",
+              "Calcified lymph node",
+              "Gallstone"
+            ],
+            "originalOptions": [
+              "Phlebolith",
+              "Left renal stone",
+              "Calcified lymph node",
+              "Gallstone"
+            ],
+            "correctAnswer": "B) Left renal stone",
+            "correctAnswerText": "Left renal stone",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "A well-defined, rounded radiopaque calcification overlying the renal shadow on KUB is most consistent with a renal calculus rather than a pelvic phlebolith or lymph node calcification.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__34__2n2605",
+            "number": "34",
+            "text": "What is the most likely diagnosis? [img: Radiologyaureterstone.png ]",
+            "options": [
+              "Appendicolith",
+              "Phlebolith",
+              "Ureteric stone",
+              "Renal stone"
+            ],
+            "originalOptions": [
+              "Appendicolith",
+              "Phlebolith",
+              "Ureteric stone",
+              "Renal stone"
+            ],
+            "correctAnswer": "C) Ureteric stone",
+            "correctAnswerText": "Ureteric stone",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The calcification lies along the expected course of the ureter (from renal pelvis to bladder), distinguishing it from a phlebolith, which sits in the pelvis away from this line.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__35__bsl6sv",
+            "number": "35",
+            "text": "Which imaging modality and plane is shown in this image? [img: Radiologyacoronalctabdomen.png ]",
+            "options": [
+              "Axial CT abdomen",
+              "Coronal CT abdomen with contrast",
+              "Sagittal MRI abdomen",
+              "Coronal ultrasound"
+            ],
+            "originalOptions": [
+              "Axial CT abdomen",
+              "Coronal CT abdomen with contrast",
+              "Sagittal MRI abdomen",
+              "Coronal ultrasound"
+            ],
+            "correctAnswer": "B) Coronal CT abdomen with contrast",
+            "correctAnswerText": "Coronal CT abdomen with contrast",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The image demonstrates the liver, kidneys, and spine in a coronal (frontal) cross-sectional plane typical of coronal reformatted contrast-enhanced CT.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__36__tsa7jr",
+            "number": "36",
+            "text": "What is the most likely diagnosis? [img: Radiologyamidgutvolvulus.png ]",
+            "options": [
+              "Intussusception",
+              "Cecal volvulus",
+              "Sigmoid volvulus",
+              "Midgut volvulus"
+            ],
+            "originalOptions": [
+              "Intussusception",
+              "Cecal volvulus",
+              "Sigmoid volvulus",
+              "Midgut volvulus"
+            ],
+            "correctAnswer": "D) Midgut volvulus",
+            "correctAnswerText": "Midgut volvulus",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The CT shows the classic whirlpool sign of the superior mesenteric vessels and mesentery twisting around each other, diagnostic of midgut volvulus (from malrotation).",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Aorta Final",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
             ],
@@ -16503,23 +16948,23 @@
             "number": "13",
             "text": "All of the following signs can be seen in bowel obstruction except:",
             "options": [
-              "Coffee bean sign",
-              "Whirlpool sign",
               "Bird-beak sign",
+              "Whirlpool sign",
+              "Coffee bean sign",
               "Multiple air-fluid levels"
             ],
             "originalOptions": [
-              "Coffee bean sign",
-              "Whirlpool sign",
               "Bird-beak sign",
+              "Whirlpool sign",
+              "Coffee bean sign",
               "Multiple air-fluid levels"
             ],
-            "correctAnswer": "C) Bird-beak sign",
+            "correctAnswer": "A) Bird-beak sign",
             "correctAnswerText": "Bird-beak sign",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "The bird-beak sign is the classic finding of achalasia at the gastroesophageal junction, not a sign of bowel obstruction, unlike the coffee bean (sigmoid volvulus) and whirlpool (midgut volvulus) signs.",
             "batchName": "Vagus Final",
             "batchNames": [
@@ -16541,22 +16986,22 @@
             "text": "Which is not a typical finding in acute cholecystitis on ultrasound?",
             "options": [
               "Distended gallbladder",
-              "Thin gallbladder wall",
+              "Gallstones with acoustic shadowing",
               "Pericholecystic fluid",
-              "Gallstones with acoustic shadowing"
+              "Thin gallbladder wall"
             ],
             "originalOptions": [
               "Distended gallbladder",
-              "Thin gallbladder wall",
+              "Gallstones with acoustic shadowing",
               "Pericholecystic fluid",
-              "Gallstones with acoustic shadowing"
+              "Thin gallbladder wall"
             ],
-            "correctAnswer": "B) Thin gallbladder wall",
+            "correctAnswer": "D) Thin gallbladder wall",
             "correctAnswerText": "Thin gallbladder wall",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "Acute cholecystitis classically shows a thickened (>3 mm), edematous gallbladder wall; a thin, normal wall argues against the diagnosis.",
             "batchName": "Vagus Final",
             "batchNames": [
@@ -16634,22 +17079,22 @@
             "text": "What is the diagnosis? [img: Radiologyasigmoidvolvulus.png ]",
             "options": [
               "Cecal volvulus",
-              "Sigmoid volvulus",
               "Small bowel obstruction",
+              "Sigmoid volvulus",
               "Large bowel obstruction (non-volvulus)"
             ],
             "originalOptions": [
               "Cecal volvulus",
-              "Sigmoid volvulus",
               "Small bowel obstruction",
+              "Sigmoid volvulus",
               "Large bowel obstruction (non-volvulus)"
             ],
-            "correctAnswer": "B) Sigmoid volvulus",
+            "correctAnswer": "C) Sigmoid volvulus",
             "correctAnswerText": "Sigmoid volvulus",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The fluoroscopic/contrast image shows the classic bird's-beak tapering at the point of torsion of a massively dilated sigmoid loop, diagnostic of sigmoid volvulus rather than a generic obstruction.",
             "batchName": "Vagus Mini-OSCE (Group D)",
             "batchNames": [
@@ -16707,33 +17152,34 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__12__dg4ccn",
+            "id": "radiology__lecture__abdominal-radiology__12__vhm7pb",
             "number": "12",
-            "text": "What is the diagnosis? [img: Radiologylefthydronephrosis.png ]",
+            "text": "What is the diagnosis? [img: Radiologyahydronephrosis.png ]",
             "options": [
-              "Left hydronephrosis",
+              "Renal cyst",
               "Renal stone",
               "Hydroureter",
-              "Renal cyst"
+              "Hydronephrosis"
             ],
             "originalOptions": [
-              "Left hydronephrosis",
+              "Renal cyst",
               "Renal stone",
               "Hydroureter",
-              "Renal cyst"
+              "Hydronephrosis"
             ],
-            "correctAnswer": "A) Left hydronephrosis",
-            "correctAnswerText": "Left hydronephrosis",
-            "correctIndex": 0,
+            "correctAnswer": "D) Hydronephrosis",
+            "correctAnswerText": "Hydronephrosis",
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
+            "correctAnswerLetter": "D",
             "explanation": "The coronal CT shows dilatation of the left renal collecting system (pelvicalyceal dilation) without a discrete simple fluid collection, consistent with hydronephrosis rather than an isolated stone or cyst.",
             "batchName": "Vagus Mini-OSCE (Group D)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
               "Aorta Final",
-              "Vagus Mini-OSCE (Group D)"
+              "Vagus Mini-OSCE (Group D)",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -16757,23 +17203,23 @@
             "number": "1",
             "text": "What is the most likely diagnosis? [img: Radiologyapancreatitis.png ]",
             "options": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
             "originalOptions": [
-              "Mesenteric ischemia",
-              "Appendicitis",
               "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
               "Pancreatic adenocarcinoma"
             ],
-            "correctAnswer": "C) Acute pancreatitis",
+            "correctAnswer": "A) Acute pancreatitis",
             "correctAnswerText": "Acute pancreatitis",
-            "correctIndex": 2,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "A",
             "explanation": "The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
@@ -16798,22 +17244,22 @@
             "text": "What is the diagnosis? [img: Radiologyasigmoidvolvulus.png ]",
             "options": [
               "Cecal volvulus",
-              "Sigmoid volvulus",
               "Small bowel obstruction",
+              "Sigmoid volvulus",
               "Large bowel obstruction (non-volvulus)"
             ],
             "originalOptions": [
               "Cecal volvulus",
-              "Sigmoid volvulus",
               "Small bowel obstruction",
+              "Sigmoid volvulus",
               "Large bowel obstruction (non-volvulus)"
             ],
-            "correctAnswer": "B) Sigmoid volvulus",
+            "correctAnswer": "C) Sigmoid volvulus",
             "correctAnswerText": "Sigmoid volvulus",
-            "correctIndex": 1,
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "C",
             "explanation": "The fluoroscopic/contrast image shows the classic bird's-beak tapering at the point of torsion of a massively dilated sigmoid loop, diagnostic of sigmoid volvulus rather than a generic obstruction.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
@@ -16835,23 +17281,23 @@
             "number": "5",
             "text": "What is the name of this radiological sign? [img: Radiologyafootballsign.png ]",
             "options": [
-              "Rigler (double-wall) sign",
               "Football sign",
+              "Rigler (double-wall) sign",
               "Continuous diaphragm sign",
               "Falciform ligament sign"
             ],
             "originalOptions": [
-              "Rigler (double-wall) sign",
               "Football sign",
+              "Rigler (double-wall) sign",
               "Continuous diaphragm sign",
               "Falciform ligament sign"
             ],
-            "correctAnswer": "B) Football sign",
+            "correctAnswer": "A) Football sign",
             "correctAnswerText": "Football sign",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "A massive pneumoperitoneum outlines the entire abdominal cavity in an oval, football-like shape on a supine film, which is the football sign (seen especially in neonates/infants).",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
@@ -16914,27 +17360,176 @@
             "text": "What is the diagnosis? [img: Radiologyadiverticulitis.png ]",
             "options": [
               "Pancreatitis",
-              "Diverticulitis",
+              "Appendicitis",
               "Cholecystitis",
-              "Appendicitis"
+              "Diverticulitis"
             ],
             "originalOptions": [
               "Pancreatitis",
-              "Diverticulitis",
+              "Appendicitis",
               "Cholecystitis",
-              "Appendicitis"
+              "Diverticulitis"
             ],
-            "correctAnswer": "B) Diverticulitis",
+            "correctAnswer": "D) Diverticulitis",
             "correctAnswerText": "Diverticulitis",
-            "correctIndex": 1,
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "D",
             "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
               "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__32__mgheow",
+            "number": "32",
+            "text": "What is the most likely diagnosis? [img: Radiologyaappendicitisus.jpg ]",
+            "options": [
+              "Acute appendicitis",
+              "Mesenteric adenitis",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "originalOptions": [
+              "Acute appendicitis",
+              "Mesenteric adenitis",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "correctAnswer": "A) Acute appendicitis",
+            "correctAnswerText": "Acute appendicitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The imaging (Ultrasound) shows a dilated, non-compressible appendix with periappendiceal fluid/fat stranding ± appendicolith, the classic combination for acute appendicitis.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__33__g5sv8n",
+            "number": "33",
+            "text": "What is the most likely diagnosis? [img: Radiologyaleftrenalstone.png ]",
+            "options": [
+              "Phlebolith",
+              "Left renal stone",
+              "Calcified lymph node",
+              "Gallstone"
+            ],
+            "originalOptions": [
+              "Phlebolith",
+              "Left renal stone",
+              "Calcified lymph node",
+              "Gallstone"
+            ],
+            "correctAnswer": "B) Left renal stone",
+            "correctAnswerText": "Left renal stone",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "A well-defined, rounded radiopaque calcification overlying the renal shadow on KUB is most consistent with a renal calculus rather than a pelvic phlebolith or lymph node calcification.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__34__2n2605",
+            "number": "34",
+            "text": "What is the most likely diagnosis? [img: Radiologyaureterstone.png ]",
+            "options": [
+              "Appendicolith",
+              "Phlebolith",
+              "Ureteric stone",
+              "Renal stone"
+            ],
+            "originalOptions": [
+              "Appendicolith",
+              "Phlebolith",
+              "Ureteric stone",
+              "Renal stone"
+            ],
+            "correctAnswer": "C) Ureteric stone",
+            "correctAnswerText": "Ureteric stone",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The calcification lies along the expected course of the ureter (from renal pelvis to bladder), distinguishing it from a phlebolith, which sits in the pelvis away from this line.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__36__tsa7jr",
+            "number": "36",
+            "text": "What is the most likely diagnosis? [img: Radiologyamidgutvolvulus.png ]",
+            "options": [
+              "Intussusception",
+              "Cecal volvulus",
+              "Sigmoid volvulus",
+              "Midgut volvulus"
+            ],
+            "originalOptions": [
+              "Intussusception",
+              "Cecal volvulus",
+              "Sigmoid volvulus",
+              "Midgut volvulus"
+            ],
+            "correctAnswer": "D) Midgut volvulus",
+            "correctAnswerText": "Midgut volvulus",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The CT shows the classic whirlpool sign of the superior mesenteric vessels and mesentery twisting around each other, diagnostic of midgut volvulus (from malrotation).",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -16995,23 +17590,23 @@
         "number": "1",
         "text": "What is the most likely diagnosis? [img: Radiologyapancreatitis.png ]",
         "options": [
-          "Mesenteric ischemia",
-          "Appendicitis",
           "Acute pancreatitis",
+          "Appendicitis",
+          "Mesenteric ischemia",
           "Pancreatic adenocarcinoma"
         ],
         "originalOptions": [
-          "Mesenteric ischemia",
-          "Appendicitis",
           "Acute pancreatitis",
+          "Appendicitis",
+          "Mesenteric ischemia",
           "Pancreatic adenocarcinoma"
         ],
-        "correctAnswer": "C) Acute pancreatitis",
+        "correctAnswer": "A) Acute pancreatitis",
         "correctAnswerText": "Acute pancreatitis",
-        "correctIndex": 2,
+        "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "C",
+        "correctAnswerLetter": "A",
         "explanation": "The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.",
         "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final / Aorta Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
         "batchNames": [
@@ -17072,22 +17667,22 @@
         "text": "What is the diagnosis? [img: Radiologyasigmoidvolvulus.png ]",
         "options": [
           "Cecal volvulus",
-          "Sigmoid volvulus",
           "Small bowel obstruction",
+          "Sigmoid volvulus",
           "Large bowel obstruction (non-volvulus)"
         ],
         "originalOptions": [
           "Cecal volvulus",
-          "Sigmoid volvulus",
           "Small bowel obstruction",
+          "Sigmoid volvulus",
           "Large bowel obstruction (non-volvulus)"
         ],
-        "correctAnswer": "B) Sigmoid volvulus",
+        "correctAnswer": "C) Sigmoid volvulus",
         "correctAnswerText": "Sigmoid volvulus",
-        "correctIndex": 1,
+        "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "C",
         "explanation": "The fluoroscopic/contrast image shows the classic bird's-beak tapering at the point of torsion of a massively dilated sigmoid loop, diagnostic of sigmoid volvulus rather than a generic obstruction.",
         "batchName": "Aorta Mini-OSCE (Group A) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
         "batchNames": [
@@ -17109,22 +17704,22 @@
         "text": "What is the diagnosis? [img: Radiologyapneumobilia.png ]",
         "options": [
           "Portal venous gas",
-          "Pneumobilia",
+          "Emphysematous cholecystitis",
           "Pneumoperitoneum",
-          "Emphysematous cholecystitis"
+          "Pneumobilia"
         ],
         "originalOptions": [
           "Portal venous gas",
-          "Pneumobilia",
+          "Emphysematous cholecystitis",
           "Pneumoperitoneum",
-          "Emphysematous cholecystitis"
+          "Pneumobilia"
         ],
-        "correctAnswer": "B) Pneumobilia",
+        "correctAnswer": "D) Pneumobilia",
         "correctAnswerText": "Pneumobilia",
-        "correctIndex": 1,
+        "correctIndex": 3,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "D",
         "explanation": "The gas is centrally located within the biliary tree near the porta hepatis; portal venous gas classically extends to within 2 cm of the liver capsule (peripheral), which distinguishes it from pneumobilia.",
         "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A) / Serotonin Mini-OSCE",
         "batchNames": [
@@ -17146,23 +17741,23 @@
         "number": "5",
         "text": "What is the name of this radiological sign? [img: Radiologyafootballsign.png ]",
         "options": [
-          "Rigler (double-wall) sign",
           "Football sign",
+          "Rigler (double-wall) sign",
           "Continuous diaphragm sign",
           "Falciform ligament sign"
         ],
         "originalOptions": [
-          "Rigler (double-wall) sign",
           "Football sign",
+          "Rigler (double-wall) sign",
           "Continuous diaphragm sign",
           "Falciform ligament sign"
         ],
-        "correctAnswer": "B) Football sign",
+        "correctAnswer": "A) Football sign",
         "correctAnswerText": "Football sign",
-        "correctIndex": 1,
+        "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "A",
         "explanation": "A massive pneumoperitoneum outlines the entire abdominal cavity in an oval, football-like shape on a supine film, which is the football sign (seen especially in neonates/infants).",
         "batchName": "Iris Mini-OSCE (Group C) / Aorta Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
         "batchNames": [
@@ -17222,23 +17817,23 @@
         "number": "7",
         "text": "Which statement regarding intussusception is incorrect?",
         "options": [
-          "The majority occur after 3 week of birth",
-          "Target sign on ultrasound",
           "The prolapsed part is the intussusceptum and the receiving segment the intussuscipiens",
+          "Target sign on ultrasound",
+          "The majority occur after 3 week of birth",
           "Invagination of one part of intestine into an adjacent/distal bowel segment"
         ],
         "originalOptions": [
-          "The majority occur after 3 week of birth",
-          "Target sign on ultrasound",
           "The prolapsed part is the intussusceptum and the receiving segment the intussuscipiens",
+          "Target sign on ultrasound",
+          "The majority occur after 3 week of birth",
           "Invagination of one part of intestine into an adjacent/distal bowel segment"
         ],
-        "correctAnswer": "A) The majority occur after 3 week of birth",
+        "correctAnswer": "C) The majority occur after 3 week of birth",
         "correctAnswerText": "The majority occur after 3 week of birth",
-        "correctIndex": 0,
+        "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "A",
+        "correctAnswerLetter": "C",
         "explanation": "Intussusception classically occurs after the first three months of life (usually 3 months–2 years), not simply \"after 3 week of birth,\" making this the incorrect statement; the other options correctly describe its mechanism and ultrasound appearance.",
         "batchName": "Coronary Mini-OSCE (Group C)",
         "batchNames": [
@@ -17258,22 +17853,22 @@
         "text": "What is the diagnosis? [img: Radiologyadiverticulitis.png ]",
         "options": [
           "Pancreatitis",
-          "Diverticulitis",
+          "Appendicitis",
           "Cholecystitis",
-          "Appendicitis"
+          "Diverticulitis"
         ],
         "originalOptions": [
           "Pancreatitis",
-          "Diverticulitis",
+          "Appendicitis",
           "Cholecystitis",
-          "Appendicitis"
+          "Diverticulitis"
         ],
-        "correctAnswer": "B) Diverticulitis",
+        "correctAnswer": "D) Diverticulitis",
         "correctAnswerText": "Diverticulitis",
-        "correctIndex": 1,
+        "correctIndex": 3,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "D",
         "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
         "batchName": "Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
         "batchNames": [
@@ -17293,23 +17888,23 @@
         "number": "9",
         "text": "All of the following is true except:",
         "options": [
-          "In Midgut volvulus → whirlpool sign",
           "In cecal volvulus → colonic haustral pattern is lost",
+          "In Midgut volvulus → whirlpool sign",
           "In sigmoid volvulus → coffee bean sign",
           "Volvulus is twisting of the intestine around its mesentery"
         ],
         "originalOptions": [
-          "In Midgut volvulus → whirlpool sign",
           "In cecal volvulus → colonic haustral pattern is lost",
+          "In Midgut volvulus → whirlpool sign",
           "In sigmoid volvulus → coffee bean sign",
           "Volvulus is twisting of the intestine around its mesentery"
         ],
-        "correctAnswer": "B) In cecal volvulus → colonic haustral pattern is lost",
+        "correctAnswer": "A) In cecal volvulus → colonic haustral pattern is lost",
         "correctAnswerText": "In cecal volvulus → colonic haustral pattern is lost",
-        "correctIndex": 1,
+        "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "A",
         "explanation": "In cecal volvulus the colonic haustral pattern is typically maintained (unlike sigmoid volvulus, where it is generally lost/ahaustral), so this statement is false.",
         "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
         "batchNames": [
@@ -17331,23 +17926,23 @@
         "number": "10",
         "text": "Most likely diagnosis? [img: Radiologyacolorectalcancer.png ]",
         "options": [
-          "Colorectal cancer",
           "Intussusception",
+          "Colorectal cancer",
           "Volvulus",
           "Bowel ischemia"
         ],
         "originalOptions": [
-          "Colorectal cancer",
           "Intussusception",
+          "Colorectal cancer",
           "Volvulus",
           "Bowel ischemia"
         ],
-        "correctAnswer": "A) Colorectal cancer",
+        "correctAnswer": "B) Colorectal cancer",
         "correctAnswerText": "Colorectal cancer",
-        "correctIndex": 0,
+        "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "A",
+        "correctAnswerLetter": "B",
         "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
         "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
         "batchNames": [
@@ -17369,22 +17964,22 @@
         "text": "What is the most likely diagnosis? [img: Radiologyaportalvenousgas.png ]",
         "options": [
           "Pneumobilia",
-          "Portal venous gas",
           "Pneumoperitoneum",
+          "Portal venous gas",
           "Pancreatitis"
         ],
         "originalOptions": [
           "Pneumobilia",
-          "Portal venous gas",
           "Pneumoperitoneum",
+          "Portal venous gas",
           "Pancreatitis"
         ],
-        "correctAnswer": "B) Portal venous gas",
+        "correctAnswer": "C) Portal venous gas",
         "correctAnswerText": "Portal venous gas",
-        "correctIndex": 1,
+        "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "C",
         "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
         "batchName": "Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final",
         "batchNames": [
@@ -17403,33 +17998,34 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__12__dg4ccn",
+        "id": "radiology__lecture__abdominal-radiology__12__vhm7pb",
         "number": "12",
-        "text": "What is the diagnosis? [img: Radiologylefthydronephrosis.png ]",
+        "text": "What is the diagnosis? [img: Radiologyahydronephrosis.png ]",
         "options": [
-          "Left hydronephrosis",
+          "Renal cyst",
           "Renal stone",
           "Hydroureter",
-          "Renal cyst"
+          "Hydronephrosis"
         ],
         "originalOptions": [
-          "Left hydronephrosis",
+          "Renal cyst",
           "Renal stone",
           "Hydroureter",
-          "Renal cyst"
+          "Hydronephrosis"
         ],
-        "correctAnswer": "A) Left hydronephrosis",
-        "correctAnswerText": "Left hydronephrosis",
-        "correctIndex": 0,
+        "correctAnswer": "D) Hydronephrosis",
+        "correctAnswerText": "Hydronephrosis",
+        "correctIndex": 3,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "A",
+        "correctAnswerLetter": "D",
         "explanation": "The coronal CT shows dilatation of the left renal collecting system (pelvicalyceal dilation) without a discrete simple fluid collection, consistent with hydronephrosis rather than an isolated stone or cyst.",
-        "batchName": "Endorphin Mini-OSCE (Group A) / Aorta Final / Vagus Mini-OSCE (Group D)",
+        "batchName": "Endorphin Mini-OSCE (Group A) / Aorta Final / Vagus Mini-OSCE (Group D) / Serotonin Mini-OSCE",
         "batchNames": [
           "Endorphin Mini-OSCE (Group A)",
           "Aorta Final",
-          "Vagus Mini-OSCE (Group D)"
+          "Vagus Mini-OSCE (Group D)",
+          "Serotonin Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -17444,23 +18040,23 @@
         "number": "13",
         "text": "All of the following signs can be seen in bowel obstruction except:",
         "options": [
-          "Coffee bean sign",
-          "Whirlpool sign",
           "Bird-beak sign",
+          "Whirlpool sign",
+          "Coffee bean sign",
           "Multiple air-fluid levels"
         ],
         "originalOptions": [
-          "Coffee bean sign",
-          "Whirlpool sign",
           "Bird-beak sign",
+          "Whirlpool sign",
+          "Coffee bean sign",
           "Multiple air-fluid levels"
         ],
-        "correctAnswer": "C) Bird-beak sign",
+        "correctAnswer": "A) Bird-beak sign",
         "correctAnswerText": "Bird-beak sign",
-        "correctIndex": 2,
+        "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "C",
+        "correctAnswerLetter": "A",
         "explanation": "The bird-beak sign is the classic finding of achalasia at the gastroesophageal junction, not a sign of bowel obstruction, unlike the coffee bean (sigmoid volvulus) and whirlpool (midgut volvulus) signs.",
         "batchName": "Endorphin Mini-OSCE (Group B) / Vagus Final",
         "batchNames": [
@@ -17481,22 +18077,22 @@
         "text": "Which of the following is not a typical radiologic feature of appendicitis?",
         "options": [
           "Dilated appendiceal diameter",
+          "Thin appendiceal wall",
           "Periappendiceal fat stranding",
-          "Thin appendix wall thickness",
           "Distended appendiceal lumen"
         ],
         "originalOptions": [
           "Dilated appendiceal diameter",
+          "Thin appendiceal wall",
           "Periappendiceal fat stranding",
-          "Thin appendix wall thickness",
           "Distended appendiceal lumen"
         ],
-        "correctAnswer": "C) Thin appendix wall thickness",
-        "correctAnswerText": "Thin appendix wall thickness",
-        "correctIndex": 2,
+        "correctAnswer": "B) Thin appendiceal wall",
+        "correctAnswerText": "Thin appendiceal wall",
+        "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "C",
+        "correctAnswerLetter": "B",
         "explanation": "In acute appendicitis the appendiceal wall is thickened and enhancing, not normal/thin; a normal wall thickness argues against the diagnosis.",
         "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
         "batchNames": [
@@ -17516,23 +18112,23 @@
         "number": "15",
         "text": "All of the following can be seen in intestinal ischemia except:",
         "options": [
-          "Pneumobilia",
-          "Portal vein thrombosis",
           "Thickened wall loops",
+          "Portal vein thrombosis",
+          "Pneumobilia",
           "Surrounding fatty stranding"
         ],
         "originalOptions": [
-          "Pneumobilia",
-          "Portal vein thrombosis",
           "Thickened wall loops",
+          "Portal vein thrombosis",
+          "Pneumobilia",
           "Surrounding fatty stranding"
         ],
-        "correctAnswer": "A) Pneumobilia",
+        "correctAnswer": "C) Pneumobilia",
         "correctAnswerText": "Pneumobilia",
-        "correctIndex": 0,
+        "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "A",
+        "correctAnswerLetter": "C",
         "explanation": "Pneumobilia reflects biliary tree gas (usually from a prior sphincterotomy or biliary-enteric fistula), not a feature of bowel ischemia; ischemia is instead associated with portal venous gas, bowel wall thickening, and mesenteric fat stranding.",
         "batchName": "Endorphin Mini-OSCE (Group B)",
         "batchNames": [
@@ -17552,22 +18148,22 @@
         "text": "Which is not a typical finding in acute cholecystitis on ultrasound?",
         "options": [
           "Distended gallbladder",
-          "Thin gallbladder wall",
+          "Gallstones with acoustic shadowing",
           "Pericholecystic fluid",
-          "Gallstones with acoustic shadowing"
+          "Thin gallbladder wall"
         ],
         "originalOptions": [
           "Distended gallbladder",
-          "Thin gallbladder wall",
+          "Gallstones with acoustic shadowing",
           "Pericholecystic fluid",
-          "Gallstones with acoustic shadowing"
+          "Thin gallbladder wall"
         ],
-        "correctAnswer": "B) Thin gallbladder wall",
+        "correctAnswer": "D) Thin gallbladder wall",
         "correctAnswerText": "Thin gallbladder wall",
-        "correctIndex": 1,
+        "correctIndex": 3,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "D",
         "explanation": "Acute cholecystitis classically shows a thickened (>3 mm), edematous gallbladder wall; a thin, normal wall argues against the diagnosis.",
         "batchName": "Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Vagus Final",
         "batchNames": [
@@ -17627,22 +18223,22 @@
         "text": "Wrong about hiatal hernia?",
         "options": [
           "Rolling (paraesophageal) hernias carry a risk of gastric volvulus",
-          "Sliding type is the most common",
+          "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
           "Sliding hernias are associated with gastroesophageal reflux",
-          "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm"
+          "Sliding type is the most common"
         ],
         "originalOptions": [
           "Rolling (paraesophageal) hernias carry a risk of gastric volvulus",
-          "Sliding type is the most common",
+          "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
           "Sliding hernias are associated with gastroesophageal reflux",
-          "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm"
+          "Sliding type is the most common"
         ],
-        "correctAnswer": "D) Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
+        "correctAnswer": "B) Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
         "correctAnswerText": "Paraesophageal hernia moves the esophagogastric junction 2 cm above the diaphragm",
-        "correctIndex": 3,
+        "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "D",
+        "correctAnswerLetter": "B",
         "explanation": "Upward displacement of the gastroesophageal junction (>2 cm above the hiatus) defines a sliding hiatal hernia, not a paraesophageal one, in which the GEJ stays in normal position while the fundus herniates.",
         "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
         "batchNames": [
@@ -17665,22 +18261,22 @@
           "Bird-beak appearance at the gastroesophageal junction",
           "Retro-tracheal air-fluid level",
           "Anterior displacement and bowing of the trachea",
-          "Mediastinal widening",
-          "Dilated esophagus"
+          "Dilated esophagus",
+          "Mediastinal widening"
         ],
         "originalOptions": [
           "Bird-beak appearance at the gastroesophageal junction",
           "Retro-tracheal air-fluid level",
           "Anterior displacement and bowing of the trachea",
-          "Mediastinal widening",
-          "Dilated esophagus"
+          "Dilated esophagus",
+          "Mediastinal widening"
         ],
-        "correctAnswer": "D) Mediastinal widening",
+        "correctAnswer": "E) Mediastinal widening",
         "correctAnswerText": "Mediastinal widening",
-        "correctIndex": 3,
+        "correctIndex": 4,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "D",
+        "correctAnswerLetter": "E",
         "explanation": "Achalasia causes mediastinal widening (not narrowing) from the dilated, fluid-filled esophagus, so calling it \"mediastinal narrowing\" as a listed feature is incorrect — but among the options here, the true described finding is widening, and identifying \"narrowing\" as false is the tested trap; the correct fact is mediastinal widening occurs, making a statement of narrowing the false one.",
         "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Final",
         "batchNames": [
@@ -17701,22 +18297,22 @@
         "text": "Best imaging modality for detecting air under the diaphragm:",
         "options": [
           "Supine abdominal x-ray",
-          "Expiratory erect chest x-ray",
           "Non-contrast CT",
+          "Expiratory erect chest x-ray",
           "Abdominal ultrasound"
         ],
         "originalOptions": [
           "Supine abdominal x-ray",
-          "Expiratory erect chest x-ray",
           "Non-contrast CT",
+          "Expiratory erect chest x-ray",
           "Abdominal ultrasound"
         ],
-        "correctAnswer": "B) Expiratory erect chest x-ray",
+        "correctAnswer": "C) Expiratory erect chest x-ray",
         "correctAnswerText": "Expiratory erect chest x-ray",
-        "correctIndex": 1,
+        "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "C",
         "explanation": "An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.",
         "batchName": "Endorphin Mini-OSCE (Group C)",
         "batchNames": [
@@ -17736,22 +18332,22 @@
         "text": "Not true about achalasia?",
         "options": [
           "Mediastinal widening",
-          "Anterior displacement and bowing of the trachea is seen on the frontal view",
+          "Retro-tracheal air-fluid level",
           "Bird-beak deformity",
-          "Retro-tracheal air-fluid level"
+          "Anterior displacement and bowing of the trachea is seen on the frontal view"
         ],
         "originalOptions": [
           "Mediastinal widening",
-          "Anterior displacement and bowing of the trachea is seen on the frontal view",
+          "Retro-tracheal air-fluid level",
           "Bird-beak deformity",
-          "Retro-tracheal air-fluid level"
+          "Anterior displacement and bowing of the trachea is seen on the frontal view"
         ],
-        "correctAnswer": "B) Anterior displacement and bowing of the trachea is seen on the frontal view",
+        "correctAnswer": "D) Anterior displacement and bowing of the trachea is seen on the frontal view",
         "correctAnswerText": "Anterior displacement and bowing of the trachea is seen on the frontal view",
-        "correctIndex": 1,
+        "correctIndex": 3,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "D",
         "explanation": "Anterior tracheal displacement/bowing from the dilated esophagus is a lateral-view finding, not a frontal-view finding, making this statement false.",
         "batchName": "Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group D) / Aorta Final",
         "batchNames": [
@@ -17772,23 +18368,23 @@
         "number": "22",
         "text": "What is incorrect about diverticulitis?",
         "options": [
-          "Typically occurs after age 40",
           "Is commonly seen in the ileum",
+          "Typically occurs after age 40",
           "There will be fat stranding",
           "Segmental colonic wall thickening is seen"
         ],
         "originalOptions": [
-          "Typically occurs after age 40",
           "Is commonly seen in the ileum",
+          "Typically occurs after age 40",
           "There will be fat stranding",
           "Segmental colonic wall thickening is seen"
         ],
-        "correctAnswer": "B) Is commonly seen in the ileum",
+        "correctAnswer": "A) Is commonly seen in the ileum",
         "correctAnswerText": "Is commonly seen in the ileum",
-        "correctIndex": 1,
+        "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "A",
         "explanation": "Diverticulitis characteristically affects the sigmoid colon, not the ileum, which is where small-bowel diverticula (much rarer) would occur.",
         "batchName": "Endorphin Mini-OSCE (Group E)",
         "batchNames": [
@@ -17808,22 +18404,22 @@
         "text": "One of these is not a sign in bowel ischemia?",
         "options": [
           "Portal venous gas",
-          "Thumbprinting sign",
+          "Bird-beak deformity",
           "Thickened bowel wall",
-          "Bird-beak deformity"
+          "Thumbprinting sign"
         ],
         "originalOptions": [
           "Portal venous gas",
-          "Thumbprinting sign",
+          "Bird-beak deformity",
           "Thickened bowel wall",
-          "Bird-beak deformity"
+          "Thumbprinting sign"
         ],
-        "correctAnswer": "D) Bird-beak deformity",
+        "correctAnswer": "B) Bird-beak deformity",
         "correctAnswerText": "Bird-beak deformity",
-        "correctIndex": 3,
+        "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "D",
+        "correctAnswerLetter": "B",
         "explanation": "The bird-beak deformity is the classic sign of achalasia at the gastroesophageal junction, not a recognized sign of bowel ischemia, unlike portal venous gas, thumbprinting, and wall thickening.",
         "batchName": "Endorphin Mini-OSCE (Group E)",
         "batchNames": [
@@ -17843,22 +18439,22 @@
         "text": "What of these statements is wrong about cecal volvulus?",
         "options": [
           "Torsion of the cecum around its mesentery",
-          "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
           "If unrecognized, it can result in bowel perforation and fecal peritonitis",
+          "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
           "It typically shows a single air-fluid level"
         ],
         "originalOptions": [
           "Torsion of the cecum around its mesentery",
-          "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
           "If unrecognized, it can result in bowel perforation and fecal peritonitis",
+          "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
           "It typically shows a single air-fluid level"
         ],
-        "correctAnswer": "B) The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
+        "correctAnswer": "C) The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
         "correctAnswerText": "The colonic haustral pattern is generally absent, in contradiction to a sigmoid volvulus",
-        "correctIndex": 1,
+        "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "C",
         "explanation": "The opposite is true — the haustral pattern is generally maintained in cecal volvulus, whereas it is lost (ahaustral) in sigmoid volvulus.",
         "batchName": "Endorphin Mini-OSCE (Group E)",
         "batchNames": [
@@ -17912,23 +18508,23 @@
         "number": "26",
         "text": "Which of the following statements about radiologic imaging is incorrect?",
         "options": [
-          "Single contrast enema uses only barium without air",
-          "Ultrasound is effective for evaluating the biliary and urinary systems",
           "Female ovarian assessment requires an empty urinary bladder",
+          "Ultrasound is effective for evaluating the biliary and urinary systems",
+          "Single contrast enema uses only barium without air",
           "Free intraperitoneal air can be seen under the diaphragm on an erect chest X-ray"
         ],
         "originalOptions": [
-          "Single contrast enema uses only barium without air",
-          "Ultrasound is effective for evaluating the biliary and urinary systems",
           "Female ovarian assessment requires an empty urinary bladder",
+          "Ultrasound is effective for evaluating the biliary and urinary systems",
+          "Single contrast enema uses only barium without air",
           "Free intraperitoneal air can be seen under the diaphragm on an erect chest X-ray"
         ],
-        "correctAnswer": "C) Female ovarian assessment requires an empty urinary bladder",
+        "correctAnswer": "A) Female ovarian assessment requires an empty urinary bladder",
         "correctAnswerText": "Female ovarian assessment requires an empty urinary bladder",
-        "correctIndex": 2,
+        "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "C",
+        "correctAnswerLetter": "A",
         "explanation": "Transabdominal pelvic/ovarian ultrasound requires a FULL bladder as an acoustic window, not an empty one; the other statements are correct.",
         "batchName": "Iris Mini-OSCE (Group A) / Endorphin Final",
         "batchNames": [
@@ -17948,25 +18544,25 @@
         "number": "27",
         "text": "All are signs of pneumoperitoneum except:",
         "options": [
-          "Rigler (double-wall) sign",
-          "Football sign",
           "Single-wall sign",
+          "Football sign",
+          "Rigler (double-wall) sign",
           "Falciform ligament sign",
           "Continuous diaphragm sign"
         ],
         "originalOptions": [
-          "Rigler (double-wall) sign",
-          "Football sign",
           "Single-wall sign",
+          "Football sign",
+          "Rigler (double-wall) sign",
           "Falciform ligament sign",
           "Continuous diaphragm sign"
         ],
-        "correctAnswer": "C) Single-wall sign",
+        "correctAnswer": "A) Single-wall sign",
         "correctAnswerText": "Single-wall sign",
-        "correctIndex": 2,
+        "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "C",
+        "correctAnswerLetter": "A",
         "explanation": "There is no recognized \"single-wall sign\" for pneumoperitoneum — the real analogous sign is the double-wall (Rigler) sign, where gas outlines both sides of the bowel wall.",
         "batchName": "Iris Mini-OSCE (Group A)",
         "batchNames": [
@@ -17986,22 +18582,22 @@
         "text": "Gallbladder stones may be seen on ultrasound as:",
         "options": [
           "Isoechoic mass without shadowing",
-          "Hypoechoic foci with posterior enhancement",
+          "Hyperechoic foci with posterior acoustic shadowing",
           "Anechoic structures without shadowing",
-          "Hyperechoic foci with posterior acoustic shadowing"
+          "Hypoechoic foci with posterior enhancement"
         ],
         "originalOptions": [
           "Isoechoic mass without shadowing",
-          "Hypoechoic foci with posterior enhancement",
+          "Hyperechoic foci with posterior acoustic shadowing",
           "Anechoic structures without shadowing",
-          "Hyperechoic foci with posterior acoustic shadowing"
+          "Hypoechoic foci with posterior enhancement"
         ],
-        "correctAnswer": "D) Hyperechoic foci with posterior acoustic shadowing",
+        "correctAnswer": "B) Hyperechoic foci with posterior acoustic shadowing",
         "correctAnswerText": "Hyperechoic foci with posterior acoustic shadowing",
-        "correctIndex": 3,
+        "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "D",
+        "correctAnswerLetter": "B",
         "explanation": "Gallstones reflect sound strongly (hyperechoic) and block further transmission, producing a characteristic posterior acoustic shadow.",
         "batchName": "Iris Mini-OSCE (Group C)",
         "batchNames": [
@@ -18021,22 +18617,22 @@
         "text": "Which is the most important imaging criterion for pyloric stenosis?",
         "options": [
           "Pyloric canal length > 17 mm",
-          "Single pyloric muscle wall thickness > 3 mm",
           "Pyloric transverse diameter > 20 mm",
+          "Single pyloric muscle wall thickness > 3 mm",
           "Gastric distension"
         ],
         "originalOptions": [
           "Pyloric canal length > 17 mm",
-          "Single pyloric muscle wall thickness > 3 mm",
           "Pyloric transverse diameter > 20 mm",
+          "Single pyloric muscle wall thickness > 3 mm",
           "Gastric distension"
         ],
-        "correctAnswer": "B) Single pyloric muscle wall thickness > 3 mm",
+        "correctAnswer": "C) Single pyloric muscle wall thickness > 3 mm",
         "correctAnswerText": "Single pyloric muscle wall thickness > 3 mm",
-        "correctIndex": 1,
+        "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "C",
         "explanation": "A single muscular wall thickness greater than 3 mm on transverse ultrasound is the most accurate criterion for hypertrophic pyloric stenosis.",
         "batchName": "Iris Mini-OSCE (Group C)",
         "batchNames": [
@@ -18093,26 +18689,206 @@
           "Celiac trunk",
           "Superior mesenteric artery",
           "Renal artery",
-          "Splenic artery",
-          "Inferior mesenteric artery"
+          "Inferior mesenteric artery",
+          "Splenic artery"
         ],
         "originalOptions": [
           "Celiac trunk",
           "Superior mesenteric artery",
           "Renal artery",
-          "Splenic artery",
-          "Inferior mesenteric artery"
+          "Inferior mesenteric artery",
+          "Splenic artery"
         ],
-        "correctAnswer": "D) Splenic artery",
+        "correctAnswer": "E) Splenic artery",
         "correctAnswerText": "Splenic artery",
-        "correctIndex": 3,
+        "correctIndex": 4,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "D",
+        "correctAnswerLetter": "E",
         "explanation": "The splenic artery is a branch of the celiac trunk, not a direct branch of the abdominal aorta itself.",
         "batchName": "Iris Mini-OSCE (Group D)",
         "batchNames": [
           "Iris Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__32__mgheow",
+        "number": "32",
+        "text": "What is the most likely diagnosis? [img: Radiologyaappendicitisus.jpg ]",
+        "options": [
+          "Acute appendicitis",
+          "Mesenteric adenitis",
+          "Diverticulitis",
+          "Crohn's disease"
+        ],
+        "originalOptions": [
+          "Acute appendicitis",
+          "Mesenteric adenitis",
+          "Diverticulitis",
+          "Crohn's disease"
+        ],
+        "correctAnswer": "A) Acute appendicitis",
+        "correctAnswerText": "Acute appendicitis",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "The imaging (Ultrasound) shows a dilated, non-compressible appendix with periappendiceal fluid/fat stranding ± appendicolith, the classic combination for acute appendicitis.",
+        "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE",
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__33__g5sv8n",
+        "number": "33",
+        "text": "What is the most likely diagnosis? [img: Radiologyaleftrenalstone.png ]",
+        "options": [
+          "Phlebolith",
+          "Left renal stone",
+          "Calcified lymph node",
+          "Gallstone"
+        ],
+        "originalOptions": [
+          "Phlebolith",
+          "Left renal stone",
+          "Calcified lymph node",
+          "Gallstone"
+        ],
+        "correctAnswer": "B) Left renal stone",
+        "correctAnswerText": "Left renal stone",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "A well-defined, rounded radiopaque calcification overlying the renal shadow on KUB is most consistent with a renal calculus rather than a pelvic phlebolith or lymph node calcification.",
+        "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE",
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__34__2n2605",
+        "number": "34",
+        "text": "What is the most likely diagnosis? [img: Radiologyaureterstone.png ]",
+        "options": [
+          "Appendicolith",
+          "Phlebolith",
+          "Ureteric stone",
+          "Renal stone"
+        ],
+        "originalOptions": [
+          "Appendicolith",
+          "Phlebolith",
+          "Ureteric stone",
+          "Renal stone"
+        ],
+        "correctAnswer": "C) Ureteric stone",
+        "correctAnswerText": "Ureteric stone",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The calcification lies along the expected course of the ureter (from renal pelvis to bladder), distinguishing it from a phlebolith, which sits in the pelvis away from this line.",
+        "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE",
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__35__bsl6sv",
+        "number": "35",
+        "text": "Which imaging modality and plane is shown in this image? [img: Radiologyacoronalctabdomen.png ]",
+        "options": [
+          "Axial CT abdomen",
+          "Coronal CT abdomen with contrast",
+          "Sagittal MRI abdomen",
+          "Coronal ultrasound"
+        ],
+        "originalOptions": [
+          "Axial CT abdomen",
+          "Coronal CT abdomen with contrast",
+          "Sagittal MRI abdomen",
+          "Coronal ultrasound"
+        ],
+        "correctAnswer": "B) Coronal CT abdomen with contrast",
+        "correctAnswerText": "Coronal CT abdomen with contrast",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The image demonstrates the liver, kidneys, and spine in a coronal (frontal) cross-sectional plane typical of coronal reformatted contrast-enhanced CT.",
+        "batchName": "Serotonin Mini-OSCE",
+        "batchNames": [
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__36__tsa7jr",
+        "number": "36",
+        "text": "What is the most likely diagnosis? [img: Radiologyamidgutvolvulus.png ]",
+        "options": [
+          "Intussusception",
+          "Cecal volvulus",
+          "Sigmoid volvulus",
+          "Midgut volvulus"
+        ],
+        "originalOptions": [
+          "Intussusception",
+          "Cecal volvulus",
+          "Sigmoid volvulus",
+          "Midgut volvulus"
+        ],
+        "correctAnswer": "D) Midgut volvulus",
+        "correctAnswerText": "Midgut volvulus",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The CT shows the classic whirlpool sign of the superior mesenteric vessels and mesentery twisting around each other, diagnostic of midgut volvulus (from malrotation).",
+        "batchName": "Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+        "batchNames": [
+          "Aorta Final",
+          "Waman A7yaha Mini-OSCE",
+          "Serotonin Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -18623,7 +19399,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 45,
+    "totalQuestions": 50,
     "totalLectures": 19,
     "hasAiFolder": false
   },
