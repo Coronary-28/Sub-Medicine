@@ -11440,9 +11440,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__2__kv1h0w",
+            "id": "radiology__lecture__abdominal-radiology__2__1m20x",
             "number": "2",
-            "text": "Identify the labeled structure in this axial contrast CT of the abdomen. [img: Radiologyaleftrenalvein.png ]",
+            "text": "In this labeled axial CT image, what does structure \"3\" represent? [img: Radiologyaleftrenalvein.png ]",
             "options": [
               "Left renal artery",
               "Left renal vein",
@@ -11461,7 +11461,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The labeled vessel courses anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).",
+            "explanation": "In this labeled slice the numbered structures correspond to liver, gallbladder, and left renal vein, consistent with the vein's typical course anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).",
             "batchName": "Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Vagus Mini-OSCE (Group C)",
             "batchNames": [
               "Iris Mini-OSCE (Group A)",
@@ -11759,11 +11759,12 @@
             "isMultiple": false,
             "correctAnswerLetter": "B",
             "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
-            "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
+            "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
-              "Endorphin Mini-OSCE (Group D)"
+              "Endorphin Mini-OSCE (Group D)",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -12712,6 +12713,219 @@
             "lectureName": "Abdominal Radiology",
             "groupName": "Abdominal Radiology",
             "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__37__2isytk",
+            "number": "37",
+            "text": "What is the most likely diagnosis? [img: Radiologyagallstoneus.png ]",
+            "options": [
+              "Biliary sludge",
+              "Gallbladder polyp",
+              "Porcelain gallbladder",
+              "Gallbladder stone"
+            ],
+            "originalOptions": [
+              "Biliary sludge",
+              "Gallbladder polyp",
+              "Porcelain gallbladder",
+              "Gallbladder stone"
+            ],
+            "correctAnswer": "D) Gallbladder stone",
+            "correctAnswerText": "Gallbladder stone",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Ultrasound shows a hyperechoic intraluminal focus with posterior acoustic shadowing within the gallbladder, the classic appearance of a gallstone.",
+            "batchName": "Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__38__ta9s5h",
+            "number": "38",
+            "text": "What is the most likely diagnosis? [img: Radiologyaappendicitisct.png ]",
+            "options": [
+              "Appendicitis",
+              "Mesenteric ischemia",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "originalOptions": [
+              "Appendicitis",
+              "Mesenteric ischemia",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "correctAnswer": "A) Appendicitis",
+            "correctAnswerText": "Appendicitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The coronal CT shows an appendicolith with a dilated, thick-walled appendix and surrounding fat stranding, diagnostic of acute appendicitis.",
+            "batchName": "Aorta Final / Vagus Mini-OSCE (Group C) / Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__39__2oyn26",
+            "number": "39",
+            "text": "In this labeled axial CT, structure \"3\" corresponds to which organ? [img: Radiologyaabdominalanatomyleftkidney.png ]",
+            "options": [
+              "Left adrenal gland",
+              "Spleen",
+              "Left kidney",
+              "Descending colon"
+            ],
+            "originalOptions": [
+              "Left adrenal gland",
+              "Spleen",
+              "Left kidney",
+              "Descending colon"
+            ],
+            "correctAnswer": "C) Left kidney",
+            "correctAnswerText": "Left kidney",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
+            "batchName": "Vagus Mini-OSCE (Group D)",
+            "batchNames": [
+              "Vagus Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__40__kngv1v",
+            "number": "40",
+            "text": "What is the most likely diagnosis? [img: Radiologyacecalvolvulus.png ]",
+            "options": [
+              "Midgut volvulus",
+              "Sigmoid volvulus",
+              "Small bowel obstruction",
+              "Cecal volvulus"
+            ],
+            "originalOptions": [
+              "Midgut volvulus",
+              "Sigmoid volvulus",
+              "Small bowel obstruction",
+              "Cecal volvulus"
+            ],
+            "correctAnswer": "D) Cecal volvulus",
+            "correctAnswerText": "Cecal volvulus",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The x-ray shows a massively dilated loop of large bowel extending from the right lower quadrant toward the epigastrium, with the haustral pattern maintained, consistent with cecal volvulus.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__41__50rh70",
+            "number": "41",
+            "text": "What is the most likely diagnosis? [img: Radiologyacholecystitisus.jpg ]",
+            "options": [
+              "Acute cholecystitis with cholelithiasis",
+              "Biliary colic without cholecystitis",
+              "Gallbladder polyp",
+              "Porcelain gallbladder"
+            ],
+            "originalOptions": [
+              "Acute cholecystitis with cholelithiasis",
+              "Biliary colic without cholecystitis",
+              "Gallbladder polyp",
+              "Porcelain gallbladder"
+            ],
+            "correctAnswer": "A) Acute cholecystitis with cholelithiasis",
+            "correctAnswerText": "Acute cholecystitis with cholelithiasis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Ultrasound shows a gallstone with a thickened, edematous gallbladder wall, consistent with acute calculous cholecystitis rather than simple biliary colic.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__42__bxtc8p",
+            "number": "42",
+            "text": "What is the most likely diagnosis? [img: Radiologyacholecystitisct.jpg ]",
+            "options": [
+              "Bowel obstruction",
+              "Pancreatitis",
+              "Cholecystitis",
+              "Hiatal hernia"
+            ],
+            "originalOptions": [
+              "Bowel obstruction",
+              "Pancreatitis",
+              "Cholecystitis",
+              "Hiatal hernia"
+            ],
+            "correctAnswer": "C) Cholecystitis",
+            "correctAnswerText": "Cholecystitis",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The CT shows a thickened, enhancing gallbladder wall with a pericholecystic rim of fluid.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
           }
         ]
       },
@@ -13427,6 +13641,44 @@
             "groupName": "Abdominal Radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__38__ta9s5h",
+            "number": "38",
+            "text": "What is the most likely diagnosis? [img: Radiologyaappendicitisct.png ]",
+            "options": [
+              "Appendicitis",
+              "Mesenteric ischemia",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "originalOptions": [
+              "Appendicitis",
+              "Mesenteric ischemia",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "correctAnswer": "A) Appendicitis",
+            "correctAnswerText": "Appendicitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The coronal CT shows an appendicolith with a dilated, thick-walled appendix and surrounding fat stranding, diagnostic of acute appendicitis.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -13477,9 +13729,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__2__kv1h0w",
+            "id": "radiology__lecture__abdominal-radiology__2__1m20x",
             "number": "2",
-            "text": "Identify the labeled structure in this axial contrast CT of the abdomen. [img: Radiologyaleftrenalvein.png ]",
+            "text": "In this labeled axial CT image, what does structure \"3\" represent? [img: Radiologyaleftrenalvein.png ]",
             "options": [
               "Left renal artery",
               "Left renal vein",
@@ -13498,7 +13750,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The labeled vessel courses anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).",
+            "explanation": "In this labeled slice the numbered structures correspond to liver, gallbladder, and left renal vein, consistent with the vein's typical course anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
               "Iris Mini-OSCE (Group A)",
@@ -14169,7 +14421,8 @@
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
-              "Endorphin Mini-OSCE (Group D)"
+              "Endorphin Mini-OSCE (Group D)",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -14944,7 +15197,8 @@
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
-              "Endorphin Mini-OSCE (Group D)"
+              "Endorphin Mini-OSCE (Group D)",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -15331,7 +15585,8 @@
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
-              "Endorphin Mini-OSCE (Group D)"
+              "Endorphin Mini-OSCE (Group D)",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -16072,9 +16327,9 @@
         "subjectName": "Radiology",
         "questions": [
           {
-            "id": "radiology__lecture__abdominal-radiology__2__kv1h0w",
+            "id": "radiology__lecture__abdominal-radiology__2__1m20x",
             "number": "2",
-            "text": "Identify the labeled structure in this axial contrast CT of the abdomen. [img: Radiologyaleftrenalvein.png ]",
+            "text": "In this labeled axial CT image, what does structure \"3\" represent? [img: Radiologyaleftrenalvein.png ]",
             "options": [
               "Left renal artery",
               "Left renal vein",
@@ -16093,7 +16348,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The labeled vessel courses anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).",
+            "explanation": "In this labeled slice the numbered structures correspond to liver, gallbladder, and left renal vein, consistent with the vein's typical course anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).",
             "batchName": "Iris Mini-OSCE (Group A)",
             "batchNames": [
               "Iris Mini-OSCE (Group A)",
@@ -16895,6 +17150,43 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__abdominal-radiology__37__2isytk",
+            "number": "37",
+            "text": "What is the most likely diagnosis? [img: Radiologyagallstoneus.png ]",
+            "options": [
+              "Biliary sludge",
+              "Gallbladder polyp",
+              "Porcelain gallbladder",
+              "Gallbladder stone"
+            ],
+            "originalOptions": [
+              "Biliary sludge",
+              "Gallbladder polyp",
+              "Porcelain gallbladder",
+              "Gallbladder stone"
+            ],
+            "correctAnswer": "D) Gallbladder stone",
+            "correctAnswerText": "Gallbladder stone",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Ultrasound shows a hyperechoic intraluminal focus with posterior acoustic shadowing within the gallbladder, the classic appearance of a gallstone.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
             "number": "7",
             "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
@@ -17028,9 +17320,9 @@
         "subjectName": "Radiology",
         "questions": [
           {
-            "id": "radiology__lecture__abdominal-radiology__2__kv1h0w",
+            "id": "radiology__lecture__abdominal-radiology__2__1m20x",
             "number": "2",
-            "text": "Identify the labeled structure in this axial contrast CT of the abdomen. [img: Radiologyaleftrenalvein.png ]",
+            "text": "In this labeled axial CT image, what does structure \"3\" represent? [img: Radiologyaleftrenalvein.png ]",
             "options": [
               "Left renal artery",
               "Left renal vein",
@@ -17049,12 +17341,50 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The labeled vessel courses anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).",
+            "explanation": "In this labeled slice the numbered structures correspond to liver, gallbladder, and left renal vein, consistent with the vein's typical course anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).",
             "batchName": "Vagus Mini-OSCE (Group C)",
             "batchNames": [
               "Iris Mini-OSCE (Group A)",
               "Aorta Mini-OSCE (Group A)",
               "Vagus Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__38__ta9s5h",
+            "number": "38",
+            "text": "What is the most likely diagnosis? [img: Radiologyaappendicitisct.png ]",
+            "options": [
+              "Appendicitis",
+              "Mesenteric ischemia",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "originalOptions": [
+              "Appendicitis",
+              "Mesenteric ischemia",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "correctAnswer": "A) Appendicitis",
+            "correctAnswerText": "Appendicitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The coronal CT shows an appendicolith with a dilated, thick-walled appendix and surrounding fat stranding, diagnostic of acute appendicitis.",
+            "batchName": "Vagus Mini-OSCE (Group C)",
+            "batchNames": [
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -17180,6 +17510,42 @@
               "Aorta Final",
               "Vagus Mini-OSCE (Group D)",
               "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__39__2oyn26",
+            "number": "39",
+            "text": "In this labeled axial CT, structure \"3\" corresponds to which organ? [img: Radiologyaabdominalanatomyleftkidney.png ]",
+            "options": [
+              "Left adrenal gland",
+              "Spleen",
+              "Left kidney",
+              "Descending colon"
+            ],
+            "originalOptions": [
+              "Left adrenal gland",
+              "Spleen",
+              "Left kidney",
+              "Descending colon"
+            ],
+            "correctAnswer": "C) Left kidney",
+            "correctAnswerText": "Left kidney",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
+            "batchName": "Vagus Mini-OSCE (Group D)",
+            "batchNames": [
+              "Vagus Mini-OSCE (Group D)"
             ],
             "note": "",
             "pageNumber": "",
@@ -17392,6 +17758,45 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__abdominal-radiology__10__cbf83c",
+            "number": "10",
+            "text": "Most likely diagnosis? [img: Radiologyacolorectalcancer.png ]",
+            "options": [
+              "Intussusception",
+              "Colorectal cancer",
+              "Volvulus",
+              "Bowel ischemia"
+            ],
+            "originalOptions": [
+              "Intussusception",
+              "Colorectal cancer",
+              "Volvulus",
+              "Bowel ischemia"
+            ],
+            "correctAnswer": "B) Colorectal cancer",
+            "correctAnswerText": "Colorectal cancer",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__abdominal-radiology__32__mgheow",
             "number": "32",
             "text": "What is the most likely diagnosis? [img: Radiologyaappendicitisus.jpg ]",
@@ -17541,6 +17946,189 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__abdominal-radiology__37__2isytk",
+            "number": "37",
+            "text": "What is the most likely diagnosis? [img: Radiologyagallstoneus.png ]",
+            "options": [
+              "Biliary sludge",
+              "Gallbladder polyp",
+              "Porcelain gallbladder",
+              "Gallbladder stone"
+            ],
+            "originalOptions": [
+              "Biliary sludge",
+              "Gallbladder polyp",
+              "Porcelain gallbladder",
+              "Gallbladder stone"
+            ],
+            "correctAnswer": "D) Gallbladder stone",
+            "correctAnswerText": "Gallbladder stone",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Ultrasound shows a hyperechoic intraluminal focus with posterior acoustic shadowing within the gallbladder, the classic appearance of a gallstone.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__38__ta9s5h",
+            "number": "38",
+            "text": "What is the most likely diagnosis? [img: Radiologyaappendicitisct.png ]",
+            "options": [
+              "Appendicitis",
+              "Mesenteric ischemia",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "originalOptions": [
+              "Appendicitis",
+              "Mesenteric ischemia",
+              "Diverticulitis",
+              "Crohn's disease"
+            ],
+            "correctAnswer": "A) Appendicitis",
+            "correctAnswerText": "Appendicitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The coronal CT shows an appendicolith with a dilated, thick-walled appendix and surrounding fat stranding, diagnostic of acute appendicitis.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__40__kngv1v",
+            "number": "40",
+            "text": "What is the most likely diagnosis? [img: Radiologyacecalvolvulus.png ]",
+            "options": [
+              "Midgut volvulus",
+              "Sigmoid volvulus",
+              "Small bowel obstruction",
+              "Cecal volvulus"
+            ],
+            "originalOptions": [
+              "Midgut volvulus",
+              "Sigmoid volvulus",
+              "Small bowel obstruction",
+              "Cecal volvulus"
+            ],
+            "correctAnswer": "D) Cecal volvulus",
+            "correctAnswerText": "Cecal volvulus",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The x-ray shows a massively dilated loop of large bowel extending from the right lower quadrant toward the epigastrium, with the haustral pattern maintained, consistent with cecal volvulus.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__41__50rh70",
+            "number": "41",
+            "text": "What is the most likely diagnosis? [img: Radiologyacholecystitisus.jpg ]",
+            "options": [
+              "Acute cholecystitis with cholelithiasis",
+              "Biliary colic without cholecystitis",
+              "Gallbladder polyp",
+              "Porcelain gallbladder"
+            ],
+            "originalOptions": [
+              "Acute cholecystitis with cholelithiasis",
+              "Biliary colic without cholecystitis",
+              "Gallbladder polyp",
+              "Porcelain gallbladder"
+            ],
+            "correctAnswer": "A) Acute cholecystitis with cholelithiasis",
+            "correctAnswerText": "Acute cholecystitis with cholelithiasis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Ultrasound shows a gallstone with a thickened, edematous gallbladder wall, consistent with acute calculous cholecystitis rather than simple biliary colic.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__42__bxtc8p",
+            "number": "42",
+            "text": "What is the most likely diagnosis? [img: Radiologyacholecystitisct.jpg ]",
+            "options": [
+              "Bowel obstruction",
+              "Pancreatitis",
+              "Cholecystitis",
+              "Hiatal hernia"
+            ],
+            "originalOptions": [
+              "Bowel obstruction",
+              "Pancreatitis",
+              "Cholecystitis",
+              "Hiatal hernia"
+            ],
+            "correctAnswer": "C) Cholecystitis",
+            "correctAnswerText": "Cholecystitis",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The CT shows a thickened, enhancing gallbladder wall with a pericholecystic rim of fluid.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
             "number": "7",
             "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
@@ -17625,9 +18213,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__2__kv1h0w",
+        "id": "radiology__lecture__abdominal-radiology__2__1m20x",
         "number": "2",
-        "text": "Identify the labeled structure in this axial contrast CT of the abdomen. [img: Radiologyaleftrenalvein.png ]",
+        "text": "In this labeled axial CT image, what does structure \"3\" represent? [img: Radiologyaleftrenalvein.png ]",
         "options": [
           "Left renal artery",
           "Left renal vein",
@@ -17646,7 +18234,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "The labeled vessel courses anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).",
+        "explanation": "In this labeled slice the numbered structures correspond to liver, gallbladder, and left renal vein, consistent with the vein's typical course anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).",
         "batchName": "Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Vagus Mini-OSCE (Group C)",
         "batchNames": [
           "Iris Mini-OSCE (Group A)",
@@ -17944,11 +18532,12 @@
         "isMultiple": false,
         "correctAnswerLetter": "B",
         "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
-        "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
+        "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Endorphin Mini-OSCE (Group A)",
           "Endorphin Mini-OSCE (Group C)",
-          "Endorphin Mini-OSCE (Group D)"
+          "Endorphin Mini-OSCE (Group D)",
+          "Waman A7yaha Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -18899,6 +19488,219 @@
         "sourceType": "lecture"
       },
       {
+        "id": "radiology__lecture__abdominal-radiology__37__2isytk",
+        "number": "37",
+        "text": "What is the most likely diagnosis? [img: Radiologyagallstoneus.png ]",
+        "options": [
+          "Biliary sludge",
+          "Gallbladder polyp",
+          "Porcelain gallbladder",
+          "Gallbladder stone"
+        ],
+        "originalOptions": [
+          "Biliary sludge",
+          "Gallbladder polyp",
+          "Porcelain gallbladder",
+          "Gallbladder stone"
+        ],
+        "correctAnswer": "D) Gallbladder stone",
+        "correctAnswerText": "Gallbladder stone",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Ultrasound shows a hyperechoic intraluminal focus with posterior acoustic shadowing within the gallbladder, the classic appearance of a gallstone.",
+        "batchName": "Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Serotonin Mini-OSCE",
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__38__ta9s5h",
+        "number": "38",
+        "text": "What is the most likely diagnosis? [img: Radiologyaappendicitisct.png ]",
+        "options": [
+          "Appendicitis",
+          "Mesenteric ischemia",
+          "Diverticulitis",
+          "Crohn's disease"
+        ],
+        "originalOptions": [
+          "Appendicitis",
+          "Mesenteric ischemia",
+          "Diverticulitis",
+          "Crohn's disease"
+        ],
+        "correctAnswer": "A) Appendicitis",
+        "correctAnswerText": "Appendicitis",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "The coronal CT shows an appendicolith with a dilated, thick-walled appendix and surrounding fat stranding, diagnostic of acute appendicitis.",
+        "batchName": "Aorta Final / Vagus Mini-OSCE (Group C) / Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Aorta Final",
+          "Vagus Mini-OSCE (Group C)",
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__39__2oyn26",
+        "number": "39",
+        "text": "In this labeled axial CT, structure \"3\" corresponds to which organ? [img: Radiologyaabdominalanatomyleftkidney.png ]",
+        "options": [
+          "Left adrenal gland",
+          "Spleen",
+          "Left kidney",
+          "Descending colon"
+        ],
+        "originalOptions": [
+          "Left adrenal gland",
+          "Spleen",
+          "Left kidney",
+          "Descending colon"
+        ],
+        "correctAnswer": "C) Left kidney",
+        "correctAnswerText": "Left kidney",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
+        "batchName": "Vagus Mini-OSCE (Group D)",
+        "batchNames": [
+          "Vagus Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__40__kngv1v",
+        "number": "40",
+        "text": "What is the most likely diagnosis? [img: Radiologyacecalvolvulus.png ]",
+        "options": [
+          "Midgut volvulus",
+          "Sigmoid volvulus",
+          "Small bowel obstruction",
+          "Cecal volvulus"
+        ],
+        "originalOptions": [
+          "Midgut volvulus",
+          "Sigmoid volvulus",
+          "Small bowel obstruction",
+          "Cecal volvulus"
+        ],
+        "correctAnswer": "D) Cecal volvulus",
+        "correctAnswerText": "Cecal volvulus",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The x-ray shows a massively dilated loop of large bowel extending from the right lower quadrant toward the epigastrium, with the haustral pattern maintained, consistent with cecal volvulus.",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__41__50rh70",
+        "number": "41",
+        "text": "What is the most likely diagnosis? [img: Radiologyacholecystitisus.jpg ]",
+        "options": [
+          "Acute cholecystitis with cholelithiasis",
+          "Biliary colic without cholecystitis",
+          "Gallbladder polyp",
+          "Porcelain gallbladder"
+        ],
+        "originalOptions": [
+          "Acute cholecystitis with cholelithiasis",
+          "Biliary colic without cholecystitis",
+          "Gallbladder polyp",
+          "Porcelain gallbladder"
+        ],
+        "correctAnswer": "A) Acute cholecystitis with cholelithiasis",
+        "correctAnswerText": "Acute cholecystitis with cholelithiasis",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Ultrasound shows a gallstone with a thickened, edematous gallbladder wall, consistent with acute calculous cholecystitis rather than simple biliary colic.",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__42__bxtc8p",
+        "number": "42",
+        "text": "What is the most likely diagnosis? [img: Radiologyacholecystitisct.jpg ]",
+        "options": [
+          "Bowel obstruction",
+          "Pancreatitis",
+          "Cholecystitis",
+          "Hiatal hernia"
+        ],
+        "originalOptions": [
+          "Bowel obstruction",
+          "Pancreatitis",
+          "Cholecystitis",
+          "Hiatal hernia"
+        ],
+        "correctAnswer": "C) Cholecystitis",
+        "correctAnswerText": "Cholecystitis",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The CT shows a thickened, enhancing gallbladder wall with a pericholecystic rim of fluid.",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "radiology__lecture__musculoskeletal-msk-radiology__1__1544cz",
         "number": "1",
         "text": "Which of the following is FALSE regarding this lesion? [img: nonossifyingfibroma.png ]",
@@ -19399,7 +20201,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 50,
+    "totalQuestions": 56,
     "totalLectures": 19,
     "hasAiFolder": false
   },
