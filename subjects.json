@@ -11685,8 +11685,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
-            "batchName": "Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
+            "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group A)",
               "Waman A7yaha Mini-OSCE"
             ],
@@ -11797,8 +11798,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
-            "batchName": "Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final",
+            "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
@@ -11909,8 +11911,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "B",
             "explanation": "In acute appendicitis the appendiceal wall is thickened and enhancing, not normal/thin; a normal wall thickness argues against the diagnosis.",
-            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
+            "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)"
             ],
@@ -13662,8 +13665,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "E",
             "explanation": "The bird-beak sign is a feature of achalasia (or volvulus), not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
-            "batchName": "Vagus Final",
+            "batchName": "Coronary Mini-OSCE (Group C) / Vagus Final",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Vagus Final"
             ],
             "note": "",
@@ -14800,6 +14804,7 @@
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
             "batchName": "Aorta Final",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
@@ -15652,6 +15657,162 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__abdominal-radiology__8__j6vebo",
+            "number": "8",
+            "text": "What is the diagnosis? [img: Radiologyadiverticulitis.png ]",
+            "options": [
+              "Pancreatitis",
+              "Appendicitis",
+              "Cholecystitis",
+              "Diverticulitis"
+            ],
+            "originalOptions": [
+              "Pancreatitis",
+              "Appendicitis",
+              "Cholecystitis",
+              "Diverticulitis"
+            ],
+            "correctAnswer": "D) Diverticulitis",
+            "correctAnswerText": "Diverticulitis",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__11__qb01ri",
+            "number": "11",
+            "text": "What is the most likely diagnosis? [img: Radiologyaportalvenousgas.png ]",
+            "options": [
+              "Pneumobilia",
+              "Pneumoperitoneum",
+              "Portal venous gas",
+              "Pancreatitis"
+            ],
+            "originalOptions": [
+              "Pneumobilia",
+              "Pneumoperitoneum",
+              "Portal venous gas",
+              "Pancreatitis"
+            ],
+            "correctAnswer": "C) Portal venous gas",
+            "correctAnswerText": "Portal venous gas",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__14__rmggkm",
+            "number": "14",
+            "text": "Which of the following is not a typical radiologic feature of appendicitis?",
+            "options": [
+              "Dilated appendiceal diameter",
+              "Thin appendiceal wall",
+              "Periappendiceal fat stranding",
+              "Distended appendiceal lumen"
+            ],
+            "originalOptions": [
+              "Dilated appendiceal diameter",
+              "Thin appendiceal wall",
+              "Periappendiceal fat stranding",
+              "Distended appendiceal lumen"
+            ],
+            "correctAnswer": "B) Thin appendiceal wall",
+            "correctAnswerText": "Thin appendiceal wall",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "In acute appendicitis the appendiceal wall is thickened and enhancing, not normal/thin; a normal wall thickness argues against the diagnosis.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__63__8xjq3p",
+            "number": "63",
+            "text": "All are signs of pneumoperitoneum except:",
+            "options": [
+              "Rigler sign",
+              "Football sign",
+              "Continuous diaphragm sign",
+              "Falciform ligament sign",
+              "Bird-beak sign"
+            ],
+            "originalOptions": [
+              "Rigler sign",
+              "Football sign",
+              "Continuous diaphragm sign",
+              "Falciform ligament sign",
+              "Bird-beak sign"
+            ],
+            "correctAnswer": "E) Bird-beak sign",
+            "correctAnswerText": "Bird-beak sign",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "The bird-beak sign is a feature of achalasia (or volvulus), not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Vagus Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__6__4oyfuj",
             "number": "6",
             "text": "Which is NOT a feature of a simple bone cyst?",
@@ -16250,6 +16411,7 @@
             "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group A)",
               "Waman A7yaha Mini-OSCE"
             ],
@@ -16365,6 +16527,7 @@
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
@@ -16763,6 +16926,7 @@
             "explanation": "In acute appendicitis the appendiceal wall is thickened and enhancing, not normal/thin; a normal wall thickness argues against the diagnosis.",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)"
             ],
@@ -17140,6 +17304,7 @@
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
@@ -17528,6 +17693,7 @@
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
             "batchName": "Endorphin Mini-OSCE (Group D)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
@@ -17917,6 +18083,7 @@
             "explanation": "In acute appendicitis the appendiceal wall is thickened and enhancing, not normal/thin; a normal wall thickness argues against the diagnosis.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)"
             ],
@@ -18614,6 +18781,7 @@
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
@@ -19667,6 +19835,7 @@
             "explanation": "The bird-beak sign is a feature of achalasia (or volvulus), not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
             "batchName": "Vagus Final",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Vagus Final"
             ],
             "note": "",
@@ -20275,6 +20444,7 @@
             "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group A)",
               "Waman A7yaha Mini-OSCE"
             ],
@@ -21246,8 +21416,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
-        "batchName": "Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
+        "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
         "batchNames": [
+          "Coronary Mini-OSCE (Group C)",
           "Endorphin Mini-OSCE (Group A)",
           "Waman A7yaha Mini-OSCE"
         ],
@@ -21358,8 +21529,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
-        "batchName": "Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final",
+        "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final",
         "batchNames": [
+          "Coronary Mini-OSCE (Group C)",
           "Iris Mini-OSCE (Group D)",
           "Endorphin Mini-OSCE (Group A)",
           "Endorphin Mini-OSCE (Group C)",
@@ -21470,8 +21642,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "B",
         "explanation": "In acute appendicitis the appendiceal wall is thickened and enhancing, not normal/thin; a normal wall thickness argues against the diagnosis.",
-        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
+        "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
         "batchNames": [
+          "Coronary Mini-OSCE (Group C)",
           "Endorphin Mini-OSCE (Group B)",
           "Endorphin Mini-OSCE (Group E)"
         ],
@@ -23223,8 +23396,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "E",
         "explanation": "The bird-beak sign is a feature of achalasia (or volvulus), not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
-        "batchName": "Vagus Final",
+        "batchName": "Coronary Mini-OSCE (Group C) / Vagus Final",
         "batchNames": [
+          "Coronary Mini-OSCE (Group C)",
           "Vagus Final"
         ],
         "note": "",
