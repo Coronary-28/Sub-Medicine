@@ -68,7 +68,7 @@ C) Cholecystitis
 D) Diverticulitis
 Correct Answer: D) Diverticulitis
 Explanation: The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.
-Batch: Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE
+Batch: Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE
 ###
 All of the following is true except:
 A) In cecal volvulus → colonic haustral pattern is lost
@@ -95,7 +95,7 @@ C) Portal venous gas
 D) Pancreatitis
 Correct Answer: C) Portal venous gas
 Explanation: The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.
-Batch: Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final
+Batch: Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final
 ###
 What is the diagnosis? [img: Radiologyahydronephrosis.png ]
 A) Renal cyst
@@ -122,7 +122,7 @@ C) Periappendiceal fat stranding
 D) Distended appendiceal lumen
 Correct Answer: B) Thin appendiceal wall
 Explanation: In acute appendicitis the appendiceal wall is thickened and enhancing, not normal/thin; a normal wall thickness argues against the diagnosis.
-Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)
+Batch: Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)
 ###
 All of the following can be seen in intestinal ischemia except:
 A) Thickened wall loops
@@ -571,7 +571,7 @@ D) Falciform ligament sign
 E) Bird-beak sign
 Correct Answer: E) Bird-beak sign
 Explanation: The bird-beak sign is a feature of achalasia (or volvulus), not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.
-Batch: Vagus Final
+Batch: Coronary Mini-OSCE (Group C) / Vagus Final
 ###
 Regarding abdominal calcifications, which one of the following is TRUE?
 A. Phleboliths are small arterial wall calcifications seen in the pelvis
