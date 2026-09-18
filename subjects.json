@@ -11468,7 +11468,7 @@
               "Aorta Mini-OSCE (Group A)",
               "Vagus Mini-OSCE (Group C)"
             ],
-            "note": "",
+            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left renal vein",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -11685,9 +11685,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
-            "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
+            "batchName": "Coronary Mini-OSCE (Group C) / Iris Final / Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Waman A7yaha Mini-OSCE"
             ],
@@ -11798,10 +11799,11 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
-            "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final",
+            "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group D)",
@@ -12132,8 +12134,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.",
-            "batchName": "Endorphin Mini-OSCE (Group C)",
+            "batchName": "Iris Final / Endorphin Mini-OSCE (Group C)",
             "batchNames": [
+              "Iris Final",
               "Endorphin Mini-OSCE (Group C)"
             ],
             "note": "",
@@ -12167,11 +12170,12 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "Anterior tracheal displacement/bowing from the dilated esophagus is a lateral-view finding, not a frontal-view finding, making this statement false.",
-            "batchName": "Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group D) / Aorta Final",
+            "batchName": "Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group D) / Aorta Final / Serotonin Mini-OSCE",
             "batchNames": [
               "Iris Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group D)",
-              "Aorta Final"
+              "Aorta Final",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -12819,7 +12823,7 @@
               "Vagus Mini-OSCE (Group D)",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "",
+            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left kidney",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -12955,11 +12959,13 @@
             "isMultiple": false,
             "correctAnswerLetter": "B",
             "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
-            "batchName": "Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE",
+            "batchName": "Iris Final / Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Aorta Final",
-              "Waman A7yaha Mini-OSCE"
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -13488,9 +13494,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "E",
             "explanation": "Achalasia produces marked esophageal dilatation, not a normal-caliber esophagus, making this the false statement.",
-            "batchName": "Overdose Final",
+            "batchName": "Overdose Final / Serotonin Mini-OSCE",
             "batchNames": [
-              "Overdose Final"
+              "Overdose Final",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -13679,8 +13686,253 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__64__ly5mx1",
+            "id": "radiology__lecture__abdominal-radiology__64__5s82g0",
             "number": "64",
+            "text": "Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]",
+            "options": [
+              "Choledocholithiasis",
+              "Gallstones",
+              "Porcelain gallbladder",
+              "Gallbladder polyp"
+            ],
+            "originalOptions": [
+              "Choledocholithiasis",
+              "Gallstones",
+              "Porcelain gallbladder",
+              "Gallbladder polyp"
+            ],
+            "correctAnswer": "B) Gallstones",
+            "correctAnswerText": "Gallstones",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The MRI/MRCP shows the gallbladder packed with multiple calculi, the defining finding for cholelithiasis (gallstones); the dilated CBD with ductal stones represents an associated complication rather than the primary diagnosis being tested.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__65__sotdhc",
+            "number": "65",
+            "text": "What is the most likely diagnosis? [img: Radiologyagastriccancer.png ]",
+            "options": [
+              "Benign peptic ulcer",
+              "Hiatal hernia",
+              "Gastric lymphoma",
+              "Gastric carcinoma"
+            ],
+            "originalOptions": [
+              "Benign peptic ulcer",
+              "Hiatal hernia",
+              "Gastric lymphoma",
+              "Gastric carcinoma"
+            ],
+            "correctAnswer": "D) Gastric carcinoma",
+            "correctAnswerText": "Gastric carcinoma",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The barium meal shows an irregular, ulcerated mass with abnormal mucosal folds, a pattern typical of malignant gastric ulceration rather than a benign ulcer.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__66__37chg8",
+            "number": "66",
+            "text": "What is the most likely diagnosis? [img: Radiologyapcos.png ]",
+            "options": [
+              "PCOS",
+              "Ovarian torsion",
+              "Endometrioma",
+              "Simple ovarian cyst"
+            ],
+            "originalOptions": [
+              "PCOS",
+              "Ovarian torsion",
+              "Endometrioma",
+              "Simple ovarian cyst"
+            ],
+            "correctAnswer": "A) PCOS",
+            "correctAnswerText": "PCOS",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Transvaginal ultrasound in this recalled station shows multiple small peripheral follicles (\"string of pearls\") in an enlarged ovary, characteristic of polycystic ovary syndrome.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__67__h4w1jl",
+            "number": "67",
+            "text": "The arrow (labeled 42) in this axial contrast CT points to which structure? [img: Radiologyaabdominalanatomygallbladder.png ]",
+            "options": [
+              "Liver",
+              "Right kidney",
+              "Descending aorta",
+              "Gallbladder"
+            ],
+            "originalOptions": [
+              "Liver",
+              "Right kidney",
+              "Descending aorta",
+              "Gallbladder"
+            ],
+            "correctAnswer": "D) Gallbladder",
+            "correctAnswerText": "Gallbladder",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The labeled structure sits in the right upper quadrant along the undersurface of the liver, the typical anatomical position of the gallbladder.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "41. main pancreatic duct ~ 42. body of the gallbladder ~ 43. epiploic foramen (of Winslow) ~ 44. right crus of the diaphragm",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__68__nihilm",
+            "number": "68",
+            "text": "Wrong about Wilms tumor?",
+            "options": [
+              "Most common renal tumor of childhood",
+              "Lung metastases are less common than bone metastases",
+              "Presents as a painless abdominal mass",
+              "Usually unilateral"
+            ],
+            "originalOptions": [
+              "Most common renal tumor of childhood",
+              "Lung metastases are less common than bone metastases",
+              "Presents as a painless abdominal mass",
+              "Usually unilateral"
+            ],
+            "correctAnswer": "B) Lung metastases are less common than bone metastases",
+            "correctAnswerText": "Lung metastases are less common than bone metastases",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The lungs are the most common site of metastasis in Wilms tumor (not less common than bone) , bone metastases are actually rare.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__69__h0jac7",
+            "number": "69",
+            "text": "The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
+            "options": [
+              "Celiac artery",
+              "Superior mesenteric artery",
+              "Splenic artery",
+              "Renal artery"
+            ],
+            "originalOptions": [
+              "Celiac artery",
+              "Superior mesenteric artery",
+              "Splenic artery",
+              "Renal artery"
+            ],
+            "correctAnswer": "A) Celiac artery",
+            "correctAnswerText": "Celiac artery",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "This recurring recalled anatomy image explicitly labels celiac artery, arising from the anterior aorta at the T12 level.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "51. pylorus ~ 52. coeliac trunk ~ 53. abdominal aorta",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__70__9uk8o5",
+            "number": "70",
+            "text": "What is the most likely diagnosis? [img: Radiologyabilateraladrenalcalcification.png ]",
+            "options": [
+              "Splenic granulomas",
+              "Bilateral renal calculi",
+              "Pancreatic calcification",
+              "Bilateral adrenal calcification"
+            ],
+            "originalOptions": [
+              "Splenic granulomas",
+              "Bilateral renal calculi",
+              "Pancreatic calcification",
+              "Bilateral adrenal calcification"
+            ],
+            "correctAnswer": "D) Bilateral adrenal calcification",
+            "correctAnswerText": "Bilateral adrenal calcification",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "This recalled station describes calcifications localized to both adrenal glands rather than the kidneys, pancreas, or spleen.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__71__ly5mx1",
+            "number": "71",
             "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
             "options": [
               "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -13716,8 +13968,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__65__204mmn",
-            "number": "65",
+            "id": "radiology__lecture__abdominal-radiology__72__204mmn",
+            "number": "72",
             "text": "Regarding Free air in the abdomen, which of following is TRUE?",
             "options": [
               "History of abdominal surgery within one month is an indication of pneumoperitoneum",
@@ -13753,8 +14005,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__66__kh4fd5",
-            "number": "66",
+            "id": "radiology__lecture__abdominal-radiology__73__kh4fd5",
+            "number": "73",
             "text": "Regarding bowel obstruction, which of the following is TRUE?",
             "options": [
               "Ascending colon diameter of 8 cm meets the criteria of dilatation",
@@ -13790,8 +14042,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__67__b0dcm5",
-            "number": "67",
+            "id": "radiology__lecture__abdominal-radiology__74__b0dcm5",
+            "number": "74",
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
               "The portal vein confluence lies anterior to the neck of the pancreas",
@@ -13827,8 +14079,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__68__b0dcm5",
-            "number": "68",
+            "id": "radiology__lecture__abdominal-radiology__75__b0dcm5",
+            "number": "75",
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
               "The Inferior mesenteric artery arises at the level of L2",
@@ -13864,8 +14116,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__69__kh4fd5",
-            "number": "69",
+            "id": "radiology__lecture__abdominal-radiology__76__kh4fd5",
+            "number": "76",
             "text": "Regarding bowel obstruction, which of the following is TRUE?",
             "options": [
               "Cecal diameter of 7 cm meets the criteria of dilatation",
@@ -13901,8 +14153,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__70__204mmn",
-            "number": "70",
+            "id": "radiology__lecture__abdominal-radiology__77__204mmn",
+            "number": "77",
             "text": "Regarding Free air in the abdomen, which of following is TRUE?",
             "options": [
               "The most common cause of free intraperitoneal air is perforated sigmoid colon",
@@ -13938,8 +14190,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__71__ly5mx1",
-            "number": "71",
+            "id": "radiology__lecture__abdominal-radiology__78__ly5mx1",
+            "number": "78",
             "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
             "options": [
               "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -13975,31 +14227,33 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__72__5s82g0",
-            "number": "72",
-            "text": "Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]",
+            "id": "radiology__lecture__abdominal-radiology__79__kg3rqp",
+            "number": "79",
+            "text": "Which of the following radiological signs can make the surest distinction between sigmoid volvulus as opposed to cecal volvulus?",
             "options": [
-              "Choledocholithiasis",
-              "Gallstones",
-              "Porcelain gallbladder",
-              "Gallbladder polyp"
+              "Whirlpool sign of the twisted mesenteric vessels",
+              "Absent haustral markings throughout the entire colon",
+              "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+              "Coffee bean sign with medial deviation of the dilated loop",
+              "Multiple air-fluid levels on an erect film"
             ],
             "originalOptions": [
-              "Choledocholithiasis",
-              "Gallstones",
-              "Porcelain gallbladder",
-              "Gallbladder polyp"
+              "Whirlpool sign of the twisted mesenteric vessels",
+              "Absent haustral markings throughout the entire colon",
+              "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+              "Coffee bean sign with medial deviation of the dilated loop",
+              "Multiple air-fluid levels on an erect film"
             ],
-            "correctAnswer": "B) Gallstones",
-            "correctAnswerText": "Gallstones",
-            "correctIndex": 1,
+            "correctAnswer": "C) A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+            "correctAnswerText": "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "The MRI/MRCP shows the gallbladder packed with multiple calculi, the defining finding for cholelithiasis (gallstones); the dilated CBD with ductal stones represents an associated complication rather than the primary diagnosis being tested.",
-            "batchName": "Aorta Final",
+            "correctAnswerLetter": "C",
+            "explanation": "Sigmoid volvulus arises in the pelvis/left lower quadrant and its dilated loop characteristically points toward the RUQ, whereas cecal volvulus arises in the RLQ and points toward the epigastrium/LUQ — this site-of-origin-and-direction pattern is more reliable than haustral pattern or the whirlpool sign, both of which can overlap between volvulus types.",
+            "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
-              "Aorta Final"
+              "Iris Mini-OSCE (Group C)"
             ],
             "note": "",
             "pageNumber": "",
@@ -14010,68 +14264,33 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__73__sotdhc",
-            "number": "73",
-            "text": "What is the most likely diagnosis? [img: Radiologyagastriccancer.png ]",
+            "id": "radiology__lecture__abdominal-radiology__80__t71g0q",
+            "number": "80",
+            "text": "The \"3-6-9 rule\" refers to the approximate maximum normal diameter (in cm) of which structures, respectively?",
             "options": [
-              "Benign peptic ulcer",
-              "Hiatal hernia",
-              "Gastric lymphoma",
-              "Gastric carcinoma"
+              "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
+              "Small bowel (6 cm), large bowel (9 cm), cecum (3 cm)",
+              "Small bowel (3 cm), cecum (6 cm), large bowel (9 cm)",
+              "Small bowel (9 cm), large bowel (6 cm), cecum (3 cm)"
             ],
             "originalOptions": [
-              "Benign peptic ulcer",
-              "Hiatal hernia",
-              "Gastric lymphoma",
-              "Gastric carcinoma"
+              "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
+              "Small bowel (6 cm), large bowel (9 cm), cecum (3 cm)",
+              "Small bowel (3 cm), cecum (6 cm), large bowel (9 cm)",
+              "Small bowel (9 cm), large bowel (6 cm), cecum (3 cm)"
             ],
-            "correctAnswer": "D) Gastric carcinoma",
-            "correctAnswerText": "Gastric carcinoma",
-            "correctIndex": 3,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "The barium meal shows an irregular, ulcerated mass with abnormal mucosal folds, a pattern typical of malignant gastric ulceration rather than a benign ulcer.",
-            "batchName": "Serotonin Mini-OSCE",
-            "batchNames": [
-              "Serotonin Mini-OSCE"
-            ],
-            "note": "This question is not covered in the course slides.",
-            "pageNumber": "",
-            "subjectName": "Radiology",
-            "subjectId": "radiology",
-            "lectureName": "Abdominal Radiology",
-            "groupName": "Abdominal Radiology",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "radiology__lecture__abdominal-radiology__74__37chg8",
-            "number": "74",
-            "text": "What is the most likely diagnosis? [img: Radiologyapcos.png ]",
-            "options": [
-              "PCOS",
-              "Ovarian torsion",
-              "Endometrioma",
-              "Simple ovarian cyst"
-            ],
-            "originalOptions": [
-              "PCOS",
-              "Ovarian torsion",
-              "Endometrioma",
-              "Simple ovarian cyst"
-            ],
-            "correctAnswer": "A) PCOS",
-            "correctAnswerText": "PCOS",
+            "correctAnswer": "A) Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
+            "correctAnswerText": "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
             "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "Transvaginal ultrasound in this recalled station shows multiple small peripheral follicles (\"string of pearls\") in an enlarged ovary, characteristic of polycystic ovary syndrome.",
-            "batchName": "Serotonin Mini-OSCE",
+            "explanation": "The 3-6-9 rule gives the approximate upper limits of normal caliber for the small bowel (3 cm), large bowel (6 cm), and cecum (9 cm) — exceeding these thresholds raises concern for bowel dilatation/obstruction.",
+            "batchName": "Iris Final",
             "batchNames": [
-              "Serotonin Mini-OSCE"
+              "Iris Final"
             ],
-            "note": "This question is not covered in the course slides.",
+            "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -14080,33 +14299,33 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__75__h4w1jl",
-            "number": "75",
-            "text": "The arrow (labeled 42) in this axial contrast CT points to which structure? [img: Radiologyaabdominalanatomygallbladder.png ]",
+            "id": "radiology__lecture__abdominal-radiology__81__q6568l",
+            "number": "81",
+            "text": "Which imaging modality is considered the gold standard for detecting gallbladder stones?",
             "options": [
-              "Liver",
-              "Right kidney",
-              "Descending aorta",
-              "Gallbladder"
+              "CT",
+              "Plain radiograph",
+              "MRI",
+              "Ultrasound"
             ],
             "originalOptions": [
-              "Liver",
-              "Right kidney",
-              "Descending aorta",
-              "Gallbladder"
+              "CT",
+              "Plain radiograph",
+              "MRI",
+              "Ultrasound"
             ],
-            "correctAnswer": "D) Gallbladder",
-            "correctAnswerText": "Gallbladder",
+            "correctAnswer": "D) Ultrasound",
+            "correctAnswerText": "Ultrasound",
             "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "D",
-            "explanation": "The labeled structure sits in the right upper quadrant along the undersurface of the liver, the typical anatomical position of the gallbladder.",
-            "batchName": "Waman A7yaha Mini-OSCE",
+            "explanation": "Ultrasound is highly sensitive for gallstones, appearing as echogenic foci with posterior acoustic shadowing, and is far more sensitive than plain radiograph (which only shows ~15–20% of stones) or CT (which can miss cholesterol stones).",
+            "batchName": "Iris Final",
             "batchNames": [
-              "Waman A7yaha Mini-OSCE"
+              "Iris Final"
             ],
-            "note": "41. main pancreatic duct ~ 42. body of the gallbladder ~ 43. epiploic foramen (of Winslow) ~ 44. right crus of the diaphragm",
+            "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -14115,33 +14334,33 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__76__nihilm",
-            "number": "76",
-            "text": "Wrong about Wilms tumor?",
+            "id": "radiology__lecture__abdominal-radiology__82__2h5ayy",
+            "number": "82",
+            "text": "Which of the following is a characteristic finding of small bowel obstruction, as opposed to large bowel obstruction?",
             "options": [
-              "Most common renal tumor of childhood",
-              "Lung metastases are less common than bone metastases",
-              "Presents as a painless abdominal mass",
-              "Usually unilateral"
+              "Peripherally located dilated loops",
+              "Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
+              "Haustral folds crossing only part of the lumen",
+              "Fecal loading within the dilated bowel segment"
             ],
             "originalOptions": [
-              "Most common renal tumor of childhood",
-              "Lung metastases are less common than bone metastases",
-              "Presents as a painless abdominal mass",
-              "Usually unilateral"
+              "Peripherally located dilated loops",
+              "Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
+              "Haustral folds crossing only part of the lumen",
+              "Fecal loading within the dilated bowel segment"
             ],
-            "correctAnswer": "B) Lung metastases are less common than bone metastases",
-            "correctAnswerText": "Lung metastases are less common than bone metastases",
+            "correctAnswer": "B) Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
+            "correctAnswerText": "Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
             "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The lungs are the most common site of metastasis in Wilms tumor (not less common than bone) , bone metastases are actually rare.",
-            "batchName": "Aorta Final",
+            "explanation": "Small bowel lies centrally and shows valvulae conniventes that span the entire lumen diameter, distinguishing it from large bowel, which lies peripherally and shows haustral folds crossing only part of the lumen.",
+            "batchName": "Iris Final",
             "batchNames": [
-              "Aorta Final"
+              "Iris Final"
             ],
-            "note": "This question is not covered in the course slides.",
+            "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -14150,33 +14369,35 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__77__h0jac7",
-            "number": "77",
-            "text": "The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
+            "id": "radiology__lecture__abdominal-radiology__83__vvdp32",
+            "number": "83",
+            "text": "Simultaneous visualization of gas within the bowel lumen and gas outlining the outer bowel wall (the double-wall/Rigler sign) is a sign of which of the following?",
             "options": [
-              "Celiac artery",
-              "Superior mesenteric artery",
-              "Splenic artery",
-              "Renal artery"
+              "Bowel obstruction",
+              "Pneumobilia",
+              "Portal venous gas",
+              "Ischemic colitis",
+              "Bowel perforation (pneumoperitoneum)"
             ],
             "originalOptions": [
-              "Celiac artery",
-              "Superior mesenteric artery",
-              "Splenic artery",
-              "Renal artery"
+              "Bowel obstruction",
+              "Pneumobilia",
+              "Portal venous gas",
+              "Ischemic colitis",
+              "Bowel perforation (pneumoperitoneum)"
             ],
-            "correctAnswer": "A) Celiac artery",
-            "correctAnswerText": "Celiac artery",
-            "correctIndex": 0,
+            "correctAnswer": "E) Bowel perforation (pneumoperitoneum)",
+            "correctAnswerText": "Bowel perforation (pneumoperitoneum)",
+            "correctIndex": 4,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "A",
-            "explanation": "This recurring recalled anatomy image explicitly labels celiac artery, arising from the anterior aorta at the T12 level.",
-            "batchName": "Waman A7yaha Mini-OSCE",
+            "correctAnswerLetter": "E",
+            "explanation": "Gas outlining both the inner (intraluminal) and outer (extraluminal/peritoneal) surfaces of the bowel wall is the Rigler (double-wall) sign, indicating free intraperitoneal air from a perforated viscus.",
+            "batchName": "Iris Final",
             "batchNames": [
-              "Waman A7yaha Mini-OSCE"
+              "Iris Final"
             ],
-            "note": "51. pylorus ~ 52. coeliac trunk ~ 53. abdominal aorta",
+            "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -14185,31 +14406,31 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__78__9uk8o5",
-            "number": "78",
-            "text": "What is the most likely diagnosis? [img: Radiologyabilateraladrenalcalcification.png ]",
+            "id": "radiology__lecture__abdominal-radiology__84__tsqx9h",
+            "number": "84",
+            "text": "What is the best imaging modality for evaluating suspected appendicitis in an adult?",
             "options": [
-              "Splenic granulomas",
-              "Bilateral renal calculi",
-              "Pancreatic calcification",
-              "Bilateral adrenal calcification"
+              "Plain abdominal radiograph",
+              "MRI",
+              "CT with IV contrast",
+              "Ultrasound alone"
             ],
             "originalOptions": [
-              "Splenic granulomas",
-              "Bilateral renal calculi",
-              "Pancreatic calcification",
-              "Bilateral adrenal calcification"
+              "Plain abdominal radiograph",
+              "MRI",
+              "CT with IV contrast",
+              "Ultrasound alone"
             ],
-            "correctAnswer": "D) Bilateral adrenal calcification",
-            "correctAnswerText": "Bilateral adrenal calcification",
-            "correctIndex": 3,
+            "correctAnswer": "C) CT with IV contrast",
+            "correctAnswerText": "CT with IV contrast",
+            "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "This recalled station describes calcifications localized to both adrenal glands rather than the kidneys, pancreas, or spleen.",
-            "batchName": "Waman A7yaha Mini-OSCE",
+            "correctAnswerLetter": "C",
+            "explanation": "CT with IV contrast has the highest sensitivity (94–98%) and specificity (up to 97%) for appendicitis in adults and also identifies alternative causes of abdominal pain; ultrasound is preferred first-line in children and pregnant patients but is more operator-dependent and less sensitive overall.",
+            "batchName": "Iris Final",
             "batchNames": [
-              "Waman A7yaha Mini-OSCE"
+              "Iris Final"
             ],
             "note": "",
             "pageNumber": "",
@@ -14806,6 +15027,7 @@
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group D)",
@@ -14886,7 +15108,8 @@
             "batchNames": [
               "Iris Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group D)",
-              "Aorta Final"
+              "Aorta Final",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -14998,9 +15221,11 @@
             "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
             "batchName": "Aorta Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Aorta Final",
-              "Waman A7yaha Mini-OSCE"
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -15158,8 +15383,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__72__5s82g0",
-            "number": "72",
+            "id": "radiology__lecture__abdominal-radiology__64__5s82g0",
+            "number": "64",
             "text": "Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]",
             "options": [
               "Choledocholithiasis",
@@ -15194,8 +15419,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__76__nihilm",
-            "number": "76",
+            "id": "radiology__lecture__abdominal-radiology__68__nihilm",
+            "number": "68",
             "text": "Wrong about Wilms tumor?",
             "options": [
               "Most common renal tumor of childhood",
@@ -15306,7 +15531,7 @@
               "Aorta Mini-OSCE (Group A)",
               "Vagus Mini-OSCE (Group C)"
             ],
-            "note": "",
+            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left renal vein",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -15682,6 +15907,7 @@
             "batchName": "Coronary Mini-OSCE (Group C)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Waman A7yaha Mini-OSCE"
             ],
@@ -15721,6 +15947,7 @@
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group D)",
@@ -15999,9 +16226,11 @@
             "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
             "batchName": "Endorphin Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Aorta Final",
-              "Waman A7yaha Mini-OSCE"
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -16412,6 +16641,7 @@
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Waman A7yaha Mini-OSCE"
             ],
@@ -16529,6 +16759,7 @@
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group D)",
@@ -17306,6 +17537,7 @@
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group D)",
@@ -17498,6 +17730,7 @@
             "explanation": "An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
+              "Iris Final",
               "Endorphin Mini-OSCE (Group C)"
             ],
             "note": "",
@@ -17695,6 +17928,7 @@
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group D)",
@@ -17850,7 +18084,8 @@
             "batchNames": [
               "Iris Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group D)",
-              "Aorta Final"
+              "Aorta Final",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -18394,6 +18629,354 @@
         ]
       },
       {
+        "id": "radiology__year__iris-final",
+        "name": "Iris Final",
+        "type": "year",
+        "subjectName": "Radiology",
+        "questions": [
+          {
+            "id": "radiology__lecture__abdominal-radiology__8__j6vebo",
+            "number": "8",
+            "text": "What is the diagnosis? [img: Radiologyadiverticulitis.png ]",
+            "options": [
+              "Pancreatitis",
+              "Appendicitis",
+              "Cholecystitis",
+              "Diverticulitis"
+            ],
+            "originalOptions": [
+              "Pancreatitis",
+              "Appendicitis",
+              "Cholecystitis",
+              "Diverticulitis"
+            ],
+            "correctAnswer": "D) Diverticulitis",
+            "correctAnswerText": "Diverticulitis",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Iris Final",
+              "Endorphin Mini-OSCE (Group A)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__11__qb01ri",
+            "number": "11",
+            "text": "What is the most likely diagnosis? [img: Radiologyaportalvenousgas.png ]",
+            "options": [
+              "Pneumobilia",
+              "Pneumoperitoneum",
+              "Portal venous gas",
+              "Pancreatitis"
+            ],
+            "originalOptions": [
+              "Pneumobilia",
+              "Pneumoperitoneum",
+              "Portal venous gas",
+              "Pancreatitis"
+            ],
+            "correctAnswer": "C) Portal venous gas",
+            "correctAnswerText": "Portal venous gas",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Iris Final",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__20__28k58x",
+            "number": "20",
+            "text": "Best imaging modality for detecting air under the diaphragm:",
+            "options": [
+              "Supine abdominal x-ray",
+              "Non-contrast CT",
+              "Expiratory erect chest x-ray",
+              "Abdominal ultrasound"
+            ],
+            "originalOptions": [
+              "Supine abdominal x-ray",
+              "Non-contrast CT",
+              "Expiratory erect chest x-ray",
+              "Abdominal ultrasound"
+            ],
+            "correctAnswer": "C) Expiratory erect chest x-ray",
+            "correctAnswerText": "Expiratory erect chest x-ray",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final",
+              "Endorphin Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__43__l9zaoa",
+            "number": "43",
+            "text": "What is the most likely diagnosis? [img: Radiologyaachalasia.png ]",
+            "options": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "originalOptions": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "correctAnswer": "B) Achalasia",
+            "correctAnswerText": "Achalasia",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final",
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__80__t71g0q",
+            "number": "80",
+            "text": "The \"3-6-9 rule\" refers to the approximate maximum normal diameter (in cm) of which structures, respectively?",
+            "options": [
+              "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
+              "Small bowel (6 cm), large bowel (9 cm), cecum (3 cm)",
+              "Small bowel (3 cm), cecum (6 cm), large bowel (9 cm)",
+              "Small bowel (9 cm), large bowel (6 cm), cecum (3 cm)"
+            ],
+            "originalOptions": [
+              "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
+              "Small bowel (6 cm), large bowel (9 cm), cecum (3 cm)",
+              "Small bowel (3 cm), cecum (6 cm), large bowel (9 cm)",
+              "Small bowel (9 cm), large bowel (6 cm), cecum (3 cm)"
+            ],
+            "correctAnswer": "A) Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
+            "correctAnswerText": "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The 3-6-9 rule gives the approximate upper limits of normal caliber for the small bowel (3 cm), large bowel (6 cm), and cecum (9 cm) — exceeding these thresholds raises concern for bowel dilatation/obstruction.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__81__q6568l",
+            "number": "81",
+            "text": "Which imaging modality is considered the gold standard for detecting gallbladder stones?",
+            "options": [
+              "CT",
+              "Plain radiograph",
+              "MRI",
+              "Ultrasound"
+            ],
+            "originalOptions": [
+              "CT",
+              "Plain radiograph",
+              "MRI",
+              "Ultrasound"
+            ],
+            "correctAnswer": "D) Ultrasound",
+            "correctAnswerText": "Ultrasound",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Ultrasound is highly sensitive for gallstones, appearing as echogenic foci with posterior acoustic shadowing, and is far more sensitive than plain radiograph (which only shows ~15–20% of stones) or CT (which can miss cholesterol stones).",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__82__2h5ayy",
+            "number": "82",
+            "text": "Which of the following is a characteristic finding of small bowel obstruction, as opposed to large bowel obstruction?",
+            "options": [
+              "Peripherally located dilated loops",
+              "Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
+              "Haustral folds crossing only part of the lumen",
+              "Fecal loading within the dilated bowel segment"
+            ],
+            "originalOptions": [
+              "Peripherally located dilated loops",
+              "Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
+              "Haustral folds crossing only part of the lumen",
+              "Fecal loading within the dilated bowel segment"
+            ],
+            "correctAnswer": "B) Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
+            "correctAnswerText": "Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Small bowel lies centrally and shows valvulae conniventes that span the entire lumen diameter, distinguishing it from large bowel, which lies peripherally and shows haustral folds crossing only part of the lumen.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__83__vvdp32",
+            "number": "83",
+            "text": "Simultaneous visualization of gas within the bowel lumen and gas outlining the outer bowel wall (the double-wall/Rigler sign) is a sign of which of the following?",
+            "options": [
+              "Bowel obstruction",
+              "Pneumobilia",
+              "Portal venous gas",
+              "Ischemic colitis",
+              "Bowel perforation (pneumoperitoneum)"
+            ],
+            "originalOptions": [
+              "Bowel obstruction",
+              "Pneumobilia",
+              "Portal venous gas",
+              "Ischemic colitis",
+              "Bowel perforation (pneumoperitoneum)"
+            ],
+            "correctAnswer": "E) Bowel perforation (pneumoperitoneum)",
+            "correctAnswerText": "Bowel perforation (pneumoperitoneum)",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Gas outlining both the inner (intraluminal) and outer (extraluminal/peritoneal) surfaces of the bowel wall is the Rigler (double-wall) sign, indicating free intraperitoneal air from a perforated viscus.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__84__tsqx9h",
+            "number": "84",
+            "text": "What is the best imaging modality for evaluating suspected appendicitis in an adult?",
+            "options": [
+              "Plain abdominal radiograph",
+              "MRI",
+              "CT with IV contrast",
+              "Ultrasound alone"
+            ],
+            "originalOptions": [
+              "Plain abdominal radiograph",
+              "MRI",
+              "CT with IV contrast",
+              "Ultrasound alone"
+            ],
+            "correctAnswer": "C) CT with IV contrast",
+            "correctAnswerText": "CT with IV contrast",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "CT with IV contrast has the highest sensitivity (94–98%) and specificity (up to 97%) for appendicitis in adults and also identifies alternative causes of abdominal pain; ultrasound is preferred first-line in children and pregnant patients but is more operator-dependent and less sensitive overall.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
         "id": "radiology__year__iris-mini-osce-group-a",
         "name": "Iris Mini-OSCE (Group A)",
         "type": "year",
@@ -18428,7 +19011,7 @@
               "Aorta Mini-OSCE (Group A)",
               "Vagus Mini-OSCE (Group C)"
             ],
-            "note": "",
+            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left renal vein",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -18464,7 +19047,8 @@
             "batchNames": [
               "Iris Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group D)",
-              "Aorta Final"
+              "Aorta Final",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -18708,6 +19292,44 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__abdominal-radiology__79__kg3rqp",
+            "number": "79",
+            "text": "Which of the following radiological signs can make the surest distinction between sigmoid volvulus as opposed to cecal volvulus?",
+            "options": [
+              "Whirlpool sign of the twisted mesenteric vessels",
+              "Absent haustral markings throughout the entire colon",
+              "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+              "Coffee bean sign with medial deviation of the dilated loop",
+              "Multiple air-fluid levels on an erect film"
+            ],
+            "originalOptions": [
+              "Whirlpool sign of the twisted mesenteric vessels",
+              "Absent haustral markings throughout the entire colon",
+              "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+              "Coffee bean sign with medial deviation of the dilated loop",
+              "Multiple air-fluid levels on an erect film"
+            ],
+            "correctAnswer": "C) A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+            "correctAnswerText": "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Sigmoid volvulus arises in the pelvis/left lower quadrant and its dilated loop characteristically points toward the RUQ, whereas cecal volvulus arises in the RLQ and points toward the epigastrium/LUQ — this site-of-origin-and-direction pattern is more reliable than haustral pattern or the whirlpool sign, both of which can overlap between volvulus types.",
+            "batchName": "Iris Mini-OSCE (Group C)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
             "number": "7",
             "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
@@ -18783,6 +19405,7 @@
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group D)",
@@ -18985,7 +19608,8 @@
             "explanation": "Achalasia produces marked esophageal dilatation, not a normal-caliber esophagus, making this the false statement.",
             "batchName": "Overdose Final",
             "batchNames": [
-              "Overdose Final"
+              "Overdose Final",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -19041,8 +19665,8 @@
         "subjectName": "Radiology",
         "questions": [
           {
-            "id": "radiology__lecture__abdominal-radiology__64__ly5mx1",
-            "number": "64",
+            "id": "radiology__lecture__abdominal-radiology__71__ly5mx1",
+            "number": "71",
             "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
             "options": [
               "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -19079,8 +19703,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__65__204mmn",
-            "number": "65",
+            "id": "radiology__lecture__abdominal-radiology__72__204mmn",
+            "number": "72",
             "text": "Regarding Free air in the abdomen, which of following is TRUE?",
             "options": [
               "History of abdominal surgery within one month is an indication of pneumoperitoneum",
@@ -19117,8 +19741,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__66__kh4fd5",
-            "number": "66",
+            "id": "radiology__lecture__abdominal-radiology__73__kh4fd5",
+            "number": "73",
             "text": "Regarding bowel obstruction, which of the following is TRUE?",
             "options": [
               "Ascending colon diameter of 8 cm meets the criteria of dilatation",
@@ -19155,8 +19779,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__67__b0dcm5",
-            "number": "67",
+            "id": "radiology__lecture__abdominal-radiology__74__b0dcm5",
+            "number": "74",
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
               "The portal vein confluence lies anterior to the neck of the pancreas",
@@ -19307,6 +19931,45 @@
               "Endorphin Mini-OSCE (Group A)",
               "Aorta Final",
               "Vagus Mini-OSCE (Group D)",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__21__ijwfgc",
+            "number": "21",
+            "text": "Not true about achalasia?",
+            "options": [
+              "Mediastinal widening",
+              "Retro-tracheal air-fluid level",
+              "Bird-beak deformity",
+              "Anterior displacement and bowing of the trachea is seen on the frontal view"
+            ],
+            "originalOptions": [
+              "Mediastinal widening",
+              "Retro-tracheal air-fluid level",
+              "Bird-beak deformity",
+              "Anterior displacement and bowing of the trachea is seen on the frontal view"
+            ],
+            "correctAnswer": "D) Anterior displacement and bowing of the trachea is seen on the frontal view",
+            "correctAnswerText": "Anterior displacement and bowing of the trachea is seen on the frontal view",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Anterior tracheal displacement/bowing from the dilated esophagus is a lateral-view finding, not a frontal-view finding, making this statement false.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Aorta Final",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -19541,8 +20204,87 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__73__sotdhc",
-            "number": "73",
+            "id": "radiology__lecture__abdominal-radiology__43__l9zaoa",
+            "number": "43",
+            "text": "What is the most likely diagnosis? [img: Radiologyaachalasia.png ]",
+            "options": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "originalOptions": [
+              "Zenker diverticulum",
+              "Achalasia",
+              "Esophageal cancer",
+              "Hiatal hernia"
+            ],
+            "correctAnswer": "B) Achalasia",
+            "correctAnswerText": "Achalasia",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Iris Final",
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__58__p6kxhs",
+            "number": "58",
+            "text": "Which of the following is false regarding achalasia?",
+            "options": [
+              "Mediastinal widening",
+              "Bird-beak appearance",
+              "Retro-tracheal air-fluid level",
+              "Anterior displacement and bowing of the trachea",
+              "Normal diameter of esophagus"
+            ],
+            "originalOptions": [
+              "Mediastinal widening",
+              "Bird-beak appearance",
+              "Retro-tracheal air-fluid level",
+              "Anterior displacement and bowing of the trachea",
+              "Normal diameter of esophagus"
+            ],
+            "correctAnswer": "E) Normal diameter of esophagus",
+            "correctAnswerText": "Normal diameter of esophagus",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Achalasia produces marked esophageal dilatation, not a normal-caliber esophagus, making this the false statement.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Overdose Final",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__65__sotdhc",
+            "number": "65",
             "text": "What is the most likely diagnosis? [img: Radiologyagastriccancer.png ]",
             "options": [
               "Benign peptic ulcer",
@@ -19577,8 +20319,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__74__37chg8",
-            "number": "74",
+            "id": "radiology__lecture__abdominal-radiology__66__37chg8",
+            "number": "66",
             "text": "What is the most likely diagnosis? [img: Radiologyapcos.png ]",
             "options": [
               "PCOS",
@@ -19884,7 +20626,7 @@
               "Aorta Mini-OSCE (Group A)",
               "Vagus Mini-OSCE (Group C)"
             ],
-            "note": "",
+            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left renal vein",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -20086,7 +20828,7 @@
               "Vagus Mini-OSCE (Group D)",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "",
+            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left kidney",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -20104,8 +20846,8 @@
         "subjectName": "Radiology",
         "questions": [
           {
-            "id": "radiology__lecture__abdominal-radiology__68__b0dcm5",
-            "number": "68",
+            "id": "radiology__lecture__abdominal-radiology__75__b0dcm5",
+            "number": "75",
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
               "The Inferior mesenteric artery arises at the level of L2",
@@ -20142,8 +20884,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__69__kh4fd5",
-            "number": "69",
+            "id": "radiology__lecture__abdominal-radiology__76__kh4fd5",
+            "number": "76",
             "text": "Regarding bowel obstruction, which of the following is TRUE?",
             "options": [
               "Cecal diameter of 7 cm meets the criteria of dilatation",
@@ -20180,8 +20922,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__70__204mmn",
-            "number": "70",
+            "id": "radiology__lecture__abdominal-radiology__77__204mmn",
+            "number": "77",
             "text": "Regarding Free air in the abdomen, which of following is TRUE?",
             "options": [
               "The most common cause of free intraperitoneal air is perforated sigmoid colon",
@@ -20218,8 +20960,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__71__ly5mx1",
-            "number": "71",
+            "id": "radiology__lecture__abdominal-radiology__78__ly5mx1",
+            "number": "78",
             "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
             "options": [
               "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -20445,6 +21187,7 @@
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Waman A7yaha Mini-OSCE"
             ],
@@ -20750,7 +21493,7 @@
               "Vagus Mini-OSCE (Group D)",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "",
+            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left kidney",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -20892,9 +21635,11 @@
             "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Aorta Final",
-              "Waman A7yaha Mini-OSCE"
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -20979,8 +21724,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__75__h4w1jl",
-            "number": "75",
+            "id": "radiology__lecture__abdominal-radiology__67__h4w1jl",
+            "number": "67",
             "text": "The arrow (labeled 42) in this axial contrast CT points to which structure? [img: Radiologyaabdominalanatomygallbladder.png ]",
             "options": [
               "Liver",
@@ -21015,8 +21760,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__77__h0jac7",
-            "number": "77",
+            "id": "radiology__lecture__abdominal-radiology__69__h0jac7",
+            "number": "69",
             "text": "The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
             "options": [
               "Celiac artery",
@@ -21051,8 +21796,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__78__9uk8o5",
-            "number": "78",
+            "id": "radiology__lecture__abdominal-radiology__70__9uk8o5",
+            "number": "70",
             "text": "What is the most likely diagnosis? [img: Radiologyabilateraladrenalcalcification.png ]",
             "options": [
               "Splenic granulomas",
@@ -21199,7 +21944,7 @@
           "Aorta Mini-OSCE (Group A)",
           "Vagus Mini-OSCE (Group C)"
         ],
-        "note": "",
+        "note": "1. Liver ~ 2. Gallbladder ~ 3. Left renal vein",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -21416,9 +22161,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.",
-        "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
+        "batchName": "Coronary Mini-OSCE (Group C) / Iris Final / Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Coronary Mini-OSCE (Group C)",
+          "Iris Final",
           "Endorphin Mini-OSCE (Group A)",
           "Waman A7yaha Mini-OSCE"
         ],
@@ -21529,10 +22275,11 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.",
-        "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final",
+        "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final",
         "batchNames": [
           "Coronary Mini-OSCE (Group C)",
           "Iris Mini-OSCE (Group D)",
+          "Iris Final",
           "Endorphin Mini-OSCE (Group A)",
           "Endorphin Mini-OSCE (Group C)",
           "Endorphin Mini-OSCE (Group D)",
@@ -21863,8 +22610,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.",
-        "batchName": "Endorphin Mini-OSCE (Group C)",
+        "batchName": "Iris Final / Endorphin Mini-OSCE (Group C)",
         "batchNames": [
+          "Iris Final",
           "Endorphin Mini-OSCE (Group C)"
         ],
         "note": "",
@@ -21898,11 +22646,12 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "Anterior tracheal displacement/bowing from the dilated esophagus is a lateral-view finding, not a frontal-view finding, making this statement false.",
-        "batchName": "Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group D) / Aorta Final",
+        "batchName": "Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group D) / Aorta Final / Serotonin Mini-OSCE",
         "batchNames": [
           "Iris Mini-OSCE (Group A)",
           "Endorphin Mini-OSCE (Group D)",
-          "Aorta Final"
+          "Aorta Final",
+          "Serotonin Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -22550,7 +23299,7 @@
           "Vagus Mini-OSCE (Group D)",
           "Waman A7yaha Mini-OSCE"
         ],
-        "note": "",
+        "note": "1. Liver ~ 2. Gallbladder ~ 3. Left kidney",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -22686,11 +23435,13 @@
         "isMultiple": false,
         "correctAnswerLetter": "B",
         "explanation": "The barium swallow shows a dilated esophagus tapering smoothly to a \"bird-beak\" narrowing at the gastroesophageal junction, the classic finding of achalasia.",
-        "batchName": "Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE",
+        "batchName": "Iris Final / Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
         "batchNames": [
+          "Iris Final",
           "Endorphin Final",
           "Aorta Final",
-          "Waman A7yaha Mini-OSCE"
+          "Waman A7yaha Mini-OSCE",
+          "Serotonin Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -23219,9 +23970,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "E",
         "explanation": "Achalasia produces marked esophageal dilatation, not a normal-caliber esophagus, making this the false statement.",
-        "batchName": "Overdose Final",
+        "batchName": "Overdose Final / Serotonin Mini-OSCE",
         "batchNames": [
-          "Overdose Final"
+          "Overdose Final",
+          "Serotonin Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -23410,8 +24162,253 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__64__ly5mx1",
+        "id": "radiology__lecture__abdominal-radiology__64__5s82g0",
         "number": "64",
+        "text": "Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]",
+        "options": [
+          "Choledocholithiasis",
+          "Gallstones",
+          "Porcelain gallbladder",
+          "Gallbladder polyp"
+        ],
+        "originalOptions": [
+          "Choledocholithiasis",
+          "Gallstones",
+          "Porcelain gallbladder",
+          "Gallbladder polyp"
+        ],
+        "correctAnswer": "B) Gallstones",
+        "correctAnswerText": "Gallstones",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The MRI/MRCP shows the gallbladder packed with multiple calculi, the defining finding for cholelithiasis (gallstones); the dilated CBD with ductal stones represents an associated complication rather than the primary diagnosis being tested.",
+        "batchName": "Aorta Final",
+        "batchNames": [
+          "Aorta Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__65__sotdhc",
+        "number": "65",
+        "text": "What is the most likely diagnosis? [img: Radiologyagastriccancer.png ]",
+        "options": [
+          "Benign peptic ulcer",
+          "Hiatal hernia",
+          "Gastric lymphoma",
+          "Gastric carcinoma"
+        ],
+        "originalOptions": [
+          "Benign peptic ulcer",
+          "Hiatal hernia",
+          "Gastric lymphoma",
+          "Gastric carcinoma"
+        ],
+        "correctAnswer": "D) Gastric carcinoma",
+        "correctAnswerText": "Gastric carcinoma",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The barium meal shows an irregular, ulcerated mass with abnormal mucosal folds, a pattern typical of malignant gastric ulceration rather than a benign ulcer.",
+        "batchName": "Serotonin Mini-OSCE",
+        "batchNames": [
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "This question is not covered in the course slides.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__66__37chg8",
+        "number": "66",
+        "text": "What is the most likely diagnosis? [img: Radiologyapcos.png ]",
+        "options": [
+          "PCOS",
+          "Ovarian torsion",
+          "Endometrioma",
+          "Simple ovarian cyst"
+        ],
+        "originalOptions": [
+          "PCOS",
+          "Ovarian torsion",
+          "Endometrioma",
+          "Simple ovarian cyst"
+        ],
+        "correctAnswer": "A) PCOS",
+        "correctAnswerText": "PCOS",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Transvaginal ultrasound in this recalled station shows multiple small peripheral follicles (\"string of pearls\") in an enlarged ovary, characteristic of polycystic ovary syndrome.",
+        "batchName": "Serotonin Mini-OSCE",
+        "batchNames": [
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "This question is not covered in the course slides.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__67__h4w1jl",
+        "number": "67",
+        "text": "The arrow (labeled 42) in this axial contrast CT points to which structure? [img: Radiologyaabdominalanatomygallbladder.png ]",
+        "options": [
+          "Liver",
+          "Right kidney",
+          "Descending aorta",
+          "Gallbladder"
+        ],
+        "originalOptions": [
+          "Liver",
+          "Right kidney",
+          "Descending aorta",
+          "Gallbladder"
+        ],
+        "correctAnswer": "D) Gallbladder",
+        "correctAnswerText": "Gallbladder",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The labeled structure sits in the right upper quadrant along the undersurface of the liver, the typical anatomical position of the gallbladder.",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "41. main pancreatic duct ~ 42. body of the gallbladder ~ 43. epiploic foramen (of Winslow) ~ 44. right crus of the diaphragm",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__68__nihilm",
+        "number": "68",
+        "text": "Wrong about Wilms tumor?",
+        "options": [
+          "Most common renal tumor of childhood",
+          "Lung metastases are less common than bone metastases",
+          "Presents as a painless abdominal mass",
+          "Usually unilateral"
+        ],
+        "originalOptions": [
+          "Most common renal tumor of childhood",
+          "Lung metastases are less common than bone metastases",
+          "Presents as a painless abdominal mass",
+          "Usually unilateral"
+        ],
+        "correctAnswer": "B) Lung metastases are less common than bone metastases",
+        "correctAnswerText": "Lung metastases are less common than bone metastases",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The lungs are the most common site of metastasis in Wilms tumor (not less common than bone) , bone metastases are actually rare.",
+        "batchName": "Aorta Final",
+        "batchNames": [
+          "Aorta Final"
+        ],
+        "note": "This question is not covered in the course slides.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__69__h0jac7",
+        "number": "69",
+        "text": "The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
+        "options": [
+          "Celiac artery",
+          "Superior mesenteric artery",
+          "Splenic artery",
+          "Renal artery"
+        ],
+        "originalOptions": [
+          "Celiac artery",
+          "Superior mesenteric artery",
+          "Splenic artery",
+          "Renal artery"
+        ],
+        "correctAnswer": "A) Celiac artery",
+        "correctAnswerText": "Celiac artery",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "This recurring recalled anatomy image explicitly labels celiac artery, arising from the anterior aorta at the T12 level.",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "51. pylorus ~ 52. coeliac trunk ~ 53. abdominal aorta",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__70__9uk8o5",
+        "number": "70",
+        "text": "What is the most likely diagnosis? [img: Radiologyabilateraladrenalcalcification.png ]",
+        "options": [
+          "Splenic granulomas",
+          "Bilateral renal calculi",
+          "Pancreatic calcification",
+          "Bilateral adrenal calcification"
+        ],
+        "originalOptions": [
+          "Splenic granulomas",
+          "Bilateral renal calculi",
+          "Pancreatic calcification",
+          "Bilateral adrenal calcification"
+        ],
+        "correctAnswer": "D) Bilateral adrenal calcification",
+        "correctAnswerText": "Bilateral adrenal calcification",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "This recalled station describes calcifications localized to both adrenal glands rather than the kidneys, pancreas, or spleen.",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__71__ly5mx1",
+        "number": "71",
         "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
         "options": [
           "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -23447,8 +24444,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__65__204mmn",
-        "number": "65",
+        "id": "radiology__lecture__abdominal-radiology__72__204mmn",
+        "number": "72",
         "text": "Regarding Free air in the abdomen, which of following is TRUE?",
         "options": [
           "History of abdominal surgery within one month is an indication of pneumoperitoneum",
@@ -23484,8 +24481,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__66__kh4fd5",
-        "number": "66",
+        "id": "radiology__lecture__abdominal-radiology__73__kh4fd5",
+        "number": "73",
         "text": "Regarding bowel obstruction, which of the following is TRUE?",
         "options": [
           "Ascending colon diameter of 8 cm meets the criteria of dilatation",
@@ -23521,8 +24518,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__67__b0dcm5",
-        "number": "67",
+        "id": "radiology__lecture__abdominal-radiology__74__b0dcm5",
+        "number": "74",
         "text": "Regarding abdomen anatomy, which of the following is TRUE?",
         "options": [
           "The portal vein confluence lies anterior to the neck of the pancreas",
@@ -23558,8 +24555,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__68__b0dcm5",
-        "number": "68",
+        "id": "radiology__lecture__abdominal-radiology__75__b0dcm5",
+        "number": "75",
         "text": "Regarding abdomen anatomy, which of the following is TRUE?",
         "options": [
           "The Inferior mesenteric artery arises at the level of L2",
@@ -23595,8 +24592,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__69__kh4fd5",
-        "number": "69",
+        "id": "radiology__lecture__abdominal-radiology__76__kh4fd5",
+        "number": "76",
         "text": "Regarding bowel obstruction, which of the following is TRUE?",
         "options": [
           "Cecal diameter of 7 cm meets the criteria of dilatation",
@@ -23632,8 +24629,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__70__204mmn",
-        "number": "70",
+        "id": "radiology__lecture__abdominal-radiology__77__204mmn",
+        "number": "77",
         "text": "Regarding Free air in the abdomen, which of following is TRUE?",
         "options": [
           "The most common cause of free intraperitoneal air is perforated sigmoid colon",
@@ -23669,8 +24666,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__71__ly5mx1",
-        "number": "71",
+        "id": "radiology__lecture__abdominal-radiology__78__ly5mx1",
+        "number": "78",
         "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
         "options": [
           "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -23706,31 +24703,33 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__72__5s82g0",
-        "number": "72",
-        "text": "Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]",
+        "id": "radiology__lecture__abdominal-radiology__79__kg3rqp",
+        "number": "79",
+        "text": "Which of the following radiological signs can make the surest distinction between sigmoid volvulus as opposed to cecal volvulus?",
         "options": [
-          "Choledocholithiasis",
-          "Gallstones",
-          "Porcelain gallbladder",
-          "Gallbladder polyp"
+          "Whirlpool sign of the twisted mesenteric vessels",
+          "Absent haustral markings throughout the entire colon",
+          "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+          "Coffee bean sign with medial deviation of the dilated loop",
+          "Multiple air-fluid levels on an erect film"
         ],
         "originalOptions": [
-          "Choledocholithiasis",
-          "Gallstones",
-          "Porcelain gallbladder",
-          "Gallbladder polyp"
+          "Whirlpool sign of the twisted mesenteric vessels",
+          "Absent haustral markings throughout the entire colon",
+          "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+          "Coffee bean sign with medial deviation of the dilated loop",
+          "Multiple air-fluid levels on an erect film"
         ],
-        "correctAnswer": "B) Gallstones",
-        "correctAnswerText": "Gallstones",
-        "correctIndex": 1,
+        "correctAnswer": "C) A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+        "correctAnswerText": "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+        "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
-        "explanation": "The MRI/MRCP shows the gallbladder packed with multiple calculi, the defining finding for cholelithiasis (gallstones); the dilated CBD with ductal stones represents an associated complication rather than the primary diagnosis being tested.",
-        "batchName": "Aorta Final",
+        "correctAnswerLetter": "C",
+        "explanation": "Sigmoid volvulus arises in the pelvis/left lower quadrant and its dilated loop characteristically points toward the RUQ, whereas cecal volvulus arises in the RLQ and points toward the epigastrium/LUQ — this site-of-origin-and-direction pattern is more reliable than haustral pattern or the whirlpool sign, both of which can overlap between volvulus types.",
+        "batchName": "Iris Mini-OSCE (Group C)",
         "batchNames": [
-          "Aorta Final"
+          "Iris Mini-OSCE (Group C)"
         ],
         "note": "",
         "pageNumber": "",
@@ -23741,68 +24740,33 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__73__sotdhc",
-        "number": "73",
-        "text": "What is the most likely diagnosis? [img: Radiologyagastriccancer.png ]",
+        "id": "radiology__lecture__abdominal-radiology__80__t71g0q",
+        "number": "80",
+        "text": "The \"3-6-9 rule\" refers to the approximate maximum normal diameter (in cm) of which structures, respectively?",
         "options": [
-          "Benign peptic ulcer",
-          "Hiatal hernia",
-          "Gastric lymphoma",
-          "Gastric carcinoma"
+          "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
+          "Small bowel (6 cm), large bowel (9 cm), cecum (3 cm)",
+          "Small bowel (3 cm), cecum (6 cm), large bowel (9 cm)",
+          "Small bowel (9 cm), large bowel (6 cm), cecum (3 cm)"
         ],
         "originalOptions": [
-          "Benign peptic ulcer",
-          "Hiatal hernia",
-          "Gastric lymphoma",
-          "Gastric carcinoma"
+          "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
+          "Small bowel (6 cm), large bowel (9 cm), cecum (3 cm)",
+          "Small bowel (3 cm), cecum (6 cm), large bowel (9 cm)",
+          "Small bowel (9 cm), large bowel (6 cm), cecum (3 cm)"
         ],
-        "correctAnswer": "D) Gastric carcinoma",
-        "correctAnswerText": "Gastric carcinoma",
-        "correctIndex": 3,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "D",
-        "explanation": "The barium meal shows an irregular, ulcerated mass with abnormal mucosal folds, a pattern typical of malignant gastric ulceration rather than a benign ulcer.",
-        "batchName": "Serotonin Mini-OSCE",
-        "batchNames": [
-          "Serotonin Mini-OSCE"
-        ],
-        "note": "This question is not covered in the course slides.",
-        "pageNumber": "",
-        "subjectName": "Radiology",
-        "subjectId": "radiology",
-        "lectureName": "Abdominal Radiology",
-        "groupName": "Abdominal Radiology",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "radiology__lecture__abdominal-radiology__74__37chg8",
-        "number": "74",
-        "text": "What is the most likely diagnosis? [img: Radiologyapcos.png ]",
-        "options": [
-          "PCOS",
-          "Ovarian torsion",
-          "Endometrioma",
-          "Simple ovarian cyst"
-        ],
-        "originalOptions": [
-          "PCOS",
-          "Ovarian torsion",
-          "Endometrioma",
-          "Simple ovarian cyst"
-        ],
-        "correctAnswer": "A) PCOS",
-        "correctAnswerText": "PCOS",
+        "correctAnswer": "A) Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
+        "correctAnswerText": "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
         "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "A",
-        "explanation": "Transvaginal ultrasound in this recalled station shows multiple small peripheral follicles (\"string of pearls\") in an enlarged ovary, characteristic of polycystic ovary syndrome.",
-        "batchName": "Serotonin Mini-OSCE",
+        "explanation": "The 3-6-9 rule gives the approximate upper limits of normal caliber for the small bowel (3 cm), large bowel (6 cm), and cecum (9 cm) — exceeding these thresholds raises concern for bowel dilatation/obstruction.",
+        "batchName": "Iris Final",
         "batchNames": [
-          "Serotonin Mini-OSCE"
+          "Iris Final"
         ],
-        "note": "This question is not covered in the course slides.",
+        "note": "",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -23811,33 +24775,33 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__75__h4w1jl",
-        "number": "75",
-        "text": "The arrow (labeled 42) in this axial contrast CT points to which structure? [img: Radiologyaabdominalanatomygallbladder.png ]",
+        "id": "radiology__lecture__abdominal-radiology__81__q6568l",
+        "number": "81",
+        "text": "Which imaging modality is considered the gold standard for detecting gallbladder stones?",
         "options": [
-          "Liver",
-          "Right kidney",
-          "Descending aorta",
-          "Gallbladder"
+          "CT",
+          "Plain radiograph",
+          "MRI",
+          "Ultrasound"
         ],
         "originalOptions": [
-          "Liver",
-          "Right kidney",
-          "Descending aorta",
-          "Gallbladder"
+          "CT",
+          "Plain radiograph",
+          "MRI",
+          "Ultrasound"
         ],
-        "correctAnswer": "D) Gallbladder",
-        "correctAnswerText": "Gallbladder",
+        "correctAnswer": "D) Ultrasound",
+        "correctAnswerText": "Ultrasound",
         "correctIndex": 3,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "D",
-        "explanation": "The labeled structure sits in the right upper quadrant along the undersurface of the liver, the typical anatomical position of the gallbladder.",
-        "batchName": "Waman A7yaha Mini-OSCE",
+        "explanation": "Ultrasound is highly sensitive for gallstones, appearing as echogenic foci with posterior acoustic shadowing, and is far more sensitive than plain radiograph (which only shows ~15–20% of stones) or CT (which can miss cholesterol stones).",
+        "batchName": "Iris Final",
         "batchNames": [
-          "Waman A7yaha Mini-OSCE"
+          "Iris Final"
         ],
-        "note": "41. main pancreatic duct ~ 42. body of the gallbladder ~ 43. epiploic foramen (of Winslow) ~ 44. right crus of the diaphragm",
+        "note": "",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -23846,33 +24810,33 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__76__nihilm",
-        "number": "76",
-        "text": "Wrong about Wilms tumor?",
+        "id": "radiology__lecture__abdominal-radiology__82__2h5ayy",
+        "number": "82",
+        "text": "Which of the following is a characteristic finding of small bowel obstruction, as opposed to large bowel obstruction?",
         "options": [
-          "Most common renal tumor of childhood",
-          "Lung metastases are less common than bone metastases",
-          "Presents as a painless abdominal mass",
-          "Usually unilateral"
+          "Peripherally located dilated loops",
+          "Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
+          "Haustral folds crossing only part of the lumen",
+          "Fecal loading within the dilated bowel segment"
         ],
         "originalOptions": [
-          "Most common renal tumor of childhood",
-          "Lung metastases are less common than bone metastases",
-          "Presents as a painless abdominal mass",
-          "Usually unilateral"
+          "Peripherally located dilated loops",
+          "Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
+          "Haustral folds crossing only part of the lumen",
+          "Fecal loading within the dilated bowel segment"
         ],
-        "correctAnswer": "B) Lung metastases are less common than bone metastases",
-        "correctAnswerText": "Lung metastases are less common than bone metastases",
+        "correctAnswer": "B) Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
+        "correctAnswerText": "Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen",
         "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "The lungs are the most common site of metastasis in Wilms tumor (not less common than bone) , bone metastases are actually rare.",
-        "batchName": "Aorta Final",
+        "explanation": "Small bowel lies centrally and shows valvulae conniventes that span the entire lumen diameter, distinguishing it from large bowel, which lies peripherally and shows haustral folds crossing only part of the lumen.",
+        "batchName": "Iris Final",
         "batchNames": [
-          "Aorta Final"
+          "Iris Final"
         ],
-        "note": "This question is not covered in the course slides.",
+        "note": "",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -23881,33 +24845,35 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__77__h0jac7",
-        "number": "77",
-        "text": "The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
+        "id": "radiology__lecture__abdominal-radiology__83__vvdp32",
+        "number": "83",
+        "text": "Simultaneous visualization of gas within the bowel lumen and gas outlining the outer bowel wall (the double-wall/Rigler sign) is a sign of which of the following?",
         "options": [
-          "Celiac artery",
-          "Superior mesenteric artery",
-          "Splenic artery",
-          "Renal artery"
+          "Bowel obstruction",
+          "Pneumobilia",
+          "Portal venous gas",
+          "Ischemic colitis",
+          "Bowel perforation (pneumoperitoneum)"
         ],
         "originalOptions": [
-          "Celiac artery",
-          "Superior mesenteric artery",
-          "Splenic artery",
-          "Renal artery"
+          "Bowel obstruction",
+          "Pneumobilia",
+          "Portal venous gas",
+          "Ischemic colitis",
+          "Bowel perforation (pneumoperitoneum)"
         ],
-        "correctAnswer": "A) Celiac artery",
-        "correctAnswerText": "Celiac artery",
-        "correctIndex": 0,
+        "correctAnswer": "E) Bowel perforation (pneumoperitoneum)",
+        "correctAnswerText": "Bowel perforation (pneumoperitoneum)",
+        "correctIndex": 4,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "A",
-        "explanation": "This recurring recalled anatomy image explicitly labels celiac artery, arising from the anterior aorta at the T12 level.",
-        "batchName": "Waman A7yaha Mini-OSCE",
+        "correctAnswerLetter": "E",
+        "explanation": "Gas outlining both the inner (intraluminal) and outer (extraluminal/peritoneal) surfaces of the bowel wall is the Rigler (double-wall) sign, indicating free intraperitoneal air from a perforated viscus.",
+        "batchName": "Iris Final",
         "batchNames": [
-          "Waman A7yaha Mini-OSCE"
+          "Iris Final"
         ],
-        "note": "51. pylorus ~ 52. coeliac trunk ~ 53. abdominal aorta",
+        "note": "",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -23916,31 +24882,31 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__78__9uk8o5",
-        "number": "78",
-        "text": "What is the most likely diagnosis? [img: Radiologyabilateraladrenalcalcification.png ]",
+        "id": "radiology__lecture__abdominal-radiology__84__tsqx9h",
+        "number": "84",
+        "text": "What is the best imaging modality for evaluating suspected appendicitis in an adult?",
         "options": [
-          "Splenic granulomas",
-          "Bilateral renal calculi",
-          "Pancreatic calcification",
-          "Bilateral adrenal calcification"
+          "Plain abdominal radiograph",
+          "MRI",
+          "CT with IV contrast",
+          "Ultrasound alone"
         ],
         "originalOptions": [
-          "Splenic granulomas",
-          "Bilateral renal calculi",
-          "Pancreatic calcification",
-          "Bilateral adrenal calcification"
+          "Plain abdominal radiograph",
+          "MRI",
+          "CT with IV contrast",
+          "Ultrasound alone"
         ],
-        "correctAnswer": "D) Bilateral adrenal calcification",
-        "correctAnswerText": "Bilateral adrenal calcification",
-        "correctIndex": 3,
+        "correctAnswer": "C) CT with IV contrast",
+        "correctAnswerText": "CT with IV contrast",
+        "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "D",
-        "explanation": "This recalled station describes calcifications localized to both adrenal glands rather than the kidneys, pancreas, or spleen.",
-        "batchName": "Waman A7yaha Mini-OSCE",
+        "correctAnswerLetter": "C",
+        "explanation": "CT with IV contrast has the highest sensitivity (94–98%) and specificity (up to 97%) for appendicitis in adults and also identifies alternative causes of abdominal pain; ultrasound is preferred first-line in children and pregnant patients but is more operator-dependent and less sensitive overall.",
+        "batchName": "Iris Final",
         "batchNames": [
-          "Waman A7yaha Mini-OSCE"
+          "Iris Final"
         ],
         "note": "",
         "pageNumber": "",
@@ -24451,8 +25417,8 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 92,
-    "totalLectures": 22,
+    "totalQuestions": 98,
+    "totalLectures": 23,
     "hasAiFolder": false
   },
   {
