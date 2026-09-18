@@ -15,6 +15,7 @@ D) Right renal artery
 Correct Answer: B) Left renal vein
 Explanation: In this labeled slice the numbered structures correspond to liver, gallbladder, and left renal vein, consistent with the vein's typical course anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).
 Batch: Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Vagus Mini-OSCE (Group C)
+Note: 1. Liver ~ 2. Gallbladder ~ 3. Left renal vein
 ###
 What is the diagnosis? [img: Radiologyasigmoidvolvulus.png ]
 A) Cecal volvulus
@@ -68,7 +69,7 @@ C) Cholecystitis
 D) Diverticulitis
 Correct Answer: D) Diverticulitis
 Explanation: The CT shows sigmoid diverticula with adjacent pericolic fat stranding and mild bowel wall thickening, the classic appearance of diverticulitis rather than isolated diverticulosis.
-Batch: Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE
+Batch: Coronary Mini-OSCE (Group C) / Iris Final / Endorphin Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE
 ###
 All of the following is true except:
 A) In cecal volvulus → colonic haustral pattern is lost
@@ -95,7 +96,7 @@ C) Portal venous gas
 D) Pancreatitis
 Correct Answer: C) Portal venous gas
 Explanation: The tiny branching gas foci extend to the peripheral 2 cm of the liver, characteristic of portal venous gas; pneumobilia by contrast is centrally distributed near the porta hepatis.
-Batch: Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final
+Batch: Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Final
 ###
 What is the diagnosis? [img: Radiologyahydronephrosis.png ]
 A) Renal cyst
@@ -177,7 +178,7 @@ C) Expiratory erect chest x-ray
 D) Abdominal ultrasound
 Correct Answer: C) Expiratory erect chest x-ray
 Explanation: An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.
-Batch: Endorphin Mini-OSCE (Group C)
+Batch: Iris Final / Endorphin Mini-OSCE (Group C)
 ###
 Not true about achalasia?
 A) Mediastinal widening
@@ -186,7 +187,7 @@ C) Bird-beak deformity
 D) Anterior displacement and bowing of the trachea is seen on the frontal view
 Correct Answer: D) Anterior displacement and bowing of the trachea is seen on the frontal view
 Explanation: Anterior tracheal displacement/bowing from the dilated esophagus is a lateral-view finding, not a frontal-view finding, making this statement false.
-Batch: Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group D) / Aorta Final
+Batch: Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group D) / Aorta Final / Serotonin Mini-OSCE
 ###
 What is incorrect about diverticulitis?
 A) Is commonly seen in the ileum
@@ -352,6 +353,7 @@ E) Right kidney
 Correct Answer: C) Left kidney
 Explanation: The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.
 Batch: Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE
+Note: 1. Liver ~ 2. Gallbladder ~ 3. Left kidney
 ###
 What is the most likely diagnosis? [img: Radiologyacecalvolvulus.png ]
 A) Midgut volvulus
@@ -387,7 +389,7 @@ C) Esophageal cancer
 D) Hiatal hernia
 Correct Answer: B) Achalasia
 Explanation: The barium swallow shows a dilated esophagus tapering smoothly to a "bird-beak" narrowing at the gastroesophageal junction, the classic finding of achalasia.
-Batch: Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE
+Batch: Iris Final / Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
 ###
 What is the most likely diagnosis? [img: Radiologyacalcifiedfibroid.jpg ]
 A) Bladder calculus
@@ -525,7 +527,7 @@ D) Anterior displacement and bowing of the trachea
 E) Normal diameter of esophagus
 Correct Answer: E) Normal diameter of esophagus
 Explanation: Achalasia produces marked esophageal dilatation, not a normal-caliber esophagus, making this the false statement.
-Batch: Overdose Final
+Batch: Overdose Final / Serotonin Mini-OSCE
 ###
 Which of the following is true regarding acute cholecystitis?
 A) Stones appear hyperintense on MRI
@@ -572,86 +574,6 @@ E) Bird-beak sign
 Correct Answer: E) Bird-beak sign
 Explanation: The bird-beak sign is a feature of achalasia (or volvulus), not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.
 Batch: Coronary Mini-OSCE (Group C) / Vagus Final
-###
-Regarding abdominal calcifications, which one of the following is TRUE?
-A. Phleboliths are small arterial wall calcifications seen in the pelvis
-B. Bilateral adrenal calcifications seen at the level of L5 usually
-C. Eighty five percent of gall bladder stones seen on CT Scan
-D. Eighty five percent of renal stones seen on Radiograph
-E. The most likely diagnosis of pelvic calcification in a male is intravesical stone
-Correct Answer: D) Eighty five percent of renal stones seen on Radiograph
-Explanation: Approximately 85% of urinary/renal stones are radio-opaque and visible on plain radiograph (X-ray); phleboliths are small venous (not arterial) calcifications, and adrenal glands lie much higher than L5.
-Batch: Serotonin Final
-###
-Regarding Free air in the abdomen, which of following is TRUE?
-A. History of abdominal surgery within one month is an indication of pneumoperitoneum
-B. The most common cause of free intraperitoneal air is perforated sigmoid colon
-C. Falciform ligament sign lowers the possibility of pneumoperitoneum
-D. Portal venous gas is only seen in the center of the liver
-E. Erect chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph
-Correct Answer: E) Erect chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph
-Explanation: An erect chest film is the most sensitive plain radiograph for detecting free subdiaphragmatic gas; the falciform ligament sign actually supports (not lowers) the diagnosis, and portal venous gas is peripheral, not central.
-Batch: Serotonin Final
-###
-Regarding bowel obstruction, which of the following is TRUE?
-A. Ascending colon diameter of 8 cm meets the criteria of dilatation
-B. Hernia is the most common cause of small bowel obstruction
-C. Cecal diameter of 7 cm meets the criteria of dilatation
-D. Sigmoid volvulus usually extends to the left upper quadrant
-E. Two air fluid levels of 3 cm width each apply the definition of obstruction
-Correct Answer: A) Ascending colon diameter of 8 cm meets the criteria of dilatation
-Explanation: The "3-6-9 rule" sets the large bowel dilatation threshold at 6 cm, so 8 cm exceeds this; the cecal threshold is actually 9 cm, and adhesions (not hernia) are the overall most common cause of small bowel obstruction.
-Batch: Serotonin Final
-###
-Regarding abdomen anatomy, which of the following is TRUE?
-A. The portal vein confluence lies anterior to the neck of the pancreas
-B. The right adrenal gland is higher than the left adrenal gland
-C. The right renal vein is longer than the left renal vein
-D. The third part of the duodenum passes between liver and pancreas
-E. The Inferior mesenteric artery arises at the level of L3
-Correct Answer: E) The Inferior mesenteric artery arises at the level of L3
-Explanation: The IMA arises from the anterior aorta at L3, near the inferior duodenum, consistent with standard anatomy; the portal vein actually forms posterior to the pancreatic neck, and the left (not right) renal vein is the longer vessel.
-Batch: Serotonin Final
-###
-Regarding abdomen anatomy, which of the following is TRUE?
-A. The Inferior mesenteric artery arises at the level of L2
-B. The second part of the duodenum passes between liver and pancreas
-C. The right adrenal gland is higher than left adrenal gland
-D. The right renal vein is longer than the left renal vein
-E. The portal vein confluence lies anterior to the neck of pancreas
-Correct Answer: B) The second part of the duodenum passes between liver and pancreas
-Explanation: The duodenal C-loop's second (descending) part lies in the region between the liver above and the pancreatic head medially; the IMA actually arises at L3, not L2, and the left renal vein is longer than the right.
-Batch: Waman A7yaha Final
-###
-Regarding bowel obstruction, which of the following is TRUE?
-A. Cecal diameter of 7 cm meets the criteria of dilatation
-B. Cecal volvulus usually extends to the right upper quadrant
-C. Descending colon diameter of 5 cm meets the criteria of dilatation
-D. Hernia is the most common cause of small bowel obstruction
-E. More than three air-fluid levels, each >2.5 cm in width, support bowel obstruction
-Correct Answer: E) More than three air-fluid levels, each >2.5 cm in width, support bowel obstruction
-Explanation: Multiple (more than three) air-fluid levels exceeding 2.5 cm in width is a standard supportive criterion for bowel obstruction; the cecal dilatation threshold is 9 cm, and cecal volvulus extends toward the epigastrium/left upper quadrant, not the right.
-Batch: Waman A7yaha Final
-###
-Regarding Free air in the abdomen, which of following is TRUE?
-A. The most common cause of free intraperitoneal air is perforated sigmoid colon
-B. Falciform ligament sign lowers the possibility of pneumoperitoneum
-C. History of abdominal surgery within one week is a cause of pneumoperitoneum
-D. Portal venous gas is only seen in the center of the liver
-E. Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine
-Correct Answer: C) History of abdominal surgery within one week is a cause of pneumoperitoneum
-Explanation: Physiologic post-operative free air can persist for up to a week or more, so recent abdominal surgery is a recognized benign cause of pneumoperitoneum; the falciform ligament sign actually supports the diagnosis, and portal venous gas is peripheral, not central.
-Batch: Waman A7yaha Final
-###
-Regarding abdominal calcifications, which one of the following is TRUE?
-A. Phleboliths are small arterial wall calcifications seen in the pelvis
-B. Eighty five percent of renal stones seen lucent on Radiograph
-C. The most likely diagnosis of pelvic calcification in a male is intravesical stone
-D. Ninety five percent of gall bladder stones seen on Ultrasound imaging
-E. Pelvic calcification seen medial to the sacroiliac joint usually represents appendicolith
-Correct Answer: D) Ninety five percent of gall bladder stones seen on Ultrasound imaging
-Explanation: Ultrasound detects the vast majority (~95%) of gallstones regardless of their radiographic composition; phleboliths are venous (not arterial), and most renal stones are radiopaque (not lucent) on plain film.
-Batch: Waman A7yaha Final
 ###
 Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]
 A) Choledocholithiasis
@@ -720,3 +642,139 @@ D) Bilateral adrenal calcification
 Correct Answer: D) Bilateral adrenal calcification
 Explanation: This recalled station describes calcifications localized to both adrenal glands rather than the kidneys, pancreas, or spleen.
 Batch: Waman A7yaha Mini-OSCE
+###
+Regarding abdominal calcifications, which one of the following is TRUE?
+A) Phleboliths are small arterial wall calcifications seen in the pelvis
+B) Bilateral adrenal calcifications seen at the level of L5 usually
+C) Eighty five percent of gall bladder stones seen on CT Scan
+D) Eighty five percent of renal stones seen on Radiograph
+E) The most likely diagnosis of pelvic calcification in a male is intravesical stone
+Correct Answer: D) Eighty five percent of renal stones seen on Radiograph
+Explanation: Approximately 85% of urinary/renal stones are radio-opaque and visible on plain radiograph (X-ray); phleboliths are small venous (not arterial) calcifications, and adrenal glands lie much higher than L5.
+Batch: Serotonin Final
+###
+Regarding Free air in the abdomen, which of following is TRUE?
+A) History of abdominal surgery within one month is an indication of pneumoperitoneum
+B) The most common cause of free intraperitoneal air is perforated sigmoid colon
+C) Falciform ligament sign lowers the possibility of pneumoperitoneum
+D) Portal venous gas is only seen in the center of the liver
+E) Erect chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph
+Correct Answer: E) Erect chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph
+Explanation: An erect chest film is the most sensitive plain radiograph for detecting free subdiaphragmatic gas; the falciform ligament sign actually supports (not lowers) the diagnosis, and portal venous gas is peripheral, not central.
+Batch: Serotonin Final
+###
+Regarding bowel obstruction, which of the following is TRUE?
+A) Ascending colon diameter of 8 cm meets the criteria of dilatation
+B) Hernia is the most common cause of small bowel obstruction
+C) Cecal diameter of 7 cm meets the criteria of dilatation
+D) Sigmoid volvulus usually extends to the left upper quadrant
+E) Two air fluid levels of 3 cm width each apply the definition of obstruction
+Correct Answer: A) Ascending colon diameter of 8 cm meets the criteria of dilatation
+Explanation: The "3-6-9 rule" sets the large bowel dilatation threshold at 6 cm, so 8 cm exceeds this; the cecal threshold is actually 9 cm, and adhesions (not hernia) are the overall most common cause of small bowel obstruction.
+Batch: Serotonin Final
+###
+Regarding abdomen anatomy, which of the following is TRUE?
+A) The portal vein confluence lies anterior to the neck of the pancreas
+B) The right adrenal gland is higher than the left adrenal gland
+C) The right renal vein is longer than the left renal vein
+D) The third part of the duodenum passes between liver and pancreas
+E) The Inferior mesenteric artery arises at the level of L3
+Correct Answer: E) The Inferior mesenteric artery arises at the level of L3
+Explanation: The IMA arises from the anterior aorta at L3, near the inferior duodenum, consistent with standard anatomy; the portal vein actually forms posterior to the pancreatic neck, and the left (not right) renal vein is the longer vessel.
+Batch: Serotonin Final
+###
+Regarding abdomen anatomy, which of the following is TRUE?
+A) The Inferior mesenteric artery arises at the level of L2
+B) The second part of the duodenum passes between liver and pancreas
+C) The right adrenal gland is higher than left adrenal gland
+D) The right renal vein is longer than the left renal vein
+E) The portal vein confluence lies anterior to the neck of pancreas
+Correct Answer: B) The second part of the duodenum passes between liver and pancreas
+Explanation: The duodenal C-loop's second (descending) part lies in the region between the liver above and the pancreatic head medially; the IMA actually arises at L3, not L2, and the left renal vein is longer than the right.
+Batch: Waman A7yaha Final
+###
+Regarding bowel obstruction, which of the following is TRUE?
+A) Cecal diameter of 7 cm meets the criteria of dilatation
+B) Cecal volvulus usually extends to the right upper quadrant
+C) Descending colon diameter of 5 cm meets the criteria of dilatation
+D) Hernia is the most common cause of small bowel obstruction
+E) More than three air-fluid levels, each >2.5 cm in width, support bowel obstruction
+Correct Answer: E) More than three air-fluid levels, each >2.5 cm in width, support bowel obstruction
+Explanation: Multiple (more than three) air-fluid levels exceeding 2.5 cm in width is a standard supportive criterion for bowel obstruction; the cecal dilatation threshold is 9 cm, and cecal volvulus extends toward the epigastrium/left upper quadrant, not the right.
+Batch: Waman A7yaha Final
+###
+Regarding Free air in the abdomen, which of following is TRUE?
+A) The most common cause of free intraperitoneal air is perforated sigmoid colon
+B) Falciform ligament sign lowers the possibility of pneumoperitoneum
+C) History of abdominal surgery within one week is a cause of pneumoperitoneum
+D) Portal venous gas is only seen in the center of the liver
+E) Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine
+Correct Answer: C) History of abdominal surgery within one week is a cause of pneumoperitoneum
+Explanation: Physiologic post-operative free air can persist for up to a week or more, so recent abdominal surgery is a recognized benign cause of pneumoperitoneum; the falciform ligament sign actually supports the diagnosis, and portal venous gas is peripheral, not central.
+Batch: Waman A7yaha Final
+###
+Regarding abdominal calcifications, which one of the following is TRUE?
+A) Phleboliths are small arterial wall calcifications seen in the pelvis
+B) Eighty five percent of renal stones seen lucent on Radiograph
+C) The most likely diagnosis of pelvic calcification in a male is intravesical stone
+D) Ninety five percent of gall bladder stones seen on Ultrasound imaging
+E) Pelvic calcification seen medial to the sacroiliac joint usually represents appendicolith
+Correct Answer: D) Ninety five percent of gall bladder stones seen on Ultrasound imaging
+Explanation: Ultrasound detects the vast majority (~95%) of gallstones regardless of their radiographic composition; phleboliths are venous (not arterial), and most renal stones are radiopaque (not lucent) on plain film.
+Batch: Waman A7yaha Final
+###
+Which of the following radiological signs can make the surest distinction between sigmoid volvulus as opposed to cecal volvulus?
+A) Whirlpool sign of the twisted mesenteric vessels
+B) Absent haustral markings throughout the entire colon
+C) A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant
+D) Coffee bean sign with medial deviation of the dilated loop
+E) Multiple air-fluid levels on an erect film
+Correct Answer: C) A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant
+Explanation: Sigmoid volvulus arises in the pelvis/left lower quadrant and its dilated loop characteristically points toward the RUQ, whereas cecal volvulus arises in the RLQ and points toward the epigastrium/LUQ — this site-of-origin-and-direction pattern is more reliable than haustral pattern or the whirlpool sign, both of which can overlap between volvulus types.
+Batch: Iris Mini-OSCE (Group C)
+###
+The "3-6-9 rule" refers to the approximate maximum normal diameter (in cm) of which structures, respectively?
+A) Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)
+B) Small bowel (6 cm), large bowel (9 cm), cecum (3 cm)
+C) Small bowel (3 cm), cecum (6 cm), large bowel (9 cm)
+D) Small bowel (9 cm), large bowel (6 cm), cecum (3 cm)
+Correct Answer: A) Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)
+Explanation: The 3-6-9 rule gives the approximate upper limits of normal caliber for the small bowel (3 cm), large bowel (6 cm), and cecum (9 cm) — exceeding these thresholds raises concern for bowel dilatation/obstruction.
+Batch: Iris Final
+###
+Which imaging modality is considered the gold standard for detecting gallbladder stones?
+A) CT
+B) Plain radiograph
+C) MRI
+D) Ultrasound
+Correct Answer: D) Ultrasound
+Explanation: Ultrasound is highly sensitive for gallstones, appearing as echogenic foci with posterior acoustic shadowing, and is far more sensitive than plain radiograph (which only shows ~15–20% of stones) or CT (which can miss cholesterol stones).
+Batch: Iris Final
+###
+Which of the following is a characteristic finding of small bowel obstruction, as opposed to large bowel obstruction?
+A) Peripherally located dilated loops
+B) Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen
+C) Haustral folds crossing only part of the lumen
+D) Fecal loading within the dilated bowel segment
+Correct Answer: B) Centrally located dilated loops with valvulae conniventes crossing the full width of the lumen
+Explanation: Small bowel lies centrally and shows valvulae conniventes that span the entire lumen diameter, distinguishing it from large bowel, which lies peripherally and shows haustral folds crossing only part of the lumen.
+Batch: Iris Final
+###
+Simultaneous visualization of gas within the bowel lumen and gas outlining the outer bowel wall (the double-wall/Rigler sign) is a sign of which of the following?
+A) Bowel obstruction
+B) Pneumobilia
+C) Portal venous gas
+D) Ischemic colitis
+E) Bowel perforation (pneumoperitoneum)
+Correct Answer: E) Bowel perforation (pneumoperitoneum)
+Explanation: Gas outlining both the inner (intraluminal) and outer (extraluminal/peritoneal) surfaces of the bowel wall is the Rigler (double-wall) sign, indicating free intraperitoneal air from a perforated viscus.
+Batch: Iris Final
+###
+What is the best imaging modality for evaluating suspected appendicitis in an adult?
+A) Plain abdominal radiograph
+B) MRI
+C) CT with IV contrast
+D) Ultrasound alone
+Correct Answer: C) CT with IV contrast
+Explanation: CT with IV contrast has the highest sensitivity (94–98%) and specificity (up to 97%) for appendicitis in adults and also identifies alternative causes of abdominal pain; ultrasound is preferred first-line in children and pregnant patients but is more operator-dependent and less sensitive overall.
+Batch: Iris Final
