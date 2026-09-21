@@ -14450,33 +14450,34 @@
         "path": "Radiology/Musculoskeletal (MSK) radiology.txt",
         "questions": [
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__1__1544cz",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__1__rk4vf4",
             "number": "1",
-            "text": "Which of the following is FALSE regarding this lesion? [img: nonossifyingfibroma.png ]",
+            "text": "Which of the following is FALSE regarding this lesion? [img: Radiologymnonossifyingfibroma.png ]",
             "options": [
-              "Eccentrically located in the metaphysis",
+              "Eccentric metaphyseal location",
               "Size greater than 3 cm",
-              "Associated with periosteal reaction",
-              "Well-defined lesion with a sclerotic rim"
+              "Sunburst periosteal reaction",
+              "Most common benign non-ossifying fibrous lesion of bone"
             ],
             "originalOptions": [
-              "Eccentrically located in the metaphysis",
+              "Eccentric metaphyseal location",
               "Size greater than 3 cm",
-              "Associated with periosteal reaction",
-              "Well-defined lesion with a sclerotic rim"
+              "Sunburst periosteal reaction",
+              "Most common benign non-ossifying fibrous lesion of bone"
             ],
-            "correctAnswer": "C) Associated with periosteal reaction",
-            "correctAnswerText": "Associated with periosteal reaction",
+            "correctAnswer": "C) Sunburst periosteal reaction",
+            "correctAnswerText": "Sunburst periosteal reaction",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "A fibrous cortical defect/non-ossifying fibroma shows No periosteal reaction, cortical breach, or soft tissue mass — its benign nature is defined by an eccentric, sclerotic-rimmed lucency without aggressive features.",
-            "batchName": "Aorta Mini-OSCE (Group A)",
+            "explanation": "Non-ossifying fibroma is a benign fibrous cortical lesion with a sclerotic rim and NO periosteal reaction; a sunburst pattern implies an aggressive process (e.g., osteosarcoma), which contradicts the benign nature of NOF.",
+            "batchName": "Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A)",
             "batchNames": [
+              "Iris Mini-OSCE (Group A)",
               "Aorta Mini-OSCE (Group A)"
             ],
-            "note": "",
+            "note": "عندما جاء السؤال لدفعة ايورتا كان مصحوب بصورة ، أما عندما جاء لدفعة ايريس فكان بدون صورة لكن كان بالسؤال : Non-ossifying fibroma",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -14485,9 +14486,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__2__ao3uiu",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__2__5m0393",
             "number": "2",
-            "text": "What is the name of this bone? [img: navicularanatomy.png ]",
+            "text": "What is the name of this bone? [img: Radiologymanatomynavicular.png ]",
             "options": [
               "Navicular",
               "Cuboid",
@@ -14520,9 +14521,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__3__ktoc8k",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__3__7th0af",
             "number": "3",
-            "text": "Which stage of Salter-Harris fracture is shown? [img: salterharris3.png ]",
+            "text": "Which stage of Salter-Harris fracture is shown? [img: Radiologymsalterharris3.png ]",
             "options": [
               "Type 2",
               "Type 4",
@@ -14557,9 +14558,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__vsigkb",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__y7d7js",
             "number": "4",
-            "text": "What is the name of this tendon? [img: quadricepstendon.png ]",
+            "text": "What is the name of this tendon? [img: Radiologymquadricepstendon.png ]",
             "options": [
               "Patellar tendon",
               "Quadriceps tendon",
@@ -14592,9 +14593,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__5__v94dgm",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__5__b35odz",
             "number": "5",
-            "text": "What is the earliest sign of this condition? [img: earliestsignofsacroiliitis.png ]",
+            "text": "What is the earliest sign of this condition? [img: Radiologymearliestsignofsacroiliitis.png ]",
             "options": [
               "Sacroiliitis",
               "Sunburst",
@@ -14664,9 +14665,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
             "number": "7",
-            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
             "options": [
               "Osteochondroma",
               "Osteosarcoma",
@@ -14686,8 +14687,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
-            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Final / Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+            "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Final / Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
@@ -14695,7 +14697,7 @@
               "Serotonin Mini-OSCE",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "This question has appeared in 6 previous exams.",
+            "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -14704,9 +14706,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__d0kgr2",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__uiuo1b",
             "number": "8",
-            "text": "PCL injury: appropriate diagnosis? [img: pcltear.png ]",
+            "text": "PCL injury: appropriate diagnosis? [img: Radiologympcltear.png ]",
             "options": [
               "ACL tear",
               "Lateral meniscus tear",
@@ -14867,10 +14869,11 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "Osteogenesis imperfecta is characterized by osteopenia (reduced bone density) due to type I collagen defects, not normal bone density.",
-            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
+            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group B)",
-              "Endorphin Mini-OSCE (Group D)"
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
             ],
             "note": "",
             "pageNumber": "",
@@ -14881,9 +14884,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__7x5fyc",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__zfy2od",
             "number": "13",
-            "text": "What is the name of the labelled tarsal bone? [img: cuboidanatomy.png ]",
+            "text": "What is the name of the labelled tarsal bone? [img: Radiologymanatomycuboid.png ]",
             "options": [
               "Cuneiform bone",
               "Cuboid",
@@ -14901,8 +14904,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "B",
             "explanation": "The cuboid is the laterally positioned tarsal bone articulating with the calcaneus proximally and the 4th/5th metatarsals distally, distinguishing it from the medially located navicular and cuneiforms.",
-            "batchName": "Endorphin Mini-OSCE (Group B)",
+            "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group B)"
             ],
             "note": "",
@@ -14914,9 +14918,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__n6oprj",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__h215u",
             "number": "14",
-            "text": "What is the name of the labelled carpal bone (Number 6) ? [img: capitateanatomy.png ]",
+            "text": "What is the name of the labelled carpal bone (Number 6) ? [img: Radiologymanatomycapitate.png ]",
             "options": [
               "Hamate",
               "Lunate",
@@ -14936,10 +14940,234 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).",
-            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
+            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group B)",
-              "Endorphin Mini-OSCE (Group E)"
+              "Endorphin Mini-OSCE (Group E)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__15__g6oamw",
+            "number": "15",
+            "text": "Which of the following is FALSE regarding this shoulder finding? [img: Radiologymanteriorshoulderdislocation.png ]",
+            "options": [
+              "Anterior shoulder dislocation is the most common type",
+              "Caused by forced abduction, external rotation, and extension",
+              "Humeral head is displaced superiorly and anteriorly",
+              "Can cause axillary artery or nerve injury"
+            ],
+            "originalOptions": [
+              "Anterior shoulder dislocation is the most common type",
+              "Caused by forced abduction, external rotation, and extension",
+              "Humeral head is displaced superiorly and anteriorly",
+              "Can cause axillary artery or nerve injury"
+            ],
+            "correctAnswer": "C) Humeral head is displaced superiorly and anteriorly",
+            "correctAnswerText": "Humeral head is displaced superiorly and anteriorly",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "In anterior shoulder dislocation, the humeral head is displaced anteriorly and inferiorly (medially), not superiorly, distinguishing it from luxatio erecta (inferior dislocation).",
+            "batchName": "Aorta Mini-OSCE (Group A) / Aorta Final",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__16__kui1p0",
+            "number": "16",
+            "text": "What is FALSE about this fracture? [img: Radiologymbucklefracture.png ]",
+            "options": [
+              "Complete fracture through the bone",
+              "Torus (buckle) fracture",
+              "Bulging of the cortex from axial loading",
+              "Common in the distal radius metaphysis in children"
+            ],
+            "originalOptions": [
+              "Complete fracture through the bone",
+              "Torus (buckle) fracture",
+              "Bulging of the cortex from axial loading",
+              "Common in the distal radius metaphysis in children"
+            ],
+            "correctAnswer": "A) Complete fracture through the bone",
+            "correctAnswerText": "Complete fracture through the bone",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A buckle (torus) fracture is an incomplete fracture with cortical bulging from axial compression, so describing it as a complete fracture is false.",
+            "batchName": "Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__17__mgy2lb",
+            "number": "17",
+            "text": "Hyperparathyroidism causes all of the following EXCEPT:",
+            "options": [
+              "Salt-and-pepper skull",
+              "High bone mass / osteosclerosis",
+              "Osteoporosis / subperiosteal bone resorption",
+              "Floating (flail) teeth"
+            ],
+            "originalOptions": [
+              "Salt-and-pepper skull",
+              "High bone mass / osteosclerosis",
+              "Osteoporosis / subperiosteal bone resorption",
+              "Floating (flail) teeth"
+            ],
+            "correctAnswer": "B) High bone mass / osteosclerosis",
+            "correctAnswerText": "High bone mass / osteosclerosis",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Hyperparathyroidism causes bone resorption and osteopenia, not increased bone mass; osteosclerosis is not a feature of this disease.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__18__bwux66",
+            "number": "18",
+            "text": "The demonstration of an abnormal fat pad in an adult suggests which of the following?",
+            "options": [
+              "Supracondylar fracture",
+              "Olecranon fracture",
+              "Radial head fracture",
+              "Lateral epicondyle fracture",
+              "Medial epicondyle fracture"
+            ],
+            "originalOptions": [
+              "Supracondylar fracture",
+              "Olecranon fracture",
+              "Radial head fracture",
+              "Lateral epicondyle fracture",
+              "Medial epicondyle fracture"
+            ],
+            "correctAnswer": "C) Radial head fracture",
+            "correctAnswerText": "Radial head fracture",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The most common cause of an elbow fat pad sign (joint effusion) in adults is a radial head fracture, whereas supracondylar fracture is the classic pediatric cause.",
+            "batchName": "Endorphin Mini-OSCE (Group A) / Serotonin Final",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Serotonin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__19__nx6hdm",
+            "number": "19",
+            "text": "What is the most likely diagnosis? [img: Radiologymankylosingspondylitis.png ]",
+            "options": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "originalOptions": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "correctAnswer": "A) Ankylosing spondylitis",
+            "correctAnswerText": "Ankylosing spondylitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Final / Aorta Final / Vagus Mini-OSCE (Group C) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__20__aao65n",
+            "number": "20",
+            "text": "What is the most likely diagnosis? [img: Radiologymddh.png ]",
+            "options": [
+              "SCFE",
+              "Perthes disease",
+              "Transient synovitis",
+              "DDH"
+            ],
+            "originalOptions": [
+              "SCFE",
+              "Perthes disease",
+              "Transient synovitis",
+              "DDH"
+            ],
+            "correctAnswer": "D) DDH",
+            "correctAnswerText": "DDH",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The image shows a shallow acetabulum with a small, laterally decentered femoral epiphysis in a young child, classic for Developmental dysplasia of the hip (DDH) rather than the older-child presentations of Perthes or SCFE.",
+            "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -15453,6 +15681,123 @@
             "groupName": "Abdominal Radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__15__g6oamw",
+            "number": "15",
+            "text": "Which of the following is FALSE regarding this shoulder finding? [img: Radiologymanteriorshoulderdislocation.png ]",
+            "options": [
+              "Anterior shoulder dislocation is the most common type",
+              "Caused by forced abduction, external rotation, and extension",
+              "Humeral head is displaced superiorly and anteriorly",
+              "Can cause axillary artery or nerve injury"
+            ],
+            "originalOptions": [
+              "Anterior shoulder dislocation is the most common type",
+              "Caused by forced abduction, external rotation, and extension",
+              "Humeral head is displaced superiorly and anteriorly",
+              "Can cause axillary artery or nerve injury"
+            ],
+            "correctAnswer": "C) Humeral head is displaced superiorly and anteriorly",
+            "correctAnswerText": "Humeral head is displaced superiorly and anteriorly",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "In anterior shoulder dislocation, the humeral head is displaced anteriorly and inferiorly (medially), not superiorly, distinguishing it from luxatio erecta (inferior dislocation).",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__19__nx6hdm",
+            "number": "19",
+            "text": "What is the most likely diagnosis? [img: Radiologymankylosingspondylitis.png ]",
+            "options": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "originalOptions": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "correctAnswer": "A) Ankylosing spondylitis",
+            "correctAnswerText": "Ankylosing spondylitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__20__aao65n",
+            "number": "20",
+            "text": "What is the most likely diagnosis? [img: Radiologymddh.png ]",
+            "options": [
+              "SCFE",
+              "Perthes disease",
+              "Transient synovitis",
+              "DDH"
+            ],
+            "originalOptions": [
+              "SCFE",
+              "Perthes disease",
+              "Transient synovitis",
+              "DDH"
+            ],
+            "correctAnswer": "D) DDH",
+            "correctAnswerText": "DDH",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The image shows a shallow acetabulum with a small, laterally decentered femoral epiphysis in a young child, classic for Developmental dysplasia of the hip (DDH) rather than the older-child presentations of Perthes or SCFE.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -15656,33 +16001,34 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__1__1544cz",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__1__rk4vf4",
             "number": "1",
-            "text": "Which of the following is FALSE regarding this lesion? [img: nonossifyingfibroma.png ]",
+            "text": "Which of the following is FALSE regarding this lesion? [img: Radiologymnonossifyingfibroma.png ]",
             "options": [
-              "Eccentrically located in the metaphysis",
+              "Eccentric metaphyseal location",
               "Size greater than 3 cm",
-              "Associated with periosteal reaction",
-              "Well-defined lesion with a sclerotic rim"
+              "Sunburst periosteal reaction",
+              "Most common benign non-ossifying fibrous lesion of bone"
             ],
             "originalOptions": [
-              "Eccentrically located in the metaphysis",
+              "Eccentric metaphyseal location",
               "Size greater than 3 cm",
-              "Associated with periosteal reaction",
-              "Well-defined lesion with a sclerotic rim"
+              "Sunburst periosteal reaction",
+              "Most common benign non-ossifying fibrous lesion of bone"
             ],
-            "correctAnswer": "C) Associated with periosteal reaction",
-            "correctAnswerText": "Associated with periosteal reaction",
+            "correctAnswer": "C) Sunburst periosteal reaction",
+            "correctAnswerText": "Sunburst periosteal reaction",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "A fibrous cortical defect/non-ossifying fibroma shows No periosteal reaction, cortical breach, or soft tissue mass — its benign nature is defined by an eccentric, sclerotic-rimmed lucency without aggressive features.",
+            "explanation": "Non-ossifying fibroma is a benign fibrous cortical lesion with a sclerotic rim and NO periosteal reaction; a sunburst pattern implies an aggressive process (e.g., osteosarcoma), which contradicts the benign nature of NOF.",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
+              "Iris Mini-OSCE (Group A)",
               "Aorta Mini-OSCE (Group A)"
             ],
-            "note": "",
+            "note": "عندما جاء السؤال لدفعة ايورتا كان مصحوب بصورة ، أما عندما جاء لدفعة ايريس فكان بدون صورة لكن كان بالسؤال : Non-ossifying fibroma",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -15692,9 +16038,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__2__ao3uiu",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__2__5m0393",
             "number": "2",
-            "text": "What is the name of this bone? [img: navicularanatomy.png ]",
+            "text": "What is the name of this bone? [img: Radiologymanatomynavicular.png ]",
             "options": [
               "Navicular",
               "Cuboid",
@@ -15728,9 +16074,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__3__ktoc8k",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__3__7th0af",
             "number": "3",
-            "text": "Which stage of Salter-Harris fracture is shown? [img: salterharris3.png ]",
+            "text": "Which stage of Salter-Harris fracture is shown? [img: Radiologymsalterharris3.png ]",
             "options": [
               "Type 2",
               "Type 4",
@@ -15766,9 +16112,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__vsigkb",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__y7d7js",
             "number": "4",
-            "text": "What is the name of this tendon? [img: quadricepstendon.png ]",
+            "text": "What is the name of this tendon? [img: Radiologymquadricepstendon.png ]",
             "options": [
               "Patellar tendon",
               "Quadriceps tendon",
@@ -15802,9 +16148,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__5__v94dgm",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__5__b35odz",
             "number": "5",
-            "text": "What is the earliest sign of this condition? [img: earliestsignofsacroiliitis.png ]",
+            "text": "What is the earliest sign of this condition? [img: Radiologymearliestsignofsacroiliitis.png ]",
             "options": [
               "Sacroiliitis",
               "Sunburst",
@@ -15826,6 +16172,80 @@
             "explanation": "Sacroiliitis (initial widening followed by erosions and sclerosis of the SI joints) is the earliest manifestation of ankylosing spondylitis; the dagger and bamboo spine signs reflect late-stage spinal ligamentous ossification and fusion.",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__15__g6oamw",
+            "number": "15",
+            "text": "Which of the following is FALSE regarding this shoulder finding? [img: Radiologymanteriorshoulderdislocation.png ]",
+            "options": [
+              "Anterior shoulder dislocation is the most common type",
+              "Caused by forced abduction, external rotation, and extension",
+              "Humeral head is displaced superiorly and anteriorly",
+              "Can cause axillary artery or nerve injury"
+            ],
+            "originalOptions": [
+              "Anterior shoulder dislocation is the most common type",
+              "Caused by forced abduction, external rotation, and extension",
+              "Humeral head is displaced superiorly and anteriorly",
+              "Can cause axillary artery or nerve injury"
+            ],
+            "correctAnswer": "C) Humeral head is displaced superiorly and anteriorly",
+            "correctAnswerText": "Humeral head is displaced superiorly and anteriorly",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "In anterior shoulder dislocation, the humeral head is displaced anteriorly and inferiorly (medially), not superiorly, distinguishing it from luxatio erecta (inferior dislocation).",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Aorta Mini-OSCE (Group A)",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__16__kui1p0",
+            "number": "16",
+            "text": "What is FALSE about this fracture? [img: Radiologymbucklefracture.png ]",
+            "options": [
+              "Complete fracture through the bone",
+              "Torus (buckle) fracture",
+              "Bulging of the cortex from axial loading",
+              "Common in the distal radius metaphysis in children"
+            ],
+            "originalOptions": [
+              "Complete fracture through the bone",
+              "Torus (buckle) fracture",
+              "Bulging of the cortex from axial loading",
+              "Common in the distal radius metaphysis in children"
+            ],
+            "correctAnswer": "A) Complete fracture through the bone",
+            "correctAnswerText": "Complete fracture through the bone",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A buckle (torus) fracture is an incomplete fracture with cortical bulging from axial compression, so describing it as a complete fracture is false.",
+            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
               "Aorta Mini-OSCE (Group A)"
             ],
             "note": "",
@@ -16067,6 +16487,119 @@
               "Coronary Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
+            "number": "7",
+            "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
+            "options": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "originalOptions": [
+              "Osteochondroma",
+              "Osteosarcoma",
+              "Enchondroma",
+              "Bone cyst"
+            ],
+            "correctAnswer": "A) Osteochondroma",
+            "correctAnswerText": "Osteochondroma",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__zfy2od",
+            "number": "13",
+            "text": "What is the name of the labelled tarsal bone? [img: Radiologymanatomycuboid.png ]",
+            "options": [
+              "Cuneiform bone",
+              "Cuboid",
+              "Navicular bone"
+            ],
+            "originalOptions": [
+              "Cuneiform bone",
+              "Cuboid",
+              "Navicular bone"
+            ],
+            "correctAnswer": "B) Cuboid",
+            "correctAnswerText": "Cuboid",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The cuboid is the laterally positioned tarsal bone articulating with the calcaneus proximally and the 4th/5th metatarsals distally, distinguishing it from the medially located navicular and cuneiforms.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group B)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__17__mgy2lb",
+            "number": "17",
+            "text": "Hyperparathyroidism causes all of the following EXCEPT:",
+            "options": [
+              "Salt-and-pepper skull",
+              "High bone mass / osteosclerosis",
+              "Osteoporosis / subperiosteal bone resorption",
+              "Floating (flail) teeth"
+            ],
+            "originalOptions": [
+              "Salt-and-pepper skull",
+              "High bone mass / osteosclerosis",
+              "Osteoporosis / subperiosteal bone resorption",
+              "Floating (flail) teeth"
+            ],
+            "correctAnswer": "B) High bone mass / osteosclerosis",
+            "correctAnswerText": "High bone mass / osteosclerosis",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Hyperparathyroidism causes bone resorption and osteopenia, not increased bone mass; osteosclerosis is not a feature of this disease.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)"
             ],
             "note": "",
             "pageNumber": "",
@@ -16567,9 +17100,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
             "number": "7",
-            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
             "options": [
               "Osteochondroma",
               "Osteosarcoma",
@@ -16591,6 +17124,7 @@
             "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
             "batchName": "Endorphin Final",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
@@ -16598,7 +17132,87 @@
               "Serotonin Mini-OSCE",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "This question has appeared in 6 previous exams.",
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__19__nx6hdm",
+            "number": "19",
+            "text": "What is the most likely diagnosis? [img: Radiologymankylosingspondylitis.png ]",
+            "options": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "originalOptions": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "correctAnswer": "A) Ankylosing spondylitis",
+            "correctAnswerText": "Ankylosing spondylitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__20__aao65n",
+            "number": "20",
+            "text": "What is the most likely diagnosis? [img: Radiologymddh.png ]",
+            "options": [
+              "SCFE",
+              "Perthes disease",
+              "Transient synovitis",
+              "DDH"
+            ],
+            "originalOptions": [
+              "SCFE",
+              "Perthes disease",
+              "Transient synovitis",
+              "DDH"
+            ],
+            "correctAnswer": "D) DDH",
+            "correctAnswerText": "DDH",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The image shows a shallow acetabulum with a small, laterally decentered femoral epiphysis in a young child, classic for Developmental dysplasia of the hip (DDH) rather than the older-child presentations of Perthes or SCFE.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -16852,9 +17466,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__3__ktoc8k",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__3__7th0af",
             "number": "3",
-            "text": "Which stage of Salter-Harris fracture is shown? [img: salterharris3.png ]",
+            "text": "Which stage of Salter-Harris fracture is shown? [img: Radiologymsalterharris3.png ]",
             "options": [
               "Type 2",
               "Type 4",
@@ -16890,9 +17504,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
             "number": "7",
-            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
             "options": [
               "Osteochondroma",
               "Osteosarcoma",
@@ -16914,6 +17528,7 @@
             "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
@@ -16921,7 +17536,126 @@
               "Serotonin Mini-OSCE",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "This question has appeared in 6 previous exams.",
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__18__bwux66",
+            "number": "18",
+            "text": "The demonstration of an abnormal fat pad in an adult suggests which of the following?",
+            "options": [
+              "Supracondylar fracture",
+              "Olecranon fracture",
+              "Radial head fracture",
+              "Lateral epicondyle fracture",
+              "Medial epicondyle fracture"
+            ],
+            "originalOptions": [
+              "Supracondylar fracture",
+              "Olecranon fracture",
+              "Radial head fracture",
+              "Lateral epicondyle fracture",
+              "Medial epicondyle fracture"
+            ],
+            "correctAnswer": "C) Radial head fracture",
+            "correctAnswerText": "Radial head fracture",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The most common cause of an elbow fat pad sign (joint effusion) in adults is a radial head fracture, whereas supracondylar fracture is the classic pediatric cause.",
+            "batchName": "Endorphin Mini-OSCE (Group A)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Serotonin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__19__nx6hdm",
+            "number": "19",
+            "text": "What is the most likely diagnosis? [img: Radiologymankylosingspondylitis.png ]",
+            "options": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "originalOptions": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "correctAnswer": "A) Ankylosing spondylitis",
+            "correctAnswerText": "Ankylosing spondylitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "batchName": "Endorphin Mini-OSCE (Group A)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__20__aao65n",
+            "number": "20",
+            "text": "What is the most likely diagnosis? [img: Radiologymddh.png ]",
+            "options": [
+              "SCFE",
+              "Perthes disease",
+              "Transient synovitis",
+              "DDH"
+            ],
+            "originalOptions": [
+              "SCFE",
+              "Perthes disease",
+              "Transient synovitis",
+              "DDH"
+            ],
+            "correctAnswer": "D) DDH",
+            "correctAnswerText": "DDH",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The image shows a shallow acetabulum with a small, laterally decentered femoral epiphysis in a young child, classic for Developmental dysplasia of the hip (DDH) rather than the older-child presentations of Perthes or SCFE.",
+            "batchName": "Endorphin Mini-OSCE (Group A)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -17342,7 +18076,8 @@
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group B)",
-              "Endorphin Mini-OSCE (Group D)"
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
             ],
             "note": "",
             "pageNumber": "",
@@ -17354,9 +18089,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__7x5fyc",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__13__zfy2od",
             "number": "13",
-            "text": "What is the name of the labelled tarsal bone? [img: cuboidanatomy.png ]",
+            "text": "What is the name of the labelled tarsal bone? [img: Radiologymanatomycuboid.png ]",
             "options": [
               "Cuneiform bone",
               "Cuboid",
@@ -17376,6 +18111,7 @@
             "explanation": "The cuboid is the laterally positioned tarsal bone articulating with the calcaneus proximally and the 4th/5th metatarsals distally, distinguishing it from the medially located navicular and cuneiforms.",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group B)"
             ],
             "note": "",
@@ -17388,9 +18124,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__n6oprj",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__h215u",
             "number": "14",
-            "text": "What is the name of the labelled carpal bone (Number 6) ? [img: capitateanatomy.png ]",
+            "text": "What is the name of the labelled carpal bone (Number 6) ? [img: Radiologymanatomycapitate.png ]",
             "options": [
               "Hamate",
               "Lunate",
@@ -17413,7 +18149,8 @@
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group B)",
-              "Endorphin Mini-OSCE (Group E)"
+              "Endorphin Mini-OSCE (Group E)",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -17743,9 +18480,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__d0kgr2",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__uiuo1b",
             "number": "8",
-            "text": "PCL injury: appropriate diagnosis? [img: pcltear.png ]",
+            "text": "PCL injury: appropriate diagnosis? [img: Radiologympcltear.png ]",
             "options": [
               "ACL tear",
               "Lateral meniscus tear",
@@ -18097,9 +18834,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__d0kgr2",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__uiuo1b",
             "number": "8",
-            "text": "PCL injury: appropriate diagnosis? [img: pcltear.png ]",
+            "text": "PCL injury: appropriate diagnosis? [img: Radiologympcltear.png ]",
             "options": [
               "ACL tear",
               "Lateral meniscus tear",
@@ -18195,7 +18932,8 @@
             "batchName": "Endorphin Mini-OSCE (Group D)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group B)",
-              "Endorphin Mini-OSCE (Group D)"
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
             ],
             "note": "",
             "pageNumber": "",
@@ -18476,9 +19214,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__3__ktoc8k",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__3__7th0af",
             "number": "3",
-            "text": "Which stage of Salter-Harris fracture is shown? [img: salterharris3.png ]",
+            "text": "Which stage of Salter-Harris fracture is shown? [img: Radiologymsalterharris3.png ]",
             "options": [
               "Type 2",
               "Type 4",
@@ -18590,9 +19328,45 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__n6oprj",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__12__b2cwmd",
+            "number": "12",
+            "text": "Which of the following is NOT true regarding osteogenesis imperfecta?",
+            "options": [
+              "Normal bone density on X-ray",
+              "Perinatal lethal form is type II",
+              "Osteopenia and multiple fractures are characteristic"
+            ],
+            "originalOptions": [
+              "Normal bone density on X-ray",
+              "Perinatal lethal form is type II",
+              "Osteopenia and multiple fractures are characteristic"
+            ],
+            "correctAnswer": "A) Normal bone density on X-ray",
+            "correctAnswerText": "Normal bone density on X-ray",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Osteogenesis imperfecta is characterized by osteopenia (reduced bone density) due to type I collagen defects, not normal bone density.",
+            "batchName": "Endorphin Mini-OSCE (Group E)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__h215u",
             "number": "14",
-            "text": "What is the name of the labelled carpal bone (Number 6) ? [img: capitateanatomy.png ]",
+            "text": "What is the name of the labelled carpal bone (Number 6) ? [img: Radiologymanatomycapitate.png ]",
             "options": [
               "Hamate",
               "Lunate",
@@ -18615,7 +19389,8 @@
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group B)",
-              "Endorphin Mini-OSCE (Group E)"
+              "Endorphin Mini-OSCE (Group E)",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -19133,6 +19908,80 @@
             "groupName": "Abdominal Radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__1__rk4vf4",
+            "number": "1",
+            "text": "Which of the following is FALSE regarding this lesion? [img: Radiologymnonossifyingfibroma.png ]",
+            "options": [
+              "Eccentric metaphyseal location",
+              "Size greater than 3 cm",
+              "Sunburst periosteal reaction",
+              "Most common benign non-ossifying fibrous lesion of bone"
+            ],
+            "originalOptions": [
+              "Eccentric metaphyseal location",
+              "Size greater than 3 cm",
+              "Sunburst periosteal reaction",
+              "Most common benign non-ossifying fibrous lesion of bone"
+            ],
+            "correctAnswer": "C) Sunburst periosteal reaction",
+            "correctAnswerText": "Sunburst periosteal reaction",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Non-ossifying fibroma is a benign fibrous cortical lesion with a sclerotic rim and NO periosteal reaction; a sunburst pattern implies an aggressive process (e.g., osteosarcoma), which contradicts the benign nature of NOF.",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "عندما جاء السؤال لدفعة ايورتا كان مصحوب بصورة ، أما عندما جاء لدفعة ايريس فكان بدون صورة لكن كان بالسؤال : Non-ossifying fibroma",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__16__kui1p0",
+            "number": "16",
+            "text": "What is FALSE about this fracture? [img: Radiologymbucklefracture.png ]",
+            "options": [
+              "Complete fracture through the bone",
+              "Torus (buckle) fracture",
+              "Bulging of the cortex from axial loading",
+              "Common in the distal radius metaphysis in children"
+            ],
+            "originalOptions": [
+              "Complete fracture through the bone",
+              "Torus (buckle) fracture",
+              "Bulging of the cortex from axial loading",
+              "Common in the distal radius metaphysis in children"
+            ],
+            "correctAnswer": "A) Complete fracture through the bone",
+            "correctAnswerText": "Complete fracture through the bone",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A buckle (torus) fracture is an incomplete fracture with cortical bulging from axial compression, so describing it as a complete fracture is false.",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -19330,9 +20179,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
             "number": "7",
-            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
             "options": [
               "Osteochondroma",
               "Osteosarcoma",
@@ -19354,6 +20203,7 @@
             "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
             "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
@@ -19361,7 +20211,7 @@
               "Serotonin Mini-OSCE",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "This question has appeared in 6 previous exams.",
+            "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -19495,9 +20345,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
             "number": "7",
-            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
             "options": [
               "Osteochondroma",
               "Osteosarcoma",
@@ -19519,6 +20369,7 @@
             "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
@@ -19526,7 +20377,7 @@
               "Serotonin Mini-OSCE",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "This question has appeared in 6 previous exams.",
+            "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -19813,6 +20664,45 @@
             "subjectId": "radiology",
             "lectureName": "Abdominal Radiology",
             "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__18__bwux66",
+            "number": "18",
+            "text": "The demonstration of an abnormal fat pad in an adult suggests which of the following?",
+            "options": [
+              "Supracondylar fracture",
+              "Olecranon fracture",
+              "Radial head fracture",
+              "Lateral epicondyle fracture",
+              "Medial epicondyle fracture"
+            ],
+            "originalOptions": [
+              "Supracondylar fracture",
+              "Olecranon fracture",
+              "Radial head fracture",
+              "Lateral epicondyle fracture",
+              "Medial epicondyle fracture"
+            ],
+            "correctAnswer": "C) Radial head fracture",
+            "correctAnswerText": "Radial head fracture",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The most common cause of an elbow fat pad sign (joint effusion) in adults is a radial head fracture, whereas supracondylar fracture is the classic pediatric cause.",
+            "batchName": "Serotonin Final",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Serotonin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
           }
@@ -20355,9 +21245,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
             "number": "7",
-            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
             "options": [
               "Osteochondroma",
               "Osteosarcoma",
@@ -20379,6 +21269,7 @@
             "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
             "batchName": "Serotonin Mini-OSCE",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
@@ -20386,7 +21277,48 @@
               "Serotonin Mini-OSCE",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "This question has appeared in 6 previous exams.",
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__19__nx6hdm",
+            "number": "19",
+            "text": "What is the most likely diagnosis? [img: Radiologymankylosingspondylitis.png ]",
+            "options": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "originalOptions": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "correctAnswer": "A) Ankylosing spondylitis",
+            "correctAnswerText": "Ankylosing spondylitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -20670,6 +21602,47 @@
             "subjectId": "radiology",
             "lectureName": "Abdominal Radiology",
             "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__19__nx6hdm",
+            "number": "19",
+            "text": "What is the most likely diagnosis? [img: Radiologymankylosingspondylitis.png ]",
+            "options": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "originalOptions": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "correctAnswer": "A) Ankylosing spondylitis",
+            "correctAnswerText": "Ankylosing spondylitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "batchName": "Vagus Mini-OSCE (Group C)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
           }
@@ -21832,9 +22805,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
             "number": "7",
-            "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
             "options": [
               "Osteochondroma",
               "Osteosarcoma",
@@ -21856,6 +22829,7 @@
             "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group A)",
@@ -21863,7 +22837,125 @@
               "Serotonin Mini-OSCE",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "This question has appeared in 6 previous exams.",
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__14__h215u",
+            "number": "14",
+            "text": "What is the name of the labelled carpal bone (Number 6) ? [img: Radiologymanatomycapitate.png ]",
+            "options": [
+              "Hamate",
+              "Lunate",
+              "Capitate",
+              "Trapezoid"
+            ],
+            "originalOptions": [
+              "Hamate",
+              "Lunate",
+              "Capitate",
+              "Trapezoid"
+            ],
+            "correctAnswer": "C) Capitate",
+            "correctAnswerText": "Capitate",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group E)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__19__nx6hdm",
+            "number": "19",
+            "text": "What is the most likely diagnosis? [img: Radiologymankylosingspondylitis.png ]",
+            "options": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "originalOptions": [
+              "Ankylosing spondylitis",
+              "Osteoarthritis",
+              "Rheumatoid arthritis",
+              "Degenerative disc disease"
+            ],
+            "correctAnswer": "A) Ankylosing spondylitis",
+            "correctAnswerText": "Ankylosing spondylitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__20__aao65n",
+            "number": "20",
+            "text": "What is the most likely diagnosis? [img: Radiologymddh.png ]",
+            "options": [
+              "SCFE",
+              "Perthes disease",
+              "Transient synovitis",
+              "DDH"
+            ],
+            "originalOptions": [
+              "SCFE",
+              "Perthes disease",
+              "Transient synovitis",
+              "DDH"
+            ],
+            "correctAnswer": "D) DDH",
+            "correctAnswerText": "DDH",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The image shows a shallow acetabulum with a small, laterally decentered femoral epiphysis in a young child, classic for Developmental dysplasia of the hip (DDH) rather than the older-child presentations of Perthes or SCFE.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -24917,33 +26009,34 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__1__1544cz",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__1__rk4vf4",
         "number": "1",
-        "text": "Which of the following is FALSE regarding this lesion? [img: nonossifyingfibroma.png ]",
+        "text": "Which of the following is FALSE regarding this lesion? [img: Radiologymnonossifyingfibroma.png ]",
         "options": [
-          "Eccentrically located in the metaphysis",
+          "Eccentric metaphyseal location",
           "Size greater than 3 cm",
-          "Associated with periosteal reaction",
-          "Well-defined lesion with a sclerotic rim"
+          "Sunburst periosteal reaction",
+          "Most common benign non-ossifying fibrous lesion of bone"
         ],
         "originalOptions": [
-          "Eccentrically located in the metaphysis",
+          "Eccentric metaphyseal location",
           "Size greater than 3 cm",
-          "Associated with periosteal reaction",
-          "Well-defined lesion with a sclerotic rim"
+          "Sunburst periosteal reaction",
+          "Most common benign non-ossifying fibrous lesion of bone"
         ],
-        "correctAnswer": "C) Associated with periosteal reaction",
-        "correctAnswerText": "Associated with periosteal reaction",
+        "correctAnswer": "C) Sunburst periosteal reaction",
+        "correctAnswerText": "Sunburst periosteal reaction",
         "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "A fibrous cortical defect/non-ossifying fibroma shows No periosteal reaction, cortical breach, or soft tissue mass — its benign nature is defined by an eccentric, sclerotic-rimmed lucency without aggressive features.",
-        "batchName": "Aorta Mini-OSCE (Group A)",
+        "explanation": "Non-ossifying fibroma is a benign fibrous cortical lesion with a sclerotic rim and NO periosteal reaction; a sunburst pattern implies an aggressive process (e.g., osteosarcoma), which contradicts the benign nature of NOF.",
+        "batchName": "Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A)",
         "batchNames": [
+          "Iris Mini-OSCE (Group A)",
           "Aorta Mini-OSCE (Group A)"
         ],
-        "note": "",
+        "note": "عندما جاء السؤال لدفعة ايورتا كان مصحوب بصورة ، أما عندما جاء لدفعة ايريس فكان بدون صورة لكن كان بالسؤال : Non-ossifying fibroma",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -24952,9 +26045,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__2__ao3uiu",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__2__5m0393",
         "number": "2",
-        "text": "What is the name of this bone? [img: navicularanatomy.png ]",
+        "text": "What is the name of this bone? [img: Radiologymanatomynavicular.png ]",
         "options": [
           "Navicular",
           "Cuboid",
@@ -24987,9 +26080,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__3__ktoc8k",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__3__7th0af",
         "number": "3",
-        "text": "Which stage of Salter-Harris fracture is shown? [img: salterharris3.png ]",
+        "text": "Which stage of Salter-Harris fracture is shown? [img: Radiologymsalterharris3.png ]",
         "options": [
           "Type 2",
           "Type 4",
@@ -25024,9 +26117,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__4__vsigkb",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__4__y7d7js",
         "number": "4",
-        "text": "What is the name of this tendon? [img: quadricepstendon.png ]",
+        "text": "What is the name of this tendon? [img: Radiologymquadricepstendon.png ]",
         "options": [
           "Patellar tendon",
           "Quadriceps tendon",
@@ -25059,9 +26152,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__5__v94dgm",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__5__b35odz",
         "number": "5",
-        "text": "What is the earliest sign of this condition? [img: earliestsignofsacroiliitis.png ]",
+        "text": "What is the earliest sign of this condition? [img: Radiologymearliestsignofsacroiliitis.png ]",
         "options": [
           "Sacroiliitis",
           "Sunburst",
@@ -25131,9 +26224,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__7__q7pu55",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
         "number": "7",
-        "text": "What is the most likely diagnosis? [img: osteochondroma.png ]",
+        "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
         "options": [
           "Osteochondroma",
           "Osteosarcoma",
@@ -25153,8 +26246,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).",
-        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Final / Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+        "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Final / Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
         "batchNames": [
+          "Coronary Mini-OSCE (Group C)",
           "Iris Mini-OSCE (Group C)",
           "Iris Mini-OSCE (Group D)",
           "Endorphin Mini-OSCE (Group A)",
@@ -25162,7 +26256,7 @@
           "Serotonin Mini-OSCE",
           "Waman A7yaha Mini-OSCE"
         ],
-        "note": "This question has appeared in 6 previous exams.",
+        "note": "",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -25171,9 +26265,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__8__d0kgr2",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__8__uiuo1b",
         "number": "8",
-        "text": "PCL injury: appropriate diagnosis? [img: pcltear.png ]",
+        "text": "PCL injury: appropriate diagnosis? [img: Radiologympcltear.png ]",
         "options": [
           "ACL tear",
           "Lateral meniscus tear",
@@ -25334,10 +26428,11 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "Osteogenesis imperfecta is characterized by osteopenia (reduced bone density) due to type I collagen defects, not normal bone density.",
-        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D)",
+        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)",
         "batchNames": [
           "Endorphin Mini-OSCE (Group B)",
-          "Endorphin Mini-OSCE (Group D)"
+          "Endorphin Mini-OSCE (Group D)",
+          "Endorphin Mini-OSCE (Group E)"
         ],
         "note": "",
         "pageNumber": "",
@@ -25348,9 +26443,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__13__7x5fyc",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__13__zfy2od",
         "number": "13",
-        "text": "What is the name of the labelled tarsal bone? [img: cuboidanatomy.png ]",
+        "text": "What is the name of the labelled tarsal bone? [img: Radiologymanatomycuboid.png ]",
         "options": [
           "Cuneiform bone",
           "Cuboid",
@@ -25368,8 +26463,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "B",
         "explanation": "The cuboid is the laterally positioned tarsal bone articulating with the calcaneus proximally and the 4th/5th metatarsals distally, distinguishing it from the medially located navicular and cuneiforms.",
-        "batchName": "Endorphin Mini-OSCE (Group B)",
+        "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B)",
         "batchNames": [
+          "Coronary Mini-OSCE (Group C)",
           "Endorphin Mini-OSCE (Group B)"
         ],
         "note": "",
@@ -25381,9 +26477,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__14__n6oprj",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__14__h215u",
         "number": "14",
-        "text": "What is the name of the labelled carpal bone (Number 6) ? [img: capitateanatomy.png ]",
+        "text": "What is the name of the labelled carpal bone (Number 6) ? [img: Radiologymanatomycapitate.png ]",
         "options": [
           "Hamate",
           "Lunate",
@@ -25403,10 +26499,234 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "The capitate is the largest carpal bone, centrally located in the distal carpal row, distinguishing it from the hamate (ulnar side), lunate (proximal row), and trapezoid (radial side).",
-        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)",
+        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Endorphin Mini-OSCE (Group B)",
-          "Endorphin Mini-OSCE (Group E)"
+          "Endorphin Mini-OSCE (Group E)",
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__15__g6oamw",
+        "number": "15",
+        "text": "Which of the following is FALSE regarding this shoulder finding? [img: Radiologymanteriorshoulderdislocation.png ]",
+        "options": [
+          "Anterior shoulder dislocation is the most common type",
+          "Caused by forced abduction, external rotation, and extension",
+          "Humeral head is displaced superiorly and anteriorly",
+          "Can cause axillary artery or nerve injury"
+        ],
+        "originalOptions": [
+          "Anterior shoulder dislocation is the most common type",
+          "Caused by forced abduction, external rotation, and extension",
+          "Humeral head is displaced superiorly and anteriorly",
+          "Can cause axillary artery or nerve injury"
+        ],
+        "correctAnswer": "C) Humeral head is displaced superiorly and anteriorly",
+        "correctAnswerText": "Humeral head is displaced superiorly and anteriorly",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "In anterior shoulder dislocation, the humeral head is displaced anteriorly and inferiorly (medially), not superiorly, distinguishing it from luxatio erecta (inferior dislocation).",
+        "batchName": "Aorta Mini-OSCE (Group A) / Aorta Final",
+        "batchNames": [
+          "Aorta Mini-OSCE (Group A)",
+          "Aorta Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__16__kui1p0",
+        "number": "16",
+        "text": "What is FALSE about this fracture? [img: Radiologymbucklefracture.png ]",
+        "options": [
+          "Complete fracture through the bone",
+          "Torus (buckle) fracture",
+          "Bulging of the cortex from axial loading",
+          "Common in the distal radius metaphysis in children"
+        ],
+        "originalOptions": [
+          "Complete fracture through the bone",
+          "Torus (buckle) fracture",
+          "Bulging of the cortex from axial loading",
+          "Common in the distal radius metaphysis in children"
+        ],
+        "correctAnswer": "A) Complete fracture through the bone",
+        "correctAnswerText": "Complete fracture through the bone",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "A buckle (torus) fracture is an incomplete fracture with cortical bulging from axial compression, so describing it as a complete fracture is false.",
+        "batchName": "Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group A)",
+          "Aorta Mini-OSCE (Group A)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__17__mgy2lb",
+        "number": "17",
+        "text": "Hyperparathyroidism causes all of the following EXCEPT:",
+        "options": [
+          "Salt-and-pepper skull",
+          "High bone mass / osteosclerosis",
+          "Osteoporosis / subperiosteal bone resorption",
+          "Floating (flail) teeth"
+        ],
+        "originalOptions": [
+          "Salt-and-pepper skull",
+          "High bone mass / osteosclerosis",
+          "Osteoporosis / subperiosteal bone resorption",
+          "Floating (flail) teeth"
+        ],
+        "correctAnswer": "B) High bone mass / osteosclerosis",
+        "correctAnswerText": "High bone mass / osteosclerosis",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Hyperparathyroidism causes bone resorption and osteopenia, not increased bone mass; osteosclerosis is not a feature of this disease.",
+        "batchName": "Coronary Mini-OSCE (Group C)",
+        "batchNames": [
+          "Coronary Mini-OSCE (Group C)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__18__bwux66",
+        "number": "18",
+        "text": "The demonstration of an abnormal fat pad in an adult suggests which of the following?",
+        "options": [
+          "Supracondylar fracture",
+          "Olecranon fracture",
+          "Radial head fracture",
+          "Lateral epicondyle fracture",
+          "Medial epicondyle fracture"
+        ],
+        "originalOptions": [
+          "Supracondylar fracture",
+          "Olecranon fracture",
+          "Radial head fracture",
+          "Lateral epicondyle fracture",
+          "Medial epicondyle fracture"
+        ],
+        "correctAnswer": "C) Radial head fracture",
+        "correctAnswerText": "Radial head fracture",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The most common cause of an elbow fat pad sign (joint effusion) in adults is a radial head fracture, whereas supracondylar fracture is the classic pediatric cause.",
+        "batchName": "Endorphin Mini-OSCE (Group A) / Serotonin Final",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group A)",
+          "Serotonin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__19__nx6hdm",
+        "number": "19",
+        "text": "What is the most likely diagnosis? [img: Radiologymankylosingspondylitis.png ]",
+        "options": [
+          "Ankylosing spondylitis",
+          "Osteoarthritis",
+          "Rheumatoid arthritis",
+          "Degenerative disc disease"
+        ],
+        "originalOptions": [
+          "Ankylosing spondylitis",
+          "Osteoarthritis",
+          "Rheumatoid arthritis",
+          "Degenerative disc disease"
+        ],
+        "correctAnswer": "A) Ankylosing spondylitis",
+        "correctAnswerText": "Ankylosing spondylitis",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+        "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Final / Aorta Final / Vagus Mini-OSCE (Group C) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group A)",
+          "Endorphin Final",
+          "Aorta Final",
+          "Vagus Mini-OSCE (Group C)",
+          "Waman A7yaha Mini-OSCE",
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__20__aao65n",
+        "number": "20",
+        "text": "What is the most likely diagnosis? [img: Radiologymddh.png ]",
+        "options": [
+          "SCFE",
+          "Perthes disease",
+          "Transient synovitis",
+          "DDH"
+        ],
+        "originalOptions": [
+          "SCFE",
+          "Perthes disease",
+          "Transient synovitis",
+          "DDH"
+        ],
+        "correctAnswer": "D) DDH",
+        "correctAnswerText": "DDH",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The image shows a shallow acetabulum with a small, laterally decentered femoral epiphysis in a young child, classic for Developmental dysplasia of the hip (DDH) rather than the older-child presentations of Perthes or SCFE.",
+        "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group A)",
+          "Endorphin Final",
+          "Aorta Final",
+          "Waman A7yaha Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -25417,7 +26737,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 98,
+    "totalQuestions": 104,
     "totalLectures": 23,
     "hasAiFolder": false
   },
