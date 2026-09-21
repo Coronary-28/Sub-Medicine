@@ -62,7 +62,7 @@ Correct Answer: A) Osteochondroma
 Explanation: A bony projection with cortical and medullary continuity with the parent bone, arising from the metaphysis and pointing away from the joint, is characteristic of osteochondroma (cartilage-capped exostosis).
 Batch: Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group A) / Endorphin Final / Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE
 ###
-PCL injury: appropriate diagnosis? [img: Radiologympcltear.png ]
+What is the most likely diagnosis? [img: Radiologympcltear.png ]
 A) ACL tear
 B) Lateral meniscus tear
 C) Medial meniscus tear
