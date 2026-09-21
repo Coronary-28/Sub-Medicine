@@ -643,7 +643,7 @@ Correct Answer: D) Bilateral adrenal calcification
 Explanation: This recalled station describes calcifications localized to both adrenal glands rather than the kidneys, pancreas, or spleen.
 Batch: Waman A7yaha Mini-OSCE
 ###
-What is the diagnosis? [img: Radiologyaascites.jpg ]
+What is the diagnosis? [img: Radiologyaascites.png ]
 A) Ascites
 B) Pneumoperitoneum
 C) Hemoperitoneum
