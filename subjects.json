@@ -13047,9 +13047,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__46__chi0p6",
+            "id": "radiology__lecture__abdominal-radiology__46__7el5x",
             "number": "46",
-            "text": "What is the most likely diagnosis? [img: Radiologysmallbowelobstruction.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologyasmallbowelobstruction.png ]",
             "options": [
               "Pneumoperitoneum",
               "Large bowel obstruction",
@@ -13153,9 +13153,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__49__r60xom",
+            "id": "radiology__lecture__abdominal-radiology__49__pwjew7",
             "number": "49",
-            "text": "Which artery is most likely shown? [img: Radiologysuperiormesentericartery.png ]",
+            "text": "Which artery is most likely shown? [img: Radiologyasuperiormesentericartery.png ]",
             "options": [
               "Inferior mesenteric artery",
               "Celiac trunk",
@@ -15502,9 +15502,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__46__chi0p6",
+            "id": "radiology__lecture__abdominal-radiology__46__7el5x",
             "number": "46",
-            "text": "What is the most likely diagnosis? [img: Radiologysmallbowelobstruction.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologyasmallbowelobstruction.png ]",
             "options": [
               "Pneumoperitoneum",
               "Large bowel obstruction",
@@ -16775,9 +16775,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__46__chi0p6",
+            "id": "radiology__lecture__abdominal-radiology__46__7el5x",
             "number": "46",
-            "text": "What is the most likely diagnosis? [img: Radiologysmallbowelobstruction.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologyasmallbowelobstruction.png ]",
             "options": [
               "Pneumoperitoneum",
               "Large bowel obstruction",
@@ -16812,9 +16812,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__49__r60xom",
+            "id": "radiology__lecture__abdominal-radiology__49__pwjew7",
             "number": "49",
-            "text": "Which artery is most likely shown? [img: Radiologysuperiormesentericartery.png ]",
+            "text": "Which artery is most likely shown? [img: Radiologyasuperiormesentericartery.png ]",
             "options": [
               "Inferior mesenteric artery",
               "Celiac trunk",
@@ -24615,9 +24615,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__46__chi0p6",
+        "id": "radiology__lecture__abdominal-radiology__46__7el5x",
         "number": "46",
-        "text": "What is the most likely diagnosis? [img: Radiologysmallbowelobstruction.png ]",
+        "text": "What is the most likely diagnosis? [img: Radiologyasmallbowelobstruction.png ]",
         "options": [
           "Pneumoperitoneum",
           "Large bowel obstruction",
@@ -24721,9 +24721,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__49__r60xom",
+        "id": "radiology__lecture__abdominal-radiology__49__pwjew7",
         "number": "49",
-        "text": "Which artery is most likely shown? [img: Radiologysuperiormesentericartery.png ]",
+        "text": "Which artery is most likely shown? [img: Radiologyasuperiormesentericartery.png ]",
         "options": [
           "Inferior mesenteric artery",
           "Celiac trunk",
