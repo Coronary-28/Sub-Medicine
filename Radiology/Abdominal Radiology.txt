@@ -15,7 +15,7 @@ D) Right renal artery
 Correct Answer: B) Left renal vein
 Explanation: In this labeled slice the numbered structures correspond to liver, gallbladder, and left renal vein, consistent with the vein's typical course anterior to the aorta toward the IVC, the characteristic path of the left renal vein (it crosses anterior to the aorta, unlike the renal artery which lies posterior to the vein).
 Batch: Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Vagus Mini-OSCE (Group C)
-Note: 1. Liver ~ 2. Gallbladder ~ 3. Left renal vein
+Note: 1. Liver || 2. Gallbladder || 3. Left renal vein
 ###
 What is the diagnosis? [img: Radiologyasigmoidvolvulus.png ]
 A) Cecal volvulus
@@ -353,7 +353,7 @@ E) Right kidney
 Correct Answer: C) Left kidney
 Explanation: The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.
 Batch: Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE
-Note: 1. Liver ~ 2. Gallbladder ~ 3. Left kidney
+Note: 1. Liver || 2. Gallbladder || 3. Left kidney
 ###
 What is the most likely diagnosis? [img: Radiologyacecalvolvulus.png ]
 A) Midgut volvulus
@@ -612,7 +612,7 @@ D) Gallbladder
 Correct Answer: D) Gallbladder
 Explanation: The labeled structure sits in the right upper quadrant along the undersurface of the liver, the typical anatomical position of the gallbladder.
 Batch: Waman A7yaha Mini-OSCE
-Note: 41. main pancreatic duct ~ 42. body of the gallbladder ~ 43. epiploic foramen (of Winslow) ~ 44. right crus of the diaphragm
+Note: 41. main pancreatic duct || 42. body of the gallbladder || 43. epiploic foramen (of Winslow) || 44. right crus of the diaphragm
 ###
 Wrong about Wilms tumor?
 A) Most common renal tumor of childhood
@@ -632,7 +632,7 @@ D) Renal artery
 Correct Answer: A) Celiac artery
 Explanation: This recurring recalled anatomy image explicitly labels celiac artery, arising from the anterior aorta at the T12 level.
 Batch: Waman A7yaha Mini-OSCE
-Note: 51. pylorus ~ 52. coeliac trunk ~ 53. abdominal aorta
+Note: 51. pylorus || 52. coeliac trunk || 53. abdominal aorta
 ###
 What is the most likely diagnosis? [img: Radiologyabilateraladrenalcalcification.png ]
 A) Splenic granulomas
@@ -641,15 +641,6 @@ C) Pancreatic calcification
 D) Bilateral adrenal calcification
 Correct Answer: D) Bilateral adrenal calcification
 Explanation: This recalled station describes calcifications localized to both adrenal glands rather than the kidneys, pancreas, or spleen.
-Batch: Waman A7yaha Mini-OSCE
-###
-What is the diagnosis? [img: Radiologyaascites.png ]
-A) Ascites
-B) Pneumoperitoneum
-C) Hemoperitoneum
-D) Pleural effusion
-​Correct Answer: A) Ascites
-Explanation: The axial CT scan of the abdomen shows low density ascitic fluid surrounding the liver, spleen and stomach.
 Batch: Waman A7yaha Mini-OSCE
 ###
 Regarding abdominal calcifications, which one of the following is TRUE?
@@ -787,4 +778,13 @@ D) Ultrasound alone
 Correct Answer: C) CT with IV contrast
 Explanation: CT with IV contrast has the highest sensitivity (94–98%) and specificity (up to 97%) for appendicitis in adults and also identifies alternative causes of abdominal pain; ultrasound is preferred first-line in children and pregnant patients but is more operator-dependent and less sensitive overall.
 Batch: Iris Final
+###
+What is the diagnosis? [img: Radiologyaascites.jpg ]
+A) Hemoperitoneum
+B) Pneumoperitoneum
+C) Ascites
+D) Pleural effusion
+​Correct Answer: C) Ascites
+Explanation: The axial CT scan of the abdomen shows low density ascitic fluid surrounding the liver, spleen and stomach.
+Batch: Waman A7yaha Mini-OSCE
 ###
