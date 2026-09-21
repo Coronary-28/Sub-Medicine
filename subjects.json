@@ -11468,7 +11468,7 @@
               "Aorta Mini-OSCE (Group A)",
               "Vagus Mini-OSCE (Group C)"
             ],
-            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left renal vein",
+            "note": "1. Liver || 2. Gallbladder || 3. Left renal vein",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -12823,7 +12823,7 @@
               "Vagus Mini-OSCE (Group D)",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left kidney",
+            "note": "1. Liver || 2. Gallbladder || 3. Left kidney",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -13817,7 +13817,7 @@
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "41. main pancreatic duct ~ 42. body of the gallbladder ~ 43. epiploic foramen (of Winslow) ~ 44. right crus of the diaphragm",
+            "note": "41. main pancreatic duct || 42. body of the gallbladder || 43. epiploic foramen (of Winslow) || 44. right crus of the diaphragm",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -13887,7 +13887,7 @@
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "51. pylorus ~ 52. coeliac trunk ~ 53. abdominal aorta",
+            "note": "51. pylorus || 52. coeliac trunk || 53. abdominal aorta",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -15876,7 +15876,7 @@
               "Aorta Mini-OSCE (Group A)",
               "Vagus Mini-OSCE (Group C)"
             ],
-            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left renal vein",
+            "note": "1. Liver || 2. Gallbladder || 3. Left renal vein",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -19786,7 +19786,7 @@
               "Aorta Mini-OSCE (Group A)",
               "Vagus Mini-OSCE (Group C)"
             ],
-            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left renal vein",
+            "note": "1. Liver || 2. Gallbladder || 3. Left renal vein",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -21558,7 +21558,7 @@
               "Aorta Mini-OSCE (Group A)",
               "Vagus Mini-OSCE (Group C)"
             ],
-            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left renal vein",
+            "note": "1. Liver || 2. Gallbladder || 3. Left renal vein",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -21801,7 +21801,7 @@
               "Vagus Mini-OSCE (Group D)",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left kidney",
+            "note": "1. Liver || 2. Gallbladder || 3. Left kidney",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -22466,7 +22466,7 @@
               "Vagus Mini-OSCE (Group D)",
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "1. Liver ~ 2. Gallbladder ~ 3. Left kidney",
+            "note": "1. Liver || 2. Gallbladder || 3. Left kidney",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -22723,7 +22723,7 @@
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "41. main pancreatic duct ~ 42. body of the gallbladder ~ 43. epiploic foramen (of Winslow) ~ 44. right crus of the diaphragm",
+            "note": "41. main pancreatic duct || 42. body of the gallbladder || 43. epiploic foramen (of Winslow) || 44. right crus of the diaphragm",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -22759,7 +22759,7 @@
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
             ],
-            "note": "51. pylorus ~ 52. coeliac trunk ~ 53. abdominal aorta",
+            "note": "51. pylorus || 52. coeliac trunk || 53. abdominal aorta",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -23036,7 +23036,7 @@
           "Aorta Mini-OSCE (Group A)",
           "Vagus Mini-OSCE (Group C)"
         ],
-        "note": "1. Liver ~ 2. Gallbladder ~ 3. Left renal vein",
+        "note": "1. Liver || 2. Gallbladder || 3. Left renal vein",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -24391,7 +24391,7 @@
           "Vagus Mini-OSCE (Group D)",
           "Waman A7yaha Mini-OSCE"
         ],
-        "note": "1. Liver ~ 2. Gallbladder ~ 3. Left kidney",
+        "note": "1. Liver || 2. Gallbladder || 3. Left kidney",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -25385,7 +25385,7 @@
         "batchNames": [
           "Waman A7yaha Mini-OSCE"
         ],
-        "note": "41. main pancreatic duct ~ 42. body of the gallbladder ~ 43. epiploic foramen (of Winslow) ~ 44. right crus of the diaphragm",
+        "note": "41. main pancreatic duct || 42. body of the gallbladder || 43. epiploic foramen (of Winslow) || 44. right crus of the diaphragm",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -25455,7 +25455,7 @@
         "batchNames": [
           "Waman A7yaha Mini-OSCE"
         ],
-        "note": "51. pylorus ~ 52. coeliac trunk ~ 53. abdominal aorta",
+        "note": "51. pylorus || 52. coeliac trunk || 53. abdominal aorta",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
