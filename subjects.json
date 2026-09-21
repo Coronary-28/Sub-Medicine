@@ -14706,9 +14706,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__uiuo1b",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__au656q",
             "number": "8",
-            "text": "PCL injury: appropriate diagnosis? [img: Radiologympcltear.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologympcltear.png ]",
             "options": [
               "ACL tear",
               "Lateral meniscus tear",
@@ -18480,9 +18480,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__uiuo1b",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__au656q",
             "number": "8",
-            "text": "PCL injury: appropriate diagnosis? [img: Radiologympcltear.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologympcltear.png ]",
             "options": [
               "ACL tear",
               "Lateral meniscus tear",
@@ -18834,9 +18834,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__uiuo1b",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__8__au656q",
             "number": "8",
-            "text": "PCL injury: appropriate diagnosis? [img: Radiologympcltear.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologympcltear.png ]",
             "options": [
               "ACL tear",
               "Lateral meniscus tear",
@@ -26265,9 +26265,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__8__uiuo1b",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__8__au656q",
         "number": "8",
-        "text": "PCL injury: appropriate diagnosis? [img: Radiologympcltear.png ]",
+        "text": "What is the most likely diagnosis? [img: Radiologympcltear.png ]",
         "options": [
           "ACL tear",
           "Lateral meniscus tear",
