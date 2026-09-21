@@ -410,7 +410,7 @@ Correct Answer: A) Obstructing renal stone with hydronephrosis
 Explanation: The CT shows a calculus with upstream dilatation of the collecting system, consistent with an obstructing stone causing hydronephrosis.
 Batch: Aorta Final / Waman A7yaha Mini-OSCE
 ###
-What is the most likely diagnosis? [img: Radiologysmallbowelobstruction.png ]
+What is the most likely diagnosis? [img: Radiologyasmallbowelobstruction.png ]
 A) Pneumoperitoneum
 B) Large bowel obstruction
 C) Small bowel obstruction
@@ -437,7 +437,7 @@ Correct Answer: B) Most commonly due to a benign tumor in adults
 Explanation: In adults, intussusception is more often caused by a malignant lead point (tumor) than a benign one, making this statement false.
 Batch: Aorta Final
 ###
-Which artery is most likely shown? [img: Radiologysuperiormesentericartery.png ]
+Which artery is most likely shown? [img: Radiologyasuperiormesentericartery.png ]
 A) Inferior mesenteric artery
 B) Celiac trunk
 C) Renal artery
