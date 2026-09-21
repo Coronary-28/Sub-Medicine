@@ -778,3 +778,12 @@ D) Ultrasound alone
 Correct Answer: C) CT with IV contrast
 Explanation: CT with IV contrast has the highest sensitivity (94–98%) and specificity (up to 97%) for appendicitis in adults and also identifies alternative causes of abdominal pain; ultrasound is preferred first-line in children and pregnant patients but is more operator-dependent and less sensitive overall.
 Batch: Iris Final
+###
+What is the diagnosis? [img: Radiologyaascites.jpg ]
+A) Ascites
+B) Pneumoperitoneum
+C) Hemoperitoneum
+D) Pleural effusion
+​Correct Answer: A) Ascites
+Explanation: The axial CT scan of the abdomen shows low density ascitic fluid surrounding the liver, spleen and stomach.
+Batch: Waman A7yaha Mini-OSCE
