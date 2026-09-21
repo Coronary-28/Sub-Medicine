@@ -14977,8 +14977,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "In anterior shoulder dislocation, the humeral head is displaced anteriorly and inferiorly (medially), not superiorly, distinguishing it from luxatio erecta (inferior dislocation).",
-            "batchName": "Aorta Mini-OSCE (Group A) / Aorta Final",
+            "batchName": "Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Aorta Final",
             "batchNames": [
+              "Iris Mini-OSCE (Group A)",
               "Aorta Mini-OSCE (Group A)",
               "Aorta Final"
             ],
@@ -15168,6 +15169,185 @@
               "Endorphin Final",
               "Aorta Final",
               "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__21__ysg6kh",
+            "number": "21",
+            "text": "What is the most likely diagnosis? [img: Radiologymfibrouscorticaldefect.png ]",
+            "options": [
+              "Non-ossifying fibroma",
+              "Fibrous cortical defect",
+              "Simple bone cyst",
+              "Osteochondroma"
+            ],
+            "originalOptions": [
+              "Non-ossifying fibroma",
+              "Fibrous cortical defect",
+              "Simple bone cyst",
+              "Osteochondroma"
+            ],
+            "correctAnswer": "B) Fibrous cortical defect",
+            "correctAnswerText": "Fibrous cortical defect",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "A small (<3cm) eccentric cortical lucency with a sclerotic rim in a child is a fibrous cortical defect; the larger version (>3cm) is termed non-ossifying fibroma.",
+            "batchName": "Endorphin Mini-OSCE (Group A)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__22__kkgnmn",
+            "number": "22",
+            "text": "The arrow (labeled 4) points to which structure? [img: Radiologymanatomyacl.png ]",
+            "options": [
+              "Posterior cruciate ligament",
+              "Medial collateral ligament",
+              "Anterior cruciate ligament",
+              "Lateral collateral ligament"
+            ],
+            "originalOptions": [
+              "Posterior cruciate ligament",
+              "Medial collateral ligament",
+              "Anterior cruciate ligament",
+              "Lateral collateral ligament"
+            ],
+            "correctAnswer": "C) Anterior cruciate ligament",
+            "correctAnswerText": "Anterior cruciate ligament",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The ACL runs from the anterior tibial plateau to the posterolateral femoral condyle, the structure identified on this sagittal knee MRI.",
+            "batchName": "Endorphin Mini-OSCE (Group A)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)"
+            ],
+            "note": "1. Patella || 2. Femur || 3. Bone cortex || 4. ACL || 5. PCL || 6. Bone cortex || 7. Tibia",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__23__d53u8u",
+            "number": "23",
+            "text": "Which of the following is WRONG about rickets on radiograph?",
+            "options": [
+              "Shows punched-out lytic lesions",
+              "Vitamin D deficiency is a cause",
+              "Cupping of the metaphysis",
+              "Fraying of the metaphysis"
+            ],
+            "originalOptions": [
+              "Shows punched-out lytic lesions",
+              "Vitamin D deficiency is a cause",
+              "Cupping of the metaphysis",
+              "Fraying of the metaphysis"
+            ],
+            "correctAnswer": "A) Shows punched-out lytic lesions",
+            "correctAnswerText": "Shows punched-out lytic lesions",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Rickets classically shows cupping, splaying, and fraying of the metaphysis from deficient mineralization, not punched-out lytic lesions (a feature of gout or myeloma).",
+            "batchName": "Endorphin Mini-OSCE (Group C)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__24__xl6b6m",
+            "number": "24",
+            "text": "Periosteal reaction is seen in all of the following EXCEPT:",
+            "options": [
+              "Osteomyelitis",
+              "Osteoid osteoma",
+              "Healed/previous fracture",
+              "Fibrous cortical defect"
+            ],
+            "originalOptions": [
+              "Osteomyelitis",
+              "Osteoid osteoma",
+              "Healed/previous fracture",
+              "Fibrous cortical defect"
+            ],
+            "correctAnswer": "D) Fibrous cortical defect",
+            "correctAnswerText": "Fibrous cortical defect",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Fibrous cortical defect is a quiescent benign lesion that does not incite a periosteal reaction, unlike infection, healing fractures, or osteoid osteoma.",
+            "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Endorphin Final",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__25__1yml04",
+            "number": "25",
+            "text": "What is the most likely diagnosis? [img: Radiologymgout.png ]",
+            "options": [
+              "Gout",
+              "Rheumatoid arthritis",
+              "Psoriatic arthritis",
+              "Osteoarthritis"
+            ],
+            "originalOptions": [
+              "Gout",
+              "Rheumatoid arthritis",
+              "Psoriatic arthritis",
+              "Osteoarthritis"
+            ],
+            "correctAnswer": "A) Gout",
+            "correctAnswerText": "Gout",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Punched-out juxta-articular erosions with overhanging edges and preserved joint space/bone density in the feet are classic for gout.",
+            "batchName": "Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)"
             ],
             "note": "",
             "pageNumber": "",
@@ -15707,6 +15887,7 @@
             "explanation": "In anterior shoulder dislocation, the humeral head is displaced anteriorly and inferiorly (medially), not superiorly, distinguishing it from luxatio erecta (inferior dislocation).",
             "batchName": "Aorta Final",
             "batchNames": [
+              "Iris Mini-OSCE (Group A)",
               "Aorta Mini-OSCE (Group A)",
               "Aorta Final"
             ],
@@ -16208,6 +16389,7 @@
             "explanation": "In anterior shoulder dislocation, the humeral head is displaced anteriorly and inferiorly (medially), not superiorly, distinguishing it from luxatio erecta (inferior dislocation).",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
+              "Iris Mini-OSCE (Group A)",
               "Aorta Mini-OSCE (Group A)",
               "Aorta Final"
             ],
@@ -17220,6 +17402,44 @@
             "groupName": "Musculoskeletal (MSK) radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__24__xl6b6m",
+            "number": "24",
+            "text": "Periosteal reaction is seen in all of the following EXCEPT:",
+            "options": [
+              "Osteomyelitis",
+              "Osteoid osteoma",
+              "Healed/previous fracture",
+              "Fibrous cortical defect"
+            ],
+            "originalOptions": [
+              "Osteomyelitis",
+              "Osteoid osteoma",
+              "Healed/previous fracture",
+              "Fibrous cortical defect"
+            ],
+            "correctAnswer": "D) Fibrous cortical defect",
+            "correctAnswerText": "Fibrous cortical defect",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Fibrous cortical defect is a quiescent benign lesion that does not incite a periosteal reaction, unlike infection, healing fractures, or osteoid osteoma.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -17656,6 +17876,78 @@
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__21__ysg6kh",
+            "number": "21",
+            "text": "What is the most likely diagnosis? [img: Radiologymfibrouscorticaldefect.png ]",
+            "options": [
+              "Non-ossifying fibroma",
+              "Fibrous cortical defect",
+              "Simple bone cyst",
+              "Osteochondroma"
+            ],
+            "originalOptions": [
+              "Non-ossifying fibroma",
+              "Fibrous cortical defect",
+              "Simple bone cyst",
+              "Osteochondroma"
+            ],
+            "correctAnswer": "B) Fibrous cortical defect",
+            "correctAnswerText": "Fibrous cortical defect",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "A small (<3cm) eccentric cortical lucency with a sclerotic rim in a child is a fibrous cortical defect; the larger version (>3cm) is termed non-ossifying fibroma.",
+            "batchName": "Endorphin Mini-OSCE (Group A)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__22__kkgnmn",
+            "number": "22",
+            "text": "The arrow (labeled 4) points to which structure? [img: Radiologymanatomyacl.png ]",
+            "options": [
+              "Posterior cruciate ligament",
+              "Medial collateral ligament",
+              "Anterior cruciate ligament",
+              "Lateral collateral ligament"
+            ],
+            "originalOptions": [
+              "Posterior cruciate ligament",
+              "Medial collateral ligament",
+              "Anterior cruciate ligament",
+              "Lateral collateral ligament"
+            ],
+            "correctAnswer": "C) Anterior cruciate ligament",
+            "correctAnswerText": "Anterior cruciate ligament",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The ACL runs from the anterior tibial plateau to the posterolateral femoral condyle, the structure identified on this sagittal knee MRI.",
+            "batchName": "Endorphin Mini-OSCE (Group A)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group A)"
+            ],
+            "note": "1. Patella || 2. Femur || 3. Bone cortex || 4. ACL || 5. PCL || 6. Bone cortex || 7. Tibia",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -18551,6 +18843,118 @@
             "groupName": "Musculoskeletal (MSK) radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__23__d53u8u",
+            "number": "23",
+            "text": "Which of the following is WRONG about rickets on radiograph?",
+            "options": [
+              "Shows punched-out lytic lesions",
+              "Vitamin D deficiency is a cause",
+              "Cupping of the metaphysis",
+              "Fraying of the metaphysis"
+            ],
+            "originalOptions": [
+              "Shows punched-out lytic lesions",
+              "Vitamin D deficiency is a cause",
+              "Cupping of the metaphysis",
+              "Fraying of the metaphysis"
+            ],
+            "correctAnswer": "A) Shows punched-out lytic lesions",
+            "correctAnswerText": "Shows punched-out lytic lesions",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Rickets classically shows cupping, splaying, and fraying of the metaphysis from deficient mineralization, not punched-out lytic lesions (a feature of gout or myeloma).",
+            "batchName": "Endorphin Mini-OSCE (Group C)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__24__xl6b6m",
+            "number": "24",
+            "text": "Periosteal reaction is seen in all of the following EXCEPT:",
+            "options": [
+              "Osteomyelitis",
+              "Osteoid osteoma",
+              "Healed/previous fracture",
+              "Fibrous cortical defect"
+            ],
+            "originalOptions": [
+              "Osteomyelitis",
+              "Osteoid osteoma",
+              "Healed/previous fracture",
+              "Fibrous cortical defect"
+            ],
+            "correctAnswer": "D) Fibrous cortical defect",
+            "correctAnswerText": "Fibrous cortical defect",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Fibrous cortical defect is a quiescent benign lesion that does not incite a periosteal reaction, unlike infection, healing fractures, or osteoid osteoma.",
+            "batchName": "Endorphin Mini-OSCE (Group C)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__25__1yml04",
+            "number": "25",
+            "text": "What is the most likely diagnosis? [img: Radiologymgout.png ]",
+            "options": [
+              "Gout",
+              "Rheumatoid arthritis",
+              "Psoriatic arthritis",
+              "Osteoarthritis"
+            ],
+            "originalOptions": [
+              "Gout",
+              "Rheumatoid arthritis",
+              "Psoriatic arthritis",
+              "Osteoarthritis"
+            ],
+            "correctAnswer": "A) Gout",
+            "correctAnswerText": "Gout",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Punched-out juxta-articular erosions with overhanging edges and preserved joint space/bone density in the feet are classic for gout.",
+            "batchName": "Endorphin Mini-OSCE (Group C)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -18934,6 +19338,82 @@
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__24__xl6b6m",
+            "number": "24",
+            "text": "Periosteal reaction is seen in all of the following EXCEPT:",
+            "options": [
+              "Osteomyelitis",
+              "Osteoid osteoma",
+              "Healed/previous fracture",
+              "Fibrous cortical defect"
+            ],
+            "originalOptions": [
+              "Osteomyelitis",
+              "Osteoid osteoma",
+              "Healed/previous fracture",
+              "Fibrous cortical defect"
+            ],
+            "correctAnswer": "D) Fibrous cortical defect",
+            "correctAnswerText": "Fibrous cortical defect",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Fibrous cortical defect is a quiescent benign lesion that does not incite a periosteal reaction, unlike infection, healing fractures, or osteoid osteoma.",
+            "batchName": "Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__25__1yml04",
+            "number": "25",
+            "text": "What is the most likely diagnosis? [img: Radiologymgout.png ]",
+            "options": [
+              "Gout",
+              "Rheumatoid arthritis",
+              "Psoriatic arthritis",
+              "Osteoarthritis"
+            ],
+            "originalOptions": [
+              "Gout",
+              "Rheumatoid arthritis",
+              "Psoriatic arthritis",
+              "Osteoarthritis"
+            ],
+            "correctAnswer": "A) Gout",
+            "correctAnswerText": "Gout",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Punched-out juxta-articular erosions with overhanging edges and preserved joint space/bone density in the feet are classic for gout.",
+            "batchName": "Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)"
             ],
             "note": "",
             "pageNumber": "",
@@ -19947,6 +20427,44 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__15__g6oamw",
+            "number": "15",
+            "text": "Which of the following is FALSE regarding this shoulder finding? [img: Radiologymanteriorshoulderdislocation.png ]",
+            "options": [
+              "Anterior shoulder dislocation is the most common type",
+              "Caused by forced abduction, external rotation, and extension",
+              "Humeral head is displaced superiorly and anteriorly",
+              "Can cause axillary artery or nerve injury"
+            ],
+            "originalOptions": [
+              "Anterior shoulder dislocation is the most common type",
+              "Caused by forced abduction, external rotation, and extension",
+              "Humeral head is displaced superiorly and anteriorly",
+              "Can cause axillary artery or nerve injury"
+            ],
+            "correctAnswer": "C) Humeral head is displaced superiorly and anteriorly",
+            "correctAnswerText": "Humeral head is displaced superiorly and anteriorly",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "In anterior shoulder dislocation, the humeral head is displaced anteriorly and inferiorly (medially), not superiorly, distinguishing it from luxatio erecta (inferior dislocation).",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Aorta Mini-OSCE (Group A)",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__16__kui1p0",
             "number": "16",
             "text": "What is FALSE about this fracture? [img: Radiologymbucklefracture.png ]",
@@ -19973,6 +20491,44 @@
             "batchNames": [
               "Iris Mini-OSCE (Group A)",
               "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__25__1yml04",
+            "number": "25",
+            "text": "What is the most likely diagnosis? [img: Radiologymgout.png ]",
+            "options": [
+              "Gout",
+              "Rheumatoid arthritis",
+              "Psoriatic arthritis",
+              "Osteoarthritis"
+            ],
+            "originalOptions": [
+              "Gout",
+              "Rheumatoid arthritis",
+              "Psoriatic arthritis",
+              "Osteoarthritis"
+            ],
+            "correctAnswer": "A) Gout",
+            "correctAnswerText": "Gout",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Punched-out juxta-articular erosions with overhanging edges and preserved joint space/bone density in the feet are classic for gout.",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)"
             ],
             "note": "",
             "pageNumber": "",
@@ -26536,8 +27092,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "In anterior shoulder dislocation, the humeral head is displaced anteriorly and inferiorly (medially), not superiorly, distinguishing it from luxatio erecta (inferior dislocation).",
-        "batchName": "Aorta Mini-OSCE (Group A) / Aorta Final",
+        "batchName": "Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Aorta Final",
         "batchNames": [
+          "Iris Mini-OSCE (Group A)",
           "Aorta Mini-OSCE (Group A)",
           "Aorta Final"
         ],
@@ -26735,9 +27292,188 @@
         "lectureName": "Musculoskeletal (MSK) radiology",
         "groupName": "Musculoskeletal (MSK) radiology",
         "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__21__ysg6kh",
+        "number": "21",
+        "text": "What is the most likely diagnosis? [img: Radiologymfibrouscorticaldefect.png ]",
+        "options": [
+          "Non-ossifying fibroma",
+          "Fibrous cortical defect",
+          "Simple bone cyst",
+          "Osteochondroma"
+        ],
+        "originalOptions": [
+          "Non-ossifying fibroma",
+          "Fibrous cortical defect",
+          "Simple bone cyst",
+          "Osteochondroma"
+        ],
+        "correctAnswer": "B) Fibrous cortical defect",
+        "correctAnswerText": "Fibrous cortical defect",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "A small (<3cm) eccentric cortical lucency with a sclerotic rim in a child is a fibrous cortical defect; the larger version (>3cm) is termed non-ossifying fibroma.",
+        "batchName": "Endorphin Mini-OSCE (Group A)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group A)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__22__kkgnmn",
+        "number": "22",
+        "text": "The arrow (labeled 4) points to which structure? [img: Radiologymanatomyacl.png ]",
+        "options": [
+          "Posterior cruciate ligament",
+          "Medial collateral ligament",
+          "Anterior cruciate ligament",
+          "Lateral collateral ligament"
+        ],
+        "originalOptions": [
+          "Posterior cruciate ligament",
+          "Medial collateral ligament",
+          "Anterior cruciate ligament",
+          "Lateral collateral ligament"
+        ],
+        "correctAnswer": "C) Anterior cruciate ligament",
+        "correctAnswerText": "Anterior cruciate ligament",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The ACL runs from the anterior tibial plateau to the posterolateral femoral condyle, the structure identified on this sagittal knee MRI.",
+        "batchName": "Endorphin Mini-OSCE (Group A)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group A)"
+        ],
+        "note": "1. Patella || 2. Femur || 3. Bone cortex || 4. ACL || 5. PCL || 6. Bone cortex || 7. Tibia",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__23__d53u8u",
+        "number": "23",
+        "text": "Which of the following is WRONG about rickets on radiograph?",
+        "options": [
+          "Shows punched-out lytic lesions",
+          "Vitamin D deficiency is a cause",
+          "Cupping of the metaphysis",
+          "Fraying of the metaphysis"
+        ],
+        "originalOptions": [
+          "Shows punched-out lytic lesions",
+          "Vitamin D deficiency is a cause",
+          "Cupping of the metaphysis",
+          "Fraying of the metaphysis"
+        ],
+        "correctAnswer": "A) Shows punched-out lytic lesions",
+        "correctAnswerText": "Shows punched-out lytic lesions",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Rickets classically shows cupping, splaying, and fraying of the metaphysis from deficient mineralization, not punched-out lytic lesions (a feature of gout or myeloma).",
+        "batchName": "Endorphin Mini-OSCE (Group C)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group C)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__24__xl6b6m",
+        "number": "24",
+        "text": "Periosteal reaction is seen in all of the following EXCEPT:",
+        "options": [
+          "Osteomyelitis",
+          "Osteoid osteoma",
+          "Healed/previous fracture",
+          "Fibrous cortical defect"
+        ],
+        "originalOptions": [
+          "Osteomyelitis",
+          "Osteoid osteoma",
+          "Healed/previous fracture",
+          "Fibrous cortical defect"
+        ],
+        "correctAnswer": "D) Fibrous cortical defect",
+        "correctAnswerText": "Fibrous cortical defect",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Fibrous cortical defect is a quiescent benign lesion that does not incite a periosteal reaction, unlike infection, healing fractures, or osteoid osteoma.",
+        "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Endorphin Final",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group C)",
+          "Endorphin Mini-OSCE (Group D)",
+          "Endorphin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__25__1yml04",
+        "number": "25",
+        "text": "What is the most likely diagnosis? [img: Radiologymgout.png ]",
+        "options": [
+          "Gout",
+          "Rheumatoid arthritis",
+          "Psoriatic arthritis",
+          "Osteoarthritis"
+        ],
+        "originalOptions": [
+          "Gout",
+          "Rheumatoid arthritis",
+          "Psoriatic arthritis",
+          "Osteoarthritis"
+        ],
+        "correctAnswer": "A) Gout",
+        "correctAnswerText": "Gout",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Punched-out juxta-articular erosions with overhanging edges and preserved joint space/bone density in the feet are classic for gout.",
+        "batchName": "Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group A)",
+          "Endorphin Mini-OSCE (Group C)",
+          "Endorphin Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 104,
+    "totalQuestions": 109,
     "totalLectures": 23,
     "hasAiFolder": false
   },
