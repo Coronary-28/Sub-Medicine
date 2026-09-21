@@ -1,0 +1,66 @@
+Issuing the initial medical report in a medico-legal case is the responsibility of:
+A) Medical Officer
+B) Surgical Specialist
+C) The first physician who manages the patient in the emergency department
+D) Forensic Pathologist
+Correct Answer: C) The first physician who manages the patient in the emergency department
+Explanation: The primary medico-legal report is always issued by the first doctor to examine the patient, regardless of specialty, to ensure timely and accurate documentation.
+###
+Who gives the PRIMARY medical report:
+A) The first surgeon who met the patient
+B) The first doctor who met the patient
+C) Senior or head of department
+D) Forensic doctor
+Correct Answer: B) The first doctor who met the patient
+Explanation: Legal responsibility for the initial medico-legal report falls on the first physician to assess the patient, irrespective of specialty.
+###
+Reporting and documentation of injuries will include all of the following EXCEPT one:
+A) Injury location (anatomical measure distance from landmark)
+B) Type (e.g. bruise, laceration, abrasion)
+C) Estimate age of wound
+D) Assailant description whether left or right hand user
+E) Pain and/or Tenderness
+Correct Answer: D) Assailant description whether left or right hand user
+Explanation: Medico-legal documentation records the victim's objective injury findings; assailant handedness is an investigative inference, not a clinical documentation item.
+###
+According to Jordanian Public Health Law, a physician MUST report which of the following to the Ministry of Health:
+A) All cases of trauma
+B) All deaths
+C) Notifiable infectious diseases
+D) Only sexually transmitted diseases
+Correct Answer: C) Notifiable infectious diseases
+Explanation: Jordanian public health law mandates reporting notifiable/communicable diseases (e.g., cholera, typhoid) to the Ministry of Health, not all trauma or deaths generally.
+###
+A 60-year-old man underwent arthroscopy and meniscectomy, and died of pulmonary embolism. Which post-op care was NEGLIGENT?
+A) Not informed how serious it is if he feels headache
+B) Not informed of the kind of painkillers to use
+C) Not told to have residence within 2 miles of hospital
+D) Not informed of how serious it is if he feels short of breath
+E) Not told the duration of disablement from work
+Correct Answer: D) Not informed of how serious it is if he feels short of breath
+Explanation: Pulmonary embolism is a known post-surgical complication presenting with dyspnoea; failing to warn the patient about this warning sign constitutes negligence.
+###
+A surgeon under the effect of alcohol performed a laparotomy, resulting in the patient's death. The surgeon is guilty of:
+A) Contributory medical negligence
+B) Criminal medical negligence
+C) Civil medical negligence
+D) Therapeutic misadventure
+E) Ethical malpraxis
+Correct Answer: B) Criminal medical negligence
+Explanation: Operating while impaired by alcohol is a reckless disregard for patient safety with full knowledge of the risk, rising to the level of criminal negligence rather than mere civil liability.
+###
+Components of a medico-legal report are:
+A) Only findings and diagnosis
+B) History and physical examination only
+C) Laboratory results and imaging only
+D) Heading (preamble) + Body (findings) + Conclusion (opinion)
+Correct Answer: D) Heading (preamble) + Body (findings) + Conclusion (opinion)
+Explanation: A complete medico-legal report consists of three parts: the preamble (who/what/when/where), the body of objective findings, and the conclusion containing professional opinion.
+###
+In Jordan, a physician is legally governed by:
+A) Only the Medical Association Law
+B) Only the Public Health Law
+C) Medical Association Law + Public Health Law + Jordanian Penal Code
+D) International medical ethics codes only
+Correct Answer: C) Medical Association Law + Public Health Law + Jordanian Penal Code
+Explanation: Jordanian physicians are bound by three combined legal frameworks: the Medical Association Law, the Public Health Law, and the Penal Code (governing criminal negligence).

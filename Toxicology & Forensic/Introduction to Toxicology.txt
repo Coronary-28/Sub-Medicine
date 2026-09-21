@@ -1,0 +1,15 @@
+What type of toxicology concerns itself with medical and legal aspects, focused on detecting poisons in medicolegal investigations?
+A) Clinical Toxicology
+B) Environmental Toxicology
+C) Forensic Toxicology
+D) Analytical Toxicology
+Correct Answer: C) Forensic Toxicology
+Explanation: Forensic toxicology represents the intersection of toxicology with the law, applying poison detection specifically to medicolegal investigations, distinguishing it from clinical (patient management), environmental, and purely analytical toxicology.
+###
+What color is associated with methemoglobin?
+A) Bright red
+B) Cherry red
+C) Bluish purple
+D) Brownish
+Correct Answer: D) Brownish
+Explanation: Methemoglobin (Fe³⁺ state) produces a characteristic chocolate-brown discoloration of blood and livor, and causes cyanosis that fails to improve with supplemental oxygen — distinguishing it from cherry-red (carbon monoxide) or cyanotic bluish-purple (hypoxia) presentations.

@@ -1,0 +1,88 @@
+What is the best blood sample site for forensic toxicology analysis?
+A) Subclavian vein
+B) Jugular vein
+C) Femoral vein
+D) Cubital vein
+Correct Answer: C) Femoral vein
+Explanation: Femoral vein blood is preferred postmortem because it is peripheral and less affected by postmortem redistribution (PMR), unlike central sites (subclavian, jugular) that are subject to drug diffusion from nearby organs.
+###
+Which sample site is best for QUANTITATIVE toxicology analysis?
+A) Jugular vein
+B) Subclavian vein
+C) Femoral vein
+D) Heart
+E) Axillary vein
+Correct Answer: C) Femoral vein
+Explanation: Femoral blood undergoes minimal postmortem redistribution, making it the preferred site for accurate quantitative drug measurement, whereas central blood (heart, subclavian) is prone to redistribution artifact.
+###
+Which of the following is NOT a characteristic of vitreous humor as a toxicology sample?
+A) Resistant to putrefactive changes
+B) More susceptible to postmortem change
+C) Can detect potassium levels
+D) Can assess glucose levels
+Correct Answer: B) More susceptible to postmortem change
+Explanation: Vitreous humor is actually resistant to postmortem change because it is isolated behind the blood-ocular barrier, protecting it from putrefaction and postmortem redistribution — making the "more susceptible" statement false.
+###
+Which of the following is INCORRECT regarding vitreous humor in forensic toxicology?
+A) Done as a routine procedure
+B) Can detect alcohol levels
+C) Can detect glucose levels
+D) Resistant to putrefactive changes
+Correct Answer: A) Done as a routine procedure
+Explanation: Vitreous humor is collected only in specific circumstances (decomposed bodies, suspected drug/alcohol use, or when other samples are unavailable), not as a routine procedure.
+###
+Which of the following CANNOT be determined by analyzing vitreous fluid?
+A) Diabetes mellitus (glucose level)
+B) Electrolytes and hydration status
+C) Renal function prior to death
+D) Alcohol level
+E) Heavy metals
+Correct Answer: E) Heavy metals
+Explanation: Vitreous fluid can detect alcohol, glucose, electrolytes, potassium (useful for postmortem interval), and urea/creatinine (renal function), but heavy metals preferentially accumulate in hair, nails, and bone rather than vitreous humor.
+###
+Which sample is most resistant to postmortem putrefaction, making it valuable in decomposed bodies?
+A) Blood
+B) Heart tissue
+C) Urine
+D) Vitreous fluid
+Correct Answer: D) Vitreous fluid
+Explanation: Vitreous humor's anatomical isolation behind the blood-ocular barrier makes it the most resistant forensic sample to putrefactive change among the options listed.
+###
+Which statement about vitreous fluid is WRONG?
+A) Affected by putrefaction
+B) Detects elevated glucose levels
+C) Not affected by postmortem redistribution
+D) Used in electrolyte assessment
+Correct Answer: A) Affected by putrefaction
+Explanation: Vitreous humor is resistant to (not affected by) putrefaction due to its isolated anatomical location, making this statement false while the others are accurate.
+###
+Which of the following is INCORRECT regarding liver samples in forensic toxicology?
+A) Protected from putrefaction
+B) Best for lipophilic drugs
+C) Reflects tissue distribution
+Correct Answer: A) Protected from putrefaction
+Explanation: The liver actually putrefies relatively quickly and is not protected from decomposition, though it remains valuable for assessing lipophilic drug concentrations and tissue distribution.
+###
+For qualitative assessment (screening) of forensic samples, which is the preferred sample?
+A) Urine
+B) Femoral blood
+C) Vitreous humor
+D) Hair
+Correct Answer: A) Urine
+Explanation: Urine is preferred for qualitative drug screening via immunoassay, while femoral blood is used for quantitation, vitreous humor for decomposed cases, and hair for chronic exposure history.
+###
+Which statement about urine samples in forensic toxicology is NOT correct?
+A) Urine is used for quantitative analysis of most drugs
+B) Urine can detect drugs and metabolites
+C) Urine is used for qualitative drug screening
+D) Urine is useful for detecting drug exposure
+Correct Answer: A) Urine is used for quantitative analysis of most drugs
+Explanation: Urine is mainly used for qualitative detection of drug exposure, not quantitative measurement, which requires blood analysis.
+###
+Which of the following is NOT TRUE concerning sodium fluoride as a preservative in forensic blood samples?
+A) Enhances bacterial fermentation
+B) Inhibits glycolysis, preventing postmortem glucose changes
+C) Used as a preservative in blood samples for alcohol analysis
+D) Prevents postmortem production of alcohol by microorganisms
+Correct Answer: A) Enhances bacterial fermentation
+Explanation: Sodium fluoride inhibits bacterial growth and glycolysis, thereby preventing fermentation (and postmortem alcohol production by microorganisms) rather than enhancing it, which is why it is used to preserve blood samples for alcohol analysis.

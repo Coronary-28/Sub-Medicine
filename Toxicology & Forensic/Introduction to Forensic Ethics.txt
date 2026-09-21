@@ -1,0 +1,127 @@
+When dealing with vulnerable children (victims of violence), what is the MAIN priority of the physician from an ethical point of view?
+A) Respect confidentiality
+B) Protection through early detection
+C) Protection of secrecy
+D) Respect autonomy of parents
+E) Notification to the authority
+Correct Answer: B) Protection through early detection
+Explanation: The physician's primary ethical duty with child abuse victims is early identification and protection, which takes priority over confidentiality or parental autonomy.
+###
+Breach of confidentiality is permissible in which case?
+A) Upon request of the patient
+B) Wife/husband request
+C) Insurance company request
+D) Reporting rheumatoid arthritis to employer
+Correct Answer: A) Upon request of the patient
+Explanation: Confidentiality may be breached with the patient's own consent, for notifiable diseases, court order, or public safety — spousal, insurer, or employer requests without patient consent do not justify it.
+###
+Breaching confidentiality is permissible in:
+A) Wife/husband request
+B) Insurance representative request
+C) Report cholera case (notifiable disease)
+Correct Answer: C) Report cholera case (notifiable disease)
+Explanation: Notifiable/communicable diseases like cholera must be reported to public health authorities by law regardless of patient consent, due to public health risk.
+###
+All but one of the following is related to the bioethics principles (code of ethics):
+A) Justice
+B) Reluctant
+C) Beneficence
+D) Non-maleficence
+Correct Answer: B) Reluctant
+Explanation: The four bioethics pillars are autonomy, beneficence, non-maleficence, and justice; "reluctant" is not a recognized bioethical principle.
+###
+One of the following is NOT correct concerning valid consent prior to medical treatment:
+A) Voluntary and freely given
+B) Consent of partner (Husband/Wife) is always mandatory
+C) Informed of what the treatment involves
+D) Informed including benefits and risks
+E) Examining capacity of patient
+Correct Answer: B) Consent of partner (Husband/Wife) is always mandatory
+Explanation: A competent adult patient can independently give valid consent; requiring spousal consent would violate patient autonomy.
+###
+Regarding consent — a 23-year-old single adult female with vaginal bleeding. Which statement is correct?
+A) Medical consent must be obtained from her father or husband
+B) Consent of partner is always mandatory
+C) A guardian must be present
+D) An adult patient can give her own medical consent independently
+Correct Answer: D) An adult patient can give her own medical consent independently
+Explanation: Any competent adult has full legal capacity to consent to medical treatment without parental or spousal authorization.
+###
+The utmost important rule when doing a physical examination of intimate parts of the body is:
+A) A chaperon must be present
+B) Written consent is mandatory
+C) Only a same-sex physician may examine
+D) A family member must be present
+Correct Answer: A) A chaperon must be present
+Explanation: A chaperon safeguards both the patient's dignity and the physician's professional integrity during intimate examinations.
+###
+"Respect for Persons" in the ethical approach might mean any of the following EXCEPT:
+A) Autonomy
+B) Integrity
+C) Follow doctor's order
+D) Equity
+E) Equality
+Correct Answer: C) Follow doctor's order
+Explanation: Respect for persons centers on autonomy, integrity, equity, and equality, which empower the patient — blind obedience to the doctor is the opposite of patient-centred ethics.
+###
+One of the following is NOT TRUE concerning duties of doctors to patients:
+A) Respect a patient's right to confidentiality
+B) Always bear in mind the obligation to respect human life
+C) Informed consent is not necessary when dealing with victims of violence
+D) Whenever examination is beyond the physician's capacity, refer to another physician
+E) Act in the patient's best interest when providing medical care
+Correct Answer: C) Informed consent is not necessary when dealing with victims of violence
+Explanation: Informed consent is always required except in true emergencies where delay would cause harm; being a violence victim does not remove this requirement.
+###
+One of the following characters is NOT appropriate considering ethical standards:
+A) Maintain professional competence throughout career
+B) Enhance intimate relationships with patients
+C) Respect patient confidentiality
+D) Enhance multidisciplinary approach
+E) Deal honestly with patients
+Correct Answer: B) Enhance intimate relationships with patients
+Explanation: Romantic or intimate relationships between physicians and patients violate professional boundaries and are strictly unethical.
+###
+One of the following is odd and not known to be relevant to world medical declarations related to humanization of health service:
+A) Declaration of Helsinki
+B) United Nations development fund for women
+C) Declaration of Geneva
+D) Medical trials on animals
+E) United Nations children fund
+Correct Answer: B) United Nations development fund for women
+Explanation: Recognized WHO/WMA medical declarations include Helsinki and Geneva; the UN development fund for women is not a medical declaration.
+###
+One of the following is odd and not well known to be relevant to world medical declarations related to humanization of health service:
+A) Declaration of Geneva
+B) Declaration of London
+C) Declaration of Oslo
+D) Declaration of Tokyo
+E) Declaration of Helsinki
+Correct Answer: B) Declaration of London
+Explanation: WMA declarations include Geneva, Helsinki, Oslo, and Tokyo; there is no formally recognized "Declaration of London" in medical ethics.
+###
+Humanization of medical practice was the main theme in:
+A) Nuremberg code
+B) Geneva declaration code
+C) Oslo declaration code
+D) Tokyo declaration code
+E) Ottawa declaration code
+Correct Answer: B) Geneva declaration code
+Explanation: The Declaration of Geneva (1948) was the WMA's post-WWII commitment to humanize medical practice, forming the modern physician's oath.
+###
+Declaration of Helsinki is related to:
+A) Violence
+B) Child abuse
+C) Humans in medical research
+D) Torture of prisoners
+Correct Answer: C) Humans in medical research
+Explanation: The Declaration of Helsinki (1964) establishes ethical standards specifically for medical research involving human subjects.
+###
+Types of consent — all EXCEPT one:
+A) Requesting euthanasia by patient
+B) Accepting medical treatment
+C) Implied consent for medical examination
+D) Written consent by rape victim
+E) Involvement in a research trial authorized by IRB
+Correct Answer: A) Requesting euthanasia by patient
+Explanation: Euthanasia is not a valid consent scenario for treatment — it is illegal in most jurisdictions, unlike the other listed valid consent types.

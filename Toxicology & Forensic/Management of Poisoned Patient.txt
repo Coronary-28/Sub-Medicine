@@ -1,0 +1,55 @@
+Activated charcoal is useless in all of the following EXCEPT:
+A) Cyanide
+B) Iron
+C) Salicylate ingestion
+D) Lithium
+Correct Answer: C) Salicylate ingestion
+Explanation: Activated charcoal effectively adsorbs salicylates (along with paracetamol and tricyclics), but it is ineffective for iron, lithium, cyanide, corrosives, alcohols, and heavy metals.
+###
+Which of the following substances is best absorbed (adsorbed) by activated charcoal?
+A) Salicylic acid
+B) Iron
+C) Lithium
+D) Cyanide
+Correct Answer: A) Salicylic acid
+Explanation: Salicylate is well adsorbed by activated charcoal, whereas iron, lithium, and cyanide are not effectively bound by it.
+###
+Which statement about activated charcoal is TRUE?
+A) It reduces poison absorption by adsorbing it in the GI lumen
+B) It works by absorption into the toxin
+C) It induces vomiting
+D) It is contraindicated in all cases of poisoning
+Correct Answer: A) It reduces poison absorption by adsorbing it in the GI lumen
+Explanation: Activated charcoal works via adsorption — binding the toxin to its surface in the gut — thereby preventing systemic absorption, rather than being absorbed itself or inducing emesis.
+###
+Which of the following statements about activated charcoal is FALSE?
+A) It should be given as soon as possible after ingestion
+B) It can be combined with syrup of ipecac to induce vomiting
+C) It works by adsorbing toxins in the gut
+D) It is ineffective for metals and alcohols
+Correct Answer: B) It can be combined with syrup of ipecac to induce vomiting
+Explanation: Activated charcoal and syrup of ipecac should never be combined, since ipecac-induced vomiting would expel the charcoal from the stomach before it can adsorb the toxin.
+###
+All of the following are true about activated charcoal EXCEPT:
+A) Give with a sufficient amount of water
+B) It is a finely arranged black powder
+C) Given with syrup of ipecac to increase effectiveness
+D) Used for many poisons
+Correct Answer: C) Given with syrup of ipecac to increase effectiveness
+Explanation: Ipecac is not routinely recommended and should never be combined with activated charcoal, as it would counteract the charcoal's effect by inducing vomiting rather than improving efficacy.
+###
+A patient arrives at the ER 2 hours after an overdose. What is the correct management?
+A) Activated charcoal if no contraindications
+B) Syrup of ipecac
+C) Gastric lavage
+D) All of the above
+Correct Answer: A) Activated charcoal if no contraindications
+Explanation: Within 2 hours of ingestion, activated charcoal is first-line if the airway is intact and there are no contraindications; syrup of ipecac is no longer recommended, and gastric lavage is rarely used (limited to within about 1 hour with a protected airway).
+###
+Why are alkaline (base) burns generally MORE dangerous than acidic burns?
+A) They cause liquefactive necrosis, allowing deeper tissue penetration
+B) They cause coagulative necrosis, which limits penetration
+C) Acids are neutralized immediately upon contact
+D) Bases do not penetrate mucous membranes
+Correct Answer: A) They cause liquefactive necrosis, allowing deeper tissue penetration
+Explanation: Alkalis dissolve proteins and saponify fat, producing liquefactive necrosis without a limiting eschar, allowing progressively deeper tissue injury; acids instead cause coagulative necrosis, which forms a protective eschar that limits further penetration.
