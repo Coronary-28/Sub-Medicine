@@ -130,7 +130,7 @@ C) Humeral head is displaced superiorly and anteriorly
 D) Can cause axillary artery or nerve injury
 Correct Answer: C) Humeral head is displaced superiorly and anteriorly
 Explanation: In anterior shoulder dislocation, the humeral head is displaced anteriorly and inferiorly (medially), not superiorly, distinguishing it from luxatio erecta (inferior dislocation).
-Batch: Aorta Mini-OSCE (Group A) / Aorta Final
+Batch: Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Aorta Final
 ###
 What is FALSE about this fracture? [img: Radiologymbucklefracture.png ]
 A) Complete fracture through the bone
@@ -177,3 +177,49 @@ D) DDH
 Correct Answer: D) DDH
 Explanation: The image shows a shallow acetabulum with a small, laterally decentered femoral epiphysis in a young child, classic for Developmental dysplasia of the hip (DDH) rather than the older-child presentations of Perthes or SCFE.
 Batch: Endorphin Mini-OSCE (Group A) / Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologymfibrouscorticaldefect.png ]
+A) Non-ossifying fibroma
+B) Fibrous cortical defect
+C) Simple bone cyst
+D) Osteochondroma
+Correct Answer: B) Fibrous cortical defect
+Explanation: A small (<3cm) eccentric cortical lucency with a sclerotic rim in a child is a fibrous cortical defect; the larger version (>3cm) is termed non-ossifying fibroma.
+Batch: Endorphin Mini-OSCE (Group A)
+###
+The arrow (labeled 4) points to which structure? [img: Radiologymanatomyacl.png ]
+A) Posterior cruciate ligament
+B) Medial collateral ligament
+C) Anterior cruciate ligament
+D) Lateral collateral ligament
+Correct Answer: C) Anterior cruciate ligament
+Explanation: The ACL runs from the anterior tibial plateau to the posterolateral femoral condyle, the structure identified on this sagittal knee MRI.
+Batch: Endorphin Mini-OSCE (Group A)
+Note: 1. Patella || 2. Femur || 3. Bone cortex || 4. ACL || 5. PCL || 6. Bone cortex || 7. Tibia
+###
+Which of the following is WRONG about rickets on radiograph?
+A) Shows punched-out lytic lesions
+B) Vitamin D deficiency is a cause
+C) Cupping of the metaphysis
+D) Fraying of the metaphysis
+Correct Answer: A) Shows punched-out lytic lesions
+Explanation: Rickets classically shows cupping, splaying, and fraying of the metaphysis from deficient mineralization, not punched-out lytic lesions (a feature of gout or myeloma).
+Batch: Endorphin Mini-OSCE (Group C)
+###
+Periosteal reaction is seen in all of the following EXCEPT:
+A) Osteomyelitis
+B) Osteoid osteoma
+C) Healed/previous fracture
+D) Fibrous cortical defect
+Correct Answer: D) Fibrous cortical defect
+Explanation: Fibrous cortical defect is a quiescent benign lesion that does not incite a periosteal reaction, unlike infection, healing fractures, or osteoid osteoma.
+Batch: Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Endorphin Final
+###
+What is the most likely diagnosis? [img: Radiologymgout.png ]
+A) Gout
+B) Rheumatoid arthritis
+C) Psoriatic arthritis
+D) Osteoarthritis
+Correct Answer: A) Gout
+Explanation: Punched-out juxta-articular erosions with overhanging edges and preserved joint space/bone density in the feet are classic for gout.
+Batch: Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)
