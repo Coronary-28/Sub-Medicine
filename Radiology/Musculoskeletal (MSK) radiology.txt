@@ -26,14 +26,14 @@ Correct Answer: C) Type 3
 Explanation: The fracture plane runs along the growth plate and extends down through the epiphysis into the joint while sparing the metaphysis — the defining pattern of a Salter-Harris type III injury, which carries a poorer prognosis due to epiphyseal/articular involvement.
 Batch: Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A)
 ###
-What is the name of this tendon? [img: Radiologymquadricepstendon.png ]
+What is the structure injured in this image? [img: Radiologymquadricepstendon.png ]
 A) Patellar tendon
 B) Quadriceps tendon
 C) PCL
 D) Meniscus
 Correct Answer: B) Quadriceps tendon
 Explanation: The lesion is at the tendon superior to the patella (quadriceps insertion), consistent with a ruptured quadriceps tendon; the PCL and meniscus are intra-articular structures not visualized in this location.
-Batch: Aorta Mini-OSCE (Group A)
+Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Aorta Mini-OSCE (Group A)
 ###
 What is the earliest sign of this condition? [img: Radiologymearliestsignofsacroiliitis.png ]
 A) Sacroiliitis
@@ -223,3 +223,66 @@ D) Osteoarthritis
 Correct Answer: A) Gout
 Explanation: Punched-out juxta-articular erosions with overhanging edges and preserved joint space/bone density in the feet are classic for gout.
 Batch: Iris Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)
+###
+Which of the following about rickets on x-ray is WRONG?
+A) Widening of metaphyseal ends
+B) Indistinct margins of the metaphysis
+C) Narrowing of the adjacent radiolucent physis
+D) Cupping of the metaphysis
+Correct Answer: C) Narrowing of the adjacent radiolucent physis
+Explanation: Rickets causes lengthening (widening), not narrowing, of the radiolucent physis due to unmineralized cartilage accumulation.
+Batch: Endorphin Mini-OSCE (Group D)
+###
+Which of the following about hyperparathyroidism is WRONG?
+A) Sacroiliitis
+B) Osteopenia
+C) Flail (floating) teeth
+D) Salt-and-pepper skull
+Correct Answer: A) Sacroiliitis
+Explanation: Sacroiliitis is a feature of seronegative spondyloarthropathies, not hyperparathyroidism, which instead causes osteopenia, floating teeth, and salt-and-pepper skull.
+Batch: Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)
+###
+Which is WRONG about this avulsion fracture pairing?
+A) Ischial tuberosity – hamstrings
+B) Anterior superior iliac spine – adductor muscles
+C) Anterior inferior iliac spine – rectus femoris
+D) Lesser trochanter – iliopsoas
+Correct Answer: B) Anterior superior iliac spine – adductor muscles
+Explanation: The ASIS is the origin of sartorius (and tensor fasciae latae), not the adductor group; adductors attach at the symphysis pubis.
+Batch: Iris Mini-OSCE (Group A)
+###
+'Rugger jersey spine' is seen in:
+A) Osteoarthritis
+B) Hyperparathyroidism
+C) Ankylosing spondylitis
+D) Paget disease
+Correct Answer: B) Hyperparathyroidism
+Explanation: Alternating dense-lucent-dense vertebral endplates (rugger jersey spine) are a classic radiographic sign of hyperparathyroidism.
+Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)
+###
+What is the most common location of osteoid osteoma?
+A) Tibial diaphysis
+B) Vertebral posterior elements
+C) Neck of femur
+D) Distal radius
+Correct Answer: C) Neck of femur
+Explanation: Long bones of the limb, especially the femoral neck, are the most common site for osteoid osteoma.
+Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)
+###
+Which of the following is a common Salter-Harris type 1 fracture?
+A) Slipped capital femoral epiphysis
+B) Supracondylar fracture
+C) Distal radius buckle fracture
+D) Tibial spine avulsion
+Correct Answer: A) Slipped capital femoral epiphysis
+Explanation: SCFE represents a Salter-Harris type I injury (slipped physis) through the proximal femoral growth plate.
+Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)
+###
+Recalled station: identify the fracture. [img: Radiologymclaviclefracture.png ]
+A) Acromioclavicular joint separation
+B) Proximal humeral fracture
+C) Anterior shoulder dislocation
+D) Distal third clavicular fracture
+Correct Answer: D) Distal third clavicular fracture
+Explanation: There is a comminuted fracture of the distal third of the clavicle. The proximal fractured fragment is displaced superiorly, with mild skin tenting. The distal  fractured fragment is displaced inferiorly . There is pseudo-widening of the acromioclavicular joint space. However the coracoclavicular and sternoclavicular joint space alignment is maintained. The inferior border of acromion is not in the same line as the inferior border of distal clavicle, this is suspicious for acromioclavicular joint disruption. No associated other bone fractures. Adjacent soft tissue thickening is seen.
+Batch: Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE
