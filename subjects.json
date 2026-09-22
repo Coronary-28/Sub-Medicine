@@ -14558,9 +14558,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__y7d7js",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__dybipg",
             "number": "4",
-            "text": "What is the name of this tendon? [img: Radiologymquadricepstendon.png ]",
+            "text": "What is the structure injured in this image? [img: Radiologymquadricepstendon.png ]",
             "options": [
               "Patellar tendon",
               "Quadriceps tendon",
@@ -14580,8 +14580,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "B",
             "explanation": "The lesion is at the tendon superior to the patella (quadriceps insertion), consistent with a ruptured quadriceps tendon; the PCL and meniscus are intra-articular structures not visualized in this location.",
-            "batchName": "Aorta Mini-OSCE (Group A)",
+            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Aorta Mini-OSCE (Group A)",
             "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
               "Aorta Mini-OSCE (Group A)"
             ],
             "note": "",
@@ -15348,6 +15350,257 @@
               "Iris Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__26__poo60i",
+            "number": "26",
+            "text": "Which of the following about rickets on x-ray is WRONG?",
+            "options": [
+              "Widening of metaphyseal ends",
+              "Indistinct margins of the metaphysis",
+              "Narrowing of the adjacent radiolucent physis",
+              "Cupping of the metaphysis"
+            ],
+            "originalOptions": [
+              "Widening of metaphyseal ends",
+              "Indistinct margins of the metaphysis",
+              "Narrowing of the adjacent radiolucent physis",
+              "Cupping of the metaphysis"
+            ],
+            "correctAnswer": "C) Narrowing of the adjacent radiolucent physis",
+            "correctAnswerText": "Narrowing of the adjacent radiolucent physis",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Rickets causes lengthening (widening), not narrowing, of the radiolucent physis due to unmineralized cartilage accumulation.",
+            "batchName": "Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__27__1fivkz",
+            "number": "27",
+            "text": "Which of the following about hyperparathyroidism is WRONG?",
+            "options": [
+              "Sacroiliitis",
+              "Osteopenia",
+              "Flail (floating) teeth",
+              "Salt-and-pepper skull"
+            ],
+            "originalOptions": [
+              "Sacroiliitis",
+              "Osteopenia",
+              "Flail (floating) teeth",
+              "Salt-and-pepper skull"
+            ],
+            "correctAnswer": "A) Sacroiliitis",
+            "correctAnswerText": "Sacroiliitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Sacroiliitis is a feature of seronegative spondyloarthropathies, not hyperparathyroidism, which instead causes osteopenia, floating teeth, and salt-and-pepper skull.",
+            "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__28__e3snr5",
+            "number": "28",
+            "text": "Which is WRONG about this avulsion fracture pairing?",
+            "options": [
+              "Ischial tuberosity – hamstrings",
+              "Anterior superior iliac spine – adductor muscles",
+              "Anterior inferior iliac spine – rectus femoris",
+              "Lesser trochanter – iliopsoas"
+            ],
+            "originalOptions": [
+              "Ischial tuberosity – hamstrings",
+              "Anterior superior iliac spine – adductor muscles",
+              "Anterior inferior iliac spine – rectus femoris",
+              "Lesser trochanter – iliopsoas"
+            ],
+            "correctAnswer": "B) Anterior superior iliac spine – adductor muscles",
+            "correctAnswerText": "Anterior superior iliac spine – adductor muscles",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The ASIS is the origin of sartorius (and tensor fasciae latae), not the adductor group; adductors attach at the symphysis pubis.",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__29__zejgnj",
+            "number": "29",
+            "text": "'Rugger jersey spine' is seen in:",
+            "options": [
+              "Osteoarthritis",
+              "Hyperparathyroidism",
+              "Ankylosing spondylitis",
+              "Paget disease"
+            ],
+            "originalOptions": [
+              "Osteoarthritis",
+              "Hyperparathyroidism",
+              "Ankylosing spondylitis",
+              "Paget disease"
+            ],
+            "correctAnswer": "B) Hyperparathyroidism",
+            "correctAnswerText": "Hyperparathyroidism",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Alternating dense-lucent-dense vertebral endplates (rugger jersey spine) are a classic radiographic sign of hyperparathyroidism.",
+            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__30__8of23p",
+            "number": "30",
+            "text": "What is the most common location of osteoid osteoma?",
+            "options": [
+              "Tibial diaphysis",
+              "Vertebral posterior elements",
+              "Neck of femur",
+              "Distal radius"
+            ],
+            "originalOptions": [
+              "Tibial diaphysis",
+              "Vertebral posterior elements",
+              "Neck of femur",
+              "Distal radius"
+            ],
+            "correctAnswer": "C) Neck of femur",
+            "correctAnswerText": "Neck of femur",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Long bones of the limb, especially the femoral neck, are the most common site for osteoid osteoma.",
+            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__31__k4p7k1",
+            "number": "31",
+            "text": "Which of the following is a common Salter-Harris type 1 fracture?",
+            "options": [
+              "Slipped capital femoral epiphysis",
+              "Supracondylar fracture",
+              "Distal radius buckle fracture",
+              "Tibial spine avulsion"
+            ],
+            "originalOptions": [
+              "Slipped capital femoral epiphysis",
+              "Supracondylar fracture",
+              "Distal radius buckle fracture",
+              "Tibial spine avulsion"
+            ],
+            "correctAnswer": "A) Slipped capital femoral epiphysis",
+            "correctAnswerText": "Slipped capital femoral epiphysis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "SCFE represents a Salter-Harris type I injury (slipped physis) through the proximal femoral growth plate.",
+            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__32__3pv9j1",
+            "number": "32",
+            "text": "Recalled station: identify the fracture. [img: Radiologymclaviclefracture.png ]",
+            "options": [
+              "Acromioclavicular joint separation",
+              "Proximal humeral fracture",
+              "Anterior shoulder dislocation",
+              "Distal third clavicular fracture"
+            ],
+            "originalOptions": [
+              "Acromioclavicular joint separation",
+              "Proximal humeral fracture",
+              "Anterior shoulder dislocation",
+              "Distal third clavicular fracture"
+            ],
+            "correctAnswer": "D) Distal third clavicular fracture",
+            "correctAnswerText": "Distal third clavicular fracture",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "There is a comminuted fracture of the distal third of the clavicle. The proximal fractured fragment is displaced superiorly, with mild skin tenting. The distal  fractured fragment is displaced inferiorly . There is pseudo-widening of the acromioclavicular joint space. However the coracoclavicular and sternoclavicular joint space alignment is maintained. The inferior border of acromion is not in the same line as the inferior border of distal clavicle, this is suspicious for acromioclavicular joint disruption. No associated other bone fractures. Adjacent soft tissue thickening is seen.",
+            "batchName": "Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -16293,9 +16546,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__y7d7js",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__dybipg",
             "number": "4",
-            "text": "What is the name of this tendon? [img: Radiologymquadricepstendon.png ]",
+            "text": "What is the structure injured in this image? [img: Radiologymquadricepstendon.png ]",
             "options": [
               "Patellar tendon",
               "Quadriceps tendon",
@@ -16317,6 +16570,8 @@
             "explanation": "The lesion is at the tendon superior to the patella (quadriceps insertion), consistent with a ruptured quadriceps tendon; the PCL and meniscus are intra-articular structures not visualized in this location.",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
               "Aorta Mini-OSCE (Group A)"
             ],
             "note": "",
@@ -18955,6 +19210,44 @@
             "groupName": "Musculoskeletal (MSK) radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__27__1fivkz",
+            "number": "27",
+            "text": "Which of the following about hyperparathyroidism is WRONG?",
+            "options": [
+              "Sacroiliitis",
+              "Osteopenia",
+              "Flail (floating) teeth",
+              "Salt-and-pepper skull"
+            ],
+            "originalOptions": [
+              "Sacroiliitis",
+              "Osteopenia",
+              "Flail (floating) teeth",
+              "Salt-and-pepper skull"
+            ],
+            "correctAnswer": "A) Sacroiliitis",
+            "correctAnswerText": "Sacroiliitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Sacroiliitis is a feature of seronegative spondyloarthropathies, not hyperparathyroidism, which instead causes osteopenia, floating teeth, and salt-and-pepper skull.",
+            "batchName": "Endorphin Mini-OSCE (Group C)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -19423,6 +19716,80 @@
             "groupName": "Musculoskeletal (MSK) radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__26__poo60i",
+            "number": "26",
+            "text": "Which of the following about rickets on x-ray is WRONG?",
+            "options": [
+              "Widening of metaphyseal ends",
+              "Indistinct margins of the metaphysis",
+              "Narrowing of the adjacent radiolucent physis",
+              "Cupping of the metaphysis"
+            ],
+            "originalOptions": [
+              "Widening of metaphyseal ends",
+              "Indistinct margins of the metaphysis",
+              "Narrowing of the adjacent radiolucent physis",
+              "Cupping of the metaphysis"
+            ],
+            "correctAnswer": "C) Narrowing of the adjacent radiolucent physis",
+            "correctAnswerText": "Narrowing of the adjacent radiolucent physis",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Rickets causes lengthening (widening), not narrowing, of the radiolucent physis due to unmineralized cartilage accumulation.",
+            "batchName": "Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__27__1fivkz",
+            "number": "27",
+            "text": "Which of the following about hyperparathyroidism is WRONG?",
+            "options": [
+              "Sacroiliitis",
+              "Osteopenia",
+              "Flail (floating) teeth",
+              "Salt-and-pepper skull"
+            ],
+            "originalOptions": [
+              "Sacroiliitis",
+              "Osteopenia",
+              "Flail (floating) teeth",
+              "Salt-and-pepper skull"
+            ],
+            "correctAnswer": "A) Sacroiliitis",
+            "correctAnswerText": "Sacroiliitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Sacroiliitis is a feature of seronegative spondyloarthropathies, not hyperparathyroidism, which instead causes osteopenia, floating teeth, and salt-and-pepper skull.",
+            "batchName": "Endorphin Mini-OSCE (Group D)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -19871,6 +20238,44 @@
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)",
               "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__27__1fivkz",
+            "number": "27",
+            "text": "Which of the following about hyperparathyroidism is WRONG?",
+            "options": [
+              "Sacroiliitis",
+              "Osteopenia",
+              "Flail (floating) teeth",
+              "Salt-and-pepper skull"
+            ],
+            "originalOptions": [
+              "Sacroiliitis",
+              "Osteopenia",
+              "Flail (floating) teeth",
+              "Salt-and-pepper skull"
+            ],
+            "correctAnswer": "A) Sacroiliitis",
+            "correctAnswerText": "Sacroiliitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Sacroiliitis is a feature of seronegative spondyloarthropathies, not hyperparathyroidism, which instead causes osteopenia, floating teeth, and salt-and-pepper skull.",
+            "batchName": "Endorphin Mini-OSCE (Group E)",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)"
             ],
             "note": "",
             "pageNumber": "",
@@ -20538,6 +20943,42 @@
             "groupName": "Musculoskeletal (MSK) radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__28__e3snr5",
+            "number": "28",
+            "text": "Which is WRONG about this avulsion fracture pairing?",
+            "options": [
+              "Ischial tuberosity – hamstrings",
+              "Anterior superior iliac spine – adductor muscles",
+              "Anterior inferior iliac spine – rectus femoris",
+              "Lesser trochanter – iliopsoas"
+            ],
+            "originalOptions": [
+              "Ischial tuberosity – hamstrings",
+              "Anterior superior iliac spine – adductor muscles",
+              "Anterior inferior iliac spine – rectus femoris",
+              "Lesser trochanter – iliopsoas"
+            ],
+            "correctAnswer": "B) Anterior superior iliac spine – adductor muscles",
+            "correctAnswerText": "Anterior superior iliac spine – adductor muscles",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The ASIS is the origin of sartorius (and tensor fasciae latae), not the adductor group; adductors attach at the symphysis pubis.",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -20735,6 +21176,44 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__dybipg",
+            "number": "4",
+            "text": "What is the structure injured in this image? [img: Radiologymquadricepstendon.png ]",
+            "options": [
+              "Patellar tendon",
+              "Quadriceps tendon",
+              "PCL",
+              "Meniscus"
+            ],
+            "originalOptions": [
+              "Patellar tendon",
+              "Quadriceps tendon",
+              "PCL",
+              "Meniscus"
+            ],
+            "correctAnswer": "B) Quadriceps tendon",
+            "correctAnswerText": "Quadriceps tendon",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The lesion is at the tendon superior to the patella (quadriceps insertion), consistent with a ruptured quadriceps tendon; the PCL and meniscus are intra-articular structures not visualized in this location.",
+            "batchName": "Iris Mini-OSCE (Group C)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
             "number": "7",
             "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
@@ -20766,6 +21245,117 @@
               "Endorphin Final",
               "Serotonin Mini-OSCE",
               "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__29__zejgnj",
+            "number": "29",
+            "text": "'Rugger jersey spine' is seen in:",
+            "options": [
+              "Osteoarthritis",
+              "Hyperparathyroidism",
+              "Ankylosing spondylitis",
+              "Paget disease"
+            ],
+            "originalOptions": [
+              "Osteoarthritis",
+              "Hyperparathyroidism",
+              "Ankylosing spondylitis",
+              "Paget disease"
+            ],
+            "correctAnswer": "B) Hyperparathyroidism",
+            "correctAnswerText": "Hyperparathyroidism",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Alternating dense-lucent-dense vertebral endplates (rugger jersey spine) are a classic radiographic sign of hyperparathyroidism.",
+            "batchName": "Iris Mini-OSCE (Group C)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__30__8of23p",
+            "number": "30",
+            "text": "What is the most common location of osteoid osteoma?",
+            "options": [
+              "Tibial diaphysis",
+              "Vertebral posterior elements",
+              "Neck of femur",
+              "Distal radius"
+            ],
+            "originalOptions": [
+              "Tibial diaphysis",
+              "Vertebral posterior elements",
+              "Neck of femur",
+              "Distal radius"
+            ],
+            "correctAnswer": "C) Neck of femur",
+            "correctAnswerText": "Neck of femur",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Long bones of the limb, especially the femoral neck, are the most common site for osteoid osteoma.",
+            "batchName": "Iris Mini-OSCE (Group C)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__31__k4p7k1",
+            "number": "31",
+            "text": "Which of the following is a common Salter-Harris type 1 fracture?",
+            "options": [
+              "Slipped capital femoral epiphysis",
+              "Supracondylar fracture",
+              "Distal radius buckle fracture",
+              "Tibial spine avulsion"
+            ],
+            "originalOptions": [
+              "Slipped capital femoral epiphysis",
+              "Supracondylar fracture",
+              "Distal radius buckle fracture",
+              "Tibial spine avulsion"
+            ],
+            "correctAnswer": "A) Slipped capital femoral epiphysis",
+            "correctAnswerText": "Slipped capital femoral epiphysis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "SCFE represents a Salter-Harris type I injury (slipped physis) through the proximal femoral growth plate.",
+            "batchName": "Iris Mini-OSCE (Group C)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
             ],
             "note": "",
             "pageNumber": "",
@@ -20901,6 +21491,44 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__4__dybipg",
+            "number": "4",
+            "text": "What is the structure injured in this image? [img: Radiologymquadricepstendon.png ]",
+            "options": [
+              "Patellar tendon",
+              "Quadriceps tendon",
+              "PCL",
+              "Meniscus"
+            ],
+            "originalOptions": [
+              "Patellar tendon",
+              "Quadriceps tendon",
+              "PCL",
+              "Meniscus"
+            ],
+            "correctAnswer": "B) Quadriceps tendon",
+            "correctAnswerText": "Quadriceps tendon",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The lesion is at the tendon superior to the patella (quadriceps insertion), consistent with a ruptured quadriceps tendon; the PCL and meniscus are intra-articular structures not visualized in this location.",
+            "batchName": "Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Aorta Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
             "number": "7",
             "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
@@ -20932,6 +21560,117 @@
               "Endorphin Final",
               "Serotonin Mini-OSCE",
               "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__29__zejgnj",
+            "number": "29",
+            "text": "'Rugger jersey spine' is seen in:",
+            "options": [
+              "Osteoarthritis",
+              "Hyperparathyroidism",
+              "Ankylosing spondylitis",
+              "Paget disease"
+            ],
+            "originalOptions": [
+              "Osteoarthritis",
+              "Hyperparathyroidism",
+              "Ankylosing spondylitis",
+              "Paget disease"
+            ],
+            "correctAnswer": "B) Hyperparathyroidism",
+            "correctAnswerText": "Hyperparathyroidism",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Alternating dense-lucent-dense vertebral endplates (rugger jersey spine) are a classic radiographic sign of hyperparathyroidism.",
+            "batchName": "Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__30__8of23p",
+            "number": "30",
+            "text": "What is the most common location of osteoid osteoma?",
+            "options": [
+              "Tibial diaphysis",
+              "Vertebral posterior elements",
+              "Neck of femur",
+              "Distal radius"
+            ],
+            "originalOptions": [
+              "Tibial diaphysis",
+              "Vertebral posterior elements",
+              "Neck of femur",
+              "Distal radius"
+            ],
+            "correctAnswer": "C) Neck of femur",
+            "correctAnswerText": "Neck of femur",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Long bones of the limb, especially the femoral neck, are the most common site for osteoid osteoma.",
+            "batchName": "Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__31__k4p7k1",
+            "number": "31",
+            "text": "Which of the following is a common Salter-Harris type 1 fracture?",
+            "options": [
+              "Slipped capital femoral epiphysis",
+              "Supracondylar fracture",
+              "Distal radius buckle fracture",
+              "Tibial spine avulsion"
+            ],
+            "originalOptions": [
+              "Slipped capital femoral epiphysis",
+              "Supracondylar fracture",
+              "Distal radius buckle fracture",
+              "Tibial spine avulsion"
+            ],
+            "correctAnswer": "A) Slipped capital femoral epiphysis",
+            "correctAnswerText": "Slipped capital femoral epiphysis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "SCFE represents a Salter-Harris type I injury (slipped physis) through the proximal femoral growth plate.",
+            "batchName": "Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
             ],
             "note": "",
             "pageNumber": "",
@@ -21873,6 +22612,43 @@
               "Vagus Mini-OSCE (Group C)",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__32__3pv9j1",
+            "number": "32",
+            "text": "Recalled station: identify the fracture. [img: Radiologymclaviclefracture.png ]",
+            "options": [
+              "Acromioclavicular joint separation",
+              "Proximal humeral fracture",
+              "Anterior shoulder dislocation",
+              "Distal third clavicular fracture"
+            ],
+            "originalOptions": [
+              "Acromioclavicular joint separation",
+              "Proximal humeral fracture",
+              "Anterior shoulder dislocation",
+              "Distal third clavicular fracture"
+            ],
+            "correctAnswer": "D) Distal third clavicular fracture",
+            "correctAnswerText": "Distal third clavicular fracture",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "There is a comminuted fracture of the distal third of the clavicle. The proximal fractured fragment is displaced superiorly, with mild skin tenting. The distal  fractured fragment is displaced inferiorly . There is pseudo-widening of the acromioclavicular joint space. However the coracoclavicular and sternoclavicular joint space alignment is maintained. The inferior border of acromion is not in the same line as the inferior border of distal clavicle, this is suspicious for acromioclavicular joint disruption. No associated other bone fractures. Adjacent soft tissue thickening is seen.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -23509,6 +24285,43 @@
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Final",
               "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__32__3pv9j1",
+            "number": "32",
+            "text": "Recalled station: identify the fracture. [img: Radiologymclaviclefracture.png ]",
+            "options": [
+              "Acromioclavicular joint separation",
+              "Proximal humeral fracture",
+              "Anterior shoulder dislocation",
+              "Distal third clavicular fracture"
+            ],
+            "originalOptions": [
+              "Acromioclavicular joint separation",
+              "Proximal humeral fracture",
+              "Anterior shoulder dislocation",
+              "Distal third clavicular fracture"
+            ],
+            "correctAnswer": "D) Distal third clavicular fracture",
+            "correctAnswerText": "Distal third clavicular fracture",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "There is a comminuted fracture of the distal third of the clavicle. The proximal fractured fragment is displaced superiorly, with mild skin tenting. The distal  fractured fragment is displaced inferiorly . There is pseudo-widening of the acromioclavicular joint space. However the coracoclavicular and sternoclavicular joint space alignment is maintained. The inferior border of acromion is not in the same line as the inferior border of distal clavicle, this is suspicious for acromioclavicular joint disruption. No associated other bone fractures. Adjacent soft tissue thickening is seen.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -26673,9 +27486,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__4__y7d7js",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__4__dybipg",
         "number": "4",
-        "text": "What is the name of this tendon? [img: Radiologymquadricepstendon.png ]",
+        "text": "What is the structure injured in this image? [img: Radiologymquadricepstendon.png ]",
         "options": [
           "Patellar tendon",
           "Quadriceps tendon",
@@ -26695,8 +27508,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "B",
         "explanation": "The lesion is at the tendon superior to the patella (quadriceps insertion), consistent with a ruptured quadriceps tendon; the PCL and meniscus are intra-articular structures not visualized in this location.",
-        "batchName": "Aorta Mini-OSCE (Group A)",
+        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Aorta Mini-OSCE (Group A)",
         "batchNames": [
+          "Iris Mini-OSCE (Group C)",
+          "Iris Mini-OSCE (Group D)",
           "Aorta Mini-OSCE (Group A)"
         ],
         "note": "",
@@ -27471,9 +28286,260 @@
         "lectureName": "Musculoskeletal (MSK) radiology",
         "groupName": "Musculoskeletal (MSK) radiology",
         "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__26__poo60i",
+        "number": "26",
+        "text": "Which of the following about rickets on x-ray is WRONG?",
+        "options": [
+          "Widening of metaphyseal ends",
+          "Indistinct margins of the metaphysis",
+          "Narrowing of the adjacent radiolucent physis",
+          "Cupping of the metaphysis"
+        ],
+        "originalOptions": [
+          "Widening of metaphyseal ends",
+          "Indistinct margins of the metaphysis",
+          "Narrowing of the adjacent radiolucent physis",
+          "Cupping of the metaphysis"
+        ],
+        "correctAnswer": "C) Narrowing of the adjacent radiolucent physis",
+        "correctAnswerText": "Narrowing of the adjacent radiolucent physis",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Rickets causes lengthening (widening), not narrowing, of the radiolucent physis due to unmineralized cartilage accumulation.",
+        "batchName": "Endorphin Mini-OSCE (Group D)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__27__1fivkz",
+        "number": "27",
+        "text": "Which of the following about hyperparathyroidism is WRONG?",
+        "options": [
+          "Sacroiliitis",
+          "Osteopenia",
+          "Flail (floating) teeth",
+          "Salt-and-pepper skull"
+        ],
+        "originalOptions": [
+          "Sacroiliitis",
+          "Osteopenia",
+          "Flail (floating) teeth",
+          "Salt-and-pepper skull"
+        ],
+        "correctAnswer": "A) Sacroiliitis",
+        "correctAnswerText": "Sacroiliitis",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Sacroiliitis is a feature of seronegative spondyloarthropathies, not hyperparathyroidism, which instead causes osteopenia, floating teeth, and salt-and-pepper skull.",
+        "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)",
+        "batchNames": [
+          "Endorphin Mini-OSCE (Group C)",
+          "Endorphin Mini-OSCE (Group D)",
+          "Endorphin Mini-OSCE (Group E)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__28__e3snr5",
+        "number": "28",
+        "text": "Which is WRONG about this avulsion fracture pairing?",
+        "options": [
+          "Ischial tuberosity – hamstrings",
+          "Anterior superior iliac spine – adductor muscles",
+          "Anterior inferior iliac spine – rectus femoris",
+          "Lesser trochanter – iliopsoas"
+        ],
+        "originalOptions": [
+          "Ischial tuberosity – hamstrings",
+          "Anterior superior iliac spine – adductor muscles",
+          "Anterior inferior iliac spine – rectus femoris",
+          "Lesser trochanter – iliopsoas"
+        ],
+        "correctAnswer": "B) Anterior superior iliac spine – adductor muscles",
+        "correctAnswerText": "Anterior superior iliac spine – adductor muscles",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The ASIS is the origin of sartorius (and tensor fasciae latae), not the adductor group; adductors attach at the symphysis pubis.",
+        "batchName": "Iris Mini-OSCE (Group A)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group A)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__29__zejgnj",
+        "number": "29",
+        "text": "'Rugger jersey spine' is seen in:",
+        "options": [
+          "Osteoarthritis",
+          "Hyperparathyroidism",
+          "Ankylosing spondylitis",
+          "Paget disease"
+        ],
+        "originalOptions": [
+          "Osteoarthritis",
+          "Hyperparathyroidism",
+          "Ankylosing spondylitis",
+          "Paget disease"
+        ],
+        "correctAnswer": "B) Hyperparathyroidism",
+        "correctAnswerText": "Hyperparathyroidism",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Alternating dense-lucent-dense vertebral endplates (rugger jersey spine) are a classic radiographic sign of hyperparathyroidism.",
+        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group C)",
+          "Iris Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__30__8of23p",
+        "number": "30",
+        "text": "What is the most common location of osteoid osteoma?",
+        "options": [
+          "Tibial diaphysis",
+          "Vertebral posterior elements",
+          "Neck of femur",
+          "Distal radius"
+        ],
+        "originalOptions": [
+          "Tibial diaphysis",
+          "Vertebral posterior elements",
+          "Neck of femur",
+          "Distal radius"
+        ],
+        "correctAnswer": "C) Neck of femur",
+        "correctAnswerText": "Neck of femur",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Long bones of the limb, especially the femoral neck, are the most common site for osteoid osteoma.",
+        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group C)",
+          "Iris Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__31__k4p7k1",
+        "number": "31",
+        "text": "Which of the following is a common Salter-Harris type 1 fracture?",
+        "options": [
+          "Slipped capital femoral epiphysis",
+          "Supracondylar fracture",
+          "Distal radius buckle fracture",
+          "Tibial spine avulsion"
+        ],
+        "originalOptions": [
+          "Slipped capital femoral epiphysis",
+          "Supracondylar fracture",
+          "Distal radius buckle fracture",
+          "Tibial spine avulsion"
+        ],
+        "correctAnswer": "A) Slipped capital femoral epiphysis",
+        "correctAnswerText": "Slipped capital femoral epiphysis",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "SCFE represents a Salter-Harris type I injury (slipped physis) through the proximal femoral growth plate.",
+        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group C)",
+          "Iris Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__32__3pv9j1",
+        "number": "32",
+        "text": "Recalled station: identify the fracture. [img: Radiologymclaviclefracture.png ]",
+        "options": [
+          "Acromioclavicular joint separation",
+          "Proximal humeral fracture",
+          "Anterior shoulder dislocation",
+          "Distal third clavicular fracture"
+        ],
+        "originalOptions": [
+          "Acromioclavicular joint separation",
+          "Proximal humeral fracture",
+          "Anterior shoulder dislocation",
+          "Distal third clavicular fracture"
+        ],
+        "correctAnswer": "D) Distal third clavicular fracture",
+        "correctAnswerText": "Distal third clavicular fracture",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "There is a comminuted fracture of the distal third of the clavicle. The proximal fractured fragment is displaced superiorly, with mild skin tenting. The distal  fractured fragment is displaced inferiorly . There is pseudo-widening of the acromioclavicular joint space. However the coracoclavicular and sternoclavicular joint space alignment is maintained. The inferior border of acromion is not in the same line as the inferior border of distal clavicle, this is suspicious for acromioclavicular joint disruption. No associated other bone fractures. Adjacent soft tissue thickening is seen.",
+        "batchName": "Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Serotonin Mini-OSCE",
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Musculoskeletal (MSK) radiology",
+        "groupName": "Musculoskeletal (MSK) radiology",
+        "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 109,
+    "totalQuestions": 116,
     "totalLectures": 23,
     "hasAiFolder": false
   },
