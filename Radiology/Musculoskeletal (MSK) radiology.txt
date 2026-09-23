@@ -470,11 +470,11 @@ Batch: Endorphin Final / Aorta Final
 Note: Mentioned in Coronary Sheet , Slide 32 Anatomy of Pelvis ||| In Endorphin exam , the question was : An avulsion fracture is most likely associated with contraction of which muscle?
 ###
 Identify the Salter-Harris type in this fracture : [img: Radiologymsalter2harris.png ]
-A) Type I
-B) Type III
-C) Type II
-D) Type IV
-Correct Answer: C) Type II
+A) Type 1
+B) Type 2
+C) Type 3
+D) Type 4
+Correct Answer: B) Type 2
 Explanation: Physeal fracture of the distal fibula. It is best seen on the oblique view and is displaced. There is a tiny metaphyseal fragment making it a type II Salter-Harris fracture.
 Batch: Aorta Final
 ###
@@ -543,12 +543,12 @@ Explanation: This accurately describes the acetabular dysplasia and superior fem
 Batch: Overdose Final
 ###
 What is the most common type of Salter-Harris fracture?
-A) I
-B) II
-C) III
-D) IV
-E) V
-Correct Answer: B) II
+A) 1
+B) 2
+C) 3
+D) 4
+E) 5
+Correct Answer: B) 2
 Explanation: Salter-Harris type II accounts for approximately 75% of physeal fractures, making it by far the most common subtype.
 Batch: Overdose Final / Waman A7yaha Final / Serotonin Final
 ###
