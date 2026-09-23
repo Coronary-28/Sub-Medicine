@@ -16332,23 +16332,23 @@
             "number": "53",
             "text": "Identify the Salter-Harris type in this fracture : [img: Radiologymsalter2harris.png ]",
             "options": [
-              "Type I",
-              "Type III",
-              "Type II",
-              "Type IV"
+              "Type 1",
+              "Type 2",
+              "Type 3",
+              "Type 4"
             ],
             "originalOptions": [
-              "Type I",
-              "Type III",
-              "Type II",
-              "Type IV"
+              "Type 1",
+              "Type 2",
+              "Type 3",
+              "Type 4"
             ],
-            "correctAnswer": "C) Type II",
-            "correctAnswerText": "Type II",
-            "correctIndex": 2,
+            "correctAnswer": "B) Type 2",
+            "correctAnswerText": "Type 2",
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "B",
             "explanation": "Physeal fracture of the distal fibula. It is best seen on the oblique view and is displaced. There is a tiny metaphyseal fragment making it a type II Salter-Harris fracture.",
             "batchName": "Aorta Final",
             "batchNames": [
@@ -16616,21 +16616,21 @@
             "number": "61",
             "text": "What is the most common type of Salter-Harris fracture?",
             "options": [
-              "I",
-              "II",
-              "III",
-              "IV",
-              "V"
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
             ],
             "originalOptions": [
-              "I",
-              "II",
-              "III",
-              "IV",
-              "V"
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
             ],
-            "correctAnswer": "B) II",
-            "correctAnswerText": "II",
+            "correctAnswer": "B) 2",
+            "correctAnswerText": "2",
             "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
@@ -18085,23 +18085,23 @@
             "number": "53",
             "text": "Identify the Salter-Harris type in this fracture : [img: Radiologymsalter2harris.png ]",
             "options": [
-              "Type I",
-              "Type III",
-              "Type II",
-              "Type IV"
+              "Type 1",
+              "Type 2",
+              "Type 3",
+              "Type 4"
             ],
             "originalOptions": [
-              "Type I",
-              "Type III",
-              "Type II",
-              "Type IV"
+              "Type 1",
+              "Type 2",
+              "Type 3",
+              "Type 4"
             ],
-            "correctAnswer": "C) Type II",
-            "correctAnswerText": "Type II",
-            "correctIndex": 2,
+            "correctAnswer": "B) Type 2",
+            "correctAnswerText": "Type 2",
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "B",
             "explanation": "Physeal fracture of the distal fibula. It is best seen on the oblique view and is displaced. There is a tiny metaphyseal fragment making it a type II Salter-Harris fracture.",
             "batchName": "Aorta Final",
             "batchNames": [
@@ -24220,21 +24220,21 @@
             "number": "61",
             "text": "What is the most common type of Salter-Harris fracture?",
             "options": [
-              "I",
-              "II",
-              "III",
-              "IV",
-              "V"
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
             ],
             "originalOptions": [
-              "I",
-              "II",
-              "III",
-              "IV",
-              "V"
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
             ],
-            "correctAnswer": "B) II",
-            "correctAnswerText": "II",
+            "correctAnswer": "B) 2",
+            "correctAnswerText": "2",
             "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
@@ -24647,21 +24647,21 @@
             "number": "61",
             "text": "What is the most common type of Salter-Harris fracture?",
             "options": [
-              "I",
-              "II",
-              "III",
-              "IV",
-              "V"
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
             ],
             "originalOptions": [
-              "I",
-              "II",
-              "III",
-              "IV",
-              "V"
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
             ],
-            "correctAnswer": "B) II",
-            "correctAnswerText": "II",
+            "correctAnswer": "B) 2",
+            "correctAnswerText": "2",
             "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
@@ -26601,21 +26601,21 @@
             "number": "61",
             "text": "What is the most common type of Salter-Harris fracture?",
             "options": [
-              "I",
-              "II",
-              "III",
-              "IV",
-              "V"
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
             ],
             "originalOptions": [
-              "I",
-              "II",
-              "III",
-              "IV",
-              "V"
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
             ],
-            "correctAnswer": "B) II",
-            "correctAnswerText": "II",
+            "correctAnswer": "B) 2",
+            "correctAnswerText": "2",
             "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
@@ -33229,23 +33229,23 @@
         "number": "53",
         "text": "Identify the Salter-Harris type in this fracture : [img: Radiologymsalter2harris.png ]",
         "options": [
-          "Type I",
-          "Type III",
-          "Type II",
-          "Type IV"
+          "Type 1",
+          "Type 2",
+          "Type 3",
+          "Type 4"
         ],
         "originalOptions": [
-          "Type I",
-          "Type III",
-          "Type II",
-          "Type IV"
+          "Type 1",
+          "Type 2",
+          "Type 3",
+          "Type 4"
         ],
-        "correctAnswer": "C) Type II",
-        "correctAnswerText": "Type II",
-        "correctIndex": 2,
+        "correctAnswer": "B) Type 2",
+        "correctAnswerText": "Type 2",
+        "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "C",
+        "correctAnswerLetter": "B",
         "explanation": "Physeal fracture of the distal fibula. It is best seen on the oblique view and is displaced. There is a tiny metaphyseal fragment making it a type II Salter-Harris fracture.",
         "batchName": "Aorta Final",
         "batchNames": [
@@ -33513,21 +33513,21 @@
         "number": "61",
         "text": "What is the most common type of Salter-Harris fracture?",
         "options": [
-          "I",
-          "II",
-          "III",
-          "IV",
-          "V"
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
         ],
         "originalOptions": [
-          "I",
-          "II",
-          "III",
-          "IV",
-          "V"
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
         ],
-        "correctAnswer": "B) II",
-        "correctAnswerText": "II",
+        "correctAnswer": "B) 2",
+        "correctAnswerText": "2",
         "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
