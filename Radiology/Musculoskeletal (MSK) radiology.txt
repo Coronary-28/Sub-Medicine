@@ -17,7 +17,7 @@ Correct Answer: A) Navicular
 Explanation: The navicular is the medially positioned tarsal bone articulating proximally with the talar head and distally with the cuneiforms, distinguishing it from the more laterally placed cuboid and the proximal talus.
 Batch: Aorta Mini-OSCE (Group A)
 ###
-Which stage of Salter-Harris fracture is shown? [img: Radiologymsalterharris3.png ]
+Which stage of Salter-Harris fracture is shown? [img: Radiologymsalter3harris.png ]
 A) Type 2
 B) Type 4
 C) Type 3
@@ -87,7 +87,7 @@ C) Parietal bone fracture
 D) Scapular fracture
 Correct Answer: C) Parietal bone fracture
 Explanation: Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.
-Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)
+Batch: Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)
 ###
 All of the following are seen in hyperparathyroidism EXCEPT:
 A) Bamboo spine
@@ -176,7 +176,7 @@ C) Transient synovitis
 D) DDH
 Correct Answer: D) DDH
 Explanation: The image shows a shallow acetabulum with a small, laterally decentered femoral epiphysis in a young child, classic for Developmental dysplasia of the hip (DDH) rather than the older-child presentations of Perthes or SCFE.
-Batch: Endorphin Mini-OSCE (Group A) / Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE
+Batch: Endorphin Mini-OSCE (Group A) / Endorphin Final / Aorta Final / Vagus Mini-OSCE (Group B) / Waman A7yaha Mini-OSCE
 ###
 What is the most likely diagnosis? [img: Radiologymfibrouscorticaldefect.png ]
 A) Non-ossifying fibroma
@@ -278,7 +278,7 @@ Correct Answer: A) Slipped capital femoral epiphysis
 Explanation: SCFE represents a Salter-Harris type I injury (slipped physis) through the proximal femoral growth plate.
 Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)
 ###
-Recalled station: identify the fracture. [img: Radiologymclaviclefracture.png ]
+Identify the fracture shown in the image: [img: Radiologymclaviclefracture.png ]
 A) Acromioclavicular joint separation
 B) Proximal humeral fracture
 C) Anterior shoulder dislocation
@@ -286,3 +286,418 @@ D) Distal third clavicular fracture
 Correct Answer: D) Distal third clavicular fracture
 Explanation: There is a comminuted fracture of the distal third of the clavicle. The proximal fractured fragment is displaced superiorly, with mild skin tenting. The distal  fractured fragment is displaced inferiorly . There is pseudo-widening of the acromioclavicular joint space. However the coracoclavicular and sternoclavicular joint space alignment is maintained. The inferior border of acromion is not in the same line as the inferior border of distal clavicle, this is suspicious for acromioclavicular joint disruption. No associated other bone fractures. Adjacent soft tissue thickening is seen.
 Batch: Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologymosteoarthritis.jpg ]
+A) Rheumatoid arthritis
+B) Septic arthritis
+C) Osteoarthritis
+D) Gout
+Correct Answer: C) Osteoarthritis
+Explanation: There is moderate narrowing predominantly involving the medial tibio-femoral and significant narrowing of the lateral patellofemoral compartments. There are moderate marginal osteophytes. There is mild subchondral sclerosis on the right and left. There is moderate pointing of the tibial spines on the right and left. There is a moderate joint effusion on the right and left. There is varus deformity at the knee.
+Batch: Vagus Mini-OSCE (Group C) / Serotonin Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologymnonossifyingfibroma.png ]
+A) Simple bone cyst
+B) Fibrous cortical defect
+C) Non-ossifying fibroma
+D) Osteochondroma
+Correct Answer: C) Non-ossifying fibroma
+Explanation: A multiloculated lucent metaphyseal lesion with a sclerotic rim, larger than 3 cm and eccentrically placed near the physis, is a non-ossifying fibroma.
+Batch: Iris Final / Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+###
+What is the most likely fracture shown in the image? [img: Radiologymintertrochantericfracture.png ]
+A) Intertrochanteric femoral fracture
+B) Subcapital femoral neck fracture
+C) Femoral shaft fracture
+D) Greater trochanteric avulsion fracture
+Correct Answer: A) Intertrochanteric femoral fracture
+Explanation: The fracture line courses between the greater and lesser trochanters, distinguishing it from a subcapital neck fracture, which occurs proximal to this region.
+Batch: Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+###
+Identify the fracture shown in the image: [img: Radiologymsubtrochantericfracture.jpg ]
+A) Intertrochanteric fracture
+B) Femoral neck (subcapital) fracture
+C) Femoral shaft transverse fracture
+D) Subtrochanteric fracture
+Correct Answer: D) Subtrochanteric fracture
+Explanation: Oblique view of the right pelvis demonstrates a comminuted subtrochanteric fracture (inferior to the greater and lesser trochanters). The proximal fragment appears abducted. The lesser trochanter is itself fractured and separated from the femur.
+Batch: Serotonin Mini-OSCE
+###
+Identify the fracture shown in the image: [img: Radiologym5thmetatarsalfracture.png ]
+A) Fracture of the 5th metatarsal base
+B) Fracture of the 4th metatarsal base
+C) Fracture of the cuboid bone
+D) Fracture of the lateral cuneiform
+Correct Answer: D) Fracture of the 5th metatarsal base
+Explanation: A true fracture at the proximal 5th metatarsal is transverse, whereas the normal apophysis runs longitudinally — a key distinguishing feature.
+Batch: Serotonin Mini-OSCE
+###
+Fallen fragment sign is seen in which of the following lesions?
+A) Chondroblastoma
+B) Simple bone cyst
+C) Osteosarcoma
+D) Osteochondroma
+E) Non-ossifying fibroma
+Correct Answer: B) Simple bone cyst
+Explanation: A pathological fracture through a simple bone cyst allows a bony fragment to settle dependently within the fluid-filled cavity, producing the fallen fragment sign.
+Batch: Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologymosteoidosteoma.png ]
+A) Osteoblastoma
+B) Osteochondroma
+C) Osteoid osteoma
+D) Chondroblastoma
+Correct Answer: C) Osteoid osteoma
+Explanation: A sclerotic lesion with a well-defined lucent nidus less than 2 cm at the femoral neck is classic for osteoid osteoma; larger size (>2cm) would favor osteoblastoma.
+Batch: Vagus Mini-OSCE (Group C)
+###
+What is the most likely diagnosis? [img: Radiologymperthesdisease.png ]
+A) Perthes disease
+B) Septic arthritis
+C) Osteomyelitis
+D) Avascular necrosis due to steroids
+Correct Answer: A) Perthes disease
+Explanation: Femoral head deformity and flattening with widening of joint space and blurring of the physeal plate on the left.
+Batch: Iris Final / Endorphin Final / Vagus Mini-OSCE (Group B) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologymrickets.png ]
+A) Osteomalacia
+B) Hyperparathyroidism
+C) Scurvy
+D) Rickets
+Correct Answer: D) Rickets
+Explanation: Cupping, splaying, and fraying of the metaphysis in a child is diagnostic of rickets, the pediatric counterpart of osteomalacia.
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologymosteosarcoma.png ]
+A) Ewing sarcoma
+B) Osteosarcoma
+C) Osteomyelitis
+D) Chondrosarcoma
+Correct Answer: B) Osteosarcoma
+Explanation: A metadiaphyseal lesion with dense sclerotic tumor osteoid and an aggressive periosteal reaction is characteristic of osteosarcoma.
+Batch: Waman A7yaha Mini-OSCE
+###
+Identify the fracture shown in the image: [img: Radiologymcollesfracture.png ]
+A) Colles fracture
+B) Smith fracture
+C) Scaphoid fracture
+D) Galeazzi fracture
+Correct Answer: A) Colles fracture
+Explanation: Extra-articular transverse fracture of the distal radius with dorsal angulation, ulnar styloid fracture and soft tissue oedema.
+Batch: Vagus Mini-OSCE (Group B) / Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologymscfe.png ]
+A) Perthes disease
+B) DDH
+C) Slipped capital femoral epiphysis
+D) Transient synovitis
+Correct Answer: C) Slipped capital femoral epiphysis
+Explanation: A line drawn up the lateral margin of the left femoral metaphysis does not intersect the epiphysis on the AP view (line of Klein). Appearances of slipped upper femoral epiphysis. The right side appears normal.
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologymelboweffusion.png ]
+A) Elbow joint effusion
+B) Isolated radial head fracture without effusion
+C) Olecranon bursitis
+D) Septic elbow arthritis
+Correct Answer: A) Elbow joint effusion
+Explanation: Displacement of the anterior and posterior fat pads on a lateral elbow radiograph indicates a joint effusion, most often from an occult fracture.
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologymposteriorribfractures.png ]
+A) Bronchopneumonia
+B) Flail chest
+C) Rib metastases
+D) Multiple posterior rib fractures consistent with non-accidental injury
+Correct Answer: D) Multiple posterior rib fractures consistent with non-accidental injury
+Explanation: Multiple posterior rib fractures are highly specific for child abuse due to the unusual force required at this protected site.
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologymanteriorshoulderdislocation.png ]
+A) Posterior shoulder dislocation
+B) Anterior shoulder dislocation
+C) Proximal humeral fracture
+D) Acromioclavicular joint separation
+Correct Answer: B) Anterior shoulder dislocation
+Explanation: The humeral head is displaced anteriorly and inferiorly relative to the glenoid, the most common (95%) type of shoulder dislocation.
+Batch: Endorphin Final / Aorta Final
+###
+Identify the diagnosis shown in the image: [img: Radiologymmedialmeniscustear.png ]
+A) ACL tear
+B) Medial meniscus tear
+C) Lateral meniscus tear
+D) PCL tear
+Correct Answer: B) Medial meniscus tear
+Explanation: Abnormal high T2 signal interrupting the surface of the posterior horn of the medial meniscus indicates a tear at this location.
+Batch: Aorta Final
+###
+What is the most likely diagnosis? [img: Radiologymfibrousdysplasia.png ]
+A) Paget disease
+B) Meningioma
+C) Fibrous dysplasia
+D) Osteoma
+Correct Answer: C) Fibrous dysplasia
+Explanation: A "ground-glass" matrix replacing normal bone architecture on CT is the classic appearance of fibrous dysplasia.
+Batch: Aorta Final
+###
+What is the most likely diagnosis? [img: Radiologymsupracondylarfracture.png ]
+A) Supracondylar humeral fracture
+B) Radial head fracture
+C) Olecranon fracture
+D) Lateral condyle fracture
+Correct Answer: A) Supracondylar humeral fracture
+Explanation: A fracture line through the distal humeral metaphysis just above the condyles, the most common elbow fracture in children, defines a supracondylar fracture.
+Batch: Aorta Final
+###
+Identify the diagnosis shown in the image: [img: Radiologymradialheadfracture.png ]
+A) Supracondylar fracture
+B) Olecranon fracture
+C) Monteggia fracture-dislocation
+D) Radial head fracture
+Correct Answer: D) Radial head fracture
+Explanation: A fracture line at the radial head with a positive fat pad sign is the most common cause of an adult elbow effusion.
+Batch: Aorta Final
+###
+In Lesser-trochanter avulsion fracture, which muscle is affected?
+A) Sartorius
+B) Iliopsoas
+C) Rectus femoris
+D) Gluteus medius
+Correct Answer: B) Iliopsoas
+Explanation: The iliopsoas inserts on the lesser trochanter, making it the muscle responsible for lesser trochanteric avulsion fractures.
+Batch: Endorphin Final / Aorta Final
+Note: Mentioned in Coronary Sheet , Slide 32 Anatomy of Pelvis ||| In Endorphin exam , the question was : An avulsion fracture is most likely associated with contraction of which muscle?
+###
+Identify the Salter-Harris type in this fracture : [img: Radiologymsalter2harris.png ]
+A) Type I
+B) Type III
+C) Type II
+D) Type IV
+Correct Answer: C) Type II
+Explanation: Physeal fracture of the distal fibula. It is best seen on the oblique view and is displaced. There is a tiny metaphyseal fragment making it a type II Salter-Harris fracture.
+Batch: Aorta Final
+###
+Recalled hand radiograph diagnosis. [img: Radiologymrheumatoidarthritis.png ]
+A) Osteoarthritis
+B) Psoriatic arthritis
+C) Rheumatoid arthritis
+D) Gout
+Correct Answer: C) Rheumatoid arthritis
+Explanation: Typical changes of rheumatoid arthritis of the hands with prominent metacarpophalangeal osteopenia, erosions very marked within the carpus and radiocarpal/ulnocarpal joints. DIP sparing.
+Batch: Aorta Final
+###
+Which of the following is FALSE regarding radiologic features of gout?
+A) Early joint space narrowing
+B) Punched-out erosions with sclerotic margins
+C) Absence of periarticular osteopenia
+D) Joint effusion
+Correct Answer: A) Early joint space narrowing
+Explanation: Gout characteristically preserves the joint space until late in the disease course; early joint space narrowing is instead a feature of inflammatory arthropathies like RA.
+Batch: Endorphin Final / Vagus Final
+###
+Which of the following is FALSE regarding ankylosing spondylitis?
+A) Interspinous ligament ossification gives a "dagger spine" appearance
+B) It is a seronegative spondyloarthropathy
+C) Sacroiliitis is symmetrical and bilateral
+D) More common in females
+Correct Answer: D) More common in females
+Explanation: Ankylosing spondylitis has a male predilection of about 3:1 or more, making "more common in females" the false statement.
+Batch: Iris Final / Endorphin Final
+###
+What is the first ossification center to appear in the elbow joint?
+A) Olecranon
+B) Capitellum
+C) Radial head
+D) Trochlea
+Correct Answer: B) Capitellum
+Explanation: The capitellum is the first of the elbow ossification centers to appear, typically by around age one.
+Batch: Endorphin Final
+###
+Which of the following statements about Colles' fracture is FALSE?
+A) Result of a fall onto an outstretched hand
+B) No involvement of the articular surface
+C) Fracture of the distal radial metaphyseal region
+D) Volar angulation
+Correct Answer: D) Volar angulation
+Explanation: Colles fracture shows dorsal (not volar) angulation of the distal fragment; volar angulation instead defines a Smith fracture, the reverse pattern.
+Batch: Endorphin Final
+###
+Which of the following is FALSE regarding septic arthritis?
+A) Thinning of the synovium
+B) Joint effusion is the earliest radiographic finding
+C) MRI may show changes within the first 24 hours
+D) Rapid joint space narrowing may be seen
+Correct Answer: A) Thinning of the synovium
+Explanation: Septic arthritis causes synovial thickening (not thinning) from inflammatory hyperemia, visible on post-contrast fat-saturated MRI.
+Batch: Endorphin Final
+###
+Which of the following is TRUE about Pediatric MSK?
+A) Osteogenesis imperfecta is a collagen type II disease
+B) Rachitic rosary occurs at the posterior rib end
+C) In SCFE the femoral head slips anteriorly and laterally
+D) DDH shows a shallow acetabulum with cephalic subluxation or dislocation of the femoral head
+E) In Perthes disease the femoral head is small and lucent
+Correct Answer: D) DDH shows a shallow acetabulum with cephalic subluxation or dislocation of the femoral head
+Explanation: This accurately describes the acetabular dysplasia and superior femoral head displacement seen in DDH; OI is actually a type I collagen defect, and in Perthes the femoral head is sclerotic (not lucent).
+Batch: Overdose Final
+###
+What is the most common type of Salter-Harris fracture?
+A) I
+B) II
+C) III
+D) IV
+E) V
+Correct Answer: B) II
+Explanation: Salter-Harris type II accounts for approximately 75% of physeal fractures, making it by far the most common subtype.
+Batch: Overdose Final / Waman A7yaha Final / Serotonin Final
+###
+Which of the following does NOT occur in the metaphysis in a skeletally mature individual?
+A) Multiple myeloma
+B) Enchondroma
+C) Chondrosarcoma
+D) Lymphoma
+E) Giant cell tumor
+Correct Answer: E) Giant cell tumor
+Explanation: Giant cell tumor of bone classically occurs in the epiphysis extending to the subchondral bone in skeletally mature patients, unlike the other listed metaphyseal lesions.
+Batch: Overdose Final
+###
+Which of the following is NOT seen in ankylosing spondylitis?
+A) Interspinous ligament ossification
+B) Enthesophyte
+C) Spinal canal stenosis
+D) Syndesmophytes
+E) Dural ectasia
+Correct Answer: C) Spinal canal stenosis
+Explanation: Ankylosing spondylitis produces enthesophytes, syndesmophytes, ligament ossification, and dural ectasia; spinal canal stenosis is not a classic direct radiologic feature of this disease.
+Batch: Overdose Final
+###
+Which of the following is TRUE about arthritis?
+A) In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening
+B) Syndesmophytes run perpendicular to the spine
+C) In osteoarthritis, sclerosis occurs with severe osteopenia
+D) In rheumatoid arthritis, marginal erosions occur at the medial aspect of the MCP joints
+E) Joint space and bone density are normal in septic arthritis
+Correct Answer: A) In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening
+Explanation: MRI in septic arthritis shows synovial thickening on post-contrast fat-saturated T1; syndesmophytes actually run parallel (not perpendicular) to the spine, and RA erosions occur at the radial (not medial) MCP aspect.
+Batch: Overdose Final
+###
+Regarding avulsion fractures, which of the following is TRUE?
+A) Hamstrings – anterior inferior iliac spine
+B) Greater trochanter – adductor
+C) Rectus femoris – ischial tuberosity
+D) Symphysis pubis – adductor group
+E) Symphysis pubis – gluteus
+Correct Answer: D) Symphysis pubis – adductor group
+Explanation: The adductor muscle group originates from the pubic symphysis/pubic rami, making this the correct pairing; hamstrings actually attach at the ischial tuberosity and rectus femoris at the AIIS.
+Batch: Overdose Final
+###
+Which of the following is TRUE about aneurysmal bone cyst?
+A) Located centrally in the diaphysis
+B) Metaphyseal location with multiple fluid-fluid level cysts
+C) Solid periosteal reaction is always present
+D) Occurs almost exclusively in elderly patients
+Correct Answer: B) Metaphyseal location with multiple fluid-fluid level cysts
+Explanation: ABC is an eccentric expansile metaphyseal lesion showing multiple blood-filled cystic spaces with fluid-fluid levels from layering blood products of different ages.
+Batch: Overdose Final
+###
+Punched-out erosion with sclerotic margins is a typical radiological finding in which of the following?
+A) Osteoarthritis
+B) Rheumatoid arthritis
+C) Septic arthritis
+D) Ankylosing spondylitis
+E) Gout
+Correct Answer: E) Gout
+Explanation: Well-defined "punched-out" erosions with sclerotic, overhanging margins are pathognomonic for gout, unlike the ill-defined marginal erosions of RA.
+Batch: Serotonin Final
+###
+Regarding non-accidental trauma, which of the following is TRUE?
+A) Epiphyseal corner fracture is highly specific for child abuse
+B) Extradural hematoma is one of the most common brain findings
+C) Infants are at greatest risk of abuse
+D) Anterior rib fracture is highly specific for child abuse
+E) Skeletal survey is not recommended in cases of suspected child abuse
+Correct Answer: C) Infants are at greatest risk of abuse
+Explanation: Non-ambulatory infants are at highest risk of NAI; note that it is the metaphyseal (not epiphyseal) corner fracture and posterior (not anterior) rib fractures that are highly specific.
+Batch: Serotonin Final
+###
+Regarding ankylosing spondylitis, which of the following is FALSE?
+A) Sacroiliitis is a late radiological manifestation
+B) It is a disease of young adults
+C) Interspinous ligament ossification gives a "dagger spine" appearance
+D) Seronegative spondyloarthropathy
+E) Male predilection
+Correct Answer: A) Sacroiliitis is a late radiological manifestation
+Explanation: Sacroiliitis is typically the FIRST radiological manifestation of ankylosing spondylitis, not a late one.
+Batch: Serotonin Final
+###
+The demonstration of an abnormal fat pad in a pediatric patient suggests which of the following?
+A) Radial head fracture
+B) Olecranon fracture
+C) Lateral epicondyle fracture
+D) Supracondylar fracture
+E) Medial epicondyle fracture
+Correct Answer: D) Supracondylar fracture
+Explanation: Supracondylar fracture is the classic pediatric cause of an elbow joint effusion (fat pad sign), whereas radial head fracture is the typical adult cause.
+Batch: Waman A7yaha Final
+###
+Paravertebral ossification (bamboo spine) is a typical radiological finding in which of the following?
+A) Rheumatoid arthritis
+B) Ankylosing spondylitis
+C) Septic arthritis
+D) Gout
+E) Osteoarthritis
+Correct Answer: B) Ankylosing spondylitis
+Explanation: Diffuse syndesmophytic fusion of the spine producing the bamboo spine appearance is a hallmark of ankylosing spondylitis.
+Batch: Waman A7yaha Final
+###
+Which of the following imaging features is usually present in osteosarcoma?
+A) Rings and arcs calcifications
+B) Ground glass density
+C) Solid periosteal reaction
+D) Well-defined lucent nidus with central ossification
+E) Wide zone of transition
+Correct Answer: E) Wide zone of transition
+Explanation: Osteosarcoma is an aggressive lesion with a wide, ill-defined zone of transition; rings and arcs, ground glass, and a lucent nidus instead describe chondroid, fibrous dysplastic, and osteoid osteoma lesions respectively.
+Batch: Waman A7yaha Final
+###
+Regarding fibrous cortical defect, which of the following is TRUE?
+A) Histologically identical to osteoblastoma
+B) Larger than 3 cm
+C) No periosteal reaction
+D) Fibrous cortical defect is a malignant bony lesion
+E) Most common benign bony lesion in elderly patients
+Correct Answer: C) No periosteal reaction
+Explanation: As a quiescent benign lesion, fibrous cortical defect elicits no periosteal reaction; it is histologically identical to non-ossifying fibroma (not osteoblastoma) and is most common in children, not the elderly.
+Batch: Waman A7yaha Final
+###
+Regarding avulsion fractures, which of the following is TRUE?
+A) Sartorius – anterior superior iliac spine
+B) Hamstrings – anterior inferior iliac spine
+C) Greater trochanter – adductor
+D) Rectus femoris – ischial tuberosity
+E) Symphysis pubis – gluteus
+Correct Answer: A) Sartorius – anterior superior iliac spine
+Explanation: The sartorius originates from the ASIS, making this the correct pairing; hamstrings actually attach at the ischial tuberosity and rectus femoris at the AIIS.
+Batch: Waman A7yaha Final
+###
+In this labeled shoulder radiograph, which structure (8) is indicated? [img: Radiologymshoulderanatomy.jpg ]
+A) Coracoid process
+B) Glenoid
+C) Clavicle
+D) Acromion
+Correct Answer: D) Acromion
+Explanation: The acromion is the lateral bony projection of the scapular spine that articulates with the clavicle, forming the roof of the shoulder.
+Batch: Waman A7yaha Mini-OSCE
+Note: 1. Anatomical neck of humerus || 2. Greater tuberosity || 3. Lesser tuberosity || 4. Surgical neck of humerus || 5. Humeral shaft || 6. Humeral head || 7. Glenoid fossa || 8. Acromion || 9. Acromioclavicular joint || 10. Coracoid process || 11. Clavicle || 12. Superior angle of scapula || 13. Medial border of scapula || 14. Inferior angle of scapula || 15. Lateral border of scapula || 16. Scapula
+###
+In this labeled knee anatomy image, which structure is indicated? [img: Radiologymkneeanatomy.jpg ]
+A) Femoral condyle
+B) Patella
+C) Tibial plateau
+D) Fibular head
+Correct Answer: B) Patella
+Explanation: The patella is the sesamoid bone anterior to the femoral condyles within the quadriceps/patellar tendon complex.
+Batch: Waman A7yaha Mini-OSCE
+Note: 1. Medial femoral condyle || 2. Tibial spine || 3. Femorotibial joint - Medial compartment || 4. Tibia || 5. Fibula || 6. Fibular head || 7. Proximal tibiofibular joint || 8. Femorotibial joint - Lateral compartment || 9. Lateral femoral condyle || 10. Patella || 11. Femur || 12. Fabella || 13. Tibial tuberosity || 14. Femoropatellar joint || 15. Medial patellar joint || 16. Lateral patellar joint
+###
