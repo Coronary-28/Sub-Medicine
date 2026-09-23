@@ -779,7 +779,7 @@ Correct Answer: C) CT with IV contrast
 Explanation: CT with IV contrast has the highest sensitivity (94–98%) and specificity (up to 97%) for appendicitis in adults and also identifies alternative causes of abdominal pain; ultrasound is preferred first-line in children and pregnant patients but is more operator-dependent and less sensitive overall.
 Batch: Iris Final
 ###
-What is the most likely diagnosis? [img: Radiologyaascites.jpg ]
+What is the diagnosis? [img: Radiologyaascites.jpg ]
 A) Hemoperitoneum
 B) Pneumoperitoneum
 C) Ascites
@@ -788,3 +788,12 @@ D) Pleural effusion
 Explanation: The axial CT scan of the abdomen shows low density ascitic fluid surrounding the liver, spleen and stomach.
 Batch: Waman A7yaha Mini-OSCE
 ###
+Regarding abdomen anatomy, which of the following is TRUE?
+A) The Inferior mesenteric artery arises at the level of L2
+B) The second part of the duodenum passes between liver and pancreas
+C) The right adrenal gland is higher than left adrenal gland
+D) The right renal vein is longer than the left renal vein
+E) The portal vein confluence lies anterior to the neck of pancreas
+Correct Answer: C) The right adrenal gland is higher than left adrenal gland
+Explanation: The right adrenal gland sits more superiorly on its kidney pole than the left. Alternatively: the inferior mesenteric artery arises at L3; the duodenum runs lateral to the pancreatic head; the left renal vein is longer than the right; and the portal vein forms posterior to the neck of the pancreas.AI responses may include mistakes.
+Batch: Waman A7yaha Mini-OSCE
