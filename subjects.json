@@ -14439,6 +14439,43 @@
             "lectureName": "Abdominal Radiology",
             "groupName": "Abdominal Radiology",
             "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__85__b0dcm5",
+            "number": "85",
+            "text": "Regarding abdomen anatomy, which of the following is TRUE?",
+            "options": [
+              "The Inferior mesenteric artery arises at the level of L2",
+              "The second part of the duodenum passes between liver and pancreas",
+              "The right adrenal gland is higher than left adrenal gland",
+              "The right renal vein is longer than the left renal vein",
+              "The portal vein confluence lies anterior to the neck of pancreas"
+            ],
+            "originalOptions": [
+              "The Inferior mesenteric artery arises at the level of L2",
+              "The second part of the duodenum passes between liver and pancreas",
+              "The right adrenal gland is higher than left adrenal gland",
+              "The right renal vein is longer than the left renal vein",
+              "The portal vein confluence lies anterior to the neck of pancreas"
+            ],
+            "correctAnswer": "C) The right adrenal gland is higher than left adrenal gland",
+            "correctAnswerText": "The right adrenal gland is higher than left adrenal gland",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The right adrenal gland sits more superiorly on its kidney pole than the left. Alternatively: the inferior mesenteric artery arises at L3; the duodenum runs lateral to the pancreatic head; the left renal vein is longer than the right; and the portal vein forms posterior to the neck of the pancreas.AI responses may include mistakes.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
           }
         ]
       },
@@ -27661,6 +27698,44 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__abdominal-radiology__85__b0dcm5",
+            "number": "85",
+            "text": "Regarding abdomen anatomy, which of the following is TRUE?",
+            "options": [
+              "The Inferior mesenteric artery arises at the level of L2",
+              "The second part of the duodenum passes between liver and pancreas",
+              "The right adrenal gland is higher than left adrenal gland",
+              "The right renal vein is longer than the left renal vein",
+              "The portal vein confluence lies anterior to the neck of pancreas"
+            ],
+            "originalOptions": [
+              "The Inferior mesenteric artery arises at the level of L2",
+              "The second part of the duodenum passes between liver and pancreas",
+              "The right adrenal gland is higher than left adrenal gland",
+              "The right renal vein is longer than the left renal vein",
+              "The portal vein confluence lies anterior to the neck of pancreas"
+            ],
+            "correctAnswer": "C) The right adrenal gland is higher than left adrenal gland",
+            "correctAnswerText": "The right adrenal gland is higher than left adrenal gland",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The right adrenal gland sits more superiorly on its kidney pole than the left. Alternatively: the inferior mesenteric artery arises at L3; the duodenum runs lateral to the pancreatic head; the left renal vein is longer than the right; and the portal vein forms posterior to the neck of the pancreas.AI responses may include mistakes.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__7__sm6xac",
             "number": "7",
             "text": "What is the most likely diagnosis? [img: Radiologymosteochondroma.png ]",
@@ -31347,6 +31422,43 @@
         "sourceType": "lecture"
       },
       {
+        "id": "radiology__lecture__abdominal-radiology__85__b0dcm5",
+        "number": "85",
+        "text": "Regarding abdomen anatomy, which of the following is TRUE?",
+        "options": [
+          "The Inferior mesenteric artery arises at the level of L2",
+          "The second part of the duodenum passes between liver and pancreas",
+          "The right adrenal gland is higher than left adrenal gland",
+          "The right renal vein is longer than the left renal vein",
+          "The portal vein confluence lies anterior to the neck of pancreas"
+        ],
+        "originalOptions": [
+          "The Inferior mesenteric artery arises at the level of L2",
+          "The second part of the duodenum passes between liver and pancreas",
+          "The right adrenal gland is higher than left adrenal gland",
+          "The right renal vein is longer than the left renal vein",
+          "The portal vein confluence lies anterior to the neck of pancreas"
+        ],
+        "correctAnswer": "C) The right adrenal gland is higher than left adrenal gland",
+        "correctAnswerText": "The right adrenal gland is higher than left adrenal gland",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The right adrenal gland sits more superiorly on its kidney pole than the left. Alternatively: the inferior mesenteric artery arises at L3; the duodenum runs lateral to the pancreatic head; the left renal vein is longer than the right; and the portal vein forms posterior to the neck of the pancreas.AI responses may include mistakes.",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "radiology__lecture__musculoskeletal-msk-radiology__1__rk4vf4",
         "number": "1",
         "text": "Which of the following is FALSE regarding this lesion? [img: Radiologymnonossifyingfibroma.png ]",
@@ -34097,7 +34209,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 160,
+    "totalQuestions": 161,
     "totalLectures": 24,
     "hasAiFolder": false
   },
