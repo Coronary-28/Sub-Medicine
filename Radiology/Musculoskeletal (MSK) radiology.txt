@@ -89,6 +89,15 @@ Correct Answer: C) Parietal bone fracture
 Explanation: Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.
 Batch: Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)
 ###
+Which of the following is INCORRECT regarding child abuse injuries?
+A) Metaphyseal corner fractures are highly specific for abuse
+B) Posterior rib fractures are strongly associated with intentional injury
+C) Epidural hematoma is more specific for abuse than subdural hematoma
+D) Scapular fractures carry a high specificity for physical abuse
+Correct Answer: C) Epidural hematoma is more specific for abuse than subdural hematoma.
+Explanation: Subdural hematomas (not epidural) are highly specific and characteristic of non-accidental trauma, while metaphyseal corner, posterior rib, and scapular fractures are well-established indicators of child abuse.
+Batch: Iris Final / Vagus Final
+###
 All of the following are seen in hyperparathyroidism EXCEPT:
 A) Bamboo spine
 B) Chondrocalcinosis
@@ -148,7 +157,7 @@ C) Osteoporosis / subperiosteal bone resorption
 D) Floating (flail) teeth
 Correct Answer: B) High bone mass / osteosclerosis
 Explanation: Hyperparathyroidism causes bone resorption and osteopenia, not increased bone mass; osteosclerosis is not a feature of this disease.
-Batch: Coronary Mini-OSCE (Group C)
+Batch: Coronary Mini-OSCE (Group C) / Vagus Final
 ###
 The demonstration of an abnormal fat pad in an adult suggests which of the following?
 A) Supracondylar fracture
@@ -213,7 +222,7 @@ C) Healed/previous fracture
 D) Fibrous cortical defect
 Correct Answer: D) Fibrous cortical defect
 Explanation: Fibrous cortical defect is a quiescent benign lesion that does not incite a periosteal reaction, unlike infection, healing fractures, or osteoid osteoma.
-Batch: Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Endorphin Final
+Batch: Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Endorphin Final / Vagus Final
 ###
 What is the most likely diagnosis? [img: Radiologymgout.png ]
 A) Gout
@@ -503,7 +512,7 @@ C) Sacroiliitis is symmetrical and bilateral
 D) More common in females
 Correct Answer: D) More common in females
 Explanation: Ankylosing spondylitis has a male predilection of about 3:1 or more, making "more common in females" the false statement.
-Batch: Iris Final / Endorphin Final
+Batch: Iris Final / Endorphin Final / Vagus Final
 ###
 What is the first ossification center to appear in the elbow joint?
 A) Olecranon
@@ -701,3 +710,85 @@ Explanation: The patella is the sesamoid bone anterior to the femoral condyles w
 Batch: Waman A7yaha Mini-OSCE
 Note: 1. Medial femoral condyle || 2. Tibial spine || 3. Femorotibial joint - Medial compartment || 4. Tibia || 5. Fibula || 6. Fibular head || 7. Proximal tibiofibular joint || 8. Femorotibial joint - Lateral compartment || 9. Lateral femoral condyle || 10. Patella || 11. Femur || 12. Fabella || 13. Tibial tuberosity || 14. Femoropatellar joint || 15. Medial patellar joint || 16. Lateral patellar joint
 ###
+Which of the following is the earliest radiological finding in rheumatoid arthritis?
+A) Osteoporosis
+B) Marginal erosions
+C) Joint space narrowing
+D) Subchondral cyst formation
+E) Soft tissue swelling
+Correct Answer: E) Soft tissue swelling
+Explanation: Fusiform periarticular soft tissue swelling (from effusion/tenosynovitis) can be the earliest or only radiographic finding in RA, preceding visible marginal erosions.
+Batch: Serotonin Final
+###
+Regarding osteosarcoma, which of the following is FALSE?
+A) Primary osteosarcoma typically occurs in young patients
+B) Typically occurs in the epiphysis
+C) Secondary osteosarcoma occurs in the elderly
+D) Commonly associated with an aggressive periosteal reaction
+E) Malignant bone-forming tumor
+Correct Answer: B) Typically occurs in the epiphysis
+Explanation: Osteosarcoma most commonly arises in the metadiaphysis/metaphysis around the knee, not the epiphysis, making this statement false.
+Batch: Serotonin Final
+###
+Which of the following is NOT a tarsal bone?
+A) Talus
+B) Navicular
+C) Cuboid
+D) Trapezium
+Correct Answer: D) Trapezium
+Explanation: The trapezium is a carpal (wrist) bone; the seven tarsal bones are the talus, calcaneus, navicular, cuboid, and three cuneiforms.
+Batch: Iris Final
+###
+Which of the following is NOT a carpal bone?
+A) Capitate
+B) Lunate
+C) Talus
+D) Hamate
+Correct Answer: C) Talus
+Explanation: The talus is a tarsal bone of the ankle, not one of the eight carpal bones of the wrist.
+Batch: Iris Final
+###
+Which of the following is WRONG (not a feature) regarding gout?
+A) Punched-out erosions with sclerotic margins
+B) Preservation of joint space until late in disease
+C) Dagger spine sign
+D) Tophi with juxta-articular erosions
+Correct Answer: C) Dagger spine sign
+Explanation: The dagger spine sign results from interspinous ligament ossification in ankylosing spondylitis, not gout, which instead produces punched-out erosions and tophi.
+Batch: Iris Final
+###
+Which of the following is WRONG about osteoarthritis?
+A) Osteophyte formation
+B) Subchondral sclerosis
+C) Symmetrical joint space narrowing
+D) Non-uniform joint space narrowing
+Correct Answer: C) Symmetrical joint space narrowing
+Explanation: Osteoarthritis characteristically produces asymmetric joint-space narrowing, unlike the symmetric pattern seen in rheumatoid arthritis.
+Batch: Iris Final / Vagus Final
+###
+All of the following are benign bone lesions EXCEPT:
+A) Osteochondroma
+B) Osteoid osteoma
+C) Non-ossifying fibroma
+D) Osteosarcoma
+Correct Answer: D) Osteosarcoma
+Explanation: Osteosarcoma is a malignant bone-forming tumor, while osteochondroma, osteoid osteoma, and non-ossifying fibroma are all benign lesions.
+Batch: Iris Final
+###
+Which periosteal reaction pattern is typically associated with a benign process?
+A) Sunburst
+B) Codman triangle
+C) Onion-skin (lamellated)
+D) Solid, smooth periosteal reaction
+Correct Answer: D) Solid, smooth periosteal reaction
+Explanation: A solid, smooth periosteal reaction reflects a slow-growing process and is typically benign, unlike the aggressive sunburst, onion-skin, or Codman triangle patterns.
+Batch: Iris Final
+###
+Which of the following is WRONG (not a feature) of rickets?
+A) Cupping of the metaphysis
+B) Splaying of the metaphyseal ends
+C) Rachitic rosary at the costochondral junctions
+D) Subperiosteal resorption of the radial aspect of the 2nd and 3rd middle phalanges
+Correct Answer: D) Subperiosteal resorption of the radial aspect of the 2nd and 3rd middle phalanges
+Explanation: This subperiosteal resorption pattern is a hallmark of hyperparathyroidism, not rickets, which instead shows cupping, splaying, fraying, and rachitic rosary.
+Batch: Iris Final
