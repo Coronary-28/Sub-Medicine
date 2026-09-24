@@ -13545,43 +13545,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__60__uwq2o0",
+            "id": "radiology__lecture__abdominal-radiology__60__ijmjlc",
             "number": "60",
-            "text": "Regarding abdomen anatomy, which of the following is wrong?",
-            "options": [
-              "The second part of the duodenum passes between the liver and pancreas",
-              "The inferior mesenteric artery arises at the level of L3",
-              "The superior mesenteric artery is at the level of T11, above the celiac axis",
-              "The renal arteries arise at approximately L1–L2"
-            ],
-            "originalOptions": [
-              "The second part of the duodenum passes between the liver and pancreas",
-              "The inferior mesenteric artery arises at the level of L3",
-              "The superior mesenteric artery is at the level of T11, above the celiac axis",
-              "The renal arteries arise at approximately L1–L2"
-            ],
-            "correctAnswer": "C) The superior mesenteric artery is at the level of T11, above the celiac axis",
-            "correctAnswerText": "The superior mesenteric artery is at the level of T11, above the celiac axis",
-            "correctIndex": 2,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "C",
-            "explanation": "The celiac trunk (T12) actually arises above the SMA (L1), so stating the SMA is at T11 \"above\" the celiac axis reverses the correct order and is anatomically wrong.",
-            "batchName": "Vagus Final",
-            "batchNames": [
-              "Vagus Final"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Radiology",
-            "subjectId": "radiology",
-            "lectureName": "Abdominal Radiology",
-            "groupName": "Abdominal Radiology",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "radiology__lecture__abdominal-radiology__61__ijmjlc",
-            "number": "61",
             "text": "Wrong about appendicitis?",
             "options": [
               "Most common cause of acute abdomen in young patients",
@@ -13615,8 +13580,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__62__ikwxg7",
-            "number": "62",
+            "id": "radiology__lecture__abdominal-radiology__61__ikwxg7",
+            "number": "61",
             "text": "False about volvulus?",
             "options": [
               "Midgut volvulus shows a whirlpool sign",
@@ -13650,8 +13615,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__63__8xjq3p",
-            "number": "63",
+            "id": "radiology__lecture__abdominal-radiology__62__8xjq3p",
+            "number": "62",
             "text": "All are signs of pneumoperitoneum except:",
             "options": [
               "Rigler sign",
@@ -13688,8 +13653,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__64__5s82g0",
-            "number": "64",
+            "id": "radiology__lecture__abdominal-radiology__63__5s82g0",
+            "number": "63",
             "text": "Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]",
             "options": [
               "Choledocholithiasis",
@@ -13723,8 +13688,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__65__sotdhc",
-            "number": "65",
+            "id": "radiology__lecture__abdominal-radiology__64__sotdhc",
+            "number": "64",
             "text": "What is the most likely diagnosis? [img: Radiologyagastriccancer.png ]",
             "options": [
               "Benign peptic ulcer",
@@ -13758,8 +13723,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__66__37chg8",
-            "number": "66",
+            "id": "radiology__lecture__abdominal-radiology__65__37chg8",
+            "number": "65",
             "text": "What is the most likely diagnosis? [img: Radiologyapcos.png ]",
             "options": [
               "PCOS",
@@ -13793,8 +13758,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__67__h4w1jl",
-            "number": "67",
+            "id": "radiology__lecture__abdominal-radiology__66__h4w1jl",
+            "number": "66",
             "text": "The arrow (labeled 42) in this axial contrast CT points to which structure? [img: Radiologyaabdominalanatomygallbladder.png ]",
             "options": [
               "Liver",
@@ -13828,8 +13793,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__68__nihilm",
-            "number": "68",
+            "id": "radiology__lecture__abdominal-radiology__67__nihilm",
+            "number": "67",
             "text": "Wrong about Wilms tumor?",
             "options": [
               "Most common renal tumor of childhood",
@@ -13863,8 +13828,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__69__h0jac7",
-            "number": "69",
+            "id": "radiology__lecture__abdominal-radiology__68__h0jac7",
+            "number": "68",
             "text": "The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
             "options": [
               "Celiac artery",
@@ -13898,8 +13863,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__70__9uk8o5",
-            "number": "70",
+            "id": "radiology__lecture__abdominal-radiology__69__9uk8o5",
+            "number": "69",
             "text": "What is the most likely diagnosis? [img: Radiologyabilateraladrenalcalcification.png ]",
             "options": [
               "Splenic granulomas",
@@ -13933,8 +13898,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__71__ly5mx1",
-            "number": "71",
+            "id": "radiology__lecture__abdominal-radiology__70__ly5mx1",
+            "number": "70",
             "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
             "options": [
               "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -13970,8 +13935,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__72__204mmn",
-            "number": "72",
+            "id": "radiology__lecture__abdominal-radiology__71__204mmn",
+            "number": "71",
             "text": "Regarding Free air in the abdomen, which of following is TRUE?",
             "options": [
               "History of abdominal surgery within one month is an indication of pneumoperitoneum",
@@ -14007,8 +13972,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__73__kh4fd5",
-            "number": "73",
+            "id": "radiology__lecture__abdominal-radiology__72__kh4fd5",
+            "number": "72",
             "text": "Regarding bowel obstruction, which of the following is TRUE?",
             "options": [
               "Ascending colon diameter of 8 cm meets the criteria of dilatation",
@@ -14044,82 +14009,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__74__b0dcm5",
-            "number": "74",
-            "text": "Regarding abdomen anatomy, which of the following is TRUE?",
-            "options": [
-              "The portal vein confluence lies anterior to the neck of the pancreas",
-              "The right adrenal gland is higher than the left adrenal gland",
-              "The right renal vein is longer than the left renal vein",
-              "The third part of the duodenum passes between liver and pancreas",
-              "The Inferior mesenteric artery arises at the level of L3"
-            ],
-            "originalOptions": [
-              "The portal vein confluence lies anterior to the neck of the pancreas",
-              "The right adrenal gland is higher than the left adrenal gland",
-              "The right renal vein is longer than the left renal vein",
-              "The third part of the duodenum passes between liver and pancreas",
-              "The Inferior mesenteric artery arises at the level of L3"
-            ],
-            "correctAnswer": "E) The Inferior mesenteric artery arises at the level of L3",
-            "correctAnswerText": "The Inferior mesenteric artery arises at the level of L3",
-            "correctIndex": 4,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "E",
-            "explanation": "The IMA arises from the anterior aorta at L3, near the inferior duodenum, consistent with standard anatomy; the portal vein actually forms posterior to the pancreatic neck, and the left (not right) renal vein is the longer vessel.",
-            "batchName": "Serotonin Final",
-            "batchNames": [
-              "Serotonin Final"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Radiology",
-            "subjectId": "radiology",
-            "lectureName": "Abdominal Radiology",
-            "groupName": "Abdominal Radiology",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "radiology__lecture__abdominal-radiology__75__b0dcm5",
-            "number": "75",
-            "text": "Regarding abdomen anatomy, which of the following is TRUE?",
-            "options": [
-              "The Inferior mesenteric artery arises at the level of L2",
-              "The second part of the duodenum passes between liver and pancreas",
-              "The right adrenal gland is higher than left adrenal gland",
-              "The right renal vein is longer than the left renal vein",
-              "The portal vein confluence lies anterior to the neck of pancreas"
-            ],
-            "originalOptions": [
-              "The Inferior mesenteric artery arises at the level of L2",
-              "The second part of the duodenum passes between liver and pancreas",
-              "The right adrenal gland is higher than left adrenal gland",
-              "The right renal vein is longer than the left renal vein",
-              "The portal vein confluence lies anterior to the neck of pancreas"
-            ],
-            "correctAnswer": "B) The second part of the duodenum passes between liver and pancreas",
-            "correctAnswerText": "The second part of the duodenum passes between liver and pancreas",
-            "correctIndex": 1,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "The duodenal C-loop's second (descending) part lies in the region between the liver above and the pancreatic head medially; the IMA actually arises at L3, not L2, and the left renal vein is longer than the right.",
-            "batchName": "Waman A7yaha Final",
-            "batchNames": [
-              "Waman A7yaha Final"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Radiology",
-            "subjectId": "radiology",
-            "lectureName": "Abdominal Radiology",
-            "groupName": "Abdominal Radiology",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "radiology__lecture__abdominal-radiology__76__kh4fd5",
-            "number": "76",
+            "id": "radiology__lecture__abdominal-radiology__73__kh4fd5",
+            "number": "73",
             "text": "Regarding bowel obstruction, which of the following is TRUE?",
             "options": [
               "Cecal diameter of 7 cm meets the criteria of dilatation",
@@ -14155,8 +14046,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__77__204mmn",
-            "number": "77",
+            "id": "radiology__lecture__abdominal-radiology__74__204mmn",
+            "number": "74",
             "text": "Regarding Free air in the abdomen, which of following is TRUE?",
             "options": [
               "The most common cause of free intraperitoneal air is perforated sigmoid colon",
@@ -14192,8 +14083,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__78__ly5mx1",
-            "number": "78",
+            "id": "radiology__lecture__abdominal-radiology__75__ly5mx1",
+            "number": "75",
             "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
             "options": [
               "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -14229,8 +14120,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__79__kg3rqp",
-            "number": "79",
+            "id": "radiology__lecture__abdominal-radiology__76__kg3rqp",
+            "number": "76",
             "text": "Which of the following radiological signs can make the surest distinction between sigmoid volvulus as opposed to cecal volvulus?",
             "options": [
               "Whirlpool sign of the twisted mesenteric vessels",
@@ -14266,8 +14157,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__80__t71g0q",
-            "number": "80",
+            "id": "radiology__lecture__abdominal-radiology__77__t71g0q",
+            "number": "77",
             "text": "The \"3-6-9 rule\" refers to the approximate maximum normal diameter (in cm) of which structures, respectively?",
             "options": [
               "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
@@ -14301,8 +14192,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__81__q6568l",
-            "number": "81",
+            "id": "radiology__lecture__abdominal-radiology__78__q6568l",
+            "number": "78",
             "text": "Which imaging modality is considered the gold standard for detecting gallbladder stones?",
             "options": [
               "CT",
@@ -14336,8 +14227,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__82__2h5ayy",
-            "number": "82",
+            "id": "radiology__lecture__abdominal-radiology__79__2h5ayy",
+            "number": "79",
             "text": "Which of the following is a characteristic finding of small bowel obstruction, as opposed to large bowel obstruction?",
             "options": [
               "Peripherally located dilated loops",
@@ -14371,8 +14262,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__83__vvdp32",
-            "number": "83",
+            "id": "radiology__lecture__abdominal-radiology__80__vvdp32",
+            "number": "80",
             "text": "Simultaneous visualization of gas within the bowel lumen and gas outlining the outer bowel wall (the double-wall/Rigler sign) is a sign of which of the following?",
             "options": [
               "Bowel obstruction",
@@ -14408,8 +14299,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__84__tsqx9h",
-            "number": "84",
+            "id": "radiology__lecture__abdominal-radiology__81__tsqx9h",
+            "number": "81",
             "text": "What is the best imaging modality for evaluating suspected appendicitis in an adult?",
             "options": [
               "Plain abdominal radiograph",
@@ -14443,8 +14334,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__85__a231iq",
-            "number": "85",
+            "id": "radiology__lecture__abdominal-radiology__82__a231iq",
+            "number": "82",
             "text": "What is the diagnosis? [img: Radiologyaascites.jpg ]",
             "options": [
               "Hemoperitoneum",
@@ -14478,19 +14369,128 @@
             "sourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__abdominal-radiology__83__uwq2o0",
+            "number": "83",
+            "text": "Regarding abdomen anatomy, which of the following is wrong?",
+            "options": [
+              "The second part of the duodenum passes between the liver and pancreas",
+              "The inferior mesenteric artery arises at the level of L3",
+              "The superior mesenteric artery is at the level of T11, above the celiac axis",
+              "The renal arteries arise at approximately L1–L2"
+            ],
+            "originalOptions": [
+              "The second part of the duodenum passes between the liver and pancreas",
+              "The inferior mesenteric artery arises at the level of L3",
+              "The superior mesenteric artery is at the level of T11, above the celiac axis",
+              "The renal arteries arise at approximately L1–L2"
+            ],
+            "correctAnswer": "C) The superior mesenteric artery is at the level of T11, above the celiac axis",
+            "correctAnswerText": "The superior mesenteric artery is at the level of T11, above the celiac axis",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The celiac trunk (T12) actually arises above the SMA (L1), so stating the SMA is at T11 \"above\" the celiac axis reverses the correct order; the IMA at L3 and renal arteries at L1–L2 are both correct as stated.",
+            "batchName": "Vagus Final",
+            "batchNames": [
+              "Vagus Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__84__b0dcm5",
+            "number": "84",
+            "text": "Regarding abdomen anatomy, which of the following is TRUE?",
+            "options": [
+              "The portal vein confluence lies anterior to the neck of the pancreas",
+              "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
+              "The right renal vein is longer than the left renal vein",
+              "The third part of the duodenum passes between liver and pancreas",
+              "The Inferior mesenteric artery arises at the level of L3"
+            ],
+            "originalOptions": [
+              "The portal vein confluence lies anterior to the neck of the pancreas",
+              "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
+              "The right renal vein is longer than the left renal vein",
+              "The third part of the duodenum passes between liver and pancreas",
+              "The Inferior mesenteric artery arises at the level of L3"
+            ],
+            "correctAnswer": "E) The Inferior mesenteric artery arises at the level of L3",
+            "correctAnswerText": "The Inferior mesenteric artery arises at the level of L3",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "The IMA arises from the anterior aorta at L3; the portal vein actually forms posterior (not anterior) to the pancreatic neck, the right (not left) adrenal gland sits more cephalad, and the left (not right) renal vein is the longer vessel.",
+            "batchName": "Serotonin Final",
+            "batchNames": [
+              "Serotonin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__85__b0dcm5",
+            "number": "85",
+            "text": "Regarding abdomen anatomy, which of the following is TRUE?",
+            "options": [
+              "The Inferior mesenteric artery arises at the level of L2",
+              "The second part of the duodenum receives the common bile and pancreatic ducts",
+              "The right adrenal gland is lower and more medial than the left adrenal gland",
+              "The right renal vein is longer than the left renal vein",
+              "The portal vein confluence lies anterior to the neck of pancreas"
+            ],
+            "originalOptions": [
+              "The Inferior mesenteric artery arises at the level of L2",
+              "The second part of the duodenum receives the common bile and pancreatic ducts",
+              "The right adrenal gland is lower and more medial than the left adrenal gland",
+              "The right renal vein is longer than the left renal vein",
+              "The portal vein confluence lies anterior to the neck of pancreas"
+            ],
+            "correctAnswer": "B) The second part of the duodenum receives the common bile and pancreatic ducts",
+            "correctAnswerText": "The second part of the duodenum receives the common bile and pancreatic ducts",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum; the IMA actually arises at L3, the right adrenal is higher (not lower), the left renal vein is longer, and the portal vein forms posterior to the pancreatic neck.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__abdominal-radiology__86__b0dcm5",
             "number": "86",
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
               "The Inferior mesenteric artery arises at the level of L2",
-              "The second part of the duodenum passes between liver and pancreas",
+              "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
               "The right adrenal gland is higher than left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of pancreas"
             ],
             "originalOptions": [
               "The Inferior mesenteric artery arises at the level of L2",
-              "The second part of the duodenum passes between liver and pancreas",
+              "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
               "The right adrenal gland is higher than left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of pancreas"
@@ -14501,7 +14501,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The right adrenal gland sits more superiorly on its kidney pole than the left. Alternatively: the inferior mesenteric artery arises at L3; the duodenum runs lateral to the pancreatic head; the left renal vein is longer than the right; and the portal vein forms posterior to the neck of the pancreas.AI responses may include mistakes.",
+            "explanation": "The right adrenal gland sits more cephalad on its kidney than the left. B is actually a true statement too (the left renal vein does cross anterior to the aorta) — to keep a single best answer, note the IMA arises at L3 (not L2), the right renal vein is the shorter vein, and the portal vein forms posterior to the pancreatic neck, all of which remain false as worded.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -18147,8 +18147,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__64__5s82g0",
-            "number": "64",
+            "id": "radiology__lecture__abdominal-radiology__63__5s82g0",
+            "number": "63",
             "text": "Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]",
             "options": [
               "Choledocholithiasis",
@@ -18183,8 +18183,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__68__nihilm",
-            "number": "68",
+            "id": "radiology__lecture__abdominal-radiology__67__nihilm",
+            "number": "67",
             "text": "Wrong about Wilms tumor?",
             "options": [
               "Most common renal tumor of childhood",
@@ -19293,8 +19293,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__63__8xjq3p",
-            "number": "63",
+            "id": "radiology__lecture__abdominal-radiology__62__8xjq3p",
+            "number": "62",
             "text": "All are signs of pneumoperitoneum except:",
             "options": [
               "Rigler sign",
@@ -23238,8 +23238,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__80__t71g0q",
-            "number": "80",
+            "id": "radiology__lecture__abdominal-radiology__77__t71g0q",
+            "number": "77",
             "text": "The \"3-6-9 rule\" refers to the approximate maximum normal diameter (in cm) of which structures, respectively?",
             "options": [
               "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
@@ -23274,8 +23274,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__81__q6568l",
-            "number": "81",
+            "id": "radiology__lecture__abdominal-radiology__78__q6568l",
+            "number": "78",
             "text": "Which imaging modality is considered the gold standard for detecting gallbladder stones?",
             "options": [
               "CT",
@@ -23310,8 +23310,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__82__2h5ayy",
-            "number": "82",
+            "id": "radiology__lecture__abdominal-radiology__79__2h5ayy",
+            "number": "79",
             "text": "Which of the following is a characteristic finding of small bowel obstruction, as opposed to large bowel obstruction?",
             "options": [
               "Peripherally located dilated loops",
@@ -23346,8 +23346,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__83__vvdp32",
-            "number": "83",
+            "id": "radiology__lecture__abdominal-radiology__80__vvdp32",
+            "number": "80",
             "text": "Simultaneous visualization of gas within the bowel lumen and gas outlining the outer bowel wall (the double-wall/Rigler sign) is a sign of which of the following?",
             "options": [
               "Bowel obstruction",
@@ -23384,8 +23384,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__84__tsqx9h",
-            "number": "84",
+            "id": "radiology__lecture__abdominal-radiology__81__tsqx9h",
+            "number": "81",
             "text": "What is the best imaging modality for evaluating suspected appendicitis in an adult?",
             "options": [
               "Plain abdominal radiograph",
@@ -24330,8 +24330,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__79__kg3rqp",
-            "number": "79",
+            "id": "radiology__lecture__abdominal-radiology__76__kg3rqp",
+            "number": "76",
             "text": "Which of the following radiological signs can make the surest distinction between sigmoid volvulus as opposed to cecal volvulus?",
             "options": [
               "Whirlpool sign of the twisted mesenteric vessels",
@@ -25269,8 +25269,8 @@
         "subjectName": "Radiology",
         "questions": [
           {
-            "id": "radiology__lecture__abdominal-radiology__71__ly5mx1",
-            "number": "71",
+            "id": "radiology__lecture__abdominal-radiology__70__ly5mx1",
+            "number": "70",
             "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
             "options": [
               "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -25307,8 +25307,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__72__204mmn",
-            "number": "72",
+            "id": "radiology__lecture__abdominal-radiology__71__204mmn",
+            "number": "71",
             "text": "Regarding Free air in the abdomen, which of following is TRUE?",
             "options": [
               "History of abdominal surgery within one month is an indication of pneumoperitoneum",
@@ -25345,8 +25345,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__73__kh4fd5",
-            "number": "73",
+            "id": "radiology__lecture__abdominal-radiology__72__kh4fd5",
+            "number": "72",
             "text": "Regarding bowel obstruction, which of the following is TRUE?",
             "options": [
               "Ascending colon diameter of 8 cm meets the criteria of dilatation",
@@ -25383,19 +25383,19 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__74__b0dcm5",
-            "number": "74",
+            "id": "radiology__lecture__abdominal-radiology__84__b0dcm5",
+            "number": "84",
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
               "The portal vein confluence lies anterior to the neck of the pancreas",
-              "The right adrenal gland is higher than the left adrenal gland",
+              "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The third part of the duodenum passes between liver and pancreas",
               "The Inferior mesenteric artery arises at the level of L3"
             ],
             "originalOptions": [
               "The portal vein confluence lies anterior to the neck of the pancreas",
-              "The right adrenal gland is higher than the left adrenal gland",
+              "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The third part of the duodenum passes between liver and pancreas",
               "The Inferior mesenteric artery arises at the level of L3"
@@ -25406,7 +25406,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "The IMA arises from the anterior aorta at L3, near the inferior duodenum, consistent with standard anatomy; the portal vein actually forms posterior to the pancreatic neck, and the left (not right) renal vein is the longer vessel.",
+            "explanation": "The IMA arises from the anterior aorta at L3; the portal vein actually forms posterior (not anterior) to the pancreatic neck, the right (not left) adrenal gland sits more cephalad, and the left (not right) renal vein is the longer vessel.",
             "batchName": "Serotonin Final",
             "batchNames": [
               "Serotonin Final"
@@ -26157,8 +26157,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__65__sotdhc",
-            "number": "65",
+            "id": "radiology__lecture__abdominal-radiology__64__sotdhc",
+            "number": "64",
             "text": "What is the most likely diagnosis? [img: Radiologyagastriccancer.png ]",
             "options": [
               "Benign peptic ulcer",
@@ -26193,8 +26193,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__66__37chg8",
-            "number": "66",
+            "id": "radiology__lecture__abdominal-radiology__65__37chg8",
+            "number": "65",
             "text": "What is the most likely diagnosis? [img: Radiologyapcos.png ]",
             "options": [
               "PCOS",
@@ -26620,44 +26620,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__60__uwq2o0",
+            "id": "radiology__lecture__abdominal-radiology__60__ijmjlc",
             "number": "60",
-            "text": "Regarding abdomen anatomy, which of the following is wrong?",
-            "options": [
-              "The second part of the duodenum passes between the liver and pancreas",
-              "The inferior mesenteric artery arises at the level of L3",
-              "The superior mesenteric artery is at the level of T11, above the celiac axis",
-              "The renal arteries arise at approximately L1–L2"
-            ],
-            "originalOptions": [
-              "The second part of the duodenum passes between the liver and pancreas",
-              "The inferior mesenteric artery arises at the level of L3",
-              "The superior mesenteric artery is at the level of T11, above the celiac axis",
-              "The renal arteries arise at approximately L1–L2"
-            ],
-            "correctAnswer": "C) The superior mesenteric artery is at the level of T11, above the celiac axis",
-            "correctAnswerText": "The superior mesenteric artery is at the level of T11, above the celiac axis",
-            "correctIndex": 2,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "C",
-            "explanation": "The celiac trunk (T12) actually arises above the SMA (L1), so stating the SMA is at T11 \"above\" the celiac axis reverses the correct order and is anatomically wrong.",
-            "batchName": "Vagus Final",
-            "batchNames": [
-              "Vagus Final"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Radiology",
-            "subjectId": "radiology",
-            "lectureName": "Abdominal Radiology",
-            "groupName": "Abdominal Radiology",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          },
-          {
-            "id": "radiology__lecture__abdominal-radiology__61__ijmjlc",
-            "number": "61",
             "text": "Wrong about appendicitis?",
             "options": [
               "Most common cause of acute abdomen in young patients",
@@ -26692,8 +26656,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__62__ikwxg7",
-            "number": "62",
+            "id": "radiology__lecture__abdominal-radiology__61__ikwxg7",
+            "number": "61",
             "text": "False about volvulus?",
             "options": [
               "Midgut volvulus shows a whirlpool sign",
@@ -26728,8 +26692,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__63__8xjq3p",
-            "number": "63",
+            "id": "radiology__lecture__abdominal-radiology__62__8xjq3p",
+            "number": "62",
             "text": "All are signs of pneumoperitoneum except:",
             "options": [
               "Rigler sign",
@@ -26755,6 +26719,42 @@
             "batchName": "Vagus Final",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
+              "Vagus Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__83__uwq2o0",
+            "number": "83",
+            "text": "Regarding abdomen anatomy, which of the following is wrong?",
+            "options": [
+              "The second part of the duodenum passes between the liver and pancreas",
+              "The inferior mesenteric artery arises at the level of L3",
+              "The superior mesenteric artery is at the level of T11, above the celiac axis",
+              "The renal arteries arise at approximately L1–L2"
+            ],
+            "originalOptions": [
+              "The second part of the duodenum passes between the liver and pancreas",
+              "The inferior mesenteric artery arises at the level of L3",
+              "The superior mesenteric artery is at the level of T11, above the celiac axis",
+              "The renal arteries arise at approximately L1–L2"
+            ],
+            "correctAnswer": "C) The superior mesenteric artery is at the level of T11, above the celiac axis",
+            "correctAnswerText": "The superior mesenteric artery is at the level of T11, above the celiac axis",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The celiac trunk (T12) actually arises above the SMA (L1), so stating the SMA is at T11 \"above\" the celiac axis reverses the correct order; the IMA at L3 and renal arteries at L1–L2 are both correct as stated.",
+            "batchName": "Vagus Final",
+            "batchNames": [
               "Vagus Final"
             ],
             "note": "",
@@ -27527,46 +27527,8 @@
         "subjectName": "Radiology",
         "questions": [
           {
-            "id": "radiology__lecture__abdominal-radiology__75__b0dcm5",
-            "number": "75",
-            "text": "Regarding abdomen anatomy, which of the following is TRUE?",
-            "options": [
-              "The Inferior mesenteric artery arises at the level of L2",
-              "The second part of the duodenum passes between liver and pancreas",
-              "The right adrenal gland is higher than left adrenal gland",
-              "The right renal vein is longer than the left renal vein",
-              "The portal vein confluence lies anterior to the neck of pancreas"
-            ],
-            "originalOptions": [
-              "The Inferior mesenteric artery arises at the level of L2",
-              "The second part of the duodenum passes between liver and pancreas",
-              "The right adrenal gland is higher than left adrenal gland",
-              "The right renal vein is longer than the left renal vein",
-              "The portal vein confluence lies anterior to the neck of pancreas"
-            ],
-            "correctAnswer": "B) The second part of the duodenum passes between liver and pancreas",
-            "correctAnswerText": "The second part of the duodenum passes between liver and pancreas",
-            "correctIndex": 1,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "The duodenal C-loop's second (descending) part lies in the region between the liver above and the pancreatic head medially; the IMA actually arises at L3, not L2, and the left renal vein is longer than the right.",
-            "batchName": "Waman A7yaha Final",
-            "batchNames": [
-              "Waman A7yaha Final"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Radiology",
-            "subjectId": "radiology",
-            "lectureName": "Abdominal Radiology",
-            "groupName": "Abdominal Radiology",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          },
-          {
-            "id": "radiology__lecture__abdominal-radiology__76__kh4fd5",
-            "number": "76",
+            "id": "radiology__lecture__abdominal-radiology__73__kh4fd5",
+            "number": "73",
             "text": "Regarding bowel obstruction, which of the following is TRUE?",
             "options": [
               "Cecal diameter of 7 cm meets the criteria of dilatation",
@@ -27603,8 +27565,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__77__204mmn",
-            "number": "77",
+            "id": "radiology__lecture__abdominal-radiology__74__204mmn",
+            "number": "74",
             "text": "Regarding Free air in the abdomen, which of following is TRUE?",
             "options": [
               "The most common cause of free intraperitoneal air is perforated sigmoid colon",
@@ -27641,8 +27603,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__78__ly5mx1",
-            "number": "78",
+            "id": "radiology__lecture__abdominal-radiology__75__ly5mx1",
+            "number": "75",
             "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
             "options": [
               "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -27665,6 +27627,44 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "Ultrasound detects the vast majority (~95%) of gallstones regardless of their radiographic composition; phleboliths are venous (not arterial), and most renal stones are radiopaque (not lucent) on plain film.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__85__b0dcm5",
+            "number": "85",
+            "text": "Regarding abdomen anatomy, which of the following is TRUE?",
+            "options": [
+              "The Inferior mesenteric artery arises at the level of L2",
+              "The second part of the duodenum receives the common bile and pancreatic ducts",
+              "The right adrenal gland is lower and more medial than the left adrenal gland",
+              "The right renal vein is longer than the left renal vein",
+              "The portal vein confluence lies anterior to the neck of pancreas"
+            ],
+            "originalOptions": [
+              "The Inferior mesenteric artery arises at the level of L2",
+              "The second part of the duodenum receives the common bile and pancreatic ducts",
+              "The right adrenal gland is lower and more medial than the left adrenal gland",
+              "The right renal vein is longer than the left renal vein",
+              "The portal vein confluence lies anterior to the neck of pancreas"
+            ],
+            "correctAnswer": "B) The second part of the duodenum receives the common bile and pancreatic ducts",
+            "correctAnswerText": "The second part of the duodenum receives the common bile and pancreatic ducts",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum; the IMA actually arises at L3, the right adrenal is higher (not lower), the left renal vein is longer, and the portal vein forms posterior to the pancreatic neck.",
             "batchName": "Waman A7yaha Final",
             "batchNames": [
               "Waman A7yaha Final"
@@ -28636,8 +28636,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__67__h4w1jl",
-            "number": "67",
+            "id": "radiology__lecture__abdominal-radiology__66__h4w1jl",
+            "number": "66",
             "text": "The arrow (labeled 42) in this axial contrast CT points to which structure? [img: Radiologyaabdominalanatomygallbladder.png ]",
             "options": [
               "Liver",
@@ -28672,8 +28672,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__69__h0jac7",
-            "number": "69",
+            "id": "radiology__lecture__abdominal-radiology__68__h0jac7",
+            "number": "68",
             "text": "The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
             "options": [
               "Celiac artery",
@@ -28708,8 +28708,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__70__9uk8o5",
-            "number": "70",
+            "id": "radiology__lecture__abdominal-radiology__69__9uk8o5",
+            "number": "69",
             "text": "What is the most likely diagnosis? [img: Radiologyabilateraladrenalcalcification.png ]",
             "options": [
               "Splenic granulomas",
@@ -28744,8 +28744,8 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__85__a231iq",
-            "number": "85",
+            "id": "radiology__lecture__abdominal-radiology__82__a231iq",
+            "number": "82",
             "text": "What is the diagnosis? [img: Radiologyaascites.jpg ]",
             "options": [
               "Hemoperitoneum",
@@ -28785,14 +28785,14 @@
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
               "The Inferior mesenteric artery arises at the level of L2",
-              "The second part of the duodenum passes between liver and pancreas",
+              "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
               "The right adrenal gland is higher than left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of pancreas"
             ],
             "originalOptions": [
               "The Inferior mesenteric artery arises at the level of L2",
-              "The second part of the duodenum passes between liver and pancreas",
+              "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
               "The right adrenal gland is higher than left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of pancreas"
@@ -28803,7 +28803,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The right adrenal gland sits more superiorly on its kidney pole than the left. Alternatively: the inferior mesenteric artery arises at L3; the duodenum runs lateral to the pancreatic head; the left renal vein is longer than the right; and the portal vein forms posterior to the neck of the pancreas.AI responses may include mistakes.",
+            "explanation": "The right adrenal gland sits more cephalad on its kidney than the left. B is actually a true statement too (the left renal vein does cross anterior to the aorta) — to keep a single best answer, note the IMA arises at L3 (not L2), the right renal vein is the shorter vein, and the portal vein forms posterior to the pancreatic neck, all of which remain false as worded.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -31608,43 +31608,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__60__uwq2o0",
+        "id": "radiology__lecture__abdominal-radiology__60__ijmjlc",
         "number": "60",
-        "text": "Regarding abdomen anatomy, which of the following is wrong?",
-        "options": [
-          "The second part of the duodenum passes between the liver and pancreas",
-          "The inferior mesenteric artery arises at the level of L3",
-          "The superior mesenteric artery is at the level of T11, above the celiac axis",
-          "The renal arteries arise at approximately L1–L2"
-        ],
-        "originalOptions": [
-          "The second part of the duodenum passes between the liver and pancreas",
-          "The inferior mesenteric artery arises at the level of L3",
-          "The superior mesenteric artery is at the level of T11, above the celiac axis",
-          "The renal arteries arise at approximately L1–L2"
-        ],
-        "correctAnswer": "C) The superior mesenteric artery is at the level of T11, above the celiac axis",
-        "correctAnswerText": "The superior mesenteric artery is at the level of T11, above the celiac axis",
-        "correctIndex": 2,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "C",
-        "explanation": "The celiac trunk (T12) actually arises above the SMA (L1), so stating the SMA is at T11 \"above\" the celiac axis reverses the correct order and is anatomically wrong.",
-        "batchName": "Vagus Final",
-        "batchNames": [
-          "Vagus Final"
-        ],
-        "note": "",
-        "pageNumber": "",
-        "subjectName": "Radiology",
-        "subjectId": "radiology",
-        "lectureName": "Abdominal Radiology",
-        "groupName": "Abdominal Radiology",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "radiology__lecture__abdominal-radiology__61__ijmjlc",
-        "number": "61",
         "text": "Wrong about appendicitis?",
         "options": [
           "Most common cause of acute abdomen in young patients",
@@ -31678,8 +31643,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__62__ikwxg7",
-        "number": "62",
+        "id": "radiology__lecture__abdominal-radiology__61__ikwxg7",
+        "number": "61",
         "text": "False about volvulus?",
         "options": [
           "Midgut volvulus shows a whirlpool sign",
@@ -31713,8 +31678,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__63__8xjq3p",
-        "number": "63",
+        "id": "radiology__lecture__abdominal-radiology__62__8xjq3p",
+        "number": "62",
         "text": "All are signs of pneumoperitoneum except:",
         "options": [
           "Rigler sign",
@@ -31751,8 +31716,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__64__5s82g0",
-        "number": "64",
+        "id": "radiology__lecture__abdominal-radiology__63__5s82g0",
+        "number": "63",
         "text": "Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]",
         "options": [
           "Choledocholithiasis",
@@ -31786,8 +31751,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__65__sotdhc",
-        "number": "65",
+        "id": "radiology__lecture__abdominal-radiology__64__sotdhc",
+        "number": "64",
         "text": "What is the most likely diagnosis? [img: Radiologyagastriccancer.png ]",
         "options": [
           "Benign peptic ulcer",
@@ -31821,8 +31786,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__66__37chg8",
-        "number": "66",
+        "id": "radiology__lecture__abdominal-radiology__65__37chg8",
+        "number": "65",
         "text": "What is the most likely diagnosis? [img: Radiologyapcos.png ]",
         "options": [
           "PCOS",
@@ -31856,8 +31821,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__67__h4w1jl",
-        "number": "67",
+        "id": "radiology__lecture__abdominal-radiology__66__h4w1jl",
+        "number": "66",
         "text": "The arrow (labeled 42) in this axial contrast CT points to which structure? [img: Radiologyaabdominalanatomygallbladder.png ]",
         "options": [
           "Liver",
@@ -31891,8 +31856,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__68__nihilm",
-        "number": "68",
+        "id": "radiology__lecture__abdominal-radiology__67__nihilm",
+        "number": "67",
         "text": "Wrong about Wilms tumor?",
         "options": [
           "Most common renal tumor of childhood",
@@ -31926,8 +31891,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__69__h0jac7",
-        "number": "69",
+        "id": "radiology__lecture__abdominal-radiology__68__h0jac7",
+        "number": "68",
         "text": "The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
         "options": [
           "Celiac artery",
@@ -31961,8 +31926,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__70__9uk8o5",
-        "number": "70",
+        "id": "radiology__lecture__abdominal-radiology__69__9uk8o5",
+        "number": "69",
         "text": "What is the most likely diagnosis? [img: Radiologyabilateraladrenalcalcification.png ]",
         "options": [
           "Splenic granulomas",
@@ -31996,8 +31961,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__71__ly5mx1",
-        "number": "71",
+        "id": "radiology__lecture__abdominal-radiology__70__ly5mx1",
+        "number": "70",
         "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
         "options": [
           "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -32033,8 +31998,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__72__204mmn",
-        "number": "72",
+        "id": "radiology__lecture__abdominal-radiology__71__204mmn",
+        "number": "71",
         "text": "Regarding Free air in the abdomen, which of following is TRUE?",
         "options": [
           "History of abdominal surgery within one month is an indication of pneumoperitoneum",
@@ -32070,8 +32035,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__73__kh4fd5",
-        "number": "73",
+        "id": "radiology__lecture__abdominal-radiology__72__kh4fd5",
+        "number": "72",
         "text": "Regarding bowel obstruction, which of the following is TRUE?",
         "options": [
           "Ascending colon diameter of 8 cm meets the criteria of dilatation",
@@ -32107,82 +32072,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__74__b0dcm5",
-        "number": "74",
-        "text": "Regarding abdomen anatomy, which of the following is TRUE?",
-        "options": [
-          "The portal vein confluence lies anterior to the neck of the pancreas",
-          "The right adrenal gland is higher than the left adrenal gland",
-          "The right renal vein is longer than the left renal vein",
-          "The third part of the duodenum passes between liver and pancreas",
-          "The Inferior mesenteric artery arises at the level of L3"
-        ],
-        "originalOptions": [
-          "The portal vein confluence lies anterior to the neck of the pancreas",
-          "The right adrenal gland is higher than the left adrenal gland",
-          "The right renal vein is longer than the left renal vein",
-          "The third part of the duodenum passes between liver and pancreas",
-          "The Inferior mesenteric artery arises at the level of L3"
-        ],
-        "correctAnswer": "E) The Inferior mesenteric artery arises at the level of L3",
-        "correctAnswerText": "The Inferior mesenteric artery arises at the level of L3",
-        "correctIndex": 4,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "E",
-        "explanation": "The IMA arises from the anterior aorta at L3, near the inferior duodenum, consistent with standard anatomy; the portal vein actually forms posterior to the pancreatic neck, and the left (not right) renal vein is the longer vessel.",
-        "batchName": "Serotonin Final",
-        "batchNames": [
-          "Serotonin Final"
-        ],
-        "note": "",
-        "pageNumber": "",
-        "subjectName": "Radiology",
-        "subjectId": "radiology",
-        "lectureName": "Abdominal Radiology",
-        "groupName": "Abdominal Radiology",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "radiology__lecture__abdominal-radiology__75__b0dcm5",
-        "number": "75",
-        "text": "Regarding abdomen anatomy, which of the following is TRUE?",
-        "options": [
-          "The Inferior mesenteric artery arises at the level of L2",
-          "The second part of the duodenum passes between liver and pancreas",
-          "The right adrenal gland is higher than left adrenal gland",
-          "The right renal vein is longer than the left renal vein",
-          "The portal vein confluence lies anterior to the neck of pancreas"
-        ],
-        "originalOptions": [
-          "The Inferior mesenteric artery arises at the level of L2",
-          "The second part of the duodenum passes between liver and pancreas",
-          "The right adrenal gland is higher than left adrenal gland",
-          "The right renal vein is longer than the left renal vein",
-          "The portal vein confluence lies anterior to the neck of pancreas"
-        ],
-        "correctAnswer": "B) The second part of the duodenum passes between liver and pancreas",
-        "correctAnswerText": "The second part of the duodenum passes between liver and pancreas",
-        "correctIndex": 1,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "B",
-        "explanation": "The duodenal C-loop's second (descending) part lies in the region between the liver above and the pancreatic head medially; the IMA actually arises at L3, not L2, and the left renal vein is longer than the right.",
-        "batchName": "Waman A7yaha Final",
-        "batchNames": [
-          "Waman A7yaha Final"
-        ],
-        "note": "",
-        "pageNumber": "",
-        "subjectName": "Radiology",
-        "subjectId": "radiology",
-        "lectureName": "Abdominal Radiology",
-        "groupName": "Abdominal Radiology",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "radiology__lecture__abdominal-radiology__76__kh4fd5",
-        "number": "76",
+        "id": "radiology__lecture__abdominal-radiology__73__kh4fd5",
+        "number": "73",
         "text": "Regarding bowel obstruction, which of the following is TRUE?",
         "options": [
           "Cecal diameter of 7 cm meets the criteria of dilatation",
@@ -32218,8 +32109,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__77__204mmn",
-        "number": "77",
+        "id": "radiology__lecture__abdominal-radiology__74__204mmn",
+        "number": "74",
         "text": "Regarding Free air in the abdomen, which of following is TRUE?",
         "options": [
           "The most common cause of free intraperitoneal air is perforated sigmoid colon",
@@ -32255,8 +32146,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__78__ly5mx1",
-        "number": "78",
+        "id": "radiology__lecture__abdominal-radiology__75__ly5mx1",
+        "number": "75",
         "text": "Regarding abdominal calcifications, which one of the following is TRUE?",
         "options": [
           "Phleboliths are small arterial wall calcifications seen in the pelvis",
@@ -32292,8 +32183,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__79__kg3rqp",
-        "number": "79",
+        "id": "radiology__lecture__abdominal-radiology__76__kg3rqp",
+        "number": "76",
         "text": "Which of the following radiological signs can make the surest distinction between sigmoid volvulus as opposed to cecal volvulus?",
         "options": [
           "Whirlpool sign of the twisted mesenteric vessels",
@@ -32329,8 +32220,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__80__t71g0q",
-        "number": "80",
+        "id": "radiology__lecture__abdominal-radiology__77__t71g0q",
+        "number": "77",
         "text": "The \"3-6-9 rule\" refers to the approximate maximum normal diameter (in cm) of which structures, respectively?",
         "options": [
           "Small bowel (3 cm), large bowel (6 cm), cecum (9 cm)",
@@ -32364,8 +32255,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__81__q6568l",
-        "number": "81",
+        "id": "radiology__lecture__abdominal-radiology__78__q6568l",
+        "number": "78",
         "text": "Which imaging modality is considered the gold standard for detecting gallbladder stones?",
         "options": [
           "CT",
@@ -32399,8 +32290,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__82__2h5ayy",
-        "number": "82",
+        "id": "radiology__lecture__abdominal-radiology__79__2h5ayy",
+        "number": "79",
         "text": "Which of the following is a characteristic finding of small bowel obstruction, as opposed to large bowel obstruction?",
         "options": [
           "Peripherally located dilated loops",
@@ -32434,8 +32325,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__83__vvdp32",
-        "number": "83",
+        "id": "radiology__lecture__abdominal-radiology__80__vvdp32",
+        "number": "80",
         "text": "Simultaneous visualization of gas within the bowel lumen and gas outlining the outer bowel wall (the double-wall/Rigler sign) is a sign of which of the following?",
         "options": [
           "Bowel obstruction",
@@ -32471,8 +32362,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__84__tsqx9h",
-        "number": "84",
+        "id": "radiology__lecture__abdominal-radiology__81__tsqx9h",
+        "number": "81",
         "text": "What is the best imaging modality for evaluating suspected appendicitis in an adult?",
         "options": [
           "Plain abdominal radiograph",
@@ -32506,8 +32397,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__85__a231iq",
-        "number": "85",
+        "id": "radiology__lecture__abdominal-radiology__82__a231iq",
+        "number": "82",
         "text": "What is the diagnosis? [img: Radiologyaascites.jpg ]",
         "options": [
           "Hemoperitoneum",
@@ -32541,19 +32432,128 @@
         "sourceType": "lecture"
       },
       {
+        "id": "radiology__lecture__abdominal-radiology__83__uwq2o0",
+        "number": "83",
+        "text": "Regarding abdomen anatomy, which of the following is wrong?",
+        "options": [
+          "The second part of the duodenum passes between the liver and pancreas",
+          "The inferior mesenteric artery arises at the level of L3",
+          "The superior mesenteric artery is at the level of T11, above the celiac axis",
+          "The renal arteries arise at approximately L1–L2"
+        ],
+        "originalOptions": [
+          "The second part of the duodenum passes between the liver and pancreas",
+          "The inferior mesenteric artery arises at the level of L3",
+          "The superior mesenteric artery is at the level of T11, above the celiac axis",
+          "The renal arteries arise at approximately L1–L2"
+        ],
+        "correctAnswer": "C) The superior mesenteric artery is at the level of T11, above the celiac axis",
+        "correctAnswerText": "The superior mesenteric artery is at the level of T11, above the celiac axis",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The celiac trunk (T12) actually arises above the SMA (L1), so stating the SMA is at T11 \"above\" the celiac axis reverses the correct order; the IMA at L3 and renal arteries at L1–L2 are both correct as stated.",
+        "batchName": "Vagus Final",
+        "batchNames": [
+          "Vagus Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__84__b0dcm5",
+        "number": "84",
+        "text": "Regarding abdomen anatomy, which of the following is TRUE?",
+        "options": [
+          "The portal vein confluence lies anterior to the neck of the pancreas",
+          "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
+          "The right renal vein is longer than the left renal vein",
+          "The third part of the duodenum passes between liver and pancreas",
+          "The Inferior mesenteric artery arises at the level of L3"
+        ],
+        "originalOptions": [
+          "The portal vein confluence lies anterior to the neck of the pancreas",
+          "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
+          "The right renal vein is longer than the left renal vein",
+          "The third part of the duodenum passes between liver and pancreas",
+          "The Inferior mesenteric artery arises at the level of L3"
+        ],
+        "correctAnswer": "E) The Inferior mesenteric artery arises at the level of L3",
+        "correctAnswerText": "The Inferior mesenteric artery arises at the level of L3",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "The IMA arises from the anterior aorta at L3; the portal vein actually forms posterior (not anterior) to the pancreatic neck, the right (not left) adrenal gland sits more cephalad, and the left (not right) renal vein is the longer vessel.",
+        "batchName": "Serotonin Final",
+        "batchNames": [
+          "Serotonin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__85__b0dcm5",
+        "number": "85",
+        "text": "Regarding abdomen anatomy, which of the following is TRUE?",
+        "options": [
+          "The Inferior mesenteric artery arises at the level of L2",
+          "The second part of the duodenum receives the common bile and pancreatic ducts",
+          "The right adrenal gland is lower and more medial than the left adrenal gland",
+          "The right renal vein is longer than the left renal vein",
+          "The portal vein confluence lies anterior to the neck of pancreas"
+        ],
+        "originalOptions": [
+          "The Inferior mesenteric artery arises at the level of L2",
+          "The second part of the duodenum receives the common bile and pancreatic ducts",
+          "The right adrenal gland is lower and more medial than the left adrenal gland",
+          "The right renal vein is longer than the left renal vein",
+          "The portal vein confluence lies anterior to the neck of pancreas"
+        ],
+        "correctAnswer": "B) The second part of the duodenum receives the common bile and pancreatic ducts",
+        "correctAnswerText": "The second part of the duodenum receives the common bile and pancreatic ducts",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum; the IMA actually arises at L3, the right adrenal is higher (not lower), the left renal vein is longer, and the portal vein forms posterior to the pancreatic neck.",
+        "batchName": "Waman A7yaha Final",
+        "batchNames": [
+          "Waman A7yaha Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "radiology__lecture__abdominal-radiology__86__b0dcm5",
         "number": "86",
         "text": "Regarding abdomen anatomy, which of the following is TRUE?",
         "options": [
           "The Inferior mesenteric artery arises at the level of L2",
-          "The second part of the duodenum passes between liver and pancreas",
+          "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
           "The right adrenal gland is higher than left adrenal gland",
           "The right renal vein is longer than the left renal vein",
           "The portal vein confluence lies anterior to the neck of pancreas"
         ],
         "originalOptions": [
           "The Inferior mesenteric artery arises at the level of L2",
-          "The second part of the duodenum passes between liver and pancreas",
+          "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
           "The right adrenal gland is higher than left adrenal gland",
           "The right renal vein is longer than the left renal vein",
           "The portal vein confluence lies anterior to the neck of pancreas"
@@ -32564,7 +32564,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "The right adrenal gland sits more superiorly on its kidney pole than the left. Alternatively: the inferior mesenteric artery arises at L3; the duodenum runs lateral to the pancreatic head; the left renal vein is longer than the right; and the portal vein forms posterior to the neck of the pancreas.AI responses may include mistakes.",
+        "explanation": "The right adrenal gland sits more cephalad on its kidney than the left. B is actually a true statement too (the left renal vein does cross anterior to the aorta) — to keep a single best answer, note the IMA arises at L3 (not L2), the right renal vein is the shorter vein, and the portal vein forms posterior to the pancreatic neck, all of which remain false as worded.",
         "batchName": "Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Waman A7yaha Mini-OSCE"
