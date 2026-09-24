@@ -5,7 +5,7 @@ C) Mesenteric ischemia
 D) Pancreatic adenocarcinoma
 Correct Answer: A) Acute pancreatitis
 Explanation: The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.
-Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final / Aorta Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final / Aorta Mini-OSCE (Group A) / Aorta Final / Waman A7yaha Mini-OSCE
 ###
 In this labeled axial CT image, what does structure "3" represent? [img: Radiologyaleftrenalvein.png ]
 A) Left renal artery
@@ -33,7 +33,7 @@ C) Pneumoperitoneum
 D) Pneumobilia
 Correct Answer: D) Pneumobilia
 Explanation: The gas is centrally located within the biliary tree near the porta hepatis; portal venous gas classically extends to within 2 cm of the liver capsule (peripheral), which distinguishes it from pneumobilia.
-Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A) / Serotonin Mini-OSCE
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A) / Aorta Final / Serotonin Mini-OSCE
 ###
 What is the name of this radiological sign? [img: Radiologyafootballsign.png ]
 A) Football sign
@@ -784,7 +784,7 @@ A) Hemoperitoneum
 B) Pneumoperitoneum
 C) Ascites
 D) Pleural effusion
-​Correct Answer: C) Ascites
+Correct Answer: C) Ascites
 Explanation: The axial CT scan of the abdomen shows low density ascitic fluid surrounding the liver, spleen and stomach.
 Batch: Waman A7yaha Mini-OSCE
 ###
