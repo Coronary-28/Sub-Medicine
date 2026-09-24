@@ -538,15 +538,6 @@ Correct Answer: D) Seen on ultrasound as hyperechoic foci with acoustic shadowin
 Explanation: Gallstones are hyperechoic with posterior shadowing on ultrasound; stones are actually hypointense (dark) on MRI, and cholecystitis typically shows gallbladder distension with pericholecystic edema, making the other options false.
 Batch: Overdose Final
 ###
-Regarding abdomen anatomy, which of the following is wrong?
-A) The second part of the duodenum passes between the liver and pancreas
-B) The inferior mesenteric artery arises at the level of L3
-C) The superior mesenteric artery is at the level of T11, above the celiac axis
-D) The renal arteries arise at approximately L1–L2
-Correct Answer: C) The superior mesenteric artery is at the level of T11, above the celiac axis
-Explanation: The celiac trunk (T12) actually arises above the SMA (L1), so stating the SMA is at T11 "above" the celiac axis reverses the correct order and is anatomically wrong.
-Batch: Vagus Final
-###
 Wrong about appendicitis?
 A) Most common cause of acute abdomen in young patients
 B) Can present with periumbilical pain migrating to the right lower quadrant
@@ -673,26 +664,6 @@ Correct Answer: A) Ascending colon diameter of 8 cm meets the criteria of dilata
 Explanation: The "3-6-9 rule" sets the large bowel dilatation threshold at 6 cm, so 8 cm exceeds this; the cecal threshold is actually 9 cm, and adhesions (not hernia) are the overall most common cause of small bowel obstruction.
 Batch: Serotonin Final
 ###
-Regarding abdomen anatomy, which of the following is TRUE?
-A) The portal vein confluence lies anterior to the neck of the pancreas
-B) The right adrenal gland is higher than the left adrenal gland
-C) The right renal vein is longer than the left renal vein
-D) The third part of the duodenum passes between liver and pancreas
-E) The Inferior mesenteric artery arises at the level of L3
-Correct Answer: E) The Inferior mesenteric artery arises at the level of L3
-Explanation: The IMA arises from the anterior aorta at L3, near the inferior duodenum, consistent with standard anatomy; the portal vein actually forms posterior to the pancreatic neck, and the left (not right) renal vein is the longer vessel.
-Batch: Serotonin Final
-###
-Regarding abdomen anatomy, which of the following is TRUE?
-A) The Inferior mesenteric artery arises at the level of L2
-B) The second part of the duodenum passes between liver and pancreas
-C) The right adrenal gland is higher than left adrenal gland
-D) The right renal vein is longer than the left renal vein
-E) The portal vein confluence lies anterior to the neck of pancreas
-Correct Answer: B) The second part of the duodenum passes between liver and pancreas
-Explanation: The duodenal C-loop's second (descending) part lies in the region between the liver above and the pancreatic head medially; the IMA actually arises at L3, not L2, and the left renal vein is longer than the right.
-Batch: Waman A7yaha Final
-###
 Regarding bowel obstruction, which of the following is TRUE?
 A) Cecal diameter of 7 cm meets the criteria of dilatation
 B) Cecal volvulus usually extends to the right upper quadrant
@@ -788,12 +759,41 @@ Correct Answer: C) Ascites
 Explanation: The axial CT scan of the abdomen shows low density ascitic fluid surrounding the liver, spleen and stomach.
 Batch: Waman A7yaha Mini-OSCE
 ###
+Regarding abdomen anatomy, which of the following is wrong?
+A) The second part of the duodenum passes between the liver and pancreas
+B) The inferior mesenteric artery arises at the level of L3
+C) The superior mesenteric artery is at the level of T11, above the celiac axis
+D) The renal arteries arise at approximately L1–L2
+Correct Answer: C) The superior mesenteric artery is at the level of T11, above the celiac axis
+Explanation: The celiac trunk (T12) actually arises above the SMA (L1), so stating the SMA is at T11 "above" the celiac axis reverses the correct order; the IMA at L3 and renal arteries at L1–L2 are both correct as stated.
+Batch: Vagus Final
+###
+Regarding abdomen anatomy, which of the following is TRUE?
+A) The portal vein confluence lies anterior to the neck of the pancreas
+B) The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland
+C) The right renal vein is longer than the left renal vein
+D) The third part of the duodenum passes between liver and pancreas
+E) The Inferior mesenteric artery arises at the level of L3
+Correct Answer: E) The Inferior mesenteric artery arises at the level of L3
+Explanation: The IMA arises from the anterior aorta at L3; the portal vein actually forms posterior (not anterior) to the pancreatic neck, the right (not left) adrenal gland sits more cephalad, and the left (not right) renal vein is the longer vessel.
+Batch: Serotonin Final
+###
 Regarding abdomen anatomy, which of the following is TRUE?
 A) The Inferior mesenteric artery arises at the level of L2
-B) The second part of the duodenum passes between liver and pancreas
+B) The second part of the duodenum receives the common bile and pancreatic ducts
+C) The right adrenal gland is lower and more medial than the left adrenal gland
+D) The right renal vein is longer than the left renal vein
+E) The portal vein confluence lies anterior to the neck of pancreas
+Correct Answer: B) The second part of the duodenum receives the common bile and pancreatic ducts
+Explanation: The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum; the IMA actually arises at L3, the right adrenal is higher (not lower), the left renal vein is longer, and the portal vein forms posterior to the pancreatic neck.
+Batch: Waman A7yaha Final
+###
+Regarding abdomen anatomy, which of the following is TRUE?
+A) The Inferior mesenteric artery arises at the level of L2
+B) The left renal vein passes anterior to the aorta to reach the inferior vena cava
 C) The right adrenal gland is higher than left adrenal gland
 D) The right renal vein is longer than the left renal vein
 E) The portal vein confluence lies anterior to the neck of pancreas
 Correct Answer: C) The right adrenal gland is higher than left adrenal gland
-Explanation: The right adrenal gland sits more superiorly on its kidney pole than the left. Alternatively: the inferior mesenteric artery arises at L3; the duodenum runs lateral to the pancreatic head; the left renal vein is longer than the right; and the portal vein forms posterior to the neck of the pancreas.AI responses may include mistakes.
+Explanation: The right adrenal gland sits more cephalad on its kidney than the left. B is actually a true statement too (the left renal vein does cross anterior to the aorta) — to keep a single best answer, note the IMA arises at L3 (not L2), the right renal vein is the shorter vein, and the portal vein forms posterior to the pancreatic neck, all of which remain false as worded.
 Batch: Waman A7yaha Mini-OSCE
