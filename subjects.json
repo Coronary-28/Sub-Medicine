@@ -11423,12 +11423,13 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.",
-            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final / Aorta Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
+            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final / Aorta Mini-OSCE (Group A) / Aorta Final / Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)",
               "Endorphin Final",
               "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -11536,11 +11537,12 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "The gas is centrally located within the biliary tree near the porta hepatis; portal venous gas classically extends to within 2 cm of the liver capsule (peripheral), which distinguishes it from pneumobilia.",
-            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A) / Serotonin Mini-OSCE",
+            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A) / Aorta Final / Serotonin Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)",
               "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -14441,8 +14443,43 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__85__b0dcm5",
+            "id": "radiology__lecture__abdominal-radiology__85__a231iq",
             "number": "85",
+            "text": "What is the diagnosis? [img: Radiologyaascites.jpg ]",
+            "options": [
+              "Hemoperitoneum",
+              "Pneumoperitoneum",
+              "Ascites",
+              "Pleural effusion"
+            ],
+            "originalOptions": [
+              "Hemoperitoneum",
+              "Pneumoperitoneum",
+              "Ascites",
+              "Pleural effusion"
+            ],
+            "correctAnswer": "C) Ascites",
+            "correctAnswerText": "Ascites",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The axial CT scan of the abdomen shows low density ascitic fluid surrounding the liver, spleen and stomach.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__86__b0dcm5",
+            "number": "86",
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
               "The Inferior mesenteric artery arises at the level of L2",
@@ -17248,6 +17285,87 @@
         "subjectName": "Radiology",
         "questions": [
           {
+            "id": "radiology__lecture__abdominal-radiology__1__qs2c2m",
+            "number": "1",
+            "text": "What is the most likely diagnosis? [img: Radiologyapancreatitis.png ]",
+            "options": [
+              "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
+              "Pancreatic adenocarcinoma"
+            ],
+            "originalOptions": [
+              "Acute pancreatitis",
+              "Appendicitis",
+              "Mesenteric ischemia",
+              "Pancreatic adenocarcinoma"
+            ],
+            "correctAnswer": "A) Acute pancreatitis",
+            "correctAnswerText": "Acute pancreatitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group E)",
+              "Endorphin Final",
+              "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__4__sloxkz",
+            "number": "4",
+            "text": "What is the diagnosis? [img: Radiologyapneumobilia.png ]",
+            "options": [
+              "Portal venous gas",
+              "Emphysematous cholecystitis",
+              "Pneumoperitoneum",
+              "Pneumobilia"
+            ],
+            "originalOptions": [
+              "Portal venous gas",
+              "Emphysematous cholecystitis",
+              "Pneumoperitoneum",
+              "Pneumobilia"
+            ],
+            "correctAnswer": "D) Pneumobilia",
+            "correctAnswerText": "Pneumobilia",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The gas is centrally located within the biliary tree near the porta hepatis; portal venous gas classically extends to within 2 cm of the liver capsule (peripheral), which distinguishes it from pneumobilia.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group E)",
+              "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__abdominal-radiology__6__mb4ksn",
             "number": "6",
             "text": "What is the most likely diagnosis? [img: Radiologyapneumoperitoneum.png ]",
@@ -18226,6 +18344,7 @@
               "Endorphin Mini-OSCE (Group E)",
               "Endorphin Final",
               "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -18341,6 +18460,7 @@
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)",
               "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -19079,6 +19199,7 @@
               "Endorphin Mini-OSCE (Group E)",
               "Endorphin Final",
               "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -20541,6 +20662,7 @@
               "Endorphin Mini-OSCE (Group E)",
               "Endorphin Final",
               "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -20580,6 +20702,7 @@
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)",
               "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -22123,6 +22246,7 @@
               "Endorphin Mini-OSCE (Group E)",
               "Endorphin Final",
               "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -22162,6 +22286,7 @@
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)",
               "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -24869,6 +24994,7 @@
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)",
               "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -26900,6 +27026,7 @@
               "Endorphin Mini-OSCE (Group E)",
               "Endorphin Final",
               "Aorta Mini-OSCE (Group A)",
+              "Aorta Final",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -27698,8 +27825,44 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__85__b0dcm5",
+            "id": "radiology__lecture__abdominal-radiology__85__a231iq",
             "number": "85",
+            "text": "What is the diagnosis? [img: Radiologyaascites.jpg ]",
+            "options": [
+              "Hemoperitoneum",
+              "Pneumoperitoneum",
+              "Ascites",
+              "Pleural effusion"
+            ],
+            "originalOptions": [
+              "Hemoperitoneum",
+              "Pneumoperitoneum",
+              "Ascites",
+              "Pleural effusion"
+            ],
+            "correctAnswer": "C) Ascites",
+            "correctAnswerText": "Ascites",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The axial CT scan of the abdomen shows low density ascitic fluid surrounding the liver, spleen and stomach.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__86__b0dcm5",
+            "number": "86",
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
               "The Inferior mesenteric artery arises at the level of L2",
@@ -28404,12 +28567,13 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "The CT shows a diffusely enlarged, edematous pancreas with peripancreatic fat stranding, the classic acute pancreatitis pattern; a discrete mass (adenocarcinoma) is not seen.",
-        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final / Aorta Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE",
+        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final / Aorta Mini-OSCE (Group A) / Aorta Final / Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Endorphin Mini-OSCE (Group B)",
           "Endorphin Mini-OSCE (Group E)",
           "Endorphin Final",
           "Aorta Mini-OSCE (Group A)",
+          "Aorta Final",
           "Waman A7yaha Mini-OSCE"
         ],
         "note": "",
@@ -28517,11 +28681,12 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "The gas is centrally located within the biliary tree near the porta hepatis; portal venous gas classically extends to within 2 cm of the liver capsule (peripheral), which distinguishes it from pneumobilia.",
-        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A) / Serotonin Mini-OSCE",
+        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Aorta Mini-OSCE (Group A) / Aorta Final / Serotonin Mini-OSCE",
         "batchNames": [
           "Endorphin Mini-OSCE (Group B)",
           "Endorphin Mini-OSCE (Group E)",
           "Aorta Mini-OSCE (Group A)",
+          "Aorta Final",
           "Serotonin Mini-OSCE"
         ],
         "note": "",
@@ -31422,8 +31587,43 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__85__b0dcm5",
+        "id": "radiology__lecture__abdominal-radiology__85__a231iq",
         "number": "85",
+        "text": "What is the diagnosis? [img: Radiologyaascites.jpg ]",
+        "options": [
+          "Hemoperitoneum",
+          "Pneumoperitoneum",
+          "Ascites",
+          "Pleural effusion"
+        ],
+        "originalOptions": [
+          "Hemoperitoneum",
+          "Pneumoperitoneum",
+          "Ascites",
+          "Pleural effusion"
+        ],
+        "correctAnswer": "C) Ascites",
+        "correctAnswerText": "Ascites",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The axial CT scan of the abdomen shows low density ascitic fluid surrounding the liver, spleen and stomach.",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Abdominal Radiology",
+        "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__abdominal-radiology__86__b0dcm5",
+        "number": "86",
         "text": "Regarding abdomen anatomy, which of the following is TRUE?",
         "options": [
           "The Inferior mesenteric artery arises at the level of L2",
@@ -34209,7 +34409,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 161,
+    "totalQuestions": 162,
     "totalLectures": 24,
     "hasAiFolder": false
   },
