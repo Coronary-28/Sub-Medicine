@@ -1,0 +1,650 @@
+What is the most likely diagnosis? [img: Radiologycheartfailure.png ]
+A) Sarcoidosis
+B) Bilateral bronchopneumonia
+C) Heart failure
+D) Pulmonary fibrosis
+E) Miliary tuberculosis
+Correct Answer: C) Heart failure
+Explanation: Cardiomegaly with cephalization, Kerley B lines and interstitial/alveolar edema indicates heart failure. Bilateral bronchopneumonia gives patchy consolidation without cephalization or Kerley B lines.
+Batch: Aorta Mini-OSCE (Group A) / Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologycrightmiddlelobepneumonia.png ]
+A) Right middle lobe pneumonia
+B) Right upper lobe consolidation
+C) Right lower lobe pneumonia
+D) Lingular pneumonia
+E) Right middle lobe collapse
+Correct Answer: A) Right middle lobe pneumonia
+Explanation: Air-space opacity that obscures the right heart border (silhouette sign) localizes to the right middle lobe. Right lower lobe pneumonia obscures the right hemidiaphragm instead, and collapse would show volume loss.
+Batch: Aorta Mini-OSCE (Group A) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologycpulmonaryembolism.png ]
+A) Aortic dissection
+B) Thoracic aortic aneurysm
+C) Superior vena cava thrombosis
+D) Pulmonary embolism
+E) Mediastinal lymphadenopathy
+Correct Answer: D) Pulmonary embolism
+Explanation: A filling defect within the pulmonary artery on contrast CT (CTPA) is diagnostic of pulmonary embolism. Aortic pathologies show an intimal flap or aortic dilatation with normally opacified pulmonary arteries.
+Batch: Aorta Mini-OSCE (Group A) / Aorta Final
+###
+What is WRONG regarding this condition? [img: Radiologycaorticdissection.png ]
+A) Blood enters the medial layer through a tear in the intima
+B) It typically occurs in normotensive young patients
+C) CT angiography of the aorta is the investigation of choice
+D) Risk factors include Marfan syndrome, Turner syndrome and pregnancy
+E) Imaging shows a double lumen
+Correct Answer: B) It typically occurs in normotensive young patients
+Explanation: This is Aortic Dissection. Most dissections occur in elderly hypertensive patients. Young patients are affected only with predisposing conditions such as connective tissue disease. The other statements are true.
+Batch: Aorta Mini-OSCE (Group A)
+###
+Which of the following is the LEAST likely cause of the pathology seen on this CT? [img: Radiologycconsolidationct.png ]
+A) Bacterial pneumonia
+B) Pulmonary hemorrhage
+C) Alveolar proteinosis
+D) Pulmonary edema
+E) Squamous cell carcinoma
+Correct Answer: E) Squamous cell carcinoma
+Explanation: Consolidation results from alveoli filled with pus, blood, protein or transudate. Squamous cell carcinoma typically forms a (cavitating) mass or obstructs a bronchus rather than filling alveoli. The alveolar-filling cell tumour that causes consolidation is bronchoalveolar carcinoma.
+Batch: Aorta Mini-OSCE (Group A)
+###
+Which of the following is NOT a feature of bronchiectasis?
+A) Cylindrical type is the commonest form, with tram-track and signet ring signs
+B) Varicose type shows a beaded appearance
+C) Reversible dilatation of the bronchi
+D) Cystic type shows cyst-like bronchi extending to the pleural surface
+E) Bronchial wall thickening with mucoid impaction
+Correct Answer: C) Reversible dilatation of the bronchi
+Explanation: Bronchiectasis is irreversible, permanent dilatation of the bronchial tree. The other options describe its subtypes and associated findings.
+Batch: Coronary Mini-OSCE (Group C)
+###
+What is the most likely diagnosis? [img: Radiologycpleuraleffusion.png ]
+A) Pleural effusion
+B) Pneumothorax
+C) Pneumonia
+D) Pulmonary embolism
+E) Atelectasis
+Correct Answer: A) Pleural effusion
+Explanation: Homogeneous opacity with a meniscus sign and blunted costophrenic angle indicates pleural effusion. Pneumonia shows air bronchograms without a meniscus, and pneumothorax is radiolucent.
+Batch: Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Endorphin Final / Aorta Final / Vagus Mini-OSCE (Group B) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+###
+Which of the following is NOT seen in heart failure on chest radiography?
+A) Pulmonary edema
+B) Pleural effusion
+C) Cephalization of pulmonary vessels
+D) Small-sized heart
+E) Kerley B lines
+Correct Answer: D) Small-sized heart
+Explanation: Heart failure typically causes cardiomegaly (cardiothoracic ratio >50%), not a small heart. Edema, effusion, cephalization and Kerley B lines are all typical.
+Batch: Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)
+###
+Which of the following is NOT a feature of lung collapse?
+A) Mediastinal shift toward the affected side
+B) Preserved lung volume
+C) Appears radiopaque
+D) Displacement of the fissures toward the collapsed lobe
+E) Triangular opacity with its apex pointing to the hilum
+Correct Answer: B) Preserved lung volume
+Explanation: Loss of lung volume is the cardinal feature of collapse. Preserved volume points to consolidation instead.
+Batch: Coronary Mini-OSCE (Group C)
+###
+Which of the following statements about chest radiograph technique is FALSE?
+A) The patient should stand erect for a PA view
+B) Full inspiration with the patient hugging the detector pulls the scapulae laterally
+C) The PA view is the best general technique for the lungs, mediastinum and great vessels
+D) The lateral view is labelled with the side closest to the cassette
+E) The heart appears accurate in size on the AP view
+Correct Answer: E) The heart appears accurate in size on the AP view
+Explanation: On the AP view the heart is farther from the detector and appears magnified. Accurate cardiac size is assessed on the PA view.
+Batch: Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Endorphin Final
+###
+What is the most likely diagnosis? [img: Radiologycpneumothorax.png ]
+A) Pulmonary fibrosis
+B) Large pleural effusion
+C) Pneumothorax
+D) Consolidation
+E) Lung collapse
+Correct Answer: C) Pneumothorax
+Explanation: Right-sided pneumothorax with almost complete collapse of the right lung. Mediastinal shift to the left, splayed right ribs and mild right diaphragm depression indicate increased right pleural pressure. A thin visceral pleural line with no lung markings peripheral to it and a lucent pleural space is diagnostic of pneumothorax. Effusion and consolidation produce opacity instead.
+Batch: Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Final / Aorta Final
+###
+What is the most likely diagnosis? [img: Radiologycaorticdissection.png ]
+A) Aortic dissection
+B) Aortic coarctation
+C) Thoracic aortic aneurysm
+D) Pulmonary embolism
+E) Aortic intramural hematoma
+Correct Answer: A) Aortic dissection
+Explanation: Contrast CT shows an intimal flap separating a true and a false lumen. An aneurysm is a fusiform dilatation without a flap, and pulmonary embolism gives filling defects in the pulmonary arteries.
+Batch: Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Aorta Final / Vagus Mini-OSCE (Group C) / Vagus Mini-OSCE (Group D)
+###
+What is the most likely diagnosis? [img: Radiologyclingularpneumonia.png ]
+A) Left lower lobe pneumonia
+B) Left middle lobe pneumonia
+C) Left upper lobe collapse
+D) Lingular pneumonia
+E) Right middle lobe pneumonia
+Correct Answer: D) Lingular pneumonia
+Explanation: Air-space opacity obscuring the left heart border, sitting anterior to the left major fissure on the lateral view, is lingular pneumonia. The left lung has no middle lobe or minor fissure, and left lower lobe pneumonia would obscure the left hemidiaphragm.
+Batch: Endorphin Mini-OSCE (Group A) / Aorta Final / Vagus Mini-OSCE (Group B) / Vagus Mini-OSCE (Group C)
+###
+Which of the following is NOT a radiographic finding of the condition shown? [img: Radiologycheartfailure.png ]
+A) Cephalization of pulmonary vessels
+B) Normal pulmonary vasculature
+C) Kerley B lines
+D) Cardiomegaly
+E) Pleural effusion
+Correct Answer: B) Normal pulmonary vasculature
+Explanation: In heart failure the pulmonary vasculature is prominent with cephalization and interstitial edema, not normal. Kerley B lines, cardiomegaly and effusions are typical.
+Batch: Endorphin Mini-OSCE (Group A)
+###
+What is the most likely diagnosis? [img: Radiologycconsolidationct.png ]
+A) Pleural effusion
+B) Atelectasis
+C) Pulmonary edema
+D) Pulmonary fibrosis
+E) Consolidation
+Correct Answer: E) Consolidation
+Explanation: Air-space opacification with air bronchograms and preserved lung volume is consolidation. Atelectasis shows volume loss, and effusion shows a meniscus without air bronchograms.
+Batch: Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E)
+###
+What is the most likely diagnosis? [img: Radiologycconsolidationxray.png ]
+A) Pleural effusion
+B) Atelectasis
+C) Consolidation
+D) Pulmonary fibrosis
+E) Pulmonary edema
+Correct Answer: C) Consolidation
+Explanation: Right upper lobe consolidation. The air-space opacification has a straight lower border confirming it's right upper lobe location.
+Batch: Iris Final / Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+Note: السؤال اللي كان لدفعة ايريس بحكوا كانت الصورة middle lobe
+###
+All of the following are true regarding thoracic aortic aneurysms EXCEPT:
+A) An aneurysm is defined as a diameter >4 cm
+B) Diagnosis is typically made using CT angiography
+C) The most common site is the aortic arch
+D) It can compress adjacent mediastinal structures
+E) The ascending aorta is the most commonly affected segment
+Correct Answer: C) The most common site is the aortic arch
+Explanation: The aortic root and ascending aorta are affected in about 60% of cases. The arch accounts for only about 10%.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final
+###
+All of the following are true about chest X-ray EXCEPT:
+A) Mediastinal structures may appear magnified on the PA view
+B) The PA view is the standard frontal chest projection
+C) The AP supine view is used for patients who cannot sit up
+D) The lateral view assesses the retrosternal and retrocardiac spaces
+E) The AP erect view can be performed at the bedside with a mobile unit
+Correct Answer: A) Mediastinal structures may appear magnified on the PA view
+Explanation: Magnification occurs on AP views because the heart is farther from the detector. The PA view gives accurate cardiac and mediastinal size.
+Batch: Endorphin Mini-OSCE (Group B)
+###
+What is the best imaging modality for diagnosing acute pulmonary embolism, for example in a patient with acute hypoxia and dyspnea with a normal chest X-ray?
+A) Ventilation-perfusion (V/Q) scan
+B) MRI
+C) Chest X-ray
+D) CT pulmonary angiography (CTPA)
+E) Lower-limb Doppler ultrasound
+Correct Answer: D) CT pulmonary angiography (CTPA)
+Explanation: CTPA (which utilizes intravenous contrast) directly shows filling defects in the pulmonary arteries, and the chest X-ray is often normal. V/Q scan is only an alternative when contrast is contraindicated.
+Batch: Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final
+###
+All of the following are seen in heart failure EXCEPT:
+A) Pulmonary edema
+B) Pneumothorax
+C) Cardiomegaly
+D) Pleural effusion
+E) Kerley B lines
+Correct Answer: B) Pneumothorax
+Explanation: Heart failure causes pulmonary edema, cardiomegaly, effusions and Kerley B lines. Pneumothorax is not part of it.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Endorphin Final
+###
+All of the following are true regarding normal lung anatomy EXCEPT:
+A) The right lung has three lobes
+B) The left lung contains the lingula
+C) The left lung has an upper and a lower lobe
+D) The right lung has two fissures
+E) The left lung has three lobes
+Correct Answer: E) The left lung has three lobes
+Explanation: The left lung has only two lobes (upper, including the lingula, and lower) and one fissure. The right lung has three lobes.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Endorphin Final
+###
+Which of the following appears radiolucent (translucent) on chest radiograph?
+A) Pleural effusion
+B) Consolidation
+C) Pneumothorax
+D) Lung collapse
+E) Hilar lymph node enlargement
+Correct Answer: C) Pneumothorax
+Explanation: Air in the pleural space is black (lucent). Effusion, consolidation, collapse and enlarged nodes are all soft-tissue opacities.
+Batch: Endorphin Mini-OSCE (Group C) / Overdose Final
+###
+All of the following regarding lung anatomy are true EXCEPT:
+A) The lingula is seen in the right lung
+B) The right lung has an oblique and a horizontal fissure
+C) The left lung has only an oblique fissure
+D) The left lung has an upper and a lower lobe
+E) The right lung has three lobes
+Correct Answer: A) The lingula is seen in the right lung
+Explanation: The lingula is part of the left upper lobe and replaces the middle lobe on the left. The right lung has an upper, middle and lower lobe.
+Batch: Endorphin Mini-OSCE (Group C)
+###
+Which statement about aortic dissection is WRONG?
+A) It results from a tear in the intima
+B) It shows a double lumen
+C) CT angiography is the investigation of choice
+D) Ultrasound is more commonly used than CT for diagnosis
+E) A false lumen forms within the medial layer
+Correct Answer: D) Ultrasound is more commonly used than CT for diagnosis
+Explanation: CT, especially CTA, is the diagnostic modality of choice for dissection. Ultrasound has a very limited role.
+Batch: Endorphin Mini-OSCE (Group C)
+###
+Which one of the following is NOT true?
+A) The patient should stand erect for a PA view
+B) In PA, full inspiration with the patient hugging the detector pulls the scapulae medially
+C) The heart appears larger on the AP view
+D) The PA view gives an accurate assessment of heart size
+E) The lateral view is performed erect left lateral and labelled with the side closest to the cassette
+Correct Answer: B) In PA, full inspiration with the patient hugging the detector pulls the scapulae medially
+Explanation: Hugging the detector pulls the scapulae laterally, out of the lung fields. Medial displacement would leave them overlapping the lungs.
+Batch: Endorphin Mini-OSCE (Group D)
+###
+Which of the following statements about tuberculosis is NOT true?
+A) Miliary TB shows 1–3 mm nodules randomly and uniformly distributed
+B) Post-primary TB has a strong predilection for the upper zones
+C) Pleural effusions are more frequent in adults than in children
+D) Ipsilateral hilar lymph node enlargement is seen in about 90% of childhood primary TB
+E) In primary infection there is a strong predilection for the upper or lower zone in children
+Correct Answer: E) In primary infection there is a strong predilection for the upper or lower zone in children
+Explanation: Primary TB has no strong lobar or zonal predilection. The upper-zone predilection belongs to post-primary TB.
+Batch: Endorphin Mini-OSCE (Group D)
+###
+Which of the following is WRONG regarding aortic dissection?
+A) Blood enters the medial layer through an intimal tear
+B) CT angiography is the investigation of choice
+C) Blood tracks transversely around the aortic circumference rather than longitudinally along the media
+D) It shows a double lumen
+E) A false lumen forms within the aortic wall
+Correct Answer: C) Blood tracks transversely around the aortic circumference rather than longitudinally along the media
+Explanation: After the intimal tear, blood tracks longitudinally along the media to form the false lumen. The other statements are true.
+Batch: Endorphin Mini-OSCE (Group D)
+###
+Which finding characterizes right middle lobe pneumonia on a frontal chest radiograph?
+A) Obscures the right heart border
+B) Obscures the right hemidiaphragm
+C) Obscures the left heart border
+D) Obscures the aortic knob
+E) Obscures the right paratracheal stripe
+Correct Answer: A) Obscures the right heart border
+Explanation: The right middle lobe abuts the right heart border, so consolidation there produces the silhouette sign. Right lower lobe consolidation obscures the hemidiaphragm, and lingular consolidation obscures the left heart border.
+Batch: Iris Mini-OSCE (Group A)
+###
+Which chest radiograph projection makes the heart appear normal in size?
+A) AP supine
+B) AP erect
+C) PA supine
+D) PA erect
+E) Lateral decubitus
+Correct Answer: D) PA erect
+Explanation: On the PA view the heart is close to the detector, so magnification is minimal (AP views magnify it), and the erect position prevents the diaphragmatic elevation and mediastinal widening that occur in the supine position.
+Batch: Iris Mini-OSCE (Group A) / Iris Final
+###
+Which of the following is characteristic of post-primary (reactivation) tuberculosis?
+A) Lower-lobe consolidation without cavitation
+B) Cavitation in the upper lobes
+C) Ipsilateral hilar lymphadenopathy as the sole finding
+D) Large pleural effusion as the dominant feature
+E) Uniform 1–3 mm nodules throughout both lungs
+Correct Answer: B) Cavitation in the upper lobes
+Explanation: Post-primary TB favors the upper zones and is far more likely to cavitate than primary TB. Isolated hilar nodes and effusion are features of primary disease, and diffuse tiny uniform nodules are miliary TB.
+Batch: Iris Mini-OSCE (Group A)
+###
+What is the most important radiographic landmark of pneumothorax?
+A) Increased density of the affected lung
+B) Mediastinal shift toward the affected side
+C) Air bronchograms within a homogeneous opacity
+D) Blunting of the costophrenic angle
+E) A visible visceral pleural edge with no lung markings peripheral to it
+Correct Answer: E) A visible visceral pleural edge with no lung markings peripheral to it
+Explanation: The thin white visceral pleural line with an avascular lucent space beyond it is the key sign. Mediastinal shift occurs only in tension pneumothorax, and the mediastinum shifts away, not toward the affected side.
+Batch: Iris Mini-OSCE (Group A)
+###
+Which CT finding characterizes pulmonary embolism?
+A) Intimal flap with a double lumen
+B) Fusiform dilatation of the ascending aorta >4 cm
+C) Filling defect within a pulmonary artery
+D) Bilateral hilar lymphadenopathy
+E) Tram-track and signet ring signs
+Correct Answer: C) Filling defect within a pulmonary artery
+Explanation: An intraluminal filling defect in the pulmonary arteries on CTPA is the hallmark of PE. The other options describe aortic dissection, aortic aneurysm, sarcoidosis and bronchiectasis respectively.
+Batch: Iris Mini-OSCE (Group A)
+###
+What is the minimum volume of pleural fluid required to be visualized on a standard PA chest radiograph?
+A) 250 mL
+B) 50 mL
+C) 100 mL
+D) 750 mL
+E) 1000 mL
+Correct Answer: A) 250 mL
+Explanation: About 250–600 mL is needed to detect an effusion on an erect PA film. Smaller volumes require lateral decubitus views or ultrasound.
+Batch: Iris Mini-OSCE (Group C)
+###
+Stage II sarcoidosis is characterized by:
+A) A normal chest radiograph
+B) Hilar or mediastinal nodal enlargement only
+C) Parenchymal disease only
+D) Nodal enlargement with parenchymal disease
+E) End-stage pulmonary fibrosis
+Correct Answer: D) Nodal enlargement with parenchymal disease
+Explanation: Stage II combines nodal enlargement with parenchymal disease. Stage I is nodal only, and stage III is parenchymal disease only.
+Batch: Iris Mini-OSCE (Group C)
+###
+What is the most common location for cavitation in post-primary tuberculosis?
+A) Anterior segments of the upper lobes
+B) Posterior segments of the upper lobes
+C) Right middle lobe
+D) Basal segments of the lower lobes
+E) Lingula
+Correct Answer: B) Posterior segments of the upper lobes
+Explanation: Post-primary TB develops mainly in the posterior segments of the upper lobes (~85%) and the superior segment of the lower lobe. The other locations are not typical.
+Batch: Iris Mini-OSCE (Group C)
+###
+Which of the following statements about sarcoidosis staging is WRONG?
+A) Stage 0: normal chest radiograph
+B) Stage I: hilar or mediastinal nodal enlargement only
+C) Stage II: nodal enlargement with parenchymal disease
+D) Stage IV: end-stage lung disease (pulmonary fibrosis)
+E) Stage II: parenchymal disease only
+Correct Answer: E) Stage II: parenchymal disease only
+Explanation: Parenchymal disease without nodal enlargement is stage III. Stage II requires both nodal enlargement and parenchymal disease.
+Batch: Iris Mini-OSCE (Group D)
+###
+Which of the following statements regarding pneumothorax is FALSE?
+A) Primary spontaneous pneumothorax occurs without underlying lung disease
+B) Emphysema is a cause of secondary spontaneous pneumothorax
+C) Marfan syndrome is not associated with pneumothorax
+D) The lateral decubitus film should be taken with the suspected side up
+E) Mediastinal shift away from the pneumothorax occurs only in tension pneumothorax
+Correct Answer: C) Marfan syndrome is not associated with pneumothorax
+Explanation: Marfan syndrome is a recognized cause of primary spontaneous pneumothorax, along with Ehlers-Danlos syndrome, alpha-1 antitrypsin deficiency and homocystinuria. The other statements are correct.
+Batch: Iris Mini-OSCE (Group D)
+###
+Which of the following statements about tuberculosis is FALSE?
+A) Primary TB is more common in adults than in children
+B) Cavitation is uncommon in primary TB
+C) Post-primary TB has a strong upper-zone predilection
+D) Post-primary TB is more likely to cavitate than primary TB
+E) Ipsilateral hilar lymphadenopathy is more frequent in childhood primary TB
+Correct Answer: A) Primary TB is more common in adults than in children
+Explanation: Primary TB is more typical of children, with hilar nodes in about 90% of children versus 10–30% of adults. Adults mostly present with post-primary reactivation disease.
+Batch: Iris Mini-OSCE (Group D)
+###
+Which of the following best describes the cardiac position finding on this adult chest radiograph? [img: Radiologycdextrocardia.png ]
+A) Levocardia
+B) Dextrocardia
+C) Mesocardia
+D) Situs inversus totalis
+E) Cardiomegaly
+Correct Answer: B) Dextrocardia
+Explanation: Dextrocardia is identified when the cardiac apex and the bulk of the heart silhouette point toward the right side of the chest instead of the left. In this radiograph, the heart silhouette is clearly positioned within the right hemithorax. Notice that the aortic arch is on the left and there is an intestinal/gastric gas bubble on the left, which stands in contrast to situs inversus totalis where both the thoracic and abdominal organs are completely mirrored.
+Batch: Waman A7yaha Mini-OSCE
+Note: This question is not covered in the course slides.
+###
+What is the most likely diagnosis? [img: Radiologycrightupperlobecollapse.png ]
+A) Right upper lobe consolidation
+B) Right middle lobe pneumonia
+C) Right upper lobe collapse
+D) Right pneumothorax
+E) Right pleural effusion
+Correct Answer: C) Right upper lobe collapse
+Explanation: A triangular right upper zone opacity with an elevated horizontal fissure and elevated right hilum shows volume loss, so it is collapse. Pneumothorax is lucent, effusion shows a meniscus, and consolidation preserves lobar volume and does not displace the fissure.
+Batch: Aorta Final / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologycleftlowerlobecollapse.png ]
+A) Left pneumothorax
+B) Right pneumothorax
+C) Left lower lobe collapse
+D) Pleural effusion
+E) Left lower lobe consolidation
+Correct Answer: C) Left lower lobe collapse
+Explanation: Triangular density behind the heart. The left hilum is inferiorly displaced. Volume loss in the left hemithorax. Pneumothorax is lucent, effusion shows a meniscus, and consolidation preserves lobar volume.
+Batch: Aorta Final
+###
+What is the most likely diagnosis? [img: Radiologyctensionpneumothorax.png ]
+A) Simple pneumothorax without mediastinal shift
+B) Large pleural effusion
+C) Lung collapse
+D) Tension pneumothorax
+E) Diaphragmatic hernia
+Correct Answer: D) Tension pneumothorax
+Explanation: Mobile chest x-ray of an intubated patient with a large right-sided pneumothorax. The right hemithorax is hyper-expanded, the right ribs are splayed, the diaphragm is flattened, there is leftward shift of the mediastinum and the right lung is collapsed. Both lungs show signs of consolidation and this prevents further collapse of the right lung.
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologycsarcoidosis.png ]
+A) Miliary tuberculosis
+B) Sarcoidosis
+C) Bilateral pneumonia
+D) Pulmonary fibrosis
+E) Heart failure
+Correct Answer: B) Sarcoidosis
+Explanation: Bilateral hilar lymphadenopathy. No lung infiltrations are shown. No fibrosis. The plain film demonstrates stage 1 sarcoidosis (i.e. bilateral hilar lymphadenopathy).
+Batch: Aorta Final / Waman A7yaha Mini-OSCE
+###
+Which of the following options correctly identifies the numbered structures (1, 2, 3, and 4) highlighted on this frontal chest radiograph? [img: Radiologycanatomy4structures.png ]
+A) 1: Carina, 2: Pulmonary trunk, 3: Left hilum, 4: Costocardiac angle
+B) 1: Trachea, 2: Aortic knob, 3: Right hilum & pulmonary artery, 4: Costophrenic angle
+C) 1: Esophagus, 2: Aortic knob, 3: Left hilum, 4: Costophrenic angle
+D) 1: Trachea, 2: Pulmonary trunk, 3: Right hilum & pulmonary artery, 4: Costocardiac angle
+Correct Answer: B) 1: Trachea, 2: Aortic knob, 3: Right hilum & pulmonary artery, 4: Costophrenic angle
+Explanation: Structure 1 points to the midline trachea, while structure 2 highlights the aortic knob representing the prominent lateral contour of the aortic arch as it curves posteriorly over the left main bronchus. Structure 3 denotes the right hilum & pulmonary artery where major vessels and airways enter the right lung, and structure 4 marks the sharp costophrenic angles at the junction of the diaphragm and ribs.
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the main finding on this chest radiograph? [img: Radiologycunilateralhilarenlargement.png ]
+A) Bilateral symmetric hilar lymphadenopathy
+B) Aortic knob enlargement
+C) Unilateral hilar enlargement
+D) Cardiomegaly
+E) Bilateral upper zone cavitation
+Correct Answer: C) Unilateral hilar enlargement
+Explanation: The radiograph demonstrates marked enlargement and increased opacity of the left hilum, the normal pulmonary vessels are difficult to delineate. Sarcoidosis classically gives symmetric bilateral hilar nodes, and ipsilateral hilar lymphadenopathy is typical of childhood primary TB.
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologycthoracicaorticaneurysm.jpg ]
+A) Thoracic aortic aneurysm
+B) Aortic dissection
+C) Aortic coarctation
+D) Pulmonary embolism
+E) Mediastinal lymphadenopathy
+Correct Answer: A) Thoracic aortic aneurysm
+Explanation: Axial chest CECT shows fusiform aneurysm involving the ascending thoracic aorta (white solid arrow). Note diameter of the pulmonary trunk (white curved arrow), which normally is approximately the same size as the ascending aorta.
+Batch: Endorphin Final
+###
+Which of the following statements about air bronchograms is FALSE?
+A) They are commonly seen in lung consolidation
+B) They are present in alveolar disease
+C) They are absent in pleural effusion
+D) They are typical in lung collapse
+E) They represent patent airways outlined by air within opacified lung
+Correct Answer: D) They are typical in lung collapse
+Explanation: Air bronchograms characterize consolidation and alveolar disease. They are not a typical feature of collapse, which is defined by volume loss with crowded bronchi.
+Batch: Endorphin Final / Vagus Final
+###
+Air bronchograms are a characteristic finding in which of the following?
+A) Pleural effusion
+B) Pneumothorax
+C) Lobar lung collapse
+D) Miliary tuberculosis
+E) Consolidation
+Correct Answer: E) Consolidation
+Explanation: In consolidation the alveoli are filled while the bronchi remain patent, so air-filled bronchi are outlined within the homogeneous opacity. They are absent in effusion and pneumothorax, and collapse is defined by volume loss rather than air bronchograms.
+Batch: Iris Final
+###
+All of the following are true about consolidation EXCEPT:
+A) It can be caused by bronchoalveolar carcinoma
+B) Volume loss of the affected lung
+C) Air bronchograms can be seen
+D) It may present as lobar or bronchopneumonia
+E) Airspace opacification can be seen
+Correct Answer: B) Volume loss of the affected lung
+Explanation: In consolidation, air is replaced by fluid, pus or cells, so lung volume is preserved. Volume loss indicates collapse.
+Batch: Overdose Final
+###
+All of the following can cause lobar collapse EXCEPT:
+A) Compression by an adjacent mass
+B) Aspirated foreign material
+C) Mucus plug
+D) Bronchogenic carcinoma
+E) Bullous emphysema of the involved lobe
+Correct Answer: E) Bullous emphysema of the involved lobe
+Explanation: Lobar collapse results from luminal obstruction (foreign body, mucus plug), mural lesions (carcinoma) or extrinsic compression. Bullous emphysema does not obstruct the supplying bronchus.
+Batch: Overdose Final / Waman A7yaha Final / Serotonin Final
+###
+An infant is suspected of having left-sided foreign body aspiration. Which of the following chest views is NOT helpful?
+A) Semi-erect inspiratory view
+B) Left lateral decubitus view
+C) Frontal supine inspiratory view
+D) Right lateral decubitus view
+E) Frontal supine expiratory view
+Correct Answer: D) Right lateral decubitus view
+Explanation: With a check-valve obstruction, the affected lung fails to deflate on expiration or when the affected side is dependent (left lateral decubitus). A right lateral decubitus view gives no additional information for a left-sided foreign body.
+Batch: Waman A7yaha Final / Serotonin Final
+###
+Regarding the pathology seen on the provided image, which of the following is TRUE? [img: Radiologyclobarconsolidation.png ]
+A) Mediastinal shift to the same side aids the diagnosis of consolidation
+B) The presence of air bronchograms aids the diagnosis of collapse
+C) Lobar consolidation is usually bordered by a lung fissure
+D) Clear outline of adjacent structures aids the diagnosis of pleural fluid
+E) Volume loss of the affected lobe is the hallmark of consolidation
+Correct Answer: C) Lobar consolidation is usually bordered by a lung fissure
+Explanation: Lobar consolidation is sharply demarcated by the fissure. Shift toward the lesion and volume loss suggest collapse, and effusion obscures adjacent structures.
+Batch: Serotonin Final
+###
+Regarding the provided image, what is the best management for the pathology seen? [img: Radiologycpneumoniamanagement.png ]
+A) Antibiotics
+B) Chest tube
+C) Diuretics
+D) Bronchial lavage
+E) Therapeutic thoracentesis
+Correct Answer: A) Antibiotics
+Explanation: The image shows consolidation from bacterial pneumonia, which is treated with antibiotics. A chest tube is for pneumothorax or empyema, and diuretics are for pulmonary edema in heart failure.
+Batch: Serotonin Final
+###
+Regarding pneumothorax, which of the following is TRUE?
+A) Pulmonary laceration causes contralateral pneumothorax
+B) Mediastinal shift to the left is usually associated with left tension pneumothorax
+C) Cavitary neoplasms are the usual cause of primary pneumothorax
+D) The chest tube should be inserted anterosuperiorly at the affected side
+E) Primary spontaneous pneumothorax typically occurs in short elderly women
+Correct Answer: D) The chest tube should be inserted anterosuperiorly at the affected side
+Explanation: Air collects anteriorly and superiorly, so the tube is placed there. Laceration causes an ipsilateral pneumothorax, tension pushes the mediastinum away, and primary spontaneous pneumothorax affects tall young patients.
+Batch: Serotonin Final
+###
+Regarding pneumothorax, which of the following is TRUE?
+A) The chest tube should be inserted posterosuperiorly at the affected side
+B) The affected lung shows increased lucency in tension pneumothorax
+C) The chest tube should be inserted posteroinferiorly at the affected side
+D) The chest tube should be placed anteroinferiorly at the affected side
+E) The mediastinum shifts toward the side of the tension pneumothorax
+Correct Answer: B) The affected lung shows increased lucency in tension pneumothorax
+Explanation: Tension pneumothorax gives a hyperlucent hemithorax with a collapsed lung. The mediastinum shifts away from it, and the tube is placed anterosuperiorly, not posteriorly or inferiorly.
+Batch: Vagus Final / Waman A7yaha Final
+###
+Regarding normal appearances on chest imaging, which of the following is TRUE?
+A) The left main bronchus is shorter and steeper than the right main bronchus
+B) The heart base consists of the right atrium shadow
+C) The right vascular bulge at the third intercostal space represents the aortic knob
+D) The right pulmonary artery arches over the right main bronchus
+E) The right hemidiaphragm is normally higher than the left (up to about 2 cm)
+Correct Answer: E) The right hemidiaphragm is normally higher than the left (up to about 2 cm)
+Explanation: The liver normally elevates the right hemidiaphragm. The left main bronchus is longer and more horizontal, and the aortic knob lies on the left.
+Batch: Waman A7yaha Final
+###
+Which of the following statements about stage II sarcoidosis is WRONG?
+A) Hilar lymph node enlargement is present
+B) Nodal enlargement with pleural effusion is the defining feature
+C) Parenchymal disease is present
+D) Reticulonodular opacities may involve the upper zones
+E) Bilateral hilar lymphadenopathy is typical
+Correct Answer: B) Nodal enlargement with pleural effusion is the defining feature
+Explanation: Stage II is defined by nodal enlargement plus parenchymal disease. Pleural effusion is not a staging criterion.
+Batch: Vagus Final
+###
+Which of the following is WRONG regarding cavitation in post-primary tuberculosis?
+A) It is more likely to occur than in primary TB
+B) It develops mainly in the posterior segments of the upper lobes
+C) The superior segment of the lower lobe can also be involved
+D) It develops years after the primary infection, often with decreased immunity
+E) It typically occurs in the posterior basal segments of the lower lobes
+Correct Answer: E) It typically occurs in the posterior basal segments of the lower lobes
+Explanation: Post-primary cavities occur in the posterior segments of the upper lobes (~85%) and the superior segment of the lower lobe. The posterior basal segments are not typical.
+Batch: Vagus Final
+###
+Why does the heart appear magnified on an AP chest radiograph?
+A) The scapulae overlie the cardiac shadow
+B) The patient is usually rotated during the examination
+C) The heart is farther from the detector
+D) The beam traverses the patient from posterior to anterior
+E) The lungs are hyperinflated on AP films
+Correct Answer: C) The heart is farther from the detector
+Explanation: Magnification is geometric, because in the AP view the heart lies farther from the detector than in the PA view. Rotation and overlying scapulae are drawbacks of AP films but are not the cause of magnification, and a posterior-to-anterior beam describes the PA view.
+Batch: Iris Final
+###
+Which of the following typically causes mediastinal shift AWAY from the affected side?
+A) Large pleural effusion
+B) Lobar lung collapse
+C) Complete obstruction of the main bronchus
+D) Lobar consolidation
+E) Simple pneumothorax
+Correct Answer: A) Large pleural effusion
+Explanation: A large effusion exerts mass effect and pushes the mediastinum away from the affected side. Collapse (including complete main bronchus obstruction) pulls the mediastinum toward the affected side, consolidation preserves volume without shift, and a simple pneumothorax causes no shift unless it becomes tension.
+Batch: Iris Final
+###
+Which of the following is a characteristic sign of pleural effusion on an erect frontal chest radiograph?
+A) Air bronchogram
+B) Cephalization
+C) Signet ring sign
+D) Meniscus sign
+E) Kerley B lines
+Correct Answer: D) Meniscus sign
+Explanation: Fluid climbs the lateral chest wall, forming a concave-upward meniscus that slopes gently medially, together with blunting of the costophrenic angle. Air bronchogram indicates consolidation, signet ring indicates bronchiectasis, and cephalization and Kerley B lines are features of heart failure.
+Batch: Iris Final
+###
+Regarding the thin white line seen on an erect chest radiograph in pneumothorax, which of the following is TRUE?
+A) Lung markings extend peripheral to the line
+B) The peripheral space is radiolucent compared with the adjacent lung
+C) The line represents the parietal pleura
+D) The mediastinum always shifts away from the affected side
+E) The peripheral space appears denser than the adjacent lung
+Correct Answer: B) The peripheral space is radiolucent compared with the adjacent lung
+Explanation: The line is the visceral pleural edge, and the air-filled pleural space beyond it is lucent and avascular. Shift away from the pneumothorax occurs only in tension pneumothorax.
+Batch: Iris Final
+###
+Which of the following is TRUE regarding heart failure on chest radiography?
+A) The heart is typically small
+B) Pleural effusions are not a feature
+C) Cephalization of the pulmonary vessels is seen
+D) Kerley B lines are long lines at the lung apices
+E) The cardiothoracic ratio is typically below 50%
+Correct Answer: C) Cephalization of the pulmonary vessels is seen
+Explanation: Pulmonary venous congestion dilates the upper lobe veins (cephalization). Heart failure causes cardiomegaly (cardiothoracic ratio >50%) and effusions, and Kerley B lines are 1–2 cm peripheral lines at the lung bases, not the apices.
+Batch: Iris Final
+###
+A chest radiograph shows a thin visceral pleural line with absent lung markings peripheral to it and no mediastinal shift. What is the most likely diagnosis?
+A) Simple pneumothorax
+B) Tension pneumothorax
+C) Large pleural effusion
+D) Lobar lung collapse
+E) Consolidation
+Correct Answer: A) Simple pneumothorax
+Explanation: A visible visceral pleural edge with an avascular lucent space beyond it is diagnostic of pneumothorax, and the absence of mediastinal shift makes it non-tension. Tension pneumothorax shifts the mediastinum away, and effusion, collapse and consolidation all produce opacity.
+Batch: Iris Final
+###
+Which of the following is WRONG regarding pleural effusion?
+A) Blunting of the costophrenic angle is seen
+B) A meniscus is seen on erect frontal films
+C) A lateral decubitus view with the affected side down is the most sensitive projection
+D) It appears lucent (radiolucent) on chest radiograph
+E) A large effusion causes mediastinal shift away from the effusion
+Correct Answer: D) It appears lucent (radiolucent) on chest radiograph
+Explanation: Fluid is soft-tissue density, so an effusion appears as an opacity (white). Pneumothorax is the pleural pathology that appears lucent.
+Batch: Vagus Final
