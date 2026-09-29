@@ -176,7 +176,7 @@ C) Posterior cerebral artery
 D) Basilar artery
 Correct Answer: A) Anterior cerebral artery
 Explanation: The infarct involves the medial frontal lobe, the classic ACA distribution, unlike the lateral hemispheric MCA territory or the occipital PCA territory.
-Batch: Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Aorta Final
+Batch: Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
 ###
 What is the diagnosis? [img: Radiologynmeningioma.png ]
 A) Epidural hematoma
@@ -195,7 +195,7 @@ D) Neurocysticercosis
 E) Multiple sclerosis
 Correct Answer: E) Multiple sclerosis
 Explanation: Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.
-Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE
 ###
 All of the following is true regarding the corona radiata EXCEPT:
 A) Also called centrum semiovale
@@ -240,7 +240,7 @@ C) Subarachnoid hemorrhage
 D) Intracerebral hemorrhage
 Correct Answer: A) Epidural hematoma
 Explanation: A biconvex, lentiform hyperdense extra-axial collection is the classic CT appearance of acute epidural hematoma, distinct from the crescentic shape of subdural hematoma.
-Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE
+Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
 ###
 Identify the indicated neuroanatomical structure (Number 2). [img: Radiologynanatomyhippocampus.png ]
 A) Amygdala
@@ -288,4 +288,124 @@ D) Gradient echo (SWI)
 Correct Answer: D) Gradient echo (SWI)
 Explanation: Gradient echo/susceptibility-weighted sequences are exquisitely sensitive to blood products due to a blooming artifact, unlike T1, T2, or FLAIR.
 Batch: Iris Mini-OSCE (Group D)
+###
+What is the diagnosis? [img: Radiologynintraventricularhemorrhage.png ]
+A) Choroid plexus papilloma
+B) Intraventricular hemorrhage
+C) Colloid cyst
+D) Ependymoma
+Correct Answer: B) Intraventricular hemorrhage
+Explanation: An acute intracerebral haemorrhage is centred in the basal ganglia of the right hemisphere with the extension of blood into both lateral ventricles (intraventricular haemorrhage), third & fourth ventricles as well as the foramina of Luschka and Magendie. There is no hydrocephalus at this stage.
+Batch: Serotonin Mini-OSCE
+###
+Identify the neuroanatomical structures labeled 1, 2, and 4 on this axial brain CT, respectively. [img: Radiologynanatomy1brain.png ]
+A) Frontal lobe, caudate, thalamus
+B) Caudate, parietal lobe, thalamus
+C) Frontal lobe, thalamus, internal capsule
+D) Parietal lobe, thalamus, internal capsule
+Correct Answer: A) Frontal lobe, caudate, thalamus
+Explanation: This labeled axial CT correctly places the frontal lobe label on the patient's left side while the caudate head and thalamus labels are both on the right side.
+Batch: Serotonin Mini-OSCE
+Note: 1. Frontal lobe || 2. Caudate || 3. Parietal lobe || 4. Thalamus || 5. Internal capsule
+###
+What is the diagnosis? [img: Radiologynmcainfarct.png ]
+A) Acute MCA territory infarction
+B) Chronic MCA infarction
+C) Acute ACA infarction
+D) Vasogenic edema
+Correct Answer: A) Acute MCA territory infarction
+Explanation: DWI hyperintensity with ADC hypointensity (true restricted diffusion) confirms acute ischemic infarction, unlike chronic infarct (facilitated diffusion) or vasogenic edema (no restriction). Here, ADC (Apparent Diffusion Coefficient) map acts as a mirror image to confirm true tissue ischemia by turning dark.
+Batch: Vagus Mini-OSCE (Group C) / Serotonin Mini-OSCE
+###
+What is the diagnosis? [img: Radiologynposteriorischemia.png ]
+A) Anterior circulation ischemia
+B) Cerebellar hemorrhage
+C) Basal ganglia hemorrhage
+D) Posterior circulation ischemia
+Correct Answer: D) Posterior circulation ischemia
+Explanation: Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.
+Batch: Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+###
+What is the diagnosis? [img: Radiologynsubarachnoidhemorrhage.png ]
+A) Intraventricular hemorrhage
+B) Subarachnoid hemorrhage
+C) Epidural hemorrhage
+D) Subdural hemorrhage
+Correct Answer: B) Subarachnoid hemorrhage
+Explanation: Subarachnoid hemorrhage along the right central sulcus. Hyperdense material filling the basal cisterns and sulci (rather than a discrete extra-axial collection or intraventricular clot) is characteristic of diffuse SAH.
+Batch: Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE
+###
+What is the diagnosis? [img: Radiologynskullfracture.png ]
+A) Right parietal bone fracture
+B) Left parietal bone fracture
+C) Right occipital bone fracture
+D) Left occipital bone fracture
+Correct Answer: B) Left parietal bone fracture
+Explanation: Axial CT bone window show left parietal bone fracture.
+Batch: Serotonin Mini-OSCE
+###
+What is the diagnosis? [img: Radiologynsubduralhemorrhage.png ]
+A) Epidural hemorrhage
+B) Subdural hemorrhage
+C) Subarachnoid hemorrhage
+D) Intraparenchymal hemorrhage
+Correct Answer: B) Subdural hemorrhage
+Explanation: Non-contrast head CT reveals hyperdense extra-axial collection overlying the right hemisphere consistent with acute subdural hematoma. A crescentic extra-axial collection that can cross suture lines is classic for subdural hemorrhage, distinguishing it from the biconvex/lentiform epidural hematoma.
+Batch: Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+###
+Identify the labeled neuroanatomical structure on this axial brain CT. [img: Radiologynbrainanatomythirdventricle.png ]
+A) Right caudate nucleus
+B) Third ventricle
+C) Thalamus
+D) Internal capsule
+Correct Answer: B) Third ventricle
+Explanation: I don't know what to write; there's no explanation :)
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the diagnosis? [img: Radiologynstraightsinusthrombosis.png ]
+A) Superior sagittal sinus thrombosis
+B) Transverse sinus thrombosis
+C) Cavernous sinus thrombosis
+D) Straight sinus thrombosis
+Correct Answer: D) Straight sinus thrombosis
+Explanation: Axial CT head without contrast shows hyperdense straight sinus represents straight sinus thrombosis.
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the diagnosis? [img: Radiologyntransversesinusthrombosis.png ]
+A) Straight sinus thrombosis
+B) Superior sagittal sinus thrombosis
+C) Transverse sinus thrombosis
+D) Cavernous sinus thrombosis
+Correct Answer: C) Transverse sinus thrombosis
+Explanation: Right image» Axial CT head without contrast shows dense right transverse sinus represents sinus thrombosis. Left image» Axial MRI brain with contrast shows filling defect in the left transverse sinus.
+Batch: Waman A7yaha Mini-OSCE
+###
+Identify the labeled structure (A). [img: Radiologynanatomygenubrain.png ]
+A) Anterior Horn of the Lateral Ventricle
+B) Straight Sinus
+C) Genu of the Corpus Callosum
+D) Choroid Plexus
+Correct Answer: C) Genu of the Corpus Callosum
+Explanation: Look at the ⚠️ on the left of the question. I don't know what to write; there's no explanation :)
+Batch: Waman A7yaha Mini-OSCE
+Note: A. Genu of the Corpus Callosum || B. Anterior Horn of the Lateral Ventricle || C. Internal Capsule || D. Thalamus || E. Pineal Gland || F. Choroid Plexus || G. Straight Sinus
+###
+Identify the labeled structure. [img: Radiologynanatomyfourthventriclebrain.png ]
+A) Left cerebellar hemisphere
+B) Third ventricle
+C) Pons
+D) Anterior Horn of the Lateral Ventricle
+E) Fourth ventricle
+Correct Answer: E) Fourth ventricle
+Explanation: I don't know what to write; there's no explanation :)
+Batch: Waman A7yaha Mini-OSCE
+###
+What is the most likely diagnosis? [img: Radiologynleftsubacutesubduralhemorrhage.png ]
+A) Right epidural hemorrhage
+B) Left subacute subdural hemorrhage
+C) Right acute subdural hemorrhage
+D) Left epidural hemorrhage
+Correct Answer: B) Left subacute subdural hemorrhage
+Explanation: Huge isodense subdural hematoma causing gross compression to the left hemisphere and midline shift to right.
+Batch: Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE
 ###
