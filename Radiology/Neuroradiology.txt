@@ -1,0 +1,291 @@
+Which structure is consistently HYPERDENSE on a normal, unenhanced brain CT regardless of patient age?
+A) Falx cerebri
+B) Choroid plexus
+C) Ocular lenses
+D) Pineal gland
+E) Basal ganglia
+Correct Answer: C) Ocular lenses
+Explanation: The lenses are dense on every CT due to their protein content, unlike falx, choroid plexus, pineal, and basal ganglia calcifications, which are age-dependent and inconsistent.
+Batch: Aorta Mini-OSCE (Group A)
+###
+Which MRI sequence is shown in this image, where CSF is suppressed (dark) while periventricular lesions remain bright? [img: Radiologynflairsequence.png ]
+A) FLAIR
+B) T2-weighted
+C) T1-weighted
+D) Gradient echo (SWI)
+Correct Answer: A) FLAIR
+Explanation: FLAIR nulls the CSF signal while preserving T2 hyperintensity of white matter lesions, unlike standard T2 (CSF bright) or T1 (different grey/white contrast).
+Batch: Iris Mini-OSCE (Group C) / Aorta Mini-OSCE (Group A)
+###
+What is the age of the hemorrhage shown on this MRI? [img: Radiologynacutehemorrhage.png ]
+A) Hyperacute (<24h)
+B) Late subacute
+C) Chronic
+D) Acute
+E) Early subacute
+Correct Answer: D) Acute
+Explanation: The signal pattern corresponds to deoxyhemoglobin, characteristic of the acute stage (1–3 days), distinguishing it from hyperacute (oxyhemoglobin) and later stages.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Aorta Mini-OSCE (Group A) / Aorta Final
+###
+Which of the following is NOT a recognized cause of diffuse cerebral edema? [img: Radiologyndiffuseedema.png ]
+A) Drug overdose
+B) Migraine
+C) Hypertensive emergency
+D) Anoxic brain injury
+E) Post-traumatic brain injury
+Correct Answer: B) Migraine
+Explanation: Migraine is not a cause of diffuse cerebral edema; drug overdose, hypertensive emergency (PRES), anoxic injury, and trauma are all recognized causes of diffuse brain swelling.
+Batch: Endorphin Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Serotonin Final
+###
+Which of the following is a cause of non-communicating hydrocephalus?
+A) Subarachnoid hemorrhage
+B) Meningitis
+C) Choroid plexus papilloma
+D) Meningeal carcinomatosis
+E) Colloid cyst
+Correct Answer: E) Colloid cyst
+Explanation: A colloid cyst at the foramen of Monro physically obstructs CSF flow (non-communicating hydrocephalus); SAH, meningitis, and meningeal carcinomatosis impair CSF absorption (communicating), and choroid plexus papilloma causes communicating hydrocephalus via CSF overproduction.
+Batch: Iris Mini-OSCE (Group C) / Aorta Mini-OSCE (Group A) / Waman A7yaha Final / Serotonin Final
+###
+What is the name of the part of the corpus callosum indicated by the number 5? [img: Radiologynanatomysplenium.png ]
+A) Genu of the corpus callosum
+B) Body of the corpus callosum
+C) Splenium of the corpus callosum
+D) Fornix
+E) Cingulate gyrus
+Correct Answer: C) Splenium of the corpus callosum
+Explanation: The arrow (5) points to the posterior, bulbous portion of the corpus callosum — the splenium — distinct from the genu (anterior) and body (mid-portion).
+Batch: Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A)
+Note: 1. Rostrum || 2. Genu || 3. Body || 4. Isthmus || 5. Splenium
+###
+Which of the following statements regarding craniopharyngioma is FALSE?
+A) There is no calcification in the adamantinomatous subtype
+B) The adamantinomatous subtype is more common in children (5–15 years)
+C) The papillary subtype occurs mainly in adults and is usually solid
+D) Calcification is uncommon in the papillary subtype
+Correct Answer: A) There is no calcification in the adamantinomatous subtype
+Explanation: The adamantinomatous subtype shows calcification in ~90% of cases, making this statement false; calcification is instead rare in the adult papillary subtype.
+Batch: Aorta Mini-OSCE (Group A)
+###
+This type of edema occurs in all of the following EXCEPT: [img: Radiologynvasogenicedema.png ]
+A) Lymphoma
+B) Abscess
+C) Glioblastoma multiforme
+D) Ischemia
+Correct Answer: D) Ischemia
+Explanation: Vasogenic edema surrounds tumors and abscesses (lymphoma, abscess, GBM) due to blood-brain barrier disruption; ischemic stroke instead produces cytotoxic edema from cellular swelling.
+Batch: Aorta Mini-OSCE (Group A)
+###
+Which statement regarding cerebral venous sinus thrombosis is CORRECT?
+A) The cavernous sinus is the most common site
+B) Both cytotoxic and vasogenic edema can be seen
+C) Sinus thrombosis does not cause hemorrhage
+D) The vein of Labbé drains into the superior sagittal sinus
+Correct Answer: B) Both cytotoxic and vasogenic edema can be seen
+Explanation: Raised venous pressure first causes vasogenic edema, progressing to cytotoxic edema if venous infarction occurs. The superior sagittal sinus (not cavernous) is the most common site, hemorrhage is common, and the vein of Labbé drains into the transverse sinus.
+Batch: Coronary Mini-OSCE (Group C)
+###
+Which of the following does NOT show restricted diffusion on MRI (DWI)?
+A) Lymphoma
+B) Abscess
+C) Epidermoid cyst
+D) Acute ischemia
+E) Acute hemorrhage
+Correct Answer: E) Acute hemorrhage
+Explanation: Lymphoma, abscess, epidermoid cyst, and acute ischemia characteristically restrict diffusion; acute hemorrhage's DWI signal is variable and not a classic cause of true restricted diffusion.
+Batch: Coronary Mini-OSCE (Group C)
+###
+A brain MRI lesion is isointense on T1 and hyperintense on T2. What stage of hemorrhage is most likely?
+A) Early subacute (1–3 days)
+B) Late subacute (3–14 days)
+C) Hyperacute (<24 hours)
+D) Chronic (>2 weeks)
+Correct Answer: C) Hyperacute (<24 hours)
+Explanation: Intracellular oxyhemoglobin in the hyperacute stage is T1 isointense and T2 hyperintense; acute (deoxyhemoglobin) blood is instead T2 hypointense.
+Batch: Coronary Mini-OSCE (Group C)
+###
+Which basal-ganglia blood-supply statement is INCORRECT?
+A) The anterior limb of the internal capsule is supplied by the choroidal artery
+B) The caudate is supplied by the medial lenticulostriate artery
+C) The putamen and globus pallidus are supplied by the lateral lenticulostriate artery
+D) The thalamus is supplied by the posterior cerebral artery
+Correct Answer: A) The anterior limb of the internal capsule is supplied by the choroidal artery
+Explanation: The anterior limb of the internal capsule is supplied by the medial lenticulostriate arteries and the recurrent artery of Heubner; the anterior choroidal artery instead supplies the posterior limb/retrolentiform region.
+Batch: Coronary Mini-OSCE (Group C)
+###
+Which of the following statements regarding this lesion is TRUE? [img: Radiologynepiduralhematomatrue.png ]
+A) It crosses the sutures freely
+B) It crosses the falx cerebri
+C) It extends across the midline
+D) It does not cross the sutures
+Correct Answer: D) It does not cross the sutures
+Explanation: Epidural hematoma is limited by cranial sutures where the dura is tightly adherent, giving its lentiform shape; it does NOT cross sutures but CAN cross the falx (opposite the pattern of subdural hematoma).
+Batch: Endorphin Mini-OSCE (Group A)
+###
+Which is WRONG about this lesion? [img: Radiologynepiduralhematomawrong.png ]
+A) The common cause of bleeding is the middle meningeal artery
+B) It crosses the sutures
+C) It is caused by trauma
+D) Supratentorial location is more common than infratentorial
+Correct Answer: B) It crosses the sutures
+Explanation: Epidural hematoma is limited by the firmly adherent dura at suture lines, so it does NOT cross sutures — unlike the true facts about MMA injury, trauma, and supratentorial predominance.
+Batch: Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)
+###
+Which of the following statements about multiple sclerosis is FALSE?
+A) Lesions are most commonly periventricular
+B) CT is a better imaging tool than MRI for diagnosis
+C) The McDonald criteria are used for diagnosis
+D) MRI is the primary imaging modality for MS
+Correct Answer: B) CT is a better imaging tool than MRI for diagnosis
+Explanation: MRI, not CT, is the modality of choice for MS since CT is often normal or nonspecific even with significant disease burden.
+Batch: Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A)
+###
+Which of the following statements about multiple sclerosis (MS) is TRUE?
+A) MS is limited to the peripheral nervous system
+B) Spinal cord involvement occurs in less than 10% of cases
+C) Lesions are mostly periventricular
+D) MS typically presents in early childhood
+E) Lesions are mostly infratentorial in children
+Correct Answer: C) Lesions are mostly periventricular
+Explanation: MS classically produces periventricular plaques (>85% of cases); it is a CNS disease, spinal cord involvement occurs in up to 80% of patients, and it typically presents in young adulthood, not childhood.
+Batch: Endorphin Final
+###
+What is the diagnosis? [img: Radiologynspondylodiscitis.png ]
+A) Disc herniation
+B) Metastatic vertebral lesion
+C) Epidural abscess
+D) Degenerative disc disease
+E) Spondylodiscitis
+Correct Answer: E) Spondylodiscitis
+Explanation: Enhancing vertebral endplates with an irregular, destroyed disc space is the classic MRI appearance of spondylodiscitis, unlike degenerative disease (no enhancement) or an isolated epidural abscess (disc usually spared).
+Batch: Endorphin Mini-OSCE (Group A) / Aorta Final
+###
+What is the most common spinal cord tumor in adults?
+A) Astrocytoma
+B) Hemangioblastoma
+C) Ependymoma
+D) Ganglioglioma
+Correct Answer: C) Ependymoma
+Explanation: Ependymoma is the most common intramedullary spinal cord tumor in adults, whereas astrocytoma predominates in children.
+Batch: Endorphin Mini-OSCE (Group A)
+###
+Which artery supplies the infarcted territory shown in this image? [img: Radiologynacainfarct.png ]
+A) Anterior cerebral artery
+B) Middle cerebral artery
+C) Posterior cerebral artery
+D) Basilar artery
+Correct Answer: A) Anterior cerebral artery
+Explanation: The infarct involves the medial frontal lobe, the classic ACA distribution, unlike the lateral hemispheric MCA territory or the occipital PCA territory.
+Batch: Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Aorta Final
+###
+What is the diagnosis? [img: Radiologynmeningioma.png ]
+A) Epidural hematoma
+B) Subdural hematoma
+C) Brain ischemia
+D) Meningioma
+Correct Answer: D) Meningioma
+Explanation: An extra-axial, dural-based, homogeneously enhancing mass is the classic appearance of meningioma, unlike the crescentic/biconvex hemorrhagic collections of subdural/epidural hematoma.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE
+###
+What is the diagnosis? [img: Radiologynmultiplesclerosis.png ]
+A) Subdural hematoma
+B) Tuberculosis
+C) Glioblastoma
+D) Neurocysticercosis
+E) Multiple sclerosis
+Correct Answer: E) Multiple sclerosis
+Explanation: Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final
+###
+All of the following is true regarding the corona radiata EXCEPT:
+A) Also called centrum semiovale
+B) Comprised of radial projection fibers from cortex to brainstem
+C) Continuous with the external capsule
+D) Formed as the internal capsule fans out
+Correct Answer: C) Continuous with the external capsule
+Explanation: The corona radiata is the superior continuation of the internal capsule, not the external capsule, fanning out as radial projection fibers.
+Batch: Endorphin Mini-OSCE (Group B)
+###
+What is the diagnosis? [img: Radiologyndiffuseedema.png ]
+A) Diffuse cerebral edema
+B) Vasogenic edema
+C) Chronic hemorrhage
+D) Acute subdural hematoma
+Correct Answer: A) Diffuse cerebral edema
+Explanation: Loss of grey-white differentiation with a "dense cerebellum sign" and sulcal effacement are classic for diffuse cerebral edema.
+Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Aorta Final / Vagus Mini-OSCE (Group C) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE
+###
+Which is WRONG about this lesion? [img: Radiologynmeningiomawrong.png ]
+A) Extra-axial lesion
+B) May calcify
+C) Supratentorial location is most common
+D) Shows heterogeneous enhancement
+Correct Answer: D) Shows heterogeneous enhancement
+Explanation: Meningiomas classically show intense, homogeneous enhancement (often with a dural tail); heterogeneous enhancement is atypical and suggests another tumor type.
+Batch: Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)
+###
+Which of the following is NOT true about spine pathology?
+A) Spondylodiscitis shows enhancing vertebral endplates with an irregular disc
+B) With degeneration there is decreased disc height and decreased T2 signal
+C) The thoracic spine is the least affected by canal stenosis
+D) Spinal ependymoma is the most common spinal cord tumor in pediatrics
+Correct Answer: D) Spinal ependymoma is the most common spinal cord tumor in pediatrics
+Explanation: Ependymoma is the most common intramedullary spinal cord tumor in ADULTS; astrocytoma is more common in children, making this statement false.
+Batch: Endorphin Mini-OSCE (Group D)
+###
+What is the diagnosis? [img: Radiologynepiduralhematomaacute.png ]
+A) Epidural hematoma
+B) Subdural hematoma
+C) Subarachnoid hemorrhage
+D) Intracerebral hemorrhage
+Correct Answer: A) Epidural hematoma
+Explanation: A biconvex, lentiform hyperdense extra-axial collection is the classic CT appearance of acute epidural hematoma, distinct from the crescentic shape of subdural hematoma.
+Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE
+###
+Identify the indicated neuroanatomical structure (Number 2). [img: Radiologynanatomyhippocampus.png ]
+A) Amygdala
+B) Parahippocampal gyrus
+C) Uncus
+D) Head of hippocampus
+Correct Answer: D) Head of hippocampus
+Explanation: The labeled structure lies posteroinferior to the amygdala within the medial temporal lobe — the hippocampus — distinct from the amygdala (anterosuperior) and uncus (anteromedial tip).
+Batch: Iris Mini-OSCE (Group A)
+Note: 1. Amygdala || 2. Head of hippocampus
+###
+The cerebellum's blood supply mainly originates from which of the following?
+A) Vertebral artery
+B) Basilar artery
+C) Posterior cerebral artery
+D) Internal carotid artery
+Correct Answer: B) Basilar artery
+Explanation: The SCA and AICA (branches of the basilar artery) supply most of the cerebellum; only PICA arises from the distal vertebral artery.
+Batch: Iris Mini-OSCE (Group A)
+###
+Cerebral venous sinus thrombosis – select the correct statement.
+A) Non-contrast MRI shows a hypointense filling defect
+B) Non-contrast CT shows a hyperdense ("dense") sinus
+C) Contrast-enhanced MRI shows the "empty delta" sign
+D) Non-contrast CT shows sinus hypodensity
+E) Contrast-enhanced CT shows the "empty delta" sign
+Correct Answer: E) Contrast-enhanced CT shows the "empty delta" sign
+Explanation: The empty delta sign is a triangular filling defect surrounded by enhancing dura, classically seen on contrast-enhanced CT venography; non-contrast CT instead shows a hyperdense (not empty) thrombosed sinus.
+Batch: Iris Mini-OSCE (Group A)
+###
+Homogeneous enhancement and hyperdensity on non-contrast CT is most typical of which lesion?
+A) Lymphoma
+B) Metastasis
+C) Leiomyoma
+D) Abscess
+Correct Answer: A) Lymphoma
+Explanation: Primary CNS lymphoma is classically hyperdense on non-contrast CT (high cellularity) with homogeneous enhancement, unlike metastases or abscesses, which typically show ring enhancement with central necrosis.
+Batch: Iris Mini-OSCE (Group D)
+###
+Which MRI sequence is most sensitive for detecting blood breakdown products (hemosiderin/deoxyhemoglobin)?
+A) T1-weighted
+B) T2-weighted
+C) FLAIR
+D) Gradient echo (SWI)
+Correct Answer: D) Gradient echo (SWI)
+Explanation: Gradient echo/susceptibility-weighted sequences are exquisitely sensitive to blood products due to a blooming artifact, unlike T1, T2, or FLAIR.
+Batch: Iris Mini-OSCE (Group D)
+###
