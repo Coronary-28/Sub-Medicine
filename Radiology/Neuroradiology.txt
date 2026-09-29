@@ -95,6 +95,16 @@ Correct Answer: E) Acute hemorrhage
 Explanation: Lymphoma, abscess, epidermoid cyst, and acute ischemia characteristically restrict diffusion; acute hemorrhage's DWI signal is variable and not a classic cause of true restricted diffusion.
 Batch: Coronary Mini-OSCE (Group C)
 ###
+Which of the following is NOT a cause of restriction on diffusion-weighted imaging (DWI)?
+A) Abscess
+B) Acute ischemia
+C) High-grade tumor
+D) Arachnoid cyst
+E) Post-ictal status
+Correct Answer: D) Arachnoid cyst
+Explanation: Arachnoid cysts contain simple CSF-like fluid and do not restrict diffusion, unlike abscesses, acute ischemia, high-grade tumors, and post-ictal states.
+Batch: Waman A7yaha Final
+###
 A brain MRI lesion is isointense on T1 and hyperintense on T2. What stage of hemorrhage is most likely?
 A) Early subacute (1–3 days)
 B) Late subacute (3–14 days)
@@ -167,7 +177,7 @@ C) Ependymoma
 D) Ganglioglioma
 Correct Answer: C) Ependymoma
 Explanation: Ependymoma is the most common intramedullary spinal cord tumor in adults, whereas astrocytoma predominates in children.
-Batch: Endorphin Mini-OSCE (Group A)
+Batch: Endorphin Mini-OSCE (Group A) / Waman A7yaha Final
 ###
 Which artery supplies the infarcted territory shown in this image? [img: Radiologynacainfarct.png ]
 A) Anterior cerebral artery
@@ -324,7 +334,7 @@ C) Basal ganglia hemorrhage
 D) Posterior circulation ischemia
 Correct Answer: D) Posterior circulation ischemia
 Explanation: Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.
-Batch: Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+Batch: Endorphin Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
 ###
 What is the diagnosis? [img: Radiologynsubarachnoidhemorrhage.png ]
 A) Intraventricular hemorrhage
@@ -409,3 +419,319 @@ Correct Answer: B) Left subacute subdural hemorrhage
 Explanation: Huge isodense subdural hematoma causing gross compression to the left hemisphere and midline shift to right.
 Batch: Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE
 ###
+What is the most likely diagnosis? [img: Radiologynchoroidplexuspapilloma.png ]
+A) Choroid plexus papilloma
+B) Medulloblastoma
+C) Craniopharyngioma
+D) Arachnoid cyst
+Correct Answer: A) Choroid plexus papilloma
+Explanation: A lobulated, intensely and homogeneously enhancing intraventricular mass with hydrocephalus is characteristic of choroid plexus papilloma, unlike the posterior fossa location of medulloblastoma or the suprasellar cystic/calcified appearance of craniopharyngioma.
+Batch: Endorphin Final / Aorta Final
+###
+Identify the diagnosis in the recalled image. [img: Radiologynvestibularschwannoma.png ]
+A) Meningioma (CPA)
+B) Vestibular schwannoma
+C) Epidermoid cyst
+D) Arachnoid cyst
+Correct Answer: B) Vestibular schwannoma
+Explanation: A cerebellopontine angle mass centered on/expanding the internal auditory canal with heterogeneous signal favors vestibular schwannoma (also known as acoustic neuroma), unlike meningioma, which has a broad dural base and more homogeneous appearance.
+Batch: Aorta Final
+###
+What is the most likely diagnosis? [img: Radiologynmaxillarysinusitis.png ]
+A) Ethmoidal sinusitis
+B) Sphenoid sinusitis
+C) Nasopharyngeal carcinoma
+D) Frontal sinusitis
+E) Maxillary sinusitis
+Correct Answer: E) Maxillary sinusitis
+Explanation: Mucosal thickening with an air-fluid level localized to the maxillary sinus confirms maxillary sinusitis rather than involvement of another sinus or a soft-tissue mass.
+Batch: Endorphin Final / Aorta Final
+###
+Regarding posterior cranial fossa tumors in children, which of the following statements is FALSE?
+A) Ependymomas typically arise from the fourth ventricle
+B) Medulloblastoma is the most common malignant posterior fossa tumor in children
+C) The cystic component of a posterior fossa tumor is never enhanced
+D) Pilocytic astrocytoma often has a cyst with an enhancing mural nodule
+Correct Answer: C) The cystic component of a posterior fossa tumor is never enhanced
+Explanation: In pediatric posterior fossa tumors such as pilocytic astrocytoma, the cyst wall or an associated mural nodule commonly DOES enhance, making the "never enhanced" statement false.
+Batch: Aorta Final
+###
+Regarding posterior cranial fossa tumors in children, which of the following is TRUE?
+A) Ependymomas arise from the ventricles
+B) Ependymomas typically show no cystic components
+C) Cystic components in posterior fossa tumors usually enhance with contrast
+D) Ependymomas are located outside the ventricular system
+Correct Answer: A) Ependymomas arise from the ventricles
+Explanation: Ependymomas classically arise from the ependymal lining of the ventricular system (most often the fourth ventricle), unlike the false statement that they are extraventricular.
+Batch: Aorta Final
+###
+A patient presents with seizures. Which of the following brain tumors is most commonly associated with seizures?
+A) Meningioma
+B) Oligodendroglioma
+C) Glioblastoma multiforme
+D) Pituitary adenoma
+Correct Answer: B) Oligodendroglioma
+Explanation: Oligodendrogliomas characteristically involve the cortex/subcortical white matter, making seizures a very common presenting symptom compared with the other listed tumors.
+Batch: Endorphin Final
+###
+Which brain tumor is characteristically associated with a "butterfly" pattern on imaging?
+A) Pilocytic astrocytoma
+B) Ependymoma
+C) Medulloblastoma
+D) Oligodendroglioma
+E) Glioblastoma multiforme
+Correct Answer: E) Glioblastoma multiforme
+Explanation: GBM classically spreads across the corpus callosum, producing a bilateral, symmetric "butterfly glioma" appearance not typical of the other tumors.
+Batch: Endorphin Final / Aorta Final
+###
+Which of the following is NOT a recognized cause of subarachnoid hemorrhage (SAH)?
+A) Meningioma
+B) Trauma
+C) Cerebral aneurysm
+D) Vasculitis
+Correct Answer: A) Meningioma
+Explanation: Meningioma is not a recognized cause of SAH; trauma, ruptured aneurysm, and vasculitis are the classic causes.
+Batch: Endorphin Final
+###
+Which of the statements about intracranial dural venous sinuses is FALSE?
+A) Dural venous sinus thrombosis can involve cortical and deep cerebral veins
+B) Contrast-enhanced axial MRI may show a filling defect in the affected sinus
+C) The empty delta sign is seen on contrast-enhanced CT in venous sinus thrombosis
+D) The empty delta sign appears on non-contrast CT scans
+Correct Answer: D) The empty delta sign appears on non-contrast CT scans
+Explanation: The empty delta sign requires contrast to visualize the enhancing dura around the non-enhancing clot; it is not seen on non-contrast CT, which instead shows a hyperdense sinus.
+Batch: Endorphin Final
+###
+What is the most common site of hypertensive intracerebral hemorrhage?
+A) Thalamus
+B) Basal ganglia (especially the putamen)
+C) Pons
+D) Cerebellum
+Correct Answer: B) Basal ganglia (especially the putamen)
+Explanation: The putamen is the single most common site of hypertensive ICH, followed by thalamus, pons, and cerebellum.
+Batch: Endorphin Final
+###
+All of the following can present in neurofibromatosis type 2, EXCEPT:
+A) Intracranial schwannoma
+B) Spinal meningioma
+C) Intraspinal-intramedullary ependymoma
+D) Bilateral vestibular schwannomas
+E) Multiple neurofibroma
+Correct Answer: E) Multiple neurofibroma
+Explanation: Multiple cutaneous/subcutaneous neurofibromas are a hallmark of NF1, not NF2; NF2 instead features bilateral vestibular schwannomas, meningiomas, and intramedullary ependymomas.
+Batch: Overdose Final
+###
+Which of the following is a white matter structure?
+A) Thalamus
+B) Caudate
+C) Corona radiata
+D) Globus pallidus
+E) Basal ganglia
+Correct Answer: C) Corona radiata
+Explanation: The corona radiata is composed of white matter projection fibers; the others are all grey matter structures.
+Batch: Overdose Final
+###
+All of the following are true about schizencephaly, EXCEPT:
+A) It is a white matter-lined cleft extending from the ependyma to the pia mater
+B) It can be unilateral or bilateral
+C) Open-lip schizencephaly presents with more symptoms than closed-lip
+D) There is pial communication in closed-lip schizencephaly
+Correct Answer: A) It is a white matter-lined cleft extending from the ependyma to the pia mater
+Explanation: Schizencephaly clefts are actually lined by grey matter (heterotopic cortex), not white matter. Laterality, symptom severity, and the presence of pial-ependymal communication in both types are all accurate characteristics of the condition.
+Batch: Overdose Final
+Note: This question is not covered in the course slides.
+###
+All of the following are intramedullary lesions, EXCEPT:
+A) Astrocytoma
+B) Ependymoma
+C) Hemangioblastoma
+D) Schwannoma
+E) Ganglioglioma
+Correct Answer: D) Schwannoma
+Explanation: Schwannoma is an intradural extramedullary tumor arising from a nerve root sheath, unlike astrocytoma, ependymoma, hemangioblastoma, and ganglioglioma, which are intramedullary.
+Batch: Overdose Final
+###
+All of the following appear hyperintense on T2 MRI, EXCEPT:
+A) Hematoma at 13 days
+B) Pneumocephalus
+C) Fatty marrow
+D) Choroid plexus papilloma
+E) Glioblastoma multiforme
+Correct Answer: B) Pneumocephalus
+Explanation: Air produces a signal void and appears hypointense on all MRI sequences, unlike fatty marrow, late subacute hematoma, choroid plexus papilloma, and GBM, which are typically T2 hyperintense.
+Batch: Overdose Final
+###
+Which of the following is NOT found in hyperacute brain ischemia?
+A) Loss of grey-white matter differentiation
+B) Cortical hypodensity with parenchymal swelling
+C) Gyral effacement
+D) Loss of the insular ribbon sign
+E) Gliosis, volume loss, and cortical calcification
+Correct Answer: E) Gliosis, volume loss, and cortical calcification
+Explanation: These are late/chronic infarct changes (>3 weeks); the hyperacute stage (0–6 hours) instead shows subtle grey-white loss, cortical hypodensity, gyral effacement, and loss of the insular ribbon sign.
+Batch: Overdose Final / Waman A7yaha Final
+###
+Which of the following sutures joins the parietal bones with the occipital bone?
+A) Coronal
+B) Sagittal
+C) Lambdoid
+D) Metopic
+E) Squamosal
+Correct Answer: C) Lambdoid
+Explanation: The lambdoid suture joins both parietal bones with the occipital bone posteriorly; coronal joins frontal to parietal, sagittal joins the two parietals, and metopic joins the two frontal bones.
+Batch: Overdose Final
+###
+Which of the following sutures joins the frontal and parietal bones?
+A) Squamosal
+B) Metopic
+C) Coronal
+D) Sagittal
+E) Lambdoid
+Correct Answer: C) Coronal
+Explanation: The coronal suture joins the frontal and parietal bones, distinct from the squamosal suture which joins the temporal and parietal bones, the metopic suture which joins the two frontal bones, the sagittal suture which joins the two parietal bones, and the lambdoid suture which joins the occipital and parietal bones.
+Batch: Overdose Final
+###
+Which of the following sutures joins the two parietal bones?
+A) Metopic
+B) Sagittal
+C) Coronal
+D) Squamosal
+E) Lambdoid
+Correct Answer: B) Sagittal
+Explanation: The sagittal suture runs in the midline joining the two parietal bones to each other.
+Batch: Serotonin Final
+###
+Which of the following sutures joins the two frontal bones?
+A) Coronal
+B) Lambdoid
+C) Metopic
+D) Sagittal
+E) Squamosal
+Correct Answer: C) Metopic
+Explanation: The metopic suture is the embryological midline suture between the two frontal bones, which normally fuses in early childhood.
+Batch: Waman A7yaha Final
+###
+Which of the following radiologic features, if present, is supportive of the diagnosis of Sturge-Weber syndrome?
+A) Cortical and subcortical calcifications
+B) Periventricular white matter disease
+C) Temporal arachnoid cyst
+D) Subependymal giant cell astrocytoma
+E) Restriction on DWI in both PCA territories
+Correct Answer: A) Cortical and subcortical calcifications
+Explanation: Sturge-Weber syndrome classically shows gyriform ("tram-track") cortical/subcortical calcification underlying the leptomeningeal angioma; the other features belong to different conditions (MS, tuberous sclerosis).
+Batch: Waman A7yaha Final
+Note: This question is not covered in the course slides.
+###
+Which of the following statements about the Circle of Willis is FALSE?
+A) The superior cerebellar artery (SCA) arises from the distal basilar artery
+B) The Circle of Willis provides collateral circulation between anterior and posterior circulation
+C) The posterior communicating artery connects the internal carotid artery to the posterior cerebral artery
+D) The anterior inferior cerebellar artery (AICA) arises from the distal vertebral artery
+Correct Answer: D) The anterior inferior cerebellar artery (AICA) arises from the distal vertebral artery
+Explanation: AICA is a branch of the proximal basilar artery; the distal vertebral artery instead gives rise to PICA. SCA does arise from the distal basilar artery, and the Circle of Willis does provide interhemispheric collateral flow.
+Batch: Vagus Final
+###
+Which of the following is WRONG regarding cranial nerve involvement in multiple sclerosis?
+A) The trigeminal nerve (CN5) can be affected
+B) The oculomotor nerve is the most commonly affected cranial nerve
+C) The abducens nerve (CN6) can be affected
+D) Optic nerve involvement (optic neuritis) is common
+Correct Answer: B) The oculomotor nerve is the most commonly affected cranial nerve
+Explanation: Optic neuritis (CN2) is the most common cranial nerve manifestation of MS, followed by CN5/6; oculomotor involvement is not the classic pattern.
+Batch: Vagus Final
+###
+Which of the following statements about MS lesion characteristics is TRUE?
+A) Active plaques characteristically do not enhance with contrast
+B) Diffuse cerebral atrophy is an early MS finding
+C) T1-hypointense "black hole" lesions indicate a better prognosis
+D) Enhancement never occurs in MS lesions
+E) T1-hypointense lesions ("black holes") correlate with axonal destruction and a worse prognosis
+Correct Answer: E) T1-hypointense lesions ("black holes") correlate with axonal destruction and a worse prognosis
+Explanation: T1 hypointensity reflects irreversible axonal loss; active plaques classically DO enhance (reflecting blood-brain barrier breakdown), and diffuse atrophy is typically a late finding.
+Batch: Vagus Final
+###
+Which of the following statements about primary CNS lymphoma is FALSE?
+A) It is typically hyperdense on non-contrast CT
+B) It shows restricted diffusion on DWI
+C) The ADC value is higher than normal brain parenchyma
+D) It shows homogeneous enhancement in immunocompetent patients
+Correct Answer: C) The ADC value is higher than normal brain parenchyma
+Explanation: Primary CNS lymphoma is highly cellular and restricts diffusion, so its ADC value is typically LOWER, not higher, than normal brain.
+Batch: Vagus Final
+###
+Which of the following anatomical relationships is CORRECT?
+A) The claustrum lies lateral to the insula
+B) The hippocampus lies anterosuperior to the amygdala
+C) The uncus forms the lateral border of the temporal lobe
+D) The claustrum lies medial to the putamen, separated by the internal capsule
+Correct Answer: A) The claustrum lies lateral to the insula
+Explanation: The claustrum is a thin sheet of grey matter lateral to the insula (separated by the extreme capsule); the hippocampus lies posteroinferior (not anterosuperior) to the amygdala, and the uncus is the medial (not lateral) temporal border.
+Batch: Vagus Final
+###
+On T1-weighted MRI, which of the following statements about basal ganglia signal is TRUE?
+A) The putamen is hyperintense relative to the globus pallidus
+B) The caudate is hyperintense relative to the thalamus
+C) The globus pallidus is isointense to the putamen
+D) The globus pallidus is hyperintense relative to the putamen
+Correct Answer: D) The globus pallidus is hyperintense relative to the putamen
+Explanation: On T1-weighted MRI, the globus pallidus normally appears relatively hyperintense compared with the putamen — a useful anatomical landmark.
+Batch: Vagus Final
+###
+Which of the following locations is NOT typical for hypertensive intracerebral hemorrhage?
+A) Basal ganglia (putamen)
+B) Frontal lobe
+C) Thalamus
+D) Pons
+E) Cerebellum
+Correct Answer: B) Frontal lobe
+Explanation: Hypertensive ICH classically occurs in deep structures (basal ganglia, thalamus, pons, cerebellum) supplied by small penetrating vessels; a lobar location like the frontal lobe instead suggests another etiology (e.g., amyloid angiopathy, AVM, tumor).
+Batch: Vagus Final
+###
+Which stage of hemorrhage is classically hyperintense on both T1 and T2-weighted MRI due to extracellular methemoglobin?
+A) Hyperacute (oxyhemoglobin)
+B) Acute (deoxyhemoglobin)
+C) Early subacute (intracellular methemoglobin)
+D) Chronic (hemosiderin)
+E) Late subacute (extracellular methemoglobin)
+Correct Answer: E) Late subacute (extracellular methemoglobin)
+Explanation: Late subacute hemorrhage (extracellular methemoglobin) is T1 and T2 hyperintense; early subacute (intracellular methemoglobin) is T1 hyperintense but T2 hypointense, and acute/chronic stages are T2 hypointense.
+Batch: Vagus Final
+###
+Regarding cerebral sinus thrombosis, which of the following is TRUE?
+A) Acute thrombus typically enhances
+B) Sinus thrombosis is an occlusion of arterial channels in the cranial cavity
+C) The empty delta sign is a common radiological finding on T1 MRI with contrast
+D) The dura typically does not enhance
+E) A hypodense sinus is seen on non-contrast CT
+Correct Answer: C) The empty delta sign is a common radiological finding on T1 MRI with contrast
+Explanation: The empty delta sign — a triangular filling defect surrounded by enhancing dura — is classically seen on contrast-enhanced imaging; sinus thrombosis is a venous (not arterial) occlusion, acute thrombus typically does NOT enhance, the dura DOES enhance, and non-contrast CT shows a hyperdense (not hypodense) sinus.
+Batch: Serotonin Final
+###
+Regarding subdural hematoma, which of the following is TRUE?
+A) It does not cross the falx cerebri
+B) It does not cross sutures
+C) It is usually caused by a tear in the middle meningeal artery
+D) It has a lenticular (biconvex) shape
+E) It forms between the inner skull table and the outer dural layer
+Correct Answer: A) It does not cross the falx cerebri
+Explanation: Subdural hematoma is confined by the falx cerebri and tentorium but CAN cross suture lines (opposite epidural hematoma); it is typically caused by bridging vein tears (not the middle meningeal artery) and has a crescentic (not lenticular) shape.
+Batch: Serotonin Final
+###
+Regarding extradural (epidural) hematoma, which of the following is FALSE?
+A) It does not cross the falx cerebri
+B) There is a history of trauma
+C) It has a lenticular (biconvex) shape
+D) It forms between the inner skull table and the outer dural layer
+E) It is usually caused by a tear in the middle meningeal artery
+Correct Answer: A) It does not cross the falx cerebri
+Explanation: Epidural hematoma CAN cross the falx cerebri but does NOT cross cranial sutures (opposite the pattern of subdural hematoma); the other listed features are true.
+Batch: Waman A7yaha Final
+###
+Which one of the following is a common radiologic feature of diffuse brain edema?
+A) Diffuse hypodense (not hyperdense) supratentorial brain
+B) Effacement of the sulci
+C) Enlarged ventricles
+D) Widened basal cisterns
+Correct Answer: B) Effacement of the sulci
+Explanation: Diffuse cerebral edema effaces the sulci and narrows the ventricles/basal cisterns; the brain typically appears diffusely hypodense (not hyperdense) except for the relatively dense-appearing cerebellum.
+Batch: Waman A7yaha Final
