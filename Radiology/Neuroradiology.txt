@@ -45,7 +45,7 @@ D) Meningeal carcinomatosis
 E) Colloid cyst
 Correct Answer: E) Colloid cyst
 Explanation: A colloid cyst at the foramen of Monro physically obstructs CSF flow (non-communicating hydrocephalus); SAH, meningitis, and meningeal carcinomatosis impair CSF absorption (communicating), and choroid plexus papilloma causes communicating hydrocephalus via CSF overproduction.
-Batch: Iris Mini-OSCE (Group C) / Aorta Mini-OSCE (Group A) / Waman A7yaha Final / Serotonin Final
+Batch: Iris Mini-OSCE (Group C) / Iris Final / Aorta Mini-OSCE (Group A) / Waman A7yaha Final / Serotonin Final
 ###
 What is the name of the part of the corpus callosum indicated by the number 5? [img: Radiologynanatomysplenium.png ]
 A) Genu of the corpus callosum
@@ -168,7 +168,7 @@ D) Degenerative disc disease
 E) Spondylodiscitis
 Correct Answer: E) Spondylodiscitis
 Explanation: Enhancing vertebral endplates with an irregular, destroyed disc space is the classic MRI appearance of spondylodiscitis, unlike degenerative disease (no enhancement) or an isolated epidural abscess (disc usually spared).
-Batch: Endorphin Mini-OSCE (Group A) / Aorta Final
+Batch: Iris Final / Endorphin Mini-OSCE (Group A) / Aorta Final
 ###
 What is the most common spinal cord tumor in adults?
 A) Astrocytoma
@@ -205,7 +205,7 @@ D) Neurocysticercosis
 E) Multiple sclerosis
 Correct Answer: E) Multiple sclerosis
 Explanation: Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.
-Batch: Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE
+Batch: Iris Final / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE
 ###
 All of the following is true regarding the corona radiata EXCEPT:
 A) Also called centrum semiovale
@@ -250,7 +250,7 @@ C) Subarachnoid hemorrhage
 D) Intracerebral hemorrhage
 Correct Answer: A) Epidural hematoma
 Explanation: A biconvex, lentiform hyperdense extra-axial collection is the classic CT appearance of acute epidural hematoma, distinct from the crescentic shape of subdural hematoma.
-Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
 ###
 Identify the indicated neuroanatomical structure (Number 2). [img: Radiologynanatomyhippocampus.png ]
 A) Amygdala
@@ -334,7 +334,7 @@ C) Basal ganglia hemorrhage
 D) Posterior circulation ischemia
 Correct Answer: D) Posterior circulation ischemia
 Explanation: Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.
-Batch: Endorphin Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+Batch: Iris Final / Endorphin Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
 ###
 What is the diagnosis? [img: Radiologynsubarachnoidhemorrhage.png ]
 A) Intraventricular hemorrhage
@@ -426,7 +426,7 @@ C) Craniopharyngioma
 D) Arachnoid cyst
 Correct Answer: A) Choroid plexus papilloma
 Explanation: A lobulated, intensely and homogeneously enhancing intraventricular mass with hydrocephalus is characteristic of choroid plexus papilloma, unlike the posterior fossa location of medulloblastoma or the suprasellar cystic/calcified appearance of craniopharyngioma.
-Batch: Endorphin Final / Aorta Final
+Batch: Iris Final / Endorphin Final / Aorta Final
 ###
 Identify the diagnosis in the recalled image. [img: Radiologynvestibularschwannoma.png ]
 A) Meningioma (CPA)
@@ -445,7 +445,7 @@ D) Frontal sinusitis
 E) Maxillary sinusitis
 Correct Answer: E) Maxillary sinusitis
 Explanation: Mucosal thickening with an air-fluid level localized to the maxillary sinus confirms maxillary sinusitis rather than involvement of another sinus or a soft-tissue mass.
-Batch: Endorphin Final / Aorta Final
+Batch: Iris Final / Endorphin Final / Aorta Final
 ###
 Regarding posterior cranial fossa tumors in children, which of the following statements is FALSE?
 A) Ependymomas typically arise from the fourth ventricle
@@ -685,7 +685,7 @@ D) Pons
 E) Cerebellum
 Correct Answer: B) Frontal lobe
 Explanation: Hypertensive ICH classically occurs in deep structures (basal ganglia, thalamus, pons, cerebellum) supplied by small penetrating vessels; a lobar location like the frontal lobe instead suggests another etiology (e.g., amyloid angiopathy, AVM, tumor).
-Batch: Vagus Final
+Batch: Iris Final / Vagus Final
 ###
 Which stage of hemorrhage is classically hyperintense on both T1 and T2-weighted MRI due to extracellular methemoglobin?
 A) Hyperacute (oxyhemoglobin)
@@ -695,7 +695,7 @@ D) Chronic (hemosiderin)
 E) Late subacute (extracellular methemoglobin)
 Correct Answer: E) Late subacute (extracellular methemoglobin)
 Explanation: Late subacute hemorrhage (extracellular methemoglobin) is T1 and T2 hyperintense; early subacute (intracellular methemoglobin) is T1 hyperintense but T2 hypointense, and acute/chronic stages are T2 hypointense.
-Batch: Vagus Final
+Batch: Vagus Mini-OSCE (Group B) / Vagus Final
 ###
 Regarding cerebral sinus thrombosis, which of the following is TRUE?
 A) Acute thrombus typically enhances
@@ -735,3 +735,23 @@ D) Widened basal cisterns
 Correct Answer: B) Effacement of the sulci
 Explanation: Diffuse cerebral edema effaces the sulci and narrows the ventricles/basal cisterns; the brain typically appears diffusely hypodense (not hyperdense) except for the relatively dense-appearing cerebellum.
 Batch: Waman A7yaha Final
+###
+Identify the labeled structure. [img: Radiologynanatomyuncusbrain.png ]
+A) Pons
+B) Third ventricle
+C) Tentorium cerebelli
+D) Anterior Horn of the Lateral Ventricle
+E) Uncus
+Correct Answer: E) Uncus
+Explanation: I don't know what to write; there's no explanation :)
+Batch: Coronary Mini-OSCE (Group C)
+###
+Which of the following is NOT a part of the corpus callosum?
+A) Splenium
+B) Thalamus
+C) Body
+D) Rostrum
+E) Genu
+Correct Answer: B) Thalamus
+Explanation: The thalamus is a deep grey matter nucleus located centrally in the brain, distinct from the components of the corpus callosum which is a major white matter tract anatomically divided into the rostrum, genu, body, and splenium.
+Batch: Iris Final
