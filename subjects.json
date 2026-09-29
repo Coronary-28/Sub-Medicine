@@ -20796,12 +20796,14 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "The infarct involves the medial frontal lobe, the classic ACA distribution, unlike the lateral hemispheric MCA territory or the occipital PCA territory.",
-            "batchName": "Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Aorta Final",
+            "batchName": "Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group E)",
-              "Aorta Final"
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -20873,12 +20875,13 @@
             "isMultiple": false,
             "correctAnswerLetter": "E",
             "explanation": "Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.",
-            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final",
+            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group E)",
-              "Aorta Final"
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -21059,12 +21062,13 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "A biconvex, lentiform hyperdense extra-axial collection is the classic CT appearance of acute epidural hematoma, distinct from the crescentic shape of subdural hematoma.",
-            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE",
+            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group E)",
-              "Waman A7yaha Mini-OSCE"
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -21242,6 +21246,469 @@
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
               "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__32__quwy90",
+            "number": "32",
+            "text": "What is the diagnosis? [img: Radiologynintraventricularhemorrhage.png ]",
+            "options": [
+              "Choroid plexus papilloma",
+              "Intraventricular hemorrhage",
+              "Colloid cyst",
+              "Ependymoma"
+            ],
+            "originalOptions": [
+              "Choroid plexus papilloma",
+              "Intraventricular hemorrhage",
+              "Colloid cyst",
+              "Ependymoma"
+            ],
+            "correctAnswer": "B) Intraventricular hemorrhage",
+            "correctAnswerText": "Intraventricular hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "An acute intracerebral haemorrhage is centred in the basal ganglia of the right hemisphere with the extension of blood into both lateral ventricles (intraventricular haemorrhage), third & fourth ventricles as well as the foramina of Luschka and Magendie. There is no hydrocephalus at this stage.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__33__4rfsk6",
+            "number": "33",
+            "text": "Identify the neuroanatomical structures labeled 1, 2, and 4 on this axial brain CT, respectively. [img: Radiologynanatomy1brain.png ]",
+            "options": [
+              "Frontal lobe, caudate, thalamus",
+              "Caudate, parietal lobe, thalamus",
+              "Frontal lobe, thalamus, internal capsule",
+              "Parietal lobe, thalamus, internal capsule"
+            ],
+            "originalOptions": [
+              "Frontal lobe, caudate, thalamus",
+              "Caudate, parietal lobe, thalamus",
+              "Frontal lobe, thalamus, internal capsule",
+              "Parietal lobe, thalamus, internal capsule"
+            ],
+            "correctAnswer": "A) Frontal lobe, caudate, thalamus",
+            "correctAnswerText": "Frontal lobe, caudate, thalamus",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "This labeled axial CT correctly places the frontal lobe label on the patient's left side while the caudate head and thalamus labels are both on the right side.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "1. Frontal lobe || 2. Caudate || 3. Parietal lobe || 4. Thalamus || 5. Internal capsule",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__34__7efxej",
+            "number": "34",
+            "text": "What is the diagnosis? [img: Radiologynmcainfarct.png ]",
+            "options": [
+              "Acute MCA territory infarction",
+              "Chronic MCA infarction",
+              "Acute ACA infarction",
+              "Vasogenic edema"
+            ],
+            "originalOptions": [
+              "Acute MCA territory infarction",
+              "Chronic MCA infarction",
+              "Acute ACA infarction",
+              "Vasogenic edema"
+            ],
+            "correctAnswer": "A) Acute MCA territory infarction",
+            "correctAnswerText": "Acute MCA territory infarction",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "DWI hyperintensity with ADC hypointensity (true restricted diffusion) confirms acute ischemic infarction, unlike chronic infarct (facilitated diffusion) or vasogenic edema (no restriction). Here, ADC (Apparent Diffusion Coefficient) map acts as a mirror image to confirm true tissue ischemia by turning dark.",
+            "batchName": "Vagus Mini-OSCE (Group C) / Serotonin Mini-OSCE",
+            "batchNames": [
+              "Vagus Mini-OSCE (Group C)",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__35__qr6iup",
+            "number": "35",
+            "text": "What is the diagnosis? [img: Radiologynposteriorischemia.png ]",
+            "options": [
+              "Anterior circulation ischemia",
+              "Cerebellar hemorrhage",
+              "Basal ganglia hemorrhage",
+              "Posterior circulation ischemia"
+            ],
+            "originalOptions": [
+              "Anterior circulation ischemia",
+              "Cerebellar hemorrhage",
+              "Basal ganglia hemorrhage",
+              "Posterior circulation ischemia"
+            ],
+            "correctAnswer": "D) Posterior circulation ischemia",
+            "correctAnswerText": "Posterior circulation ischemia",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.",
+            "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__36__y1dwdo",
+            "number": "36",
+            "text": "What is the diagnosis? [img: Radiologynsubarachnoidhemorrhage.png ]",
+            "options": [
+              "Intraventricular hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Epidural hemorrhage",
+              "Subdural hemorrhage"
+            ],
+            "originalOptions": [
+              "Intraventricular hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Epidural hemorrhage",
+              "Subdural hemorrhage"
+            ],
+            "correctAnswer": "B) Subarachnoid hemorrhage",
+            "correctAnswerText": "Subarachnoid hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Subarachnoid hemorrhage along the right central sulcus. Hyperdense material filling the basal cisterns and sulci (rather than a discrete extra-axial collection or intraventricular clot) is characteristic of diffuse SAH.",
+            "batchName": "Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__37__8rk3nm",
+            "number": "37",
+            "text": "What is the diagnosis? [img: Radiologynskullfracture.png ]",
+            "options": [
+              "Right parietal bone fracture",
+              "Left parietal bone fracture",
+              "Right occipital bone fracture",
+              "Left occipital bone fracture"
+            ],
+            "originalOptions": [
+              "Right parietal bone fracture",
+              "Left parietal bone fracture",
+              "Right occipital bone fracture",
+              "Left occipital bone fracture"
+            ],
+            "correctAnswer": "B) Left parietal bone fracture",
+            "correctAnswerText": "Left parietal bone fracture",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Axial CT bone window show left parietal bone fracture.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__38__xou0lt",
+            "number": "38",
+            "text": "What is the diagnosis? [img: Radiologynsubduralhemorrhage.png ]",
+            "options": [
+              "Epidural hemorrhage",
+              "Subdural hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Intraparenchymal hemorrhage"
+            ],
+            "originalOptions": [
+              "Epidural hemorrhage",
+              "Subdural hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Intraparenchymal hemorrhage"
+            ],
+            "correctAnswer": "B) Subdural hemorrhage",
+            "correctAnswerText": "Subdural hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Non-contrast head CT reveals hyperdense extra-axial collection overlying the right hemisphere consistent with acute subdural hematoma. A crescentic extra-axial collection that can cross suture lines is classic for subdural hemorrhage, distinguishing it from the biconvex/lentiform epidural hematoma.",
+            "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__39__tvbx8e",
+            "number": "39",
+            "text": "Identify the labeled neuroanatomical structure on this axial brain CT. [img: Radiologynbrainanatomythirdventricle.png ]",
+            "options": [
+              "Right caudate nucleus",
+              "Third ventricle",
+              "Thalamus",
+              "Internal capsule"
+            ],
+            "originalOptions": [
+              "Right caudate nucleus",
+              "Third ventricle",
+              "Thalamus",
+              "Internal capsule"
+            ],
+            "correctAnswer": "B) Third ventricle",
+            "correctAnswerText": "Third ventricle",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "I don't know what to write; there's no explanation :)",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__40__txcstp",
+            "number": "40",
+            "text": "What is the diagnosis? [img: Radiologynstraightsinusthrombosis.png ]",
+            "options": [
+              "Superior sagittal sinus thrombosis",
+              "Transverse sinus thrombosis",
+              "Cavernous sinus thrombosis",
+              "Straight sinus thrombosis"
+            ],
+            "originalOptions": [
+              "Superior sagittal sinus thrombosis",
+              "Transverse sinus thrombosis",
+              "Cavernous sinus thrombosis",
+              "Straight sinus thrombosis"
+            ],
+            "correctAnswer": "D) Straight sinus thrombosis",
+            "correctAnswerText": "Straight sinus thrombosis",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Axial CT head without contrast shows hyperdense straight sinus represents straight sinus thrombosis.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__41__hlpilc",
+            "number": "41",
+            "text": "What is the diagnosis? [img: Radiologyntransversesinusthrombosis.png ]",
+            "options": [
+              "Straight sinus thrombosis",
+              "Superior sagittal sinus thrombosis",
+              "Transverse sinus thrombosis",
+              "Cavernous sinus thrombosis"
+            ],
+            "originalOptions": [
+              "Straight sinus thrombosis",
+              "Superior sagittal sinus thrombosis",
+              "Transverse sinus thrombosis",
+              "Cavernous sinus thrombosis"
+            ],
+            "correctAnswer": "C) Transverse sinus thrombosis",
+            "correctAnswerText": "Transverse sinus thrombosis",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Right image» Axial CT head without contrast shows dense right transverse sinus represents sinus thrombosis. Left image» Axial MRI brain with contrast shows filling defect in the left transverse sinus.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__42__muwcv5",
+            "number": "42",
+            "text": "Identify the labeled structure (A). [img: Radiologynanatomygenubrain.png ]",
+            "options": [
+              "Anterior Horn of the Lateral Ventricle",
+              "Straight Sinus",
+              "Genu of the Corpus Callosum",
+              "Choroid Plexus"
+            ],
+            "originalOptions": [
+              "Anterior Horn of the Lateral Ventricle",
+              "Straight Sinus",
+              "Genu of the Corpus Callosum",
+              "Choroid Plexus"
+            ],
+            "correctAnswer": "C) Genu of the Corpus Callosum",
+            "correctAnswerText": "Genu of the Corpus Callosum",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Look at the ⚠️ on the left of the question. I don't know what to write; there's no explanation :)",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "A. Genu of the Corpus Callosum || B. Anterior Horn of the Lateral Ventricle || C. Internal Capsule || D. Thalamus || E. Pineal Gland || F. Choroid Plexus || G. Straight Sinus",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__43__w9l9zi",
+            "number": "43",
+            "text": "Identify the labeled structure. [img: Radiologynanatomyfourthventriclebrain.png ]",
+            "options": [
+              "Left cerebellar hemisphere",
+              "Third ventricle",
+              "Pons",
+              "Anterior Horn of the Lateral Ventricle",
+              "Fourth ventricle"
+            ],
+            "originalOptions": [
+              "Left cerebellar hemisphere",
+              "Third ventricle",
+              "Pons",
+              "Anterior Horn of the Lateral Ventricle",
+              "Fourth ventricle"
+            ],
+            "correctAnswer": "E) Fourth ventricle",
+            "correctAnswerText": "Fourth ventricle",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "I don't know what to write; there's no explanation :)",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__44__szq1ob",
+            "number": "44",
+            "text": "What is the most likely diagnosis? [img: Radiologynleftsubacutesubduralhemorrhage.png ]",
+            "options": [
+              "Right epidural hemorrhage",
+              "Left subacute subdural hemorrhage",
+              "Right acute subdural hemorrhage",
+              "Left epidural hemorrhage"
+            ],
+            "originalOptions": [
+              "Right epidural hemorrhage",
+              "Left subacute subdural hemorrhage",
+              "Right acute subdural hemorrhage",
+              "Left epidural hemorrhage"
+            ],
+            "correctAnswer": "B) Left subacute subdural hemorrhage",
+            "correctAnswerText": "Left subacute subdural hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Huge isodense subdural hematoma causing gross compression to the left hemisphere and midline shift to right.",
+            "batchName": "Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -22808,7 +23275,9 @@
               "Iris Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group E)",
-              "Aorta Final"
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -22849,7 +23318,8 @@
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group E)",
-              "Aorta Final"
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -22892,6 +23362,44 @@
               "Aorta Final",
               "Vagus Mini-OSCE (Group C)",
               "Vagus Mini-OSCE (Group D)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__44__szq1ob",
+            "number": "44",
+            "text": "What is the most likely diagnosis? [img: Radiologynleftsubacutesubduralhemorrhage.png ]",
+            "options": [
+              "Right epidural hemorrhage",
+              "Left subacute subdural hemorrhage",
+              "Right acute subdural hemorrhage",
+              "Left epidural hemorrhage"
+            ],
+            "originalOptions": [
+              "Right epidural hemorrhage",
+              "Left subacute subdural hemorrhage",
+              "Right acute subdural hemorrhage",
+              "Left epidural hemorrhage"
+            ],
+            "correctAnswer": "B) Left subacute subdural hemorrhage",
+            "correctAnswerText": "Left subacute subdural hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Huge isodense subdural hematoma causing gross compression to the left hemisphere and midline shift to right.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -26055,6 +26563,44 @@
             "groupName": "Neuroradiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__44__szq1ob",
+            "number": "44",
+            "text": "What is the most likely diagnosis? [img: Radiologynleftsubacutesubduralhemorrhage.png ]",
+            "options": [
+              "Right epidural hemorrhage",
+              "Left subacute subdural hemorrhage",
+              "Right acute subdural hemorrhage",
+              "Left epidural hemorrhage"
+            ],
+            "originalOptions": [
+              "Right epidural hemorrhage",
+              "Left subacute subdural hemorrhage",
+              "Right acute subdural hemorrhage",
+              "Left epidural hemorrhage"
+            ],
+            "correctAnswer": "B) Left subacute subdural hemorrhage",
+            "correctAnswerText": "Left subacute subdural hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Huge isodense subdural hematoma causing gross compression to the left hemisphere and midline shift to right.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -26996,7 +27542,9 @@
               "Iris Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group E)",
-              "Aorta Final"
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -27903,7 +28451,8 @@
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group E)",
-              "Aorta Final"
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -28888,7 +29437,8 @@
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group E)",
-              "Aorta Final"
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -30774,7 +31324,9 @@
               "Iris Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group E)",
-              "Aorta Final"
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -30853,7 +31405,8 @@
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group E)",
-              "Aorta Final"
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -30935,7 +31488,8 @@
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group E)",
-              "Waman A7yaha Mini-OSCE"
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -33546,7 +34100,9 @@
               "Iris Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group A)",
               "Endorphin Mini-OSCE (Group E)",
-              "Aorta Final"
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -33585,7 +34141,8 @@
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group E)",
-              "Waman A7yaha Mini-OSCE"
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -34098,7 +34655,8 @@
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group E)",
-              "Waman A7yaha Mini-OSCE"
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -36440,6 +36998,343 @@
             "groupName": "Musculoskeletal (MSK) radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__19__pq6fek",
+            "number": "19",
+            "text": "Which artery supplies the infarcted territory shown in this image? [img: Radiologynacainfarct.png ]",
+            "options": [
+              "Anterior cerebral artery",
+              "Middle cerebral artery",
+              "Posterior cerebral artery",
+              "Basilar artery"
+            ],
+            "originalOptions": [
+              "Anterior cerebral artery",
+              "Middle cerebral artery",
+              "Posterior cerebral artery",
+              "Basilar artery"
+            ],
+            "correctAnswer": "A) Anterior cerebral artery",
+            "correctAnswerText": "Anterior cerebral artery",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The infarct involves the medial frontal lobe, the classic ACA distribution, unlike the lateral hemispheric MCA territory or the occipital PCA territory.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group E)",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__26__95rqvt",
+            "number": "26",
+            "text": "What is the diagnosis? [img: Radiologynepiduralhematomaacute.png ]",
+            "options": [
+              "Epidural hematoma",
+              "Subdural hematoma",
+              "Subarachnoid hemorrhage",
+              "Intracerebral hemorrhage"
+            ],
+            "originalOptions": [
+              "Epidural hematoma",
+              "Subdural hematoma",
+              "Subarachnoid hemorrhage",
+              "Intracerebral hemorrhage"
+            ],
+            "correctAnswer": "A) Epidural hematoma",
+            "correctAnswerText": "Epidural hematoma",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A biconvex, lentiform hyperdense extra-axial collection is the classic CT appearance of acute epidural hematoma, distinct from the crescentic shape of subdural hematoma.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Mini-OSCE (Group E)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__32__quwy90",
+            "number": "32",
+            "text": "What is the diagnosis? [img: Radiologynintraventricularhemorrhage.png ]",
+            "options": [
+              "Choroid plexus papilloma",
+              "Intraventricular hemorrhage",
+              "Colloid cyst",
+              "Ependymoma"
+            ],
+            "originalOptions": [
+              "Choroid plexus papilloma",
+              "Intraventricular hemorrhage",
+              "Colloid cyst",
+              "Ependymoma"
+            ],
+            "correctAnswer": "B) Intraventricular hemorrhage",
+            "correctAnswerText": "Intraventricular hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "An acute intracerebral haemorrhage is centred in the basal ganglia of the right hemisphere with the extension of blood into both lateral ventricles (intraventricular haemorrhage), third & fourth ventricles as well as the foramina of Luschka and Magendie. There is no hydrocephalus at this stage.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__33__4rfsk6",
+            "number": "33",
+            "text": "Identify the neuroanatomical structures labeled 1, 2, and 4 on this axial brain CT, respectively. [img: Radiologynanatomy1brain.png ]",
+            "options": [
+              "Frontal lobe, caudate, thalamus",
+              "Caudate, parietal lobe, thalamus",
+              "Frontal lobe, thalamus, internal capsule",
+              "Parietal lobe, thalamus, internal capsule"
+            ],
+            "originalOptions": [
+              "Frontal lobe, caudate, thalamus",
+              "Caudate, parietal lobe, thalamus",
+              "Frontal lobe, thalamus, internal capsule",
+              "Parietal lobe, thalamus, internal capsule"
+            ],
+            "correctAnswer": "A) Frontal lobe, caudate, thalamus",
+            "correctAnswerText": "Frontal lobe, caudate, thalamus",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "This labeled axial CT correctly places the frontal lobe label on the patient's left side while the caudate head and thalamus labels are both on the right side.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "1. Frontal lobe || 2. Caudate || 3. Parietal lobe || 4. Thalamus || 5. Internal capsule",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__34__7efxej",
+            "number": "34",
+            "text": "What is the diagnosis? [img: Radiologynmcainfarct.png ]",
+            "options": [
+              "Acute MCA territory infarction",
+              "Chronic MCA infarction",
+              "Acute ACA infarction",
+              "Vasogenic edema"
+            ],
+            "originalOptions": [
+              "Acute MCA territory infarction",
+              "Chronic MCA infarction",
+              "Acute ACA infarction",
+              "Vasogenic edema"
+            ],
+            "correctAnswer": "A) Acute MCA territory infarction",
+            "correctAnswerText": "Acute MCA territory infarction",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "DWI hyperintensity with ADC hypointensity (true restricted diffusion) confirms acute ischemic infarction, unlike chronic infarct (facilitated diffusion) or vasogenic edema (no restriction). Here, ADC (Apparent Diffusion Coefficient) map acts as a mirror image to confirm true tissue ischemia by turning dark.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Vagus Mini-OSCE (Group C)",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__35__qr6iup",
+            "number": "35",
+            "text": "What is the diagnosis? [img: Radiologynposteriorischemia.png ]",
+            "options": [
+              "Anterior circulation ischemia",
+              "Cerebellar hemorrhage",
+              "Basal ganglia hemorrhage",
+              "Posterior circulation ischemia"
+            ],
+            "originalOptions": [
+              "Anterior circulation ischemia",
+              "Cerebellar hemorrhage",
+              "Basal ganglia hemorrhage",
+              "Posterior circulation ischemia"
+            ],
+            "correctAnswer": "D) Posterior circulation ischemia",
+            "correctAnswerText": "Posterior circulation ischemia",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__36__y1dwdo",
+            "number": "36",
+            "text": "What is the diagnosis? [img: Radiologynsubarachnoidhemorrhage.png ]",
+            "options": [
+              "Intraventricular hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Epidural hemorrhage",
+              "Subdural hemorrhage"
+            ],
+            "originalOptions": [
+              "Intraventricular hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Epidural hemorrhage",
+              "Subdural hemorrhage"
+            ],
+            "correctAnswer": "B) Subarachnoid hemorrhage",
+            "correctAnswerText": "Subarachnoid hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Subarachnoid hemorrhage along the right central sulcus. Hyperdense material filling the basal cisterns and sulci (rather than a discrete extra-axial collection or intraventricular clot) is characteristic of diffuse SAH.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__37__8rk3nm",
+            "number": "37",
+            "text": "What is the diagnosis? [img: Radiologynskullfracture.png ]",
+            "options": [
+              "Right parietal bone fracture",
+              "Left parietal bone fracture",
+              "Right occipital bone fracture",
+              "Left occipital bone fracture"
+            ],
+            "originalOptions": [
+              "Right parietal bone fracture",
+              "Left parietal bone fracture",
+              "Right occipital bone fracture",
+              "Left occipital bone fracture"
+            ],
+            "correctAnswer": "B) Left parietal bone fracture",
+            "correctAnswerText": "Left parietal bone fracture",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Axial CT bone window show left parietal bone fracture.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__38__xou0lt",
+            "number": "38",
+            "text": "What is the diagnosis? [img: Radiologynsubduralhemorrhage.png ]",
+            "options": [
+              "Epidural hemorrhage",
+              "Subdural hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Intraparenchymal hemorrhage"
+            ],
+            "originalOptions": [
+              "Epidural hemorrhage",
+              "Subdural hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Intraparenchymal hemorrhage"
+            ],
+            "correctAnswer": "B) Subdural hemorrhage",
+            "correctAnswerText": "Subdural hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Non-contrast head CT reveals hyperdense extra-axial collection overlying the right hemisphere consistent with acute subdural hematoma. A crescentic extra-axial collection that can cross suture lines is classic for subdural hemorrhage, distinguishing it from the biconvex/lentiform epidural hematoma.",
+            "batchName": "Serotonin Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
           }
         ]
       },
@@ -37582,6 +38477,43 @@
               "Vagus Mini-OSCE (Group C)",
               "Vagus Mini-OSCE (Group D)",
               "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__34__7efxej",
+            "number": "34",
+            "text": "What is the diagnosis? [img: Radiologynmcainfarct.png ]",
+            "options": [
+              "Acute MCA territory infarction",
+              "Chronic MCA infarction",
+              "Acute ACA infarction",
+              "Vasogenic edema"
+            ],
+            "originalOptions": [
+              "Acute MCA territory infarction",
+              "Chronic MCA infarction",
+              "Acute ACA infarction",
+              "Vasogenic edema"
+            ],
+            "correctAnswer": "A) Acute MCA territory infarction",
+            "correctAnswerText": "Acute MCA territory infarction",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "DWI hyperintensity with ADC hypointensity (true restricted diffusion) confirms acute ischemic infarction, unlike chronic infarct (facilitated diffusion) or vasogenic edema (no restriction). Here, ADC (Apparent Diffusion Coefficient) map acts as a mirror image to confirm true tissue ischemia by turning dark.",
+            "batchName": "Vagus Mini-OSCE (Group C)",
+            "batchNames": [
+              "Vagus Mini-OSCE (Group C)",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -40509,6 +41441,47 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__neuroradiology__19__pq6fek",
+            "number": "19",
+            "text": "Which artery supplies the infarcted territory shown in this image? [img: Radiologynacainfarct.png ]",
+            "options": [
+              "Anterior cerebral artery",
+              "Middle cerebral artery",
+              "Posterior cerebral artery",
+              "Basilar artery"
+            ],
+            "originalOptions": [
+              "Anterior cerebral artery",
+              "Middle cerebral artery",
+              "Posterior cerebral artery",
+              "Basilar artery"
+            ],
+            "correctAnswer": "A) Anterior cerebral artery",
+            "correctAnswerText": "Anterior cerebral artery",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The infarct involves the medial frontal lobe, the classic ACA distribution, unlike the lateral hemispheric MCA territory or the occipital PCA territory.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group A)",
+              "Endorphin Mini-OSCE (Group E)",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__neuroradiology__20__mx3elp",
             "number": "20",
             "text": "What is the diagnosis? [img: Radiologynmeningioma.png ]",
@@ -40535,6 +41508,48 @@
             "batchNames": [
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group E)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__21__jlwx3e",
+            "number": "21",
+            "text": "What is the diagnosis? [img: Radiologynmultiplesclerosis.png ]",
+            "options": [
+              "Subdural hematoma",
+              "Tuberculosis",
+              "Glioblastoma",
+              "Neurocysticercosis",
+              "Multiple sclerosis"
+            ],
+            "originalOptions": [
+              "Subdural hematoma",
+              "Tuberculosis",
+              "Glioblastoma",
+              "Neurocysticercosis",
+              "Multiple sclerosis"
+            ],
+            "correctAnswer": "E) Multiple sclerosis",
+            "correctAnswerText": "Multiple sclerosis",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group E)",
+              "Aorta Final",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -40617,6 +41632,338 @@
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
               "Endorphin Mini-OSCE (Group E)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__35__qr6iup",
+            "number": "35",
+            "text": "What is the diagnosis? [img: Radiologynposteriorischemia.png ]",
+            "options": [
+              "Anterior circulation ischemia",
+              "Cerebellar hemorrhage",
+              "Basal ganglia hemorrhage",
+              "Posterior circulation ischemia"
+            ],
+            "originalOptions": [
+              "Anterior circulation ischemia",
+              "Cerebellar hemorrhage",
+              "Basal ganglia hemorrhage",
+              "Posterior circulation ischemia"
+            ],
+            "correctAnswer": "D) Posterior circulation ischemia",
+            "correctAnswerText": "Posterior circulation ischemia",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__36__y1dwdo",
+            "number": "36",
+            "text": "What is the diagnosis? [img: Radiologynsubarachnoidhemorrhage.png ]",
+            "options": [
+              "Intraventricular hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Epidural hemorrhage",
+              "Subdural hemorrhage"
+            ],
+            "originalOptions": [
+              "Intraventricular hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Epidural hemorrhage",
+              "Subdural hemorrhage"
+            ],
+            "correctAnswer": "B) Subarachnoid hemorrhage",
+            "correctAnswerText": "Subarachnoid hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Subarachnoid hemorrhage along the right central sulcus. Hyperdense material filling the basal cisterns and sulci (rather than a discrete extra-axial collection or intraventricular clot) is characteristic of diffuse SAH.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Serotonin Mini-OSCE",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__38__xou0lt",
+            "number": "38",
+            "text": "What is the diagnosis? [img: Radiologynsubduralhemorrhage.png ]",
+            "options": [
+              "Epidural hemorrhage",
+              "Subdural hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Intraparenchymal hemorrhage"
+            ],
+            "originalOptions": [
+              "Epidural hemorrhage",
+              "Subdural hemorrhage",
+              "Subarachnoid hemorrhage",
+              "Intraparenchymal hemorrhage"
+            ],
+            "correctAnswer": "B) Subdural hemorrhage",
+            "correctAnswerText": "Subdural hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Non-contrast head CT reveals hyperdense extra-axial collection overlying the right hemisphere consistent with acute subdural hematoma. A crescentic extra-axial collection that can cross suture lines is classic for subdural hemorrhage, distinguishing it from the biconvex/lentiform epidural hematoma.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__39__tvbx8e",
+            "number": "39",
+            "text": "Identify the labeled neuroanatomical structure on this axial brain CT. [img: Radiologynbrainanatomythirdventricle.png ]",
+            "options": [
+              "Right caudate nucleus",
+              "Third ventricle",
+              "Thalamus",
+              "Internal capsule"
+            ],
+            "originalOptions": [
+              "Right caudate nucleus",
+              "Third ventricle",
+              "Thalamus",
+              "Internal capsule"
+            ],
+            "correctAnswer": "B) Third ventricle",
+            "correctAnswerText": "Third ventricle",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "I don't know what to write; there's no explanation :)",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__40__txcstp",
+            "number": "40",
+            "text": "What is the diagnosis? [img: Radiologynstraightsinusthrombosis.png ]",
+            "options": [
+              "Superior sagittal sinus thrombosis",
+              "Transverse sinus thrombosis",
+              "Cavernous sinus thrombosis",
+              "Straight sinus thrombosis"
+            ],
+            "originalOptions": [
+              "Superior sagittal sinus thrombosis",
+              "Transverse sinus thrombosis",
+              "Cavernous sinus thrombosis",
+              "Straight sinus thrombosis"
+            ],
+            "correctAnswer": "D) Straight sinus thrombosis",
+            "correctAnswerText": "Straight sinus thrombosis",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Axial CT head without contrast shows hyperdense straight sinus represents straight sinus thrombosis.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__41__hlpilc",
+            "number": "41",
+            "text": "What is the diagnosis? [img: Radiologyntransversesinusthrombosis.png ]",
+            "options": [
+              "Straight sinus thrombosis",
+              "Superior sagittal sinus thrombosis",
+              "Transverse sinus thrombosis",
+              "Cavernous sinus thrombosis"
+            ],
+            "originalOptions": [
+              "Straight sinus thrombosis",
+              "Superior sagittal sinus thrombosis",
+              "Transverse sinus thrombosis",
+              "Cavernous sinus thrombosis"
+            ],
+            "correctAnswer": "C) Transverse sinus thrombosis",
+            "correctAnswerText": "Transverse sinus thrombosis",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Right image» Axial CT head without contrast shows dense right transverse sinus represents sinus thrombosis. Left image» Axial MRI brain with contrast shows filling defect in the left transverse sinus.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__42__muwcv5",
+            "number": "42",
+            "text": "Identify the labeled structure (A). [img: Radiologynanatomygenubrain.png ]",
+            "options": [
+              "Anterior Horn of the Lateral Ventricle",
+              "Straight Sinus",
+              "Genu of the Corpus Callosum",
+              "Choroid Plexus"
+            ],
+            "originalOptions": [
+              "Anterior Horn of the Lateral Ventricle",
+              "Straight Sinus",
+              "Genu of the Corpus Callosum",
+              "Choroid Plexus"
+            ],
+            "correctAnswer": "C) Genu of the Corpus Callosum",
+            "correctAnswerText": "Genu of the Corpus Callosum",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Look at the ⚠️ on the left of the question. I don't know what to write; there's no explanation :)",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "A. Genu of the Corpus Callosum || B. Anterior Horn of the Lateral Ventricle || C. Internal Capsule || D. Thalamus || E. Pineal Gland || F. Choroid Plexus || G. Straight Sinus",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__43__w9l9zi",
+            "number": "43",
+            "text": "Identify the labeled structure. [img: Radiologynanatomyfourthventriclebrain.png ]",
+            "options": [
+              "Left cerebellar hemisphere",
+              "Third ventricle",
+              "Pons",
+              "Anterior Horn of the Lateral Ventricle",
+              "Fourth ventricle"
+            ],
+            "originalOptions": [
+              "Left cerebellar hemisphere",
+              "Third ventricle",
+              "Pons",
+              "Anterior Horn of the Lateral Ventricle",
+              "Fourth ventricle"
+            ],
+            "correctAnswer": "E) Fourth ventricle",
+            "correctAnswerText": "Fourth ventricle",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "I don't know what to write; there's no explanation :)",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__44__szq1ob",
+            "number": "44",
+            "text": "What is the most likely diagnosis? [img: Radiologynleftsubacutesubduralhemorrhage.png ]",
+            "options": [
+              "Right epidural hemorrhage",
+              "Left subacute subdural hemorrhage",
+              "Right acute subdural hemorrhage",
+              "Left epidural hemorrhage"
+            ],
+            "originalOptions": [
+              "Right epidural hemorrhage",
+              "Left subacute subdural hemorrhage",
+              "Right acute subdural hemorrhage",
+              "Left epidural hemorrhage"
+            ],
+            "correctAnswer": "B) Left subacute subdural hemorrhage",
+            "correctAnswerText": "Left subacute subdural hemorrhage",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Huge isodense subdural hematoma causing gross compression to the left hemisphere and midline shift to right.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -50001,12 +51348,14 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "The infarct involves the medial frontal lobe, the classic ACA distribution, unlike the lateral hemispheric MCA territory or the occipital PCA territory.",
-        "batchName": "Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Aorta Final",
+        "batchName": "Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
         "batchNames": [
           "Iris Mini-OSCE (Group C)",
           "Endorphin Mini-OSCE (Group A)",
           "Endorphin Mini-OSCE (Group E)",
-          "Aorta Final"
+          "Aorta Final",
+          "Waman A7yaha Mini-OSCE",
+          "Serotonin Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -50078,12 +51427,13 @@
         "isMultiple": false,
         "correctAnswerLetter": "E",
         "explanation": "Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.",
-        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final",
+        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Endorphin Mini-OSCE (Group B)",
           "Endorphin Mini-OSCE (Group C)",
           "Endorphin Mini-OSCE (Group E)",
-          "Aorta Final"
+          "Aorta Final",
+          "Waman A7yaha Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -50264,12 +51614,13 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "A biconvex, lentiform hyperdense extra-axial collection is the classic CT appearance of acute epidural hematoma, distinct from the crescentic shape of subdural hematoma.",
-        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE",
+        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
         "batchNames": [
           "Iris Mini-OSCE (Group C)",
           "Iris Mini-OSCE (Group D)",
           "Endorphin Mini-OSCE (Group E)",
-          "Waman A7yaha Mini-OSCE"
+          "Waman A7yaha Mini-OSCE",
+          "Serotonin Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -50455,9 +51806,472 @@
         "lectureName": "Neuroradiology",
         "groupName": "Neuroradiology",
         "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__32__quwy90",
+        "number": "32",
+        "text": "What is the diagnosis? [img: Radiologynintraventricularhemorrhage.png ]",
+        "options": [
+          "Choroid plexus papilloma",
+          "Intraventricular hemorrhage",
+          "Colloid cyst",
+          "Ependymoma"
+        ],
+        "originalOptions": [
+          "Choroid plexus papilloma",
+          "Intraventricular hemorrhage",
+          "Colloid cyst",
+          "Ependymoma"
+        ],
+        "correctAnswer": "B) Intraventricular hemorrhage",
+        "correctAnswerText": "Intraventricular hemorrhage",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "An acute intracerebral haemorrhage is centred in the basal ganglia of the right hemisphere with the extension of blood into both lateral ventricles (intraventricular haemorrhage), third & fourth ventricles as well as the foramina of Luschka and Magendie. There is no hydrocephalus at this stage.",
+        "batchName": "Serotonin Mini-OSCE",
+        "batchNames": [
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__33__4rfsk6",
+        "number": "33",
+        "text": "Identify the neuroanatomical structures labeled 1, 2, and 4 on this axial brain CT, respectively. [img: Radiologynanatomy1brain.png ]",
+        "options": [
+          "Frontal lobe, caudate, thalamus",
+          "Caudate, parietal lobe, thalamus",
+          "Frontal lobe, thalamus, internal capsule",
+          "Parietal lobe, thalamus, internal capsule"
+        ],
+        "originalOptions": [
+          "Frontal lobe, caudate, thalamus",
+          "Caudate, parietal lobe, thalamus",
+          "Frontal lobe, thalamus, internal capsule",
+          "Parietal lobe, thalamus, internal capsule"
+        ],
+        "correctAnswer": "A) Frontal lobe, caudate, thalamus",
+        "correctAnswerText": "Frontal lobe, caudate, thalamus",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "This labeled axial CT correctly places the frontal lobe label on the patient's left side while the caudate head and thalamus labels are both on the right side.",
+        "batchName": "Serotonin Mini-OSCE",
+        "batchNames": [
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "1. Frontal lobe || 2. Caudate || 3. Parietal lobe || 4. Thalamus || 5. Internal capsule",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__34__7efxej",
+        "number": "34",
+        "text": "What is the diagnosis? [img: Radiologynmcainfarct.png ]",
+        "options": [
+          "Acute MCA territory infarction",
+          "Chronic MCA infarction",
+          "Acute ACA infarction",
+          "Vasogenic edema"
+        ],
+        "originalOptions": [
+          "Acute MCA territory infarction",
+          "Chronic MCA infarction",
+          "Acute ACA infarction",
+          "Vasogenic edema"
+        ],
+        "correctAnswer": "A) Acute MCA territory infarction",
+        "correctAnswerText": "Acute MCA territory infarction",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "DWI hyperintensity with ADC hypointensity (true restricted diffusion) confirms acute ischemic infarction, unlike chronic infarct (facilitated diffusion) or vasogenic edema (no restriction). Here, ADC (Apparent Diffusion Coefficient) map acts as a mirror image to confirm true tissue ischemia by turning dark.",
+        "batchName": "Vagus Mini-OSCE (Group C) / Serotonin Mini-OSCE",
+        "batchNames": [
+          "Vagus Mini-OSCE (Group C)",
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__35__qr6iup",
+        "number": "35",
+        "text": "What is the diagnosis? [img: Radiologynposteriorischemia.png ]",
+        "options": [
+          "Anterior circulation ischemia",
+          "Cerebellar hemorrhage",
+          "Basal ganglia hemorrhage",
+          "Posterior circulation ischemia"
+        ],
+        "originalOptions": [
+          "Anterior circulation ischemia",
+          "Cerebellar hemorrhage",
+          "Basal ganglia hemorrhage",
+          "Posterior circulation ischemia"
+        ],
+        "correctAnswer": "D) Posterior circulation ischemia",
+        "correctAnswerText": "Posterior circulation ischemia",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.",
+        "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE",
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__36__y1dwdo",
+        "number": "36",
+        "text": "What is the diagnosis? [img: Radiologynsubarachnoidhemorrhage.png ]",
+        "options": [
+          "Intraventricular hemorrhage",
+          "Subarachnoid hemorrhage",
+          "Epidural hemorrhage",
+          "Subdural hemorrhage"
+        ],
+        "originalOptions": [
+          "Intraventricular hemorrhage",
+          "Subarachnoid hemorrhage",
+          "Epidural hemorrhage",
+          "Subdural hemorrhage"
+        ],
+        "correctAnswer": "B) Subarachnoid hemorrhage",
+        "correctAnswerText": "Subarachnoid hemorrhage",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Subarachnoid hemorrhage along the right central sulcus. Hyperdense material filling the basal cisterns and sulci (rather than a discrete extra-axial collection or intraventricular clot) is characteristic of diffuse SAH.",
+        "batchName": "Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Serotonin Mini-OSCE",
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__37__8rk3nm",
+        "number": "37",
+        "text": "What is the diagnosis? [img: Radiologynskullfracture.png ]",
+        "options": [
+          "Right parietal bone fracture",
+          "Left parietal bone fracture",
+          "Right occipital bone fracture",
+          "Left occipital bone fracture"
+        ],
+        "originalOptions": [
+          "Right parietal bone fracture",
+          "Left parietal bone fracture",
+          "Right occipital bone fracture",
+          "Left occipital bone fracture"
+        ],
+        "correctAnswer": "B) Left parietal bone fracture",
+        "correctAnswerText": "Left parietal bone fracture",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Axial CT bone window show left parietal bone fracture.",
+        "batchName": "Serotonin Mini-OSCE",
+        "batchNames": [
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__38__xou0lt",
+        "number": "38",
+        "text": "What is the diagnosis? [img: Radiologynsubduralhemorrhage.png ]",
+        "options": [
+          "Epidural hemorrhage",
+          "Subdural hemorrhage",
+          "Subarachnoid hemorrhage",
+          "Intraparenchymal hemorrhage"
+        ],
+        "originalOptions": [
+          "Epidural hemorrhage",
+          "Subdural hemorrhage",
+          "Subarachnoid hemorrhage",
+          "Intraparenchymal hemorrhage"
+        ],
+        "correctAnswer": "B) Subdural hemorrhage",
+        "correctAnswerText": "Subdural hemorrhage",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Non-contrast head CT reveals hyperdense extra-axial collection overlying the right hemisphere consistent with acute subdural hematoma. A crescentic extra-axial collection that can cross suture lines is classic for subdural hemorrhage, distinguishing it from the biconvex/lentiform epidural hematoma.",
+        "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE",
+          "Serotonin Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__39__tvbx8e",
+        "number": "39",
+        "text": "Identify the labeled neuroanatomical structure on this axial brain CT. [img: Radiologynbrainanatomythirdventricle.png ]",
+        "options": [
+          "Right caudate nucleus",
+          "Third ventricle",
+          "Thalamus",
+          "Internal capsule"
+        ],
+        "originalOptions": [
+          "Right caudate nucleus",
+          "Third ventricle",
+          "Thalamus",
+          "Internal capsule"
+        ],
+        "correctAnswer": "B) Third ventricle",
+        "correctAnswerText": "Third ventricle",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "I don't know what to write; there's no explanation :)",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__40__txcstp",
+        "number": "40",
+        "text": "What is the diagnosis? [img: Radiologynstraightsinusthrombosis.png ]",
+        "options": [
+          "Superior sagittal sinus thrombosis",
+          "Transverse sinus thrombosis",
+          "Cavernous sinus thrombosis",
+          "Straight sinus thrombosis"
+        ],
+        "originalOptions": [
+          "Superior sagittal sinus thrombosis",
+          "Transverse sinus thrombosis",
+          "Cavernous sinus thrombosis",
+          "Straight sinus thrombosis"
+        ],
+        "correctAnswer": "D) Straight sinus thrombosis",
+        "correctAnswerText": "Straight sinus thrombosis",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Axial CT head without contrast shows hyperdense straight sinus represents straight sinus thrombosis.",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__41__hlpilc",
+        "number": "41",
+        "text": "What is the diagnosis? [img: Radiologyntransversesinusthrombosis.png ]",
+        "options": [
+          "Straight sinus thrombosis",
+          "Superior sagittal sinus thrombosis",
+          "Transverse sinus thrombosis",
+          "Cavernous sinus thrombosis"
+        ],
+        "originalOptions": [
+          "Straight sinus thrombosis",
+          "Superior sagittal sinus thrombosis",
+          "Transverse sinus thrombosis",
+          "Cavernous sinus thrombosis"
+        ],
+        "correctAnswer": "C) Transverse sinus thrombosis",
+        "correctAnswerText": "Transverse sinus thrombosis",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Right image» Axial CT head without contrast shows dense right transverse sinus represents sinus thrombosis. Left image» Axial MRI brain with contrast shows filling defect in the left transverse sinus.",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__42__muwcv5",
+        "number": "42",
+        "text": "Identify the labeled structure (A). [img: Radiologynanatomygenubrain.png ]",
+        "options": [
+          "Anterior Horn of the Lateral Ventricle",
+          "Straight Sinus",
+          "Genu of the Corpus Callosum",
+          "Choroid Plexus"
+        ],
+        "originalOptions": [
+          "Anterior Horn of the Lateral Ventricle",
+          "Straight Sinus",
+          "Genu of the Corpus Callosum",
+          "Choroid Plexus"
+        ],
+        "correctAnswer": "C) Genu of the Corpus Callosum",
+        "correctAnswerText": "Genu of the Corpus Callosum",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Look at the ⚠️ on the left of the question. I don't know what to write; there's no explanation :)",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "A. Genu of the Corpus Callosum || B. Anterior Horn of the Lateral Ventricle || C. Internal Capsule || D. Thalamus || E. Pineal Gland || F. Choroid Plexus || G. Straight Sinus",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__43__w9l9zi",
+        "number": "43",
+        "text": "Identify the labeled structure. [img: Radiologynanatomyfourthventriclebrain.png ]",
+        "options": [
+          "Left cerebellar hemisphere",
+          "Third ventricle",
+          "Pons",
+          "Anterior Horn of the Lateral Ventricle",
+          "Fourth ventricle"
+        ],
+        "originalOptions": [
+          "Left cerebellar hemisphere",
+          "Third ventricle",
+          "Pons",
+          "Anterior Horn of the Lateral Ventricle",
+          "Fourth ventricle"
+        ],
+        "correctAnswer": "E) Fourth ventricle",
+        "correctAnswerText": "Fourth ventricle",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "I don't know what to write; there's no explanation :)",
+        "batchName": "Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__44__szq1ob",
+        "number": "44",
+        "text": "What is the most likely diagnosis? [img: Radiologynleftsubacutesubduralhemorrhage.png ]",
+        "options": [
+          "Right epidural hemorrhage",
+          "Left subacute subdural hemorrhage",
+          "Right acute subdural hemorrhage",
+          "Left epidural hemorrhage"
+        ],
+        "originalOptions": [
+          "Right epidural hemorrhage",
+          "Left subacute subdural hemorrhage",
+          "Right acute subdural hemorrhage",
+          "Left epidural hemorrhage"
+        ],
+        "correctAnswer": "B) Left subacute subdural hemorrhage",
+        "correctAnswerText": "Left subacute subdural hemorrhage",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Huge isodense subdural hematoma causing gross compression to the left hemisphere and midline shift to right.",
+        "batchName": "Endorphin Final / Aorta Final / Waman A7yaha Mini-OSCE",
+        "batchNames": [
+          "Endorphin Final",
+          "Aorta Final",
+          "Waman A7yaha Mini-OSCE"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 268,
+    "totalQuestions": 281,
     "totalLectures": 26,
     "hasAiFolder": false
   },
