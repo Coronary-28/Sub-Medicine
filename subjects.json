@@ -20291,9 +20291,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "E",
             "explanation": "A colloid cyst at the foramen of Monro physically obstructs CSF flow (non-communicating hydrocephalus); SAH, meningitis, and meningeal carcinomatosis impair CSF absorption (communicating), and choroid plexus papilloma causes communicating hydrocephalus via CSF overproduction.",
-            "batchName": "Iris Mini-OSCE (Group C) / Aorta Mini-OSCE (Group A) / Waman A7yaha Final / Serotonin Final",
+            "batchName": "Iris Mini-OSCE (Group C) / Iris Final / Aorta Mini-OSCE (Group A) / Waman A7yaha Final / Serotonin Final",
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
+              "Iris Final",
               "Aorta Mini-OSCE (Group A)",
               "Waman A7yaha Final",
               "Serotonin Final"
@@ -20762,8 +20763,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "E",
             "explanation": "Enhancing vertebral endplates with an irregular, destroyed disc space is the classic MRI appearance of spondylodiscitis, unlike degenerative disease (no enhancement) or an isolated epidural abscess (disc usually spared).",
-            "batchName": "Endorphin Mini-OSCE (Group A) / Aorta Final",
+            "batchName": "Iris Final / Endorphin Mini-OSCE (Group A) / Aorta Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Aorta Final"
             ],
@@ -20913,8 +20915,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "E",
             "explanation": "Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.",
-            "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE",
+            "batchName": "Iris Final / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE",
             "batchNames": [
+              "Iris Final",
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group E)",
@@ -21100,10 +21103,11 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "A biconvex, lentiform hyperdense extra-axial collection is the classic CT appearance of acute epidural hematoma, distinct from the crescentic shape of subdural hematoma.",
-            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group E)",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
@@ -21422,8 +21426,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.",
-            "batchName": "Endorphin Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+            "batchName": "Iris Final / Endorphin Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
@@ -21780,8 +21785,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "A lobulated, intensely and homogeneously enhancing intraventricular mass with hydrocephalus is characteristic of choroid plexus papilloma, unlike the posterior fossa location of medulloblastoma or the suprasellar cystic/calcified appearance of craniopharyngioma.",
-            "batchName": "Endorphin Final / Aorta Final",
+            "batchName": "Iris Final / Endorphin Final / Aorta Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Aorta Final"
             ],
@@ -21853,8 +21859,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "E",
             "explanation": "Mucosal thickening with an air-fluid level localized to the maxillary sinus confirms maxillary sinusitis rather than involvement of another sinus or a soft-tissue mass.",
-            "batchName": "Endorphin Final / Aorta Final",
+            "batchName": "Iris Final / Endorphin Final / Aorta Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Aorta Final"
             ],
@@ -22757,8 +22764,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "B",
             "explanation": "Hypertensive ICH classically occurs in deep structures (basal ganglia, thalamus, pons, cerebellum) supplied by small penetrating vessels; a lobar location like the frontal lobe instead suggests another etiology (e.g., amyloid angiopathy, AVM, tumor).",
-            "batchName": "Vagus Final",
+            "batchName": "Iris Final / Vagus Final",
             "batchNames": [
+              "Iris Final",
               "Vagus Final"
             ],
             "note": "",
@@ -22794,8 +22802,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "E",
             "explanation": "Late subacute hemorrhage (extracellular methemoglobin) is T1 and T2 hyperintense; early subacute (intracellular methemoglobin) is T1 hyperintense but T2 hypointense, and acute/chronic stages are T2 hypointense.",
-            "batchName": "Vagus Final",
+            "batchName": "Vagus Mini-OSCE (Group B) / Vagus Final",
             "batchNames": [
+              "Vagus Mini-OSCE (Group B)",
               "Vagus Final"
             ],
             "note": "",
@@ -22943,6 +22952,80 @@
             "batchName": "Waman A7yaha Final",
             "batchNames": [
               "Waman A7yaha Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__79__621668",
+            "number": "79",
+            "text": "Identify the labeled structure. [img: Radiologynanatomyuncusbrain.png ]",
+            "options": [
+              "Pons",
+              "Third ventricle",
+              "Tentorium cerebelli",
+              "Anterior Horn of the Lateral Ventricle",
+              "Uncus"
+            ],
+            "originalOptions": [
+              "Pons",
+              "Third ventricle",
+              "Tentorium cerebelli",
+              "Anterior Horn of the Lateral Ventricle",
+              "Uncus"
+            ],
+            "correctAnswer": "E) Uncus",
+            "correctAnswerText": "Uncus",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "I don't know what to write; there's no explanation :)",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__80__u4j4i2",
+            "number": "80",
+            "text": "Which of the following is NOT a part of the corpus callosum?",
+            "options": [
+              "Splenium",
+              "Thalamus",
+              "Body",
+              "Rostrum",
+              "Genu"
+            ],
+            "originalOptions": [
+              "Splenium",
+              "Thalamus",
+              "Body",
+              "Rostrum",
+              "Genu"
+            ],
+            "correctAnswer": "B) Thalamus",
+            "correctAnswerText": "Thalamus",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The thalamus is a deep grey matter nucleus located centrally in the brain, distinct from the components of the corpus callosum which is a major white matter tract anatomically divided into the rostrum, genu, body, and splenium.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
             ],
             "note": "",
             "pageNumber": "",
@@ -24469,6 +24552,7 @@
             "explanation": "Enhancing vertebral endplates with an irregular, destroyed disc space is the classic MRI appearance of spondylodiscitis, unlike degenerative disease (no enhancement) or an isolated epidural abscess (disc usually spared).",
             "batchName": "Aorta Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Aorta Final"
             ],
@@ -24549,6 +24633,7 @@
             "explanation": "Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.",
             "batchName": "Aorta Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group E)",
@@ -24670,6 +24755,7 @@
             "explanation": "A lobulated, intensely and homogeneously enhancing intraventricular mass with hydrocephalus is characteristic of choroid plexus papilloma, unlike the posterior fossa location of medulloblastoma or the suprasellar cystic/calcified appearance of craniopharyngioma.",
             "batchName": "Aorta Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Aorta Final"
             ],
@@ -24745,6 +24831,7 @@
             "explanation": "Mucosal thickening with an air-fluid level localized to the maxillary sinus confirms maxillary sinusitis rather than involvement of another sinus or a soft-tissue mass.",
             "batchName": "Aorta Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Aorta Final"
             ],
@@ -25712,6 +25799,7 @@
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
+              "Iris Final",
               "Aorta Mini-OSCE (Group A)",
               "Waman A7yaha Final",
               "Serotonin Final"
@@ -26611,6 +26699,44 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "The anterior limb of the internal capsule is supplied by the medial lenticulostriate arteries and the recurrent artery of Heubner; the anterior choroidal artery instead supplies the posterior limb/retrolentiform region.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__79__621668",
+            "number": "79",
+            "text": "Identify the labeled structure. [img: Radiologynanatomyuncusbrain.png ]",
+            "options": [
+              "Pons",
+              "Third ventricle",
+              "Tentorium cerebelli",
+              "Anterior Horn of the Lateral Ventricle",
+              "Uncus"
+            ],
+            "originalOptions": [
+              "Pons",
+              "Third ventricle",
+              "Tentorium cerebelli",
+              "Anterior Horn of the Lateral Ventricle",
+              "Uncus"
+            ],
+            "correctAnswer": "E) Uncus",
+            "correctAnswerText": "Uncus",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "I don't know what to write; there's no explanation :)",
             "batchName": "Coronary Mini-OSCE (Group C)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)"
@@ -28046,6 +28172,7 @@
             "explanation": "Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.",
             "batchName": "Endorphin Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
@@ -28122,6 +28249,7 @@
             "explanation": "A lobulated, intensely and homogeneously enhancing intraventricular mass with hydrocephalus is characteristic of choroid plexus papilloma, unlike the posterior fossa location of medulloblastoma or the suprasellar cystic/calcified appearance of craniopharyngioma.",
             "batchName": "Endorphin Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Aorta Final"
             ],
@@ -28161,6 +28289,7 @@
             "explanation": "Mucosal thickening with an air-fluid level localized to the maxillary sinus confirms maxillary sinusitis rather than involvement of another sinus or a soft-tissue mass.",
             "batchName": "Endorphin Final",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Aorta Final"
             ],
@@ -29220,6 +29349,7 @@
             "explanation": "Enhancing vertebral endplates with an irregular, destroyed disc space is the classic MRI appearance of spondylodiscitis, unlike degenerative disease (no enhancement) or an isolated epidural abscess (disc usually spared).",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
+              "Iris Final",
               "Endorphin Mini-OSCE (Group A)",
               "Aorta Final"
             ],
@@ -30203,6 +30333,7 @@
             "explanation": "Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
+              "Iris Final",
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group E)",
@@ -31189,6 +31320,7 @@
             "explanation": "Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
+              "Iris Final",
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group E)",
@@ -33157,6 +33289,7 @@
             "explanation": "Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
+              "Iris Final",
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group E)",
@@ -33242,6 +33375,7 @@
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group E)",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
@@ -34399,6 +34533,366 @@
             "subjectId": "radiology",
             "lectureName": "Musculoskeletal (MSK) radiology",
             "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__5__87cc8t",
+            "number": "5",
+            "text": "Which of the following is a cause of non-communicating hydrocephalus?",
+            "options": [
+              "Subarachnoid hemorrhage",
+              "Meningitis",
+              "Choroid plexus papilloma",
+              "Meningeal carcinomatosis",
+              "Colloid cyst"
+            ],
+            "originalOptions": [
+              "Subarachnoid hemorrhage",
+              "Meningitis",
+              "Choroid plexus papilloma",
+              "Meningeal carcinomatosis",
+              "Colloid cyst"
+            ],
+            "correctAnswer": "E) Colloid cyst",
+            "correctAnswerText": "Colloid cyst",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "A colloid cyst at the foramen of Monro physically obstructs CSF flow (non-communicating hydrocephalus); SAH, meningitis, and meningeal carcinomatosis impair CSF absorption (communicating), and choroid plexus papilloma causes communicating hydrocephalus via CSF overproduction.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Final",
+              "Aorta Mini-OSCE (Group A)",
+              "Waman A7yaha Final",
+              "Serotonin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__18__izhpcb",
+            "number": "18",
+            "text": "What is the diagnosis? [img: Radiologynspondylodiscitis.png ]",
+            "options": [
+              "Disc herniation",
+              "Metastatic vertebral lesion",
+              "Epidural abscess",
+              "Degenerative disc disease",
+              "Spondylodiscitis"
+            ],
+            "originalOptions": [
+              "Disc herniation",
+              "Metastatic vertebral lesion",
+              "Epidural abscess",
+              "Degenerative disc disease",
+              "Spondylodiscitis"
+            ],
+            "correctAnswer": "E) Spondylodiscitis",
+            "correctAnswerText": "Spondylodiscitis",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Enhancing vertebral endplates with an irregular, destroyed disc space is the classic MRI appearance of spondylodiscitis, unlike degenerative disease (no enhancement) or an isolated epidural abscess (disc usually spared).",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final",
+              "Endorphin Mini-OSCE (Group A)",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__22__jlwx3e",
+            "number": "22",
+            "text": "What is the diagnosis? [img: Radiologynmultiplesclerosis.png ]",
+            "options": [
+              "Subdural hematoma",
+              "Tuberculosis",
+              "Glioblastoma",
+              "Neurocysticercosis",
+              "Multiple sclerosis"
+            ],
+            "originalOptions": [
+              "Subdural hematoma",
+              "Tuberculosis",
+              "Glioblastoma",
+              "Neurocysticercosis",
+              "Multiple sclerosis"
+            ],
+            "correctAnswer": "E) Multiple sclerosis",
+            "correctAnswerText": "Multiple sclerosis",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final",
+              "Endorphin Mini-OSCE (Group B)",
+              "Endorphin Mini-OSCE (Group C)",
+              "Endorphin Mini-OSCE (Group E)",
+              "Aorta Final",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__27__95rqvt",
+            "number": "27",
+            "text": "What is the diagnosis? [img: Radiologynepiduralhematomaacute.png ]",
+            "options": [
+              "Epidural hematoma",
+              "Subdural hematoma",
+              "Subarachnoid hemorrhage",
+              "Intracerebral hemorrhage"
+            ],
+            "originalOptions": [
+              "Epidural hematoma",
+              "Subdural hematoma",
+              "Subarachnoid hemorrhage",
+              "Intracerebral hemorrhage"
+            ],
+            "correctAnswer": "A) Epidural hematoma",
+            "correctAnswerText": "Epidural hematoma",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A biconvex, lentiform hyperdense extra-axial collection is the classic CT appearance of acute epidural hematoma, distinct from the crescentic shape of subdural hematoma.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Iris Final",
+              "Endorphin Mini-OSCE (Group E)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__36__qr6iup",
+            "number": "36",
+            "text": "What is the diagnosis? [img: Radiologynposteriorischemia.png ]",
+            "options": [
+              "Anterior circulation ischemia",
+              "Cerebellar hemorrhage",
+              "Basal ganglia hemorrhage",
+              "Posterior circulation ischemia"
+            ],
+            "originalOptions": [
+              "Anterior circulation ischemia",
+              "Cerebellar hemorrhage",
+              "Basal ganglia hemorrhage",
+              "Posterior circulation ischemia"
+            ],
+            "correctAnswer": "D) Posterior circulation ischemia",
+            "correctAnswerText": "Posterior circulation ischemia",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final",
+              "Endorphin Final",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__46__l32fd4",
+            "number": "46",
+            "text": "What is the most likely diagnosis? [img: Radiologynchoroidplexuspapilloma.png ]",
+            "options": [
+              "Choroid plexus papilloma",
+              "Medulloblastoma",
+              "Craniopharyngioma",
+              "Arachnoid cyst"
+            ],
+            "originalOptions": [
+              "Choroid plexus papilloma",
+              "Medulloblastoma",
+              "Craniopharyngioma",
+              "Arachnoid cyst"
+            ],
+            "correctAnswer": "A) Choroid plexus papilloma",
+            "correctAnswerText": "Choroid plexus papilloma",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A lobulated, intensely and homogeneously enhancing intraventricular mass with hydrocephalus is characteristic of choroid plexus papilloma, unlike the posterior fossa location of medulloblastoma or the suprasellar cystic/calcified appearance of craniopharyngioma.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__48__rppk5m",
+            "number": "48",
+            "text": "What is the most likely diagnosis? [img: Radiologynmaxillarysinusitis.png ]",
+            "options": [
+              "Ethmoidal sinusitis",
+              "Sphenoid sinusitis",
+              "Nasopharyngeal carcinoma",
+              "Frontal sinusitis",
+              "Maxillary sinusitis"
+            ],
+            "originalOptions": [
+              "Ethmoidal sinusitis",
+              "Sphenoid sinusitis",
+              "Nasopharyngeal carcinoma",
+              "Frontal sinusitis",
+              "Maxillary sinusitis"
+            ],
+            "correctAnswer": "E) Maxillary sinusitis",
+            "correctAnswerText": "Maxillary sinusitis",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Mucosal thickening with an air-fluid level localized to the maxillary sinus confirms maxillary sinusitis rather than involvement of another sinus or a soft-tissue mass.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__73__docmcx",
+            "number": "73",
+            "text": "Which of the following locations is NOT typical for hypertensive intracerebral hemorrhage?",
+            "options": [
+              "Basal ganglia (putamen)",
+              "Frontal lobe",
+              "Thalamus",
+              "Pons",
+              "Cerebellum"
+            ],
+            "originalOptions": [
+              "Basal ganglia (putamen)",
+              "Frontal lobe",
+              "Thalamus",
+              "Pons",
+              "Cerebellum"
+            ],
+            "correctAnswer": "B) Frontal lobe",
+            "correctAnswerText": "Frontal lobe",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Hypertensive ICH classically occurs in deep structures (basal ganglia, thalamus, pons, cerebellum) supplied by small penetrating vessels; a lobar location like the frontal lobe instead suggests another etiology (e.g., amyloid angiopathy, AVM, tumor).",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final",
+              "Vagus Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__80__u4j4i2",
+            "number": "80",
+            "text": "Which of the following is NOT a part of the corpus callosum?",
+            "options": [
+              "Splenium",
+              "Thalamus",
+              "Body",
+              "Rostrum",
+              "Genu"
+            ],
+            "originalOptions": [
+              "Splenium",
+              "Thalamus",
+              "Body",
+              "Rostrum",
+              "Genu"
+            ],
+            "correctAnswer": "B) Thalamus",
+            "correctAnswerText": "Thalamus",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The thalamus is a deep grey matter nucleus located centrally in the brain, distinct from the components of the corpus callosum which is a major white matter tract anatomically divided into the rostrum, genu, body, and splenium.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
           }
@@ -35777,6 +36271,7 @@
             "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
+              "Iris Final",
               "Aorta Mini-OSCE (Group A)",
               "Waman A7yaha Final",
               "Serotonin Final"
@@ -35895,6 +36390,7 @@
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group E)",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
@@ -36409,6 +36905,7 @@
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group E)",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
@@ -37991,6 +38488,7 @@
             "batchName": "Serotonin Final",
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
+              "Iris Final",
               "Aorta Mini-OSCE (Group A)",
               "Waman A7yaha Final",
               "Serotonin Final"
@@ -39239,6 +39737,7 @@
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group E)",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
@@ -39386,6 +39885,7 @@
             "explanation": "Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.",
             "batchName": "Serotonin Mini-OSCE",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
@@ -40365,6 +40865,7 @@
             "explanation": "Hypertensive ICH classically occurs in deep structures (basal ganglia, thalamus, pons, cerebellum) supplied by small penetrating vessels; a lobar location like the frontal lobe instead suggests another etiology (e.g., amyloid angiopathy, AVM, tumor).",
             "batchName": "Vagus Final",
             "batchNames": [
+              "Iris Final",
               "Vagus Final"
             ],
             "note": "",
@@ -40403,6 +40904,7 @@
             "explanation": "Late subacute hemorrhage (extracellular methemoglobin) is T1 and T2 hyperintense; early subacute (intracellular methemoglobin) is T1 hyperintense but T2 hypointense, and acute/chronic stages are T2 hypointense.",
             "batchName": "Vagus Final",
             "batchNames": [
+              "Vagus Mini-OSCE (Group B)",
               "Vagus Final"
             ],
             "note": "",
@@ -40624,6 +41126,45 @@
             "subjectId": "radiology",
             "lectureName": "Musculoskeletal (MSK) radiology",
             "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__74__j0u0wu",
+            "number": "74",
+            "text": "Which stage of hemorrhage is classically hyperintense on both T1 and T2-weighted MRI due to extracellular methemoglobin?",
+            "options": [
+              "Hyperacute (oxyhemoglobin)",
+              "Acute (deoxyhemoglobin)",
+              "Early subacute (intracellular methemoglobin)",
+              "Chronic (hemosiderin)",
+              "Late subacute (extracellular methemoglobin)"
+            ],
+            "originalOptions": [
+              "Hyperacute (oxyhemoglobin)",
+              "Acute (deoxyhemoglobin)",
+              "Early subacute (intracellular methemoglobin)",
+              "Chronic (hemosiderin)",
+              "Late subacute (extracellular methemoglobin)"
+            ],
+            "correctAnswer": "E) Late subacute (extracellular methemoglobin)",
+            "correctAnswerText": "Late subacute (extracellular methemoglobin)",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Late subacute hemorrhage (extracellular methemoglobin) is T1 and T2 hyperintense; early subacute (intracellular methemoglobin) is T1 hyperintense but T2 hypointense, and acute/chronic stages are T2 hypointense.",
+            "batchName": "Vagus Mini-OSCE (Group B)",
+            "batchNames": [
+              "Vagus Mini-OSCE (Group B)",
+              "Vagus Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
           }
@@ -41944,6 +42485,7 @@
             "batchName": "Waman A7yaha Final",
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
+              "Iris Final",
               "Aorta Mini-OSCE (Group A)",
               "Waman A7yaha Final",
               "Serotonin Final"
@@ -44277,6 +44819,7 @@
             "explanation": "Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
+              "Iris Final",
               "Endorphin Mini-OSCE (Group B)",
               "Endorphin Mini-OSCE (Group C)",
               "Endorphin Mini-OSCE (Group E)",
@@ -44362,6 +44905,7 @@
             "batchNames": [
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)",
+              "Iris Final",
               "Endorphin Mini-OSCE (Group E)",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
@@ -44400,6 +44944,7 @@
             "explanation": "Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
+              "Iris Final",
               "Endorphin Final",
               "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
@@ -53575,9 +54120,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "E",
         "explanation": "A colloid cyst at the foramen of Monro physically obstructs CSF flow (non-communicating hydrocephalus); SAH, meningitis, and meningeal carcinomatosis impair CSF absorption (communicating), and choroid plexus papilloma causes communicating hydrocephalus via CSF overproduction.",
-        "batchName": "Iris Mini-OSCE (Group C) / Aorta Mini-OSCE (Group A) / Waman A7yaha Final / Serotonin Final",
+        "batchName": "Iris Mini-OSCE (Group C) / Iris Final / Aorta Mini-OSCE (Group A) / Waman A7yaha Final / Serotonin Final",
         "batchNames": [
           "Iris Mini-OSCE (Group C)",
+          "Iris Final",
           "Aorta Mini-OSCE (Group A)",
           "Waman A7yaha Final",
           "Serotonin Final"
@@ -54046,8 +54592,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "E",
         "explanation": "Enhancing vertebral endplates with an irregular, destroyed disc space is the classic MRI appearance of spondylodiscitis, unlike degenerative disease (no enhancement) or an isolated epidural abscess (disc usually spared).",
-        "batchName": "Endorphin Mini-OSCE (Group A) / Aorta Final",
+        "batchName": "Iris Final / Endorphin Mini-OSCE (Group A) / Aorta Final",
         "batchNames": [
+          "Iris Final",
           "Endorphin Mini-OSCE (Group A)",
           "Aorta Final"
         ],
@@ -54197,8 +54744,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "E",
         "explanation": "Periventricular/callososeptal ovoid lesions oriented perpendicular to the ventricles (Dawson's fingers) are the classic MRI hallmark of MS.",
-        "batchName": "Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE",
+        "batchName": "Iris Final / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group E) / Aorta Final / Waman A7yaha Mini-OSCE",
         "batchNames": [
+          "Iris Final",
           "Endorphin Mini-OSCE (Group B)",
           "Endorphin Mini-OSCE (Group C)",
           "Endorphin Mini-OSCE (Group E)",
@@ -54384,10 +54932,11 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "A biconvex, lentiform hyperdense extra-axial collection is the classic CT appearance of acute epidural hematoma, distinct from the crescentic shape of subdural hematoma.",
-        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Mini-OSCE (Group E) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
         "batchNames": [
           "Iris Mini-OSCE (Group C)",
           "Iris Mini-OSCE (Group D)",
+          "Iris Final",
           "Endorphin Mini-OSCE (Group E)",
           "Waman A7yaha Mini-OSCE",
           "Serotonin Mini-OSCE"
@@ -54706,8 +55255,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "Hypodensity in the posterior/occipital vascular distribution reflects posterior circulation (PCA/vertebrobasilar) ischemia rather than an anterior circulation or hemorrhagic process.",
-        "batchName": "Endorphin Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+        "batchName": "Iris Final / Endorphin Final / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
         "batchNames": [
+          "Iris Final",
           "Endorphin Final",
           "Waman A7yaha Mini-OSCE",
           "Serotonin Mini-OSCE"
@@ -55064,8 +55614,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "A lobulated, intensely and homogeneously enhancing intraventricular mass with hydrocephalus is characteristic of choroid plexus papilloma, unlike the posterior fossa location of medulloblastoma or the suprasellar cystic/calcified appearance of craniopharyngioma.",
-        "batchName": "Endorphin Final / Aorta Final",
+        "batchName": "Iris Final / Endorphin Final / Aorta Final",
         "batchNames": [
+          "Iris Final",
           "Endorphin Final",
           "Aorta Final"
         ],
@@ -55137,8 +55688,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "E",
         "explanation": "Mucosal thickening with an air-fluid level localized to the maxillary sinus confirms maxillary sinusitis rather than involvement of another sinus or a soft-tissue mass.",
-        "batchName": "Endorphin Final / Aorta Final",
+        "batchName": "Iris Final / Endorphin Final / Aorta Final",
         "batchNames": [
+          "Iris Final",
           "Endorphin Final",
           "Aorta Final"
         ],
@@ -56041,8 +56593,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "B",
         "explanation": "Hypertensive ICH classically occurs in deep structures (basal ganglia, thalamus, pons, cerebellum) supplied by small penetrating vessels; a lobar location like the frontal lobe instead suggests another etiology (e.g., amyloid angiopathy, AVM, tumor).",
-        "batchName": "Vagus Final",
+        "batchName": "Iris Final / Vagus Final",
         "batchNames": [
+          "Iris Final",
           "Vagus Final"
         ],
         "note": "",
@@ -56078,8 +56631,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "E",
         "explanation": "Late subacute hemorrhage (extracellular methemoglobin) is T1 and T2 hyperintense; early subacute (intracellular methemoglobin) is T1 hyperintense but T2 hypointense, and acute/chronic stages are T2 hypointense.",
-        "batchName": "Vagus Final",
+        "batchName": "Vagus Mini-OSCE (Group B) / Vagus Final",
         "batchNames": [
+          "Vagus Mini-OSCE (Group B)",
           "Vagus Final"
         ],
         "note": "",
@@ -56235,9 +56789,83 @@
         "lectureName": "Neuroradiology",
         "groupName": "Neuroradiology",
         "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__79__621668",
+        "number": "79",
+        "text": "Identify the labeled structure. [img: Radiologynanatomyuncusbrain.png ]",
+        "options": [
+          "Pons",
+          "Third ventricle",
+          "Tentorium cerebelli",
+          "Anterior Horn of the Lateral Ventricle",
+          "Uncus"
+        ],
+        "originalOptions": [
+          "Pons",
+          "Third ventricle",
+          "Tentorium cerebelli",
+          "Anterior Horn of the Lateral Ventricle",
+          "Uncus"
+        ],
+        "correctAnswer": "E) Uncus",
+        "correctAnswerText": "Uncus",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "I don't know what to write; there's no explanation :)",
+        "batchName": "Coronary Mini-OSCE (Group C)",
+        "batchNames": [
+          "Coronary Mini-OSCE (Group C)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__80__u4j4i2",
+        "number": "80",
+        "text": "Which of the following is NOT a part of the corpus callosum?",
+        "options": [
+          "Splenium",
+          "Thalamus",
+          "Body",
+          "Rostrum",
+          "Genu"
+        ],
+        "originalOptions": [
+          "Splenium",
+          "Thalamus",
+          "Body",
+          "Rostrum",
+          "Genu"
+        ],
+        "correctAnswer": "B) Thalamus",
+        "correctAnswerText": "Thalamus",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The thalamus is a deep grey matter nucleus located centrally in the brain, distinct from the components of the corpus callosum which is a major white matter tract anatomically divided into the rostrum, genu, body, and splenium.",
+        "batchName": "Iris Final",
+        "batchNames": [
+          "Iris Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 315,
+    "totalQuestions": 317,
     "totalLectures": 26,
     "hasAiFolder": false
   },
