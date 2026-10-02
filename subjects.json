@@ -17719,6 +17719,534 @@
         ]
       },
       {
+        "id": "radiology__lecture__general-radiology",
+        "name": "General Radiology",
+        "type": "lecture",
+        "subjectName": "Radiology",
+        "path": "Radiology/General Radiology.txt",
+        "questions": [
+          {
+            "id": "radiology__lecture__general-radiology__1__d42bs7",
+            "number": "1",
+            "text": "Which of the following is usually hyperdense on non-contrast CT?",
+            "options": [
+              "Fat",
+              "Cerebrospinal fluid",
+              "Bone",
+              "Chronic blood",
+              "Air"
+            ],
+            "originalOptions": [
+              "Fat",
+              "Cerebrospinal fluid",
+              "Bone",
+              "Chronic blood",
+              "Air"
+            ],
+            "correctAnswer": "C) Bone",
+            "correctAnswerText": "Bone",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Bone, acute blood, calcification, metal, and the lens are hyperdense on non-contrast CT. Fat, CSF, chronic blood, and air are hypodense.",
+            "batchName": "Iris Mini-OSCE (Group C)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__2__eeoal6",
+            "number": "2",
+            "text": "Which of the following is the most radiolucent on a plain radiograph?",
+            "options": [
+              "Gas",
+              "Fat",
+              "Water",
+              "Soft tissue",
+              "Bone"
+            ],
+            "originalOptions": [
+              "Gas",
+              "Fat",
+              "Water",
+              "Soft tissue",
+              "Bone"
+            ],
+            "correctAnswer": "A) Gas",
+            "correctAnswerText": "Gas",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Gas attenuates the X-ray beam least, so it appears black. Fat is dark grey, and bone is white.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__3__p1dwk2",
+            "number": "3",
+            "text": "Which of the following is WRONG regarding Wilms tumor?",
+            "options": [
+              "It is the most common primary renal malignancy of childhood",
+              "It typically presents as a large solid intrarenal mass",
+              "It may extend into the renal vein and inferior vena cava",
+              "Lung metastases are rare",
+              "Calcification is seen in only a minority of cases"
+            ],
+            "originalOptions": [
+              "It is the most common primary renal malignancy of childhood",
+              "It typically presents as a large solid intrarenal mass",
+              "It may extend into the renal vein and inferior vena cava",
+              "Lung metastases are rare",
+              "Calcification is seen in only a minority of cases"
+            ],
+            "correctAnswer": "D) Lung metastases are rare",
+            "correctAnswerText": "Lung metastases are rare",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The lung is the most common site of Wilms metastasis, so calling lung metastases rare is the false statement. Bone metastases are characteristic of neuroblastoma, not Wilms.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__4__p1dwk2",
+            "number": "4",
+            "text": "Which of the following is WRONG regarding Wilms tumor?",
+            "options": [
+              "It arises from the renal parenchyma",
+              "Lung metastases are less common than bone metastases",
+              "It may extend into the renal vein and inferior vena cava",
+              "Calcification is uncommon",
+              "It is the most common renal malignancy in children"
+            ],
+            "originalOptions": [
+              "It arises from the renal parenchyma",
+              "Lung metastases are less common than bone metastases",
+              "It may extend into the renal vein and inferior vena cava",
+              "Calcification is uncommon",
+              "It is the most common renal malignancy in children"
+            ],
+            "correctAnswer": "B) Lung metastases are less common than bone metastases",
+            "correctAnswerText": "Lung metastases are less common than bone metastases",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Wilms metastasizes mainly to the lung, and bone metastases are uncommon. Frequent bone metastases point to neuroblastoma, the usual distractor.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__5__1scffd",
+            "number": "5",
+            "text": "Which of the following is hyperdense on CT scan?",
+            "options": [
+              "Fluid",
+              "Fat",
+              "Chronic blood",
+              "Air",
+              "Contrast"
+            ],
+            "originalOptions": [
+              "Fluid",
+              "Fat",
+              "Chronic blood",
+              "Air",
+              "Contrast"
+            ],
+            "correctAnswer": "E) Contrast",
+            "correctAnswerText": "Contrast",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Iodinated contrast is markedly hyperdense on CT. Fluid, fat, chronic blood, and air are iso- to hypodense.",
+            "batchName": "Overdose Final",
+            "batchNames": [
+              "Overdose Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__6__s3q5pl",
+            "number": "6",
+            "text": "Regarding MRI, which of the following is FALSE?",
+            "options": [
+              "Its image resolution is higher than that of ultrasound",
+              "It is a cross-sectional imaging modality",
+              "It utilizes ionizing radiation",
+              "Contrast allergy is a relative contraindication for contrasted images",
+              "The quality of MRI images is lower in the chest region than in the brain region"
+            ],
+            "originalOptions": [
+              "Its image resolution is higher than that of ultrasound",
+              "It is a cross-sectional imaging modality",
+              "It utilizes ionizing radiation",
+              "Contrast allergy is a relative contraindication for contrasted images",
+              "The quality of MRI images is lower in the chest region than in the brain region"
+            ],
+            "correctAnswer": "C) It utilizes ionizing radiation",
+            "correctAnswerText": "It utilizes ionizing radiation",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "MRI uses a strong magnet and radiofrequency waves, with no ionizing radiation. Radiographs and CT are the modalities that use it.",
+            "batchName": "Overdose Final / Waman A7yaha Final",
+            "batchNames": [
+              "Overdose Final",
+              "Waman A7yaha Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__7__iepge7",
+            "number": "7",
+            "text": "Reducing the kV from 90 to 70 in a radiograph, with image density maintained, will generally:",
+            "options": [
+              "Increase patient exposure",
+              "Decrease iodine–soft tissue contrast",
+              "Decrease calcium–soft tissue contrast",
+              "Allow a decrease in mAs",
+              "Decrease the contrast between air and soft tissue"
+            ],
+            "originalOptions": [
+              "Increase patient exposure",
+              "Decrease iodine–soft tissue contrast",
+              "Decrease calcium–soft tissue contrast",
+              "Allow a decrease in mAs",
+              "Decrease the contrast between air and soft tissue"
+            ],
+            "correctAnswer": "A) Increase patient exposure",
+            "correctAnswerText": "Increase patient exposure",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Lowering kV reduces beam penetration, so mAs must be increased to keep the same image density, and patient dose rises. Contrast between tissues improves rather than falls at lower kV.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__8__tnp68o",
+            "number": "8",
+            "text": "Regarding radiographs, which of the following is TRUE?",
+            "options": [
+              "The density of a material depends on its hydrogen atom content",
+              "A nasogastric tube should appear to the right of the spinous processes to be satisfactory",
+              "Cost of imaging is one of its main limitations",
+              "Metallic foreign bodies appear denser than bone",
+              "It is the first diagnostic modality used for assessing ovarian torsion"
+            ],
+            "originalOptions": [
+              "The density of a material depends on its hydrogen atom content",
+              "A nasogastric tube should appear to the right of the spinous processes to be satisfactory",
+              "Cost of imaging is one of its main limitations",
+              "Metallic foreign bodies appear denser than bone",
+              "It is the first diagnostic modality used for assessing ovarian torsion"
+            ],
+            "correctAnswer": "D) Metallic foreign bodies appear denser than bone",
+            "correctAnswerText": "Metallic foreign bodies appear denser than bone",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Metal is intense white on radiographs, denser than bone. Hydrogen content determines MRI signal, not radiographic density. A satisfactory NG tube follows the midline with its tip below the left hemidiaphragm. Radiography is cheap, and ovarian torsion is assessed first by ultrasound.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__9__rqazkn",
+            "number": "9",
+            "text": "Regarding diagnostic radiology, which of the following is TRUE?",
+            "options": [
+              "PACS is the system used for measurement of radiation dose",
+              "Ultrasound is relatively safer than CT scan",
+              "Radiation exposure dose is measured in milliamperes",
+              "CT iodine-based contrast is safely used in patients with advanced renal failure",
+              "Ultrasound produces only three-dimensional images"
+            ],
+            "originalOptions": [
+              "PACS is the system used for measurement of radiation dose",
+              "Ultrasound is relatively safer than CT scan",
+              "Radiation exposure dose is measured in milliamperes",
+              "CT iodine-based contrast is safely used in patients with advanced renal failure",
+              "Ultrasound produces only three-dimensional images"
+            ],
+            "correctAnswer": "B) Ultrasound is relatively safer than CT scan",
+            "correctAnswerText": "Ultrasound is relatively safer than CT scan",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Ultrasound uses no ionizing radiation, while CT delivers a high dose. PACS is for archiving and communication of images, and iodinated contrast carries a risk of renal injury.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__10__oqq8o9",
+            "number": "10",
+            "text": "Regarding Hounsfield's scale, which one of the following is TRUE?",
+            "options": [
+              "Bowel gas density measures -300 HU",
+              "Mesentery density measures about 120 HU",
+              "Fifth rib cortical density measures about 100 HU",
+              "Contrasted aortic blood density measures 1000 HU",
+              "Splenic parenchymal density measures about 65 HU"
+            ],
+            "originalOptions": [
+              "Bowel gas density measures -300 HU",
+              "Mesentery density measures about 120 HU",
+              "Fifth rib cortical density measures about 100 HU",
+              "Contrasted aortic blood density measures 1000 HU",
+              "Splenic parenchymal density measures about 65 HU"
+            ],
+            "correctAnswer": "E) Splenic parenchymal density measures about 65 HU",
+            "correctAnswerText": "Splenic parenchymal density measures about 65 HU",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Splenic parenchyma is soft tissue density, roughly 50–65 HU. Gas is near -1000 HU, mesentery is fat (negative HU, -60 to -120), and compact bone approaches +1000 HU.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__11__120jwp",
+            "number": "11",
+            "text": "Regarding the ALARA principle, which of the following is FALSE?",
+            "options": [
+              "It is an abbreviation for \"As Low As Reasonably Achievable\"",
+              "It aims to achieve the best diagnostic result at the lowest reasonable radiation dose",
+              "It ensures the use of large radiation doses to achieve better diagnostic results",
+              "Commitment to it lowers radiation-induced physical harm to patients",
+              "There is a consensus between clinicians and radiologists to apply it"
+            ],
+            "originalOptions": [
+              "It is an abbreviation for \"As Low As Reasonably Achievable\"",
+              "It aims to achieve the best diagnostic result at the lowest reasonable radiation dose",
+              "It ensures the use of large radiation doses to achieve better diagnostic results",
+              "Commitment to it lowers radiation-induced physical harm to patients",
+              "There is a consensus between clinicians and radiologists to apply it"
+            ],
+            "correctAnswer": "C) It ensures the use of large radiation doses to achieve better diagnostic results",
+            "correctAnswerText": "It ensures the use of large radiation doses to achieve better diagnostic results",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "ALARA means keeping the dose as low as reasonably achievable while preserving diagnostic quality, the opposite of using large doses.",
+            "batchName": "Serotonin Final",
+            "batchNames": [
+              "Serotonin Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__12__803pj8",
+            "number": "12",
+            "text": "Regarding MRI, which of the following is TRUE?",
+            "options": [
+              "Cost of imaging is one of its limitations",
+              "Metallic foreign bodies are safe if small in size",
+              "Pacemakers are not a contraindication",
+              "It is the first diagnostic modality used for assessing pelvic fractures",
+              "The signal of a material depends on its helium atom content"
+            ],
+            "originalOptions": [
+              "Cost of imaging is one of its limitations",
+              "Metallic foreign bodies are safe if small in size",
+              "Pacemakers are not a contraindication",
+              "It is the first diagnostic modality used for assessing pelvic fractures",
+              "The signal of a material depends on its helium atom content"
+            ],
+            "correctAnswer": "A) Cost of imaging is one of its limitations",
+            "correctAnswerText": "Cost of imaging is one of its limitations",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "MRI is more expensive than CT and takes longer to acquire. Pacemakers and metal implants are contraindications, and MRI signal depends on hydrogen, not helium. Fractures are assessed first with radiographs or CT.",
+            "batchName": "Serotonin Final",
+            "batchNames": [
+              "Serotonin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__13__rqksyk",
+            "number": "13",
+            "text": "All of the following statements are FALSE EXCEPT:",
+            "options": [
+              "CT iodine-based contrast is safely used in patients with advanced renal failure",
+              "Ultrasound images are exclusively three-dimensional",
+              "The radiation exposure dose is measured in milliamperes",
+              "PACS is the system used for archiving and communication in the radiology department",
+              "Ionizing radiation is safer than non-ionizing radiation"
+            ],
+            "originalOptions": [
+              "CT iodine-based contrast is safely used in patients with advanced renal failure",
+              "Ultrasound images are exclusively three-dimensional",
+              "The radiation exposure dose is measured in milliamperes",
+              "PACS is the system used for archiving and communication in the radiology department",
+              "Ionizing radiation is safer than non-ionizing radiation"
+            ],
+            "correctAnswer": "D) PACS is the system used for archiving and communication in the radiology department",
+            "correctAnswerText": "PACS is the system used for archiving and communication in the radiology department",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "PACS (Picture Archiving and Communication System) stores and transmits images, so it is the only true statement. Iodinated contrast risks renal injury, and non-ionizing modalities are safer than ionizing ones.",
+            "batchName": "Serotonin Final",
+            "batchNames": [
+              "Serotonin Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__14__f4y3rj",
+            "number": "14",
+            "text": "Regarding CT scan, which of the following is FALSE?",
+            "options": [
+              "It utilizes ionizing radiation",
+              "The quality of CT images is lower in bone-containing body parts",
+              "It is a cross-sectional imaging modality",
+              "Thyroid disease is a relative contraindication for contrasted images",
+              "Its image resolution is higher than that of ultrasound"
+            ],
+            "originalOptions": [
+              "It utilizes ionizing radiation",
+              "The quality of CT images is lower in bone-containing body parts",
+              "It is a cross-sectional imaging modality",
+              "Thyroid disease is a relative contraindication for contrasted images",
+              "Its image resolution is higher than that of ultrasound"
+            ],
+            "correctAnswer": "B) The quality of CT images is lower in bone-containing body parts",
+            "correctAnswerText": "The quality of CT images is lower in bone-containing body parts",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "CT is the best modality for bone, so image quality is not lower in bone-containing regions. Iodinated contrast can induce thyrotoxicosis, which makes thyroid disease a relative contraindication.",
+            "batchName": "Serotonin Final",
+            "batchNames": [
+              "Serotonin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "lecture"
+          }
+        ]
+      },
+      {
         "id": "radiology__lecture__musculoskeletal-msk-radiology",
         "name": "Musculoskeletal (MSK) radiology",
         "type": "lecture",
@@ -24964,6 +25492,82 @@
             "subjectId": "radiology",
             "lectureName": "Chest Radiology",
             "groupName": "Chest Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__3__p1dwk2",
+            "number": "3",
+            "text": "Which of the following is WRONG regarding Wilms tumor?",
+            "options": [
+              "It is the most common primary renal malignancy of childhood",
+              "It typically presents as a large solid intrarenal mass",
+              "It may extend into the renal vein and inferior vena cava",
+              "Lung metastases are rare",
+              "Calcification is seen in only a minority of cases"
+            ],
+            "originalOptions": [
+              "It is the most common primary renal malignancy of childhood",
+              "It typically presents as a large solid intrarenal mass",
+              "It may extend into the renal vein and inferior vena cava",
+              "Lung metastases are rare",
+              "Calcification is seen in only a minority of cases"
+            ],
+            "correctAnswer": "D) Lung metastases are rare",
+            "correctAnswerText": "Lung metastases are rare",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The lung is the most common site of Wilms metastasis, so calling lung metastases rare is the false statement. Bone metastases are characteristic of neuroblastoma, not Wilms.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__4__p1dwk2",
+            "number": "4",
+            "text": "Which of the following is WRONG regarding Wilms tumor?",
+            "options": [
+              "It arises from the renal parenchyma",
+              "Lung metastases are less common than bone metastases",
+              "It may extend into the renal vein and inferior vena cava",
+              "Calcification is uncommon",
+              "It is the most common renal malignancy in children"
+            ],
+            "originalOptions": [
+              "It arises from the renal parenchyma",
+              "Lung metastases are less common than bone metastases",
+              "It may extend into the renal vein and inferior vena cava",
+              "Calcification is uncommon",
+              "It is the most common renal malignancy in children"
+            ],
+            "correctAnswer": "B) Lung metastases are less common than bone metastases",
+            "correctAnswerText": "Lung metastases are less common than bone metastases",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Wilms metastasizes mainly to the lung, and bone metastases are uncommon. Frequent bone metastases point to neuroblastoma, the usual distractor.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Aorta Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
           },
@@ -35695,6 +36299,44 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__general-radiology__2__eeoal6",
+            "number": "2",
+            "text": "Which of the following is the most radiolucent on a plain radiograph?",
+            "options": [
+              "Gas",
+              "Fat",
+              "Water",
+              "Soft tissue",
+              "Bone"
+            ],
+            "originalOptions": [
+              "Gas",
+              "Fat",
+              "Water",
+              "Soft tissue",
+              "Bone"
+            ],
+            "correctAnswer": "A) Gas",
+            "correctAnswerText": "Gas",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Gas attenuates the X-ray beam least, so it appears black. Fat is dark grey, and bone is white.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__11__jk8sw2",
             "number": "11",
             "text": "Which of the following is INCORRECT regarding child abuse injuries?",
@@ -37821,6 +38463,44 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__general-radiology__1__d42bs7",
+            "number": "1",
+            "text": "Which of the following is usually hyperdense on non-contrast CT?",
+            "options": [
+              "Fat",
+              "Cerebrospinal fluid",
+              "Bone",
+              "Chronic blood",
+              "Air"
+            ],
+            "originalOptions": [
+              "Fat",
+              "Cerebrospinal fluid",
+              "Bone",
+              "Chronic blood",
+              "Air"
+            ],
+            "correctAnswer": "C) Bone",
+            "correctAnswerText": "Bone",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Bone, acute blood, calcification, metal, and the lens are hyperdense on non-contrast CT. Fat, CSF, chronic blood, and air are hypodense.",
+            "batchName": "Iris Mini-OSCE (Group C)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__4__dybipg",
             "number": "4",
             "text": "What is the structure injured in this image? [img: Radiologymquadricepstendon.png ]",
@@ -39275,6 +39955,83 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__general-radiology__5__1scffd",
+            "number": "5",
+            "text": "Which of the following is hyperdense on CT scan?",
+            "options": [
+              "Fluid",
+              "Fat",
+              "Chronic blood",
+              "Air",
+              "Contrast"
+            ],
+            "originalOptions": [
+              "Fluid",
+              "Fat",
+              "Chronic blood",
+              "Air",
+              "Contrast"
+            ],
+            "correctAnswer": "E) Contrast",
+            "correctAnswerText": "Contrast",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Iodinated contrast is markedly hyperdense on CT. Fluid, fat, chronic blood, and air are iso- to hypodense.",
+            "batchName": "Overdose Final",
+            "batchNames": [
+              "Overdose Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__6__s3q5pl",
+            "number": "6",
+            "text": "Regarding MRI, which of the following is FALSE?",
+            "options": [
+              "Its image resolution is higher than that of ultrasound",
+              "It is a cross-sectional imaging modality",
+              "It utilizes ionizing radiation",
+              "Contrast allergy is a relative contraindication for contrasted images",
+              "The quality of MRI images is lower in the chest region than in the brain region"
+            ],
+            "originalOptions": [
+              "Its image resolution is higher than that of ultrasound",
+              "It is a cross-sectional imaging modality",
+              "It utilizes ionizing radiation",
+              "Contrast allergy is a relative contraindication for contrasted images",
+              "The quality of MRI images is lower in the chest region than in the brain region"
+            ],
+            "correctAnswer": "C) It utilizes ionizing radiation",
+            "correctAnswerText": "It utilizes ionizing radiation",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "MRI uses a strong magnet and radiofrequency waves, with no ionizing radiation. Radiographs and CT are the modalities that use it.",
+            "batchName": "Overdose Final",
+            "batchNames": [
+              "Overdose Final",
+              "Waman A7yaha Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__musculoskeletal-msk-radiology__61__22iylq",
             "number": "61",
             "text": "Which of the following is TRUE about Pediatric MSK?",
@@ -40193,6 +40950,158 @@
             "subjectId": "radiology",
             "lectureName": "Chest Radiology",
             "groupName": "Chest Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__11__120jwp",
+            "number": "11",
+            "text": "Regarding the ALARA principle, which of the following is FALSE?",
+            "options": [
+              "It is an abbreviation for \"As Low As Reasonably Achievable\"",
+              "It aims to achieve the best diagnostic result at the lowest reasonable radiation dose",
+              "It ensures the use of large radiation doses to achieve better diagnostic results",
+              "Commitment to it lowers radiation-induced physical harm to patients",
+              "There is a consensus between clinicians and radiologists to apply it"
+            ],
+            "originalOptions": [
+              "It is an abbreviation for \"As Low As Reasonably Achievable\"",
+              "It aims to achieve the best diagnostic result at the lowest reasonable radiation dose",
+              "It ensures the use of large radiation doses to achieve better diagnostic results",
+              "Commitment to it lowers radiation-induced physical harm to patients",
+              "There is a consensus between clinicians and radiologists to apply it"
+            ],
+            "correctAnswer": "C) It ensures the use of large radiation doses to achieve better diagnostic results",
+            "correctAnswerText": "It ensures the use of large radiation doses to achieve better diagnostic results",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "ALARA means keeping the dose as low as reasonably achievable while preserving diagnostic quality, the opposite of using large doses.",
+            "batchName": "Serotonin Final",
+            "batchNames": [
+              "Serotonin Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__12__803pj8",
+            "number": "12",
+            "text": "Regarding MRI, which of the following is TRUE?",
+            "options": [
+              "Cost of imaging is one of its limitations",
+              "Metallic foreign bodies are safe if small in size",
+              "Pacemakers are not a contraindication",
+              "It is the first diagnostic modality used for assessing pelvic fractures",
+              "The signal of a material depends on its helium atom content"
+            ],
+            "originalOptions": [
+              "Cost of imaging is one of its limitations",
+              "Metallic foreign bodies are safe if small in size",
+              "Pacemakers are not a contraindication",
+              "It is the first diagnostic modality used for assessing pelvic fractures",
+              "The signal of a material depends on its helium atom content"
+            ],
+            "correctAnswer": "A) Cost of imaging is one of its limitations",
+            "correctAnswerText": "Cost of imaging is one of its limitations",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "MRI is more expensive than CT and takes longer to acquire. Pacemakers and metal implants are contraindications, and MRI signal depends on hydrogen, not helium. Fractures are assessed first with radiographs or CT.",
+            "batchName": "Serotonin Final",
+            "batchNames": [
+              "Serotonin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__13__rqksyk",
+            "number": "13",
+            "text": "All of the following statements are FALSE EXCEPT:",
+            "options": [
+              "CT iodine-based contrast is safely used in patients with advanced renal failure",
+              "Ultrasound images are exclusively three-dimensional",
+              "The radiation exposure dose is measured in milliamperes",
+              "PACS is the system used for archiving and communication in the radiology department",
+              "Ionizing radiation is safer than non-ionizing radiation"
+            ],
+            "originalOptions": [
+              "CT iodine-based contrast is safely used in patients with advanced renal failure",
+              "Ultrasound images are exclusively three-dimensional",
+              "The radiation exposure dose is measured in milliamperes",
+              "PACS is the system used for archiving and communication in the radiology department",
+              "Ionizing radiation is safer than non-ionizing radiation"
+            ],
+            "correctAnswer": "D) PACS is the system used for archiving and communication in the radiology department",
+            "correctAnswerText": "PACS is the system used for archiving and communication in the radiology department",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "PACS (Picture Archiving and Communication System) stores and transmits images, so it is the only true statement. Iodinated contrast risks renal injury, and non-ionizing modalities are safer than ionizing ones.",
+            "batchName": "Serotonin Final",
+            "batchNames": [
+              "Serotonin Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__14__f4y3rj",
+            "number": "14",
+            "text": "Regarding CT scan, which of the following is FALSE?",
+            "options": [
+              "It utilizes ionizing radiation",
+              "The quality of CT images is lower in bone-containing body parts",
+              "It is a cross-sectional imaging modality",
+              "Thyroid disease is a relative contraindication for contrasted images",
+              "Its image resolution is higher than that of ultrasound"
+            ],
+            "originalOptions": [
+              "It utilizes ionizing radiation",
+              "The quality of CT images is lower in bone-containing body parts",
+              "It is a cross-sectional imaging modality",
+              "Thyroid disease is a relative contraindication for contrasted images",
+              "Its image resolution is higher than that of ultrasound"
+            ],
+            "correctAnswer": "B) The quality of CT images is lower in bone-containing body parts",
+            "correctAnswerText": "The quality of CT images is lower in bone-containing body parts",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "CT is the best modality for bone, so image quality is not lower in bone-containing regions. Iodinated contrast can induce thyrotoxicosis, which makes thyroid disease a relative contraindication.",
+            "batchName": "Serotonin Final",
+            "batchNames": [
+              "Serotonin Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
           },
@@ -44424,6 +45333,197 @@
             "subjectId": "radiology",
             "lectureName": "Chest Radiology",
             "groupName": "Chest Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__6__s3q5pl",
+            "number": "6",
+            "text": "Regarding MRI, which of the following is FALSE?",
+            "options": [
+              "Its image resolution is higher than that of ultrasound",
+              "It is a cross-sectional imaging modality",
+              "It utilizes ionizing radiation",
+              "Contrast allergy is a relative contraindication for contrasted images",
+              "The quality of MRI images is lower in the chest region than in the brain region"
+            ],
+            "originalOptions": [
+              "Its image resolution is higher than that of ultrasound",
+              "It is a cross-sectional imaging modality",
+              "It utilizes ionizing radiation",
+              "Contrast allergy is a relative contraindication for contrasted images",
+              "The quality of MRI images is lower in the chest region than in the brain region"
+            ],
+            "correctAnswer": "C) It utilizes ionizing radiation",
+            "correctAnswerText": "It utilizes ionizing radiation",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "MRI uses a strong magnet and radiofrequency waves, with no ionizing radiation. Radiographs and CT are the modalities that use it.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Overdose Final",
+              "Waman A7yaha Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__7__iepge7",
+            "number": "7",
+            "text": "Reducing the kV from 90 to 70 in a radiograph, with image density maintained, will generally:",
+            "options": [
+              "Increase patient exposure",
+              "Decrease iodine–soft tissue contrast",
+              "Decrease calcium–soft tissue contrast",
+              "Allow a decrease in mAs",
+              "Decrease the contrast between air and soft tissue"
+            ],
+            "originalOptions": [
+              "Increase patient exposure",
+              "Decrease iodine–soft tissue contrast",
+              "Decrease calcium–soft tissue contrast",
+              "Allow a decrease in mAs",
+              "Decrease the contrast between air and soft tissue"
+            ],
+            "correctAnswer": "A) Increase patient exposure",
+            "correctAnswerText": "Increase patient exposure",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Lowering kV reduces beam penetration, so mAs must be increased to keep the same image density, and patient dose rises. Contrast between tissues improves rather than falls at lower kV.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__8__tnp68o",
+            "number": "8",
+            "text": "Regarding radiographs, which of the following is TRUE?",
+            "options": [
+              "The density of a material depends on its hydrogen atom content",
+              "A nasogastric tube should appear to the right of the spinous processes to be satisfactory",
+              "Cost of imaging is one of its main limitations",
+              "Metallic foreign bodies appear denser than bone",
+              "It is the first diagnostic modality used for assessing ovarian torsion"
+            ],
+            "originalOptions": [
+              "The density of a material depends on its hydrogen atom content",
+              "A nasogastric tube should appear to the right of the spinous processes to be satisfactory",
+              "Cost of imaging is one of its main limitations",
+              "Metallic foreign bodies appear denser than bone",
+              "It is the first diagnostic modality used for assessing ovarian torsion"
+            ],
+            "correctAnswer": "D) Metallic foreign bodies appear denser than bone",
+            "correctAnswerText": "Metallic foreign bodies appear denser than bone",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Metal is intense white on radiographs, denser than bone. Hydrogen content determines MRI signal, not radiographic density. A satisfactory NG tube follows the midline with its tip below the left hemidiaphragm. Radiography is cheap, and ovarian torsion is assessed first by ultrasound.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__9__rqazkn",
+            "number": "9",
+            "text": "Regarding diagnostic radiology, which of the following is TRUE?",
+            "options": [
+              "PACS is the system used for measurement of radiation dose",
+              "Ultrasound is relatively safer than CT scan",
+              "Radiation exposure dose is measured in milliamperes",
+              "CT iodine-based contrast is safely used in patients with advanced renal failure",
+              "Ultrasound produces only three-dimensional images"
+            ],
+            "originalOptions": [
+              "PACS is the system used for measurement of radiation dose",
+              "Ultrasound is relatively safer than CT scan",
+              "Radiation exposure dose is measured in milliamperes",
+              "CT iodine-based contrast is safely used in patients with advanced renal failure",
+              "Ultrasound produces only three-dimensional images"
+            ],
+            "correctAnswer": "B) Ultrasound is relatively safer than CT scan",
+            "correctAnswerText": "Ultrasound is relatively safer than CT scan",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Ultrasound uses no ionizing radiation, while CT delivers a high dose. PACS is for archiving and communication of images, and iodinated contrast carries a risk of renal injury.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__general-radiology__10__oqq8o9",
+            "number": "10",
+            "text": "Regarding Hounsfield's scale, which one of the following is TRUE?",
+            "options": [
+              "Bowel gas density measures -300 HU",
+              "Mesentery density measures about 120 HU",
+              "Fifth rib cortical density measures about 100 HU",
+              "Contrasted aortic blood density measures 1000 HU",
+              "Splenic parenchymal density measures about 65 HU"
+            ],
+            "originalOptions": [
+              "Bowel gas density measures -300 HU",
+              "Mesentery density measures about 120 HU",
+              "Fifth rib cortical density measures about 100 HU",
+              "Contrasted aortic blood density measures 1000 HU",
+              "Splenic parenchymal density measures about 65 HU"
+            ],
+            "correctAnswer": "E) Splenic parenchymal density measures about 65 HU",
+            "correctAnswerText": "Splenic parenchymal density measures about 65 HU",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Splenic parenchyma is soft tissue density, roughly 50–65 HU. Gas is near -1000 HU, mesentery is fat (negative HU, -60 to -120), and compact bone approaches +1000 HU.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "This question is not covered in the course slides.",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "General Radiology",
+            "groupName": "General Radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
           },
@@ -53757,6 +54857,525 @@
         "sourceType": "lecture"
       },
       {
+        "id": "radiology__lecture__general-radiology__1__d42bs7",
+        "number": "1",
+        "text": "Which of the following is usually hyperdense on non-contrast CT?",
+        "options": [
+          "Fat",
+          "Cerebrospinal fluid",
+          "Bone",
+          "Chronic blood",
+          "Air"
+        ],
+        "originalOptions": [
+          "Fat",
+          "Cerebrospinal fluid",
+          "Bone",
+          "Chronic blood",
+          "Air"
+        ],
+        "correctAnswer": "C) Bone",
+        "correctAnswerText": "Bone",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Bone, acute blood, calcification, metal, and the lens are hyperdense on non-contrast CT. Fat, CSF, chronic blood, and air are hypodense.",
+        "batchName": "Iris Mini-OSCE (Group C)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group C)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__2__eeoal6",
+        "number": "2",
+        "text": "Which of the following is the most radiolucent on a plain radiograph?",
+        "options": [
+          "Gas",
+          "Fat",
+          "Water",
+          "Soft tissue",
+          "Bone"
+        ],
+        "originalOptions": [
+          "Gas",
+          "Fat",
+          "Water",
+          "Soft tissue",
+          "Bone"
+        ],
+        "correctAnswer": "A) Gas",
+        "correctAnswerText": "Gas",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Gas attenuates the X-ray beam least, so it appears black. Fat is dark grey, and bone is white.",
+        "batchName": "Iris Final",
+        "batchNames": [
+          "Iris Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__3__p1dwk2",
+        "number": "3",
+        "text": "Which of the following is WRONG regarding Wilms tumor?",
+        "options": [
+          "It is the most common primary renal malignancy of childhood",
+          "It typically presents as a large solid intrarenal mass",
+          "It may extend into the renal vein and inferior vena cava",
+          "Lung metastases are rare",
+          "Calcification is seen in only a minority of cases"
+        ],
+        "originalOptions": [
+          "It is the most common primary renal malignancy of childhood",
+          "It typically presents as a large solid intrarenal mass",
+          "It may extend into the renal vein and inferior vena cava",
+          "Lung metastases are rare",
+          "Calcification is seen in only a minority of cases"
+        ],
+        "correctAnswer": "D) Lung metastases are rare",
+        "correctAnswerText": "Lung metastases are rare",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The lung is the most common site of Wilms metastasis, so calling lung metastases rare is the false statement. Bone metastases are characteristic of neuroblastoma, not Wilms.",
+        "batchName": "Aorta Final",
+        "batchNames": [
+          "Aorta Final"
+        ],
+        "note": "This question is not covered in the course slides.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__4__p1dwk2",
+        "number": "4",
+        "text": "Which of the following is WRONG regarding Wilms tumor?",
+        "options": [
+          "It arises from the renal parenchyma",
+          "Lung metastases are less common than bone metastases",
+          "It may extend into the renal vein and inferior vena cava",
+          "Calcification is uncommon",
+          "It is the most common renal malignancy in children"
+        ],
+        "originalOptions": [
+          "It arises from the renal parenchyma",
+          "Lung metastases are less common than bone metastases",
+          "It may extend into the renal vein and inferior vena cava",
+          "Calcification is uncommon",
+          "It is the most common renal malignancy in children"
+        ],
+        "correctAnswer": "B) Lung metastases are less common than bone metastases",
+        "correctAnswerText": "Lung metastases are less common than bone metastases",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Wilms metastasizes mainly to the lung, and bone metastases are uncommon. Frequent bone metastases point to neuroblastoma, the usual distractor.",
+        "batchName": "Aorta Final",
+        "batchNames": [
+          "Aorta Final"
+        ],
+        "note": "This question is not covered in the course slides.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__5__1scffd",
+        "number": "5",
+        "text": "Which of the following is hyperdense on CT scan?",
+        "options": [
+          "Fluid",
+          "Fat",
+          "Chronic blood",
+          "Air",
+          "Contrast"
+        ],
+        "originalOptions": [
+          "Fluid",
+          "Fat",
+          "Chronic blood",
+          "Air",
+          "Contrast"
+        ],
+        "correctAnswer": "E) Contrast",
+        "correctAnswerText": "Contrast",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "Iodinated contrast is markedly hyperdense on CT. Fluid, fat, chronic blood, and air are iso- to hypodense.",
+        "batchName": "Overdose Final",
+        "batchNames": [
+          "Overdose Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__6__s3q5pl",
+        "number": "6",
+        "text": "Regarding MRI, which of the following is FALSE?",
+        "options": [
+          "Its image resolution is higher than that of ultrasound",
+          "It is a cross-sectional imaging modality",
+          "It utilizes ionizing radiation",
+          "Contrast allergy is a relative contraindication for contrasted images",
+          "The quality of MRI images is lower in the chest region than in the brain region"
+        ],
+        "originalOptions": [
+          "Its image resolution is higher than that of ultrasound",
+          "It is a cross-sectional imaging modality",
+          "It utilizes ionizing radiation",
+          "Contrast allergy is a relative contraindication for contrasted images",
+          "The quality of MRI images is lower in the chest region than in the brain region"
+        ],
+        "correctAnswer": "C) It utilizes ionizing radiation",
+        "correctAnswerText": "It utilizes ionizing radiation",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "MRI uses a strong magnet and radiofrequency waves, with no ionizing radiation. Radiographs and CT are the modalities that use it.",
+        "batchName": "Overdose Final / Waman A7yaha Final",
+        "batchNames": [
+          "Overdose Final",
+          "Waman A7yaha Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__7__iepge7",
+        "number": "7",
+        "text": "Reducing the kV from 90 to 70 in a radiograph, with image density maintained, will generally:",
+        "options": [
+          "Increase patient exposure",
+          "Decrease iodine–soft tissue contrast",
+          "Decrease calcium–soft tissue contrast",
+          "Allow a decrease in mAs",
+          "Decrease the contrast between air and soft tissue"
+        ],
+        "originalOptions": [
+          "Increase patient exposure",
+          "Decrease iodine–soft tissue contrast",
+          "Decrease calcium–soft tissue contrast",
+          "Allow a decrease in mAs",
+          "Decrease the contrast between air and soft tissue"
+        ],
+        "correctAnswer": "A) Increase patient exposure",
+        "correctAnswerText": "Increase patient exposure",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Lowering kV reduces beam penetration, so mAs must be increased to keep the same image density, and patient dose rises. Contrast between tissues improves rather than falls at lower kV.",
+        "batchName": "Waman A7yaha Final",
+        "batchNames": [
+          "Waman A7yaha Final"
+        ],
+        "note": "This question is not covered in the course slides.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__8__tnp68o",
+        "number": "8",
+        "text": "Regarding radiographs, which of the following is TRUE?",
+        "options": [
+          "The density of a material depends on its hydrogen atom content",
+          "A nasogastric tube should appear to the right of the spinous processes to be satisfactory",
+          "Cost of imaging is one of its main limitations",
+          "Metallic foreign bodies appear denser than bone",
+          "It is the first diagnostic modality used for assessing ovarian torsion"
+        ],
+        "originalOptions": [
+          "The density of a material depends on its hydrogen atom content",
+          "A nasogastric tube should appear to the right of the spinous processes to be satisfactory",
+          "Cost of imaging is one of its main limitations",
+          "Metallic foreign bodies appear denser than bone",
+          "It is the first diagnostic modality used for assessing ovarian torsion"
+        ],
+        "correctAnswer": "D) Metallic foreign bodies appear denser than bone",
+        "correctAnswerText": "Metallic foreign bodies appear denser than bone",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Metal is intense white on radiographs, denser than bone. Hydrogen content determines MRI signal, not radiographic density. A satisfactory NG tube follows the midline with its tip below the left hemidiaphragm. Radiography is cheap, and ovarian torsion is assessed first by ultrasound.",
+        "batchName": "Waman A7yaha Final",
+        "batchNames": [
+          "Waman A7yaha Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__9__rqazkn",
+        "number": "9",
+        "text": "Regarding diagnostic radiology, which of the following is TRUE?",
+        "options": [
+          "PACS is the system used for measurement of radiation dose",
+          "Ultrasound is relatively safer than CT scan",
+          "Radiation exposure dose is measured in milliamperes",
+          "CT iodine-based contrast is safely used in patients with advanced renal failure",
+          "Ultrasound produces only three-dimensional images"
+        ],
+        "originalOptions": [
+          "PACS is the system used for measurement of radiation dose",
+          "Ultrasound is relatively safer than CT scan",
+          "Radiation exposure dose is measured in milliamperes",
+          "CT iodine-based contrast is safely used in patients with advanced renal failure",
+          "Ultrasound produces only three-dimensional images"
+        ],
+        "correctAnswer": "B) Ultrasound is relatively safer than CT scan",
+        "correctAnswerText": "Ultrasound is relatively safer than CT scan",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Ultrasound uses no ionizing radiation, while CT delivers a high dose. PACS is for archiving and communication of images, and iodinated contrast carries a risk of renal injury.",
+        "batchName": "Waman A7yaha Final",
+        "batchNames": [
+          "Waman A7yaha Final"
+        ],
+        "note": "This question is not covered in the course slides.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__10__oqq8o9",
+        "number": "10",
+        "text": "Regarding Hounsfield's scale, which one of the following is TRUE?",
+        "options": [
+          "Bowel gas density measures -300 HU",
+          "Mesentery density measures about 120 HU",
+          "Fifth rib cortical density measures about 100 HU",
+          "Contrasted aortic blood density measures 1000 HU",
+          "Splenic parenchymal density measures about 65 HU"
+        ],
+        "originalOptions": [
+          "Bowel gas density measures -300 HU",
+          "Mesentery density measures about 120 HU",
+          "Fifth rib cortical density measures about 100 HU",
+          "Contrasted aortic blood density measures 1000 HU",
+          "Splenic parenchymal density measures about 65 HU"
+        ],
+        "correctAnswer": "E) Splenic parenchymal density measures about 65 HU",
+        "correctAnswerText": "Splenic parenchymal density measures about 65 HU",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "Splenic parenchyma is soft tissue density, roughly 50–65 HU. Gas is near -1000 HU, mesentery is fat (negative HU, -60 to -120), and compact bone approaches +1000 HU.",
+        "batchName": "Waman A7yaha Final",
+        "batchNames": [
+          "Waman A7yaha Final"
+        ],
+        "note": "This question is not covered in the course slides.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__11__120jwp",
+        "number": "11",
+        "text": "Regarding the ALARA principle, which of the following is FALSE?",
+        "options": [
+          "It is an abbreviation for \"As Low As Reasonably Achievable\"",
+          "It aims to achieve the best diagnostic result at the lowest reasonable radiation dose",
+          "It ensures the use of large radiation doses to achieve better diagnostic results",
+          "Commitment to it lowers radiation-induced physical harm to patients",
+          "There is a consensus between clinicians and radiologists to apply it"
+        ],
+        "originalOptions": [
+          "It is an abbreviation for \"As Low As Reasonably Achievable\"",
+          "It aims to achieve the best diagnostic result at the lowest reasonable radiation dose",
+          "It ensures the use of large radiation doses to achieve better diagnostic results",
+          "Commitment to it lowers radiation-induced physical harm to patients",
+          "There is a consensus between clinicians and radiologists to apply it"
+        ],
+        "correctAnswer": "C) It ensures the use of large radiation doses to achieve better diagnostic results",
+        "correctAnswerText": "It ensures the use of large radiation doses to achieve better diagnostic results",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "ALARA means keeping the dose as low as reasonably achievable while preserving diagnostic quality, the opposite of using large doses.",
+        "batchName": "Serotonin Final",
+        "batchNames": [
+          "Serotonin Final"
+        ],
+        "note": "This question is not covered in the course slides.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__12__803pj8",
+        "number": "12",
+        "text": "Regarding MRI, which of the following is TRUE?",
+        "options": [
+          "Cost of imaging is one of its limitations",
+          "Metallic foreign bodies are safe if small in size",
+          "Pacemakers are not a contraindication",
+          "It is the first diagnostic modality used for assessing pelvic fractures",
+          "The signal of a material depends on its helium atom content"
+        ],
+        "originalOptions": [
+          "Cost of imaging is one of its limitations",
+          "Metallic foreign bodies are safe if small in size",
+          "Pacemakers are not a contraindication",
+          "It is the first diagnostic modality used for assessing pelvic fractures",
+          "The signal of a material depends on its helium atom content"
+        ],
+        "correctAnswer": "A) Cost of imaging is one of its limitations",
+        "correctAnswerText": "Cost of imaging is one of its limitations",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "MRI is more expensive than CT and takes longer to acquire. Pacemakers and metal implants are contraindications, and MRI signal depends on hydrogen, not helium. Fractures are assessed first with radiographs or CT.",
+        "batchName": "Serotonin Final",
+        "batchNames": [
+          "Serotonin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__13__rqksyk",
+        "number": "13",
+        "text": "All of the following statements are FALSE EXCEPT:",
+        "options": [
+          "CT iodine-based contrast is safely used in patients with advanced renal failure",
+          "Ultrasound images are exclusively three-dimensional",
+          "The radiation exposure dose is measured in milliamperes",
+          "PACS is the system used for archiving and communication in the radiology department",
+          "Ionizing radiation is safer than non-ionizing radiation"
+        ],
+        "originalOptions": [
+          "CT iodine-based contrast is safely used in patients with advanced renal failure",
+          "Ultrasound images are exclusively three-dimensional",
+          "The radiation exposure dose is measured in milliamperes",
+          "PACS is the system used for archiving and communication in the radiology department",
+          "Ionizing radiation is safer than non-ionizing radiation"
+        ],
+        "correctAnswer": "D) PACS is the system used for archiving and communication in the radiology department",
+        "correctAnswerText": "PACS is the system used for archiving and communication in the radiology department",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "PACS (Picture Archiving and Communication System) stores and transmits images, so it is the only true statement. Iodinated contrast risks renal injury, and non-ionizing modalities are safer than ionizing ones.",
+        "batchName": "Serotonin Final",
+        "batchNames": [
+          "Serotonin Final"
+        ],
+        "note": "This question is not covered in the course slides.",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__general-radiology__14__f4y3rj",
+        "number": "14",
+        "text": "Regarding CT scan, which of the following is FALSE?",
+        "options": [
+          "It utilizes ionizing radiation",
+          "The quality of CT images is lower in bone-containing body parts",
+          "It is a cross-sectional imaging modality",
+          "Thyroid disease is a relative contraindication for contrasted images",
+          "Its image resolution is higher than that of ultrasound"
+        ],
+        "originalOptions": [
+          "It utilizes ionizing radiation",
+          "The quality of CT images is lower in bone-containing body parts",
+          "It is a cross-sectional imaging modality",
+          "Thyroid disease is a relative contraindication for contrasted images",
+          "Its image resolution is higher than that of ultrasound"
+        ],
+        "correctAnswer": "B) The quality of CT images is lower in bone-containing body parts",
+        "correctAnswerText": "The quality of CT images is lower in bone-containing body parts",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "CT is the best modality for bone, so image quality is not lower in bone-containing regions. Iodinated contrast can induce thyrotoxicosis, which makes thyroid disease a relative contraindication.",
+        "batchName": "Serotonin Final",
+        "batchNames": [
+          "Serotonin Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "General Radiology",
+        "groupName": "General Radiology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "radiology__lecture__musculoskeletal-msk-radiology__1__rk4vf4",
         "number": "1",
         "text": "Which of the following is FALSE regarding this lesion? [img: Radiologymnonossifyingfibroma.png ]",
@@ -59788,8 +61407,8 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 336,
-    "totalLectures": 27,
+    "totalQuestions": 350,
+    "totalLectures": 28,
     "hasAiFolder": false
   },
   {
