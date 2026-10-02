@@ -46,7 +46,7 @@ D) Fat-containing mass
 E) Coarse popcorn-like calcification within the mass
 Correct Answer: C) Irregular shape with spiculated, indistinct, or obscured margins
 Explanation: Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.
-Batch: Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Final / Aorta Final
+Batch: Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Final / Aorta Final
 ###
 A palpable mass is located at the 5 o'clock position in the right breast. Which quadrant is this?
 A) Lower inner
@@ -76,7 +76,7 @@ D) BI-RADS 4 is suspicious, and biopsy should be considered
 E) BI-RADS 1 indicates a negative study
 Correct Answer: B) BI-RADS 6 indicates the presence of a benign lesion
 Explanation: BI-RADS 6 is a known, biopsy-proven malignancy, not a benign lesion. The other statements are correct.
-Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)
+Batch: Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)
 ###
 Which of the following statements about the BI-RADS classification is FALSE?
 A) BI-RADS 0 indicates incomplete assessment
@@ -126,7 +126,7 @@ D) Craniocaudal (CC) and mediolateral oblique (MLO)
 E) Mediolateral oblique (MLO) and spot compression
 Correct Answer: D) Craniocaudal (CC) and mediolateral oblique (MLO)
 Explanation: The standard views are bilateral CC and MLO. True lateral, spot, magnification, and axillary views are supplementary.
-Batch: Iris Final
+Batch: Coronary Mini-OSCE (Group C) / Iris Final
 ###
 A palpable mass is located at the 8 o'clock position in the right breast. Which quadrant is this?
 A) Lower inner
