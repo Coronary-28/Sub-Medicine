@@ -294,7 +294,7 @@ C) Anterior shoulder dislocation
 D) Distal third clavicular fracture
 Correct Answer: D) Distal third clavicular fracture
 Explanation: There is a comminuted fracture of the distal third of the clavicle. The proximal fractured fragment is displaced superiorly, with mild skin tenting. The distal  fractured fragment is displaced inferiorly . There is pseudo-widening of the acromioclavicular joint space. However the coracoclavicular and sternoclavicular joint space alignment is maintained. The inferior border of acromion is not in the same line as the inferior border of distal clavicle, this is suspicious for acromioclavicular joint disruption. No associated other bone fractures. Adjacent soft tissue thickening is seen.
-Batch: Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE
+Batch: Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
 ###
 What is the most likely diagnosis? [img: Radiologymosteoarthritis.jpg ]
 A) Rheumatoid arthritis
@@ -303,7 +303,7 @@ C) Osteoarthritis
 D) Gout
 Correct Answer: C) Osteoarthritis
 Explanation: There is moderate narrowing predominantly involving the medial tibio-femoral and significant narrowing of the lateral patellofemoral compartments. There are moderate marginal osteophytes. There is mild subchondral sclerosis on the right and left. There is moderate pointing of the tibial spines on the right and left. There is a moderate joint effusion on the right and left. There is varus deformity at the knee.
-Batch: Vagus Mini-OSCE (Group C) / Serotonin Mini-OSCE
+Batch: Vagus Mini-OSCE (Group C) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
 ###
 What is the most likely diagnosis? [img: Radiologymnonossifyingfibroma.png ]
 A) Simple bone cyst
@@ -349,7 +349,7 @@ D) Osteochondroma
 E) Non-ossifying fibroma
 Correct Answer: B) Simple bone cyst
 Explanation: A pathological fracture through a simple bone cyst allows a bony fragment to settle dependently within the fluid-filled cavity, producing the fallen fragment sign.
-Batch: Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
+Batch: Waman A7yaha Mini-OSCE / Waman A7yaha Final / Serotonin Mini-OSCE
 ###
 What is the most likely diagnosis? [img: Radiologymosteoidosteoma.png ]
 A) Osteoblastoma
