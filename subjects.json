@@ -14517,6 +14517,731 @@
         ]
       },
       {
+        "id": "radiology__lecture__breast-radiology-mammogram",
+        "name": "Breast Radiology (Mammogram)",
+        "type": "lecture",
+        "subjectName": "Radiology",
+        "path": "Radiology/Breast Radiology (Mammogram).txt",
+        "questions": [
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__1__kbmafr",
+            "number": "1",
+            "text": "Probably benign breast lesion that requires short-interval follow-up is which BI-RADS category?",
+            "options": [
+              "BI-RADS 0",
+              "BI-RADS 1",
+              "BI-RADS 3",
+              "BI-RADS 4A",
+              "BI-RADS 2"
+            ],
+            "originalOptions": [
+              "BI-RADS 0",
+              "BI-RADS 1",
+              "BI-RADS 3",
+              "BI-RADS 4A",
+              "BI-RADS 2"
+            ],
+            "correctAnswer": "C) BI-RADS 3",
+            "correctAnswerText": "BI-RADS 3",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "BI-RADS 3 means probably benign (<2% risk of malignancy), and short-interval follow-up is suggested. BI-RADS 2 is definitely benign (0%) and needs no short-interval follow-up. BI-RADS 4A is already suspicious (2–9%) and biopsy is considered.",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__2__xbfdc0",
+            "number": "2",
+            "text": "Which of the following is a feature of a benign axillary lymph node on mammography?",
+            "options": [
+              "Central lucency (fatty hilum)",
+              "Large, rounded shape without a hilum",
+              "Increased density with cortical thickening",
+              "Irregular or indistinct margins",
+              "Calcifications within the node"
+            ],
+            "originalOptions": [
+              "Central lucency (fatty hilum)",
+              "Large, rounded shape without a hilum",
+              "Increased density with cortical thickening",
+              "Irregular or indistinct margins",
+              "Calcifications within the node"
+            ],
+            "correctAnswer": "A) Central lucency (fatty hilum)",
+            "correctAnswerText": "Central lucency (fatty hilum)",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A normal or benign node is small and bean-shaped with a fatty hilum, which appears as central lucency. Loss of the hilum, rounding, increased density, and irregular margins all suggest malignancy.",
+            "batchName": "Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__3__54s4x8",
+            "number": "3",
+            "text": "What is the best first imaging modality for a pregnant patient with a palpable breast lump?",
+            "options": [
+              "Bilateral mammography (CC and MLO)",
+              "Contrast-enhanced breast MRI",
+              "CT of the chest",
+              "Ultrasound",
+              "Spot-compression magnification mammography"
+            ],
+            "originalOptions": [
+              "Bilateral mammography (CC and MLO)",
+              "Contrast-enhanced breast MRI",
+              "CT of the chest",
+              "Ultrasound",
+              "Spot-compression magnification mammography"
+            ],
+            "correctAnswer": "D) Ultrasound",
+            "correctAnswerText": "Ultrasound",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Ultrasound uses no ionizing radiation and is the modality of choice for symptomatic pregnant or young (<30 years) patients. It also distinguishes cystic from solid lesions and can guide biopsy. Mammography and CT use radiation, and MRI needs gadolinium, so none of them is first-line.",
+            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Final / Aorta Final",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__4__vclebp",
+            "number": "4",
+            "text": "Which mammographic calcification morphology carries the highest suspicion of malignancy?",
+            "options": [
+              "Coarse popcorn-like",
+              "Rim (eggshell)",
+              "Amorphous",
+              "Fine pleomorphic",
+              "Fine linear / fine linear branching"
+            ],
+            "originalOptions": [
+              "Coarse popcorn-like",
+              "Rim (eggshell)",
+              "Amorphous",
+              "Fine pleomorphic",
+              "Fine linear / fine linear branching"
+            ],
+            "correctAnswer": "E) Fine linear / fine linear branching",
+            "correctAnswerText": "Fine linear / fine linear branching",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Thin, irregular, branching calcifications (<0.5 mm) suggest deposition within a duct and carry the highest suspicion. Fine pleomorphic and amorphous are also suspicious but less so. Popcorn-like (involuting fibroadenoma) and rim calcifications are typically benign.",
+            "batchName": "Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__5__hywtf1",
+            "number": "5",
+            "text": "Which of the following features suggests a malignant breast mass on imaging?",
+            "options": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "originalOptions": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "correctAnswer": "C) Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctAnswerText": "Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
+            "batchName": "Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Final / Aorta Final",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)",
+              "Iris Final",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__6__95ciz5",
+            "number": "6",
+            "text": "A palpable mass is located at the 5 o'clock position in the right breast. Which quadrant is this?",
+            "options": [
+              "Lower inner",
+              "Lower outer",
+              "Upper inner",
+              "Upper outer",
+              "Subareolar (central)"
+            ],
+            "originalOptions": [
+              "Lower inner",
+              "Lower outer",
+              "Upper inner",
+              "Upper outer",
+              "Subareolar (central)"
+            ],
+            "correctAnswer": "A) Lower inner",
+            "correctAnswerText": "Lower inner",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "In the right breast, 9 o'clock is lateral, so 3–6 o'clock is the lower inner quadrant and 6–9 is the lower outer. The 5 o'clock position therefore lies in the lower inner quadrant.",
+            "batchName": "Endorphin Final / Aorta Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__7__716b3n",
+            "number": "7",
+            "text": "Which of the following statements about mammography is FALSE?",
+            "options": [
+              "Axillary lymph nodes with central lucency may be benign",
+              "Sensitivity of mammography is reduced in dense breasts",
+              "Dense breast tissue in young women requires further evaluation",
+              "Pleomorphic microcalcifications are benign",
+              "Spiculated masses are suspicious for malignancy"
+            ],
+            "originalOptions": [
+              "Axillary lymph nodes with central lucency may be benign",
+              "Sensitivity of mammography is reduced in dense breasts",
+              "Dense breast tissue in young women requires further evaluation",
+              "Pleomorphic microcalcifications are benign",
+              "Spiculated masses are suspicious for malignancy"
+            ],
+            "correctAnswer": "D) Pleomorphic microcalcifications are benign",
+            "correctAnswerText": "Pleomorphic microcalcifications are benign",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Fine pleomorphic calcifications are a suspicious morphology. The typically benign types are skin, vascular, popcorn, rod-like, round or punctate, rim, and milk of calcium.",
+            "batchName": "Endorphin Final / Aorta Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__8__dq1ztl",
+            "number": "8",
+            "text": "Which of the following is FALSE regarding BI-RADS?",
+            "options": [
+              "BI-RADS 0 indicates an incomplete assessment that needs additional imaging",
+              "BI-RADS 6 indicates the presence of a benign lesion",
+              "BI-RADS 3 carries a <2% probability of malignancy",
+              "BI-RADS 4 is suspicious, and biopsy should be considered",
+              "BI-RADS 1 indicates a negative study"
+            ],
+            "originalOptions": [
+              "BI-RADS 0 indicates an incomplete assessment that needs additional imaging",
+              "BI-RADS 6 indicates the presence of a benign lesion",
+              "BI-RADS 3 carries a <2% probability of malignancy",
+              "BI-RADS 4 is suspicious, and biopsy should be considered",
+              "BI-RADS 1 indicates a negative study"
+            ],
+            "correctAnswer": "B) BI-RADS 6 indicates the presence of a benign lesion",
+            "correctAnswerText": "BI-RADS 6 indicates the presence of a benign lesion",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "BI-RADS 6 is a known, biopsy-proven malignancy, not a benign lesion. The other statements are correct.",
+            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__9__vf62cu",
+            "number": "9",
+            "text": "Which of the following statements about the BI-RADS classification is FALSE?",
+            "options": [
+              "BI-RADS 0 indicates incomplete assessment",
+              "BI-RADS 5 is benign",
+              "BI-RADS 4 suggests a suspicious abnormality",
+              "BI-RADS 2 indicates benign findings",
+              "BI-RADS 3 indicates a probably benign finding"
+            ],
+            "originalOptions": [
+              "BI-RADS 0 indicates incomplete assessment",
+              "BI-RADS 5 is benign",
+              "BI-RADS 4 suggests a suspicious abnormality",
+              "BI-RADS 2 indicates benign findings",
+              "BI-RADS 3 indicates a probably benign finding"
+            ],
+            "correctAnswer": "B) BI-RADS 5 is benign",
+            "correctAnswerText": "BI-RADS 5 is benign",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "BI-RADS 5 is highly suggestive of malignancy (>95%), so it is not benign. BI-RADS 2 is benign and BI-RADS 3 is probably benign.",
+            "batchName": "Endorphin Final / Aorta Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__10__9vj56t",
+            "number": "10",
+            "text": "Which of the following is FALSE regarding mammography?",
+            "options": [
+              "A spiculated mass is suspicious for malignancy",
+              "Simple cysts appear non-echoic on ultrasound",
+              "Coarse heterogeneous calcifications are 0.5–1 mm and are suspicious",
+              "A left breast lower inner lesion lies at 6–9 o'clock",
+              "A fibroadenoma is BI-RADS 2 and needs follow-up"
+            ],
+            "originalOptions": [
+              "A spiculated mass is suspicious for malignancy",
+              "Simple cysts appear non-echoic on ultrasound",
+              "Coarse heterogeneous calcifications are 0.5–1 mm and are suspicious",
+              "A left breast lower inner lesion lies at 6–9 o'clock",
+              "A fibroadenoma is BI-RADS 2 and needs follow-up"
+            ],
+            "correctAnswer": "E) A fibroadenoma is BI-RADS 2 and needs follow-up",
+            "correctAnswerText": "A fibroadenoma is BI-RADS 2 and needs follow-up",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "BI-RADS 2 is a benign finding with routine screening only. Short-interval follow-up belongs to BI-RADS 3 (probably benign).",
+            "batchName": "Overdose Final",
+            "batchNames": [
+              "Overdose Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__11__19ar4y",
+            "number": "11",
+            "text": "Regarding BI-RADS breast classification, which of the following is FALSE?",
+            "options": [
+              "BI-RADS 2 represents biopsy-proven malignancy",
+              "BI-RADS 3 represents a probably benign finding and needs follow-up",
+              "BI-RADS 4 is suspicious for malignancy",
+              "BI-RADS 0 represents an incomplete study and needs additional imaging",
+              "BI-RADS 1 represents a negative study with no evidence of abnormalities"
+            ],
+            "originalOptions": [
+              "BI-RADS 2 represents biopsy-proven malignancy",
+              "BI-RADS 3 represents a probably benign finding and needs follow-up",
+              "BI-RADS 4 is suspicious for malignancy",
+              "BI-RADS 0 represents an incomplete study and needs additional imaging",
+              "BI-RADS 1 represents a negative study with no evidence of abnormalities"
+            ],
+            "correctAnswer": "A) BI-RADS 2 represents biopsy-proven malignancy",
+            "correctAnswerText": "BI-RADS 2 represents biopsy-proven malignancy",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "BI-RADS 2 is a benign finding. Biopsy-proven malignancy is BI-RADS 6.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__12__v2ej40",
+            "number": "12",
+            "text": "Which clock-face statement for a right-breast mass is FALSE?",
+            "options": [
+              "The right lower-inner quadrant corresponds to 3–6 o'clock",
+              "The right lower-outer quadrant corresponds to 6–9 o'clock",
+              "The right upper-inner quadrant corresponds to 9–12 o'clock",
+              "The right upper-outer quadrant corresponds to 9–12 o'clock",
+              "A right-breast lesion at 5 o'clock lies in the lower-inner quadrant"
+            ],
+            "originalOptions": [
+              "The right lower-inner quadrant corresponds to 3–6 o'clock",
+              "The right lower-outer quadrant corresponds to 6–9 o'clock",
+              "The right upper-inner quadrant corresponds to 9–12 o'clock",
+              "The right upper-outer quadrant corresponds to 9–12 o'clock",
+              "A right-breast lesion at 5 o'clock lies in the lower-inner quadrant"
+            ],
+            "correctAnswer": "C) The right upper-inner quadrant corresponds to 9–12 o'clock",
+            "correctAnswerText": "The right upper-inner quadrant corresponds to 9–12 o'clock",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "In the right breast, 9 o'clock is lateral, so 9–12 o'clock is the upper-outer quadrant. The upper-inner quadrant is 12–3 o'clock.",
+            "batchName": "Vagus Final",
+            "batchNames": [
+              "Vagus Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__13__o8ps1a",
+            "number": "13",
+            "text": "What are the standard views of screening mammography?",
+            "options": [
+              "Anteroposterior (AP) and lateral",
+              "Craniocaudal (CC) and true lateral",
+              "Mediolateral oblique (MLO) and axillary",
+              "Craniocaudal (CC) and mediolateral oblique (MLO)",
+              "Mediolateral oblique (MLO) and spot compression"
+            ],
+            "originalOptions": [
+              "Anteroposterior (AP) and lateral",
+              "Craniocaudal (CC) and true lateral",
+              "Mediolateral oblique (MLO) and axillary",
+              "Craniocaudal (CC) and mediolateral oblique (MLO)",
+              "Mediolateral oblique (MLO) and spot compression"
+            ],
+            "correctAnswer": "D) Craniocaudal (CC) and mediolateral oblique (MLO)",
+            "correctAnswerText": "Craniocaudal (CC) and mediolateral oblique (MLO)",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The standard views are bilateral CC and MLO. True lateral, spot, magnification, and axillary views are supplementary.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__14__ji3wwe",
+            "number": "14",
+            "text": "A palpable mass is located at the 8 o'clock position in the right breast. Which quadrant is this?",
+            "options": [
+              "Lower inner",
+              "Lower outer",
+              "Upper outer",
+              "Upper inner",
+              "Subareolar (central)"
+            ],
+            "originalOptions": [
+              "Lower inner",
+              "Lower outer",
+              "Upper outer",
+              "Upper inner",
+              "Subareolar (central)"
+            ],
+            "correctAnswer": "B) Lower outer",
+            "correctAnswerText": "Lower outer",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "In the right breast, 6–9 o'clock is the lower-outer quadrant. The lower-inner quadrant is 3–6 o'clock.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__15__qwa2d9",
+            "number": "15",
+            "text": "Why is detection of an abnormality on mammography more difficult in dense breasts, as in young women?",
+            "options": [
+              "Most abnormalities are radiolucent and are masked by fibroglandular tissue",
+              "Fibroglandular tissue attenuates fewer X-rays than fat",
+              "Fatty tissue appears white and hides small lesions",
+              "Calcifications become radiolucent within dense tissue",
+              "Most abnormalities are opaque, so a white lesion is lost on a white (dense) background"
+            ],
+            "originalOptions": [
+              "Most abnormalities are radiolucent and are masked by fibroglandular tissue",
+              "Fibroglandular tissue attenuates fewer X-rays than fat",
+              "Fatty tissue appears white and hides small lesions",
+              "Calcifications become radiolucent within dense tissue",
+              "Most abnormalities are opaque, so a white lesion is lost on a white (dense) background"
+            ],
+            "correctAnswer": "E) Most abnormalities are opaque, so a white lesion is lost on a white (dense) background",
+            "correctAnswerText": "Most abnormalities are opaque, so a white lesion is lost on a white (dense) background",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Most abnormalities are radio-opaque, and dense tissue appears white. In fatty breasts (older patients) the background is black, so the same lesion is easy to see.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__16__ak971j",
+            "number": "16",
+            "text": "Which of the following mammographic calcifications is suspicious for malignancy?",
+            "options": [
+              "Coarse popcorn-like",
+              "Skin calcification with a lucent center",
+              "Fine pleomorphic",
+              "Vascular (parallel tracks)",
+              "Rim (eggshell)"
+            ],
+            "originalOptions": [
+              "Coarse popcorn-like",
+              "Skin calcification with a lucent center",
+              "Fine pleomorphic",
+              "Vascular (parallel tracks)",
+              "Rim (eggshell)"
+            ],
+            "correctAnswer": "C) Fine pleomorphic",
+            "correctAnswerText": "Fine pleomorphic",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Fine pleomorphic calcifications (<0.5 mm with discrete, varied shapes) are a suspicious morphology. The other options are typically benign.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__17__fsyop7",
+            "number": "17",
+            "text": "Which axillary lymph node feature on mammography suggests malignancy?",
+            "options": [
+              "Large, rounded, hyperdense node without a fatty hilum",
+              "Small oval node with a fatty hilum",
+              "Reniform shape with central lucency",
+              "Thin cortex with a preserved fatty hilum",
+              "Small, stable intramammary node with a fatty hilum"
+            ],
+            "originalOptions": [
+              "Large, rounded, hyperdense node without a fatty hilum",
+              "Small oval node with a fatty hilum",
+              "Reniform shape with central lucency",
+              "Thin cortex with a preserved fatty hilum",
+              "Small, stable intramammary node with a fatty hilum"
+            ],
+            "correctAnswer": "A) Large, rounded, hyperdense node without a fatty hilum",
+            "correctAnswerText": "Large, rounded, hyperdense node without a fatty hilum",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Loss of the fatty hilum (no central lucency), rounding, and increased density suggest malignancy. A preserved fatty hilum with a bean shape is benign.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__18__1ecfe4",
+            "number": "18",
+            "text": "BI-RADS 5 is best described as:",
+            "options": [
+              "Incomplete assessment, needs additional imaging",
+              "Probably benign (<2%)",
+              "Suspicious abnormality (2–94%)",
+              "Highly suggestive of malignancy (>95%)",
+              "Known biopsy-proven malignancy"
+            ],
+            "originalOptions": [
+              "Incomplete assessment, needs additional imaging",
+              "Probably benign (<2%)",
+              "Suspicious abnormality (2–94%)",
+              "Highly suggestive of malignancy (>95%)",
+              "Known biopsy-proven malignancy"
+            ],
+            "correctAnswer": "D) Highly suggestive of malignancy (>95%)",
+            "correctAnswerText": "Highly suggestive of malignancy (>95%)",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "BI-RADS 5 means >95% probability of malignancy and appropriate action is required. BI-RADS 4 is the 2–94% suspicious group, and BI-RADS 6 is already biopsy-proven.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__19__dfrbqv",
+            "number": "19",
+            "text": "What is the main value of obtaining both CC and MLO views in mammography?",
+            "options": [
+              "Reducing the radiation dose",
+              "Giving a three-dimensional localization of a lesion",
+              "Differentiating solid from cystic lesions",
+              "Assessing lesion vascularity",
+              "Replacing ultrasound in dense breasts"
+            ],
+            "originalOptions": [
+              "Reducing the radiation dose",
+              "Giving a three-dimensional localization of a lesion",
+              "Differentiating solid from cystic lesions",
+              "Assessing lesion vascularity",
+              "Replacing ultrasound in dense breasts"
+            ],
+            "correctAnswer": "B) Giving a three-dimensional localization of a lesion",
+            "correctAnswerText": "Giving a three-dimensional localization of a lesion",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The CC view shows whether a lesion is inner or outer, and the MLO view shows whether it is upper or lower. Together they localize it in three dimensions. Differentiating solid from cystic is the role of ultrasound.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "lecture"
+          }
+        ]
+      },
+      {
         "id": "radiology__lecture__chest-radiology",
         "name": "Chest Radiology",
         "type": "lecture",
@@ -23622,6 +24347,206 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__breast-radiology-mammogram__3__54s4x8",
+            "number": "3",
+            "text": "What is the best first imaging modality for a pregnant patient with a palpable breast lump?",
+            "options": [
+              "Bilateral mammography (CC and MLO)",
+              "Contrast-enhanced breast MRI",
+              "CT of the chest",
+              "Ultrasound",
+              "Spot-compression magnification mammography"
+            ],
+            "originalOptions": [
+              "Bilateral mammography (CC and MLO)",
+              "Contrast-enhanced breast MRI",
+              "CT of the chest",
+              "Ultrasound",
+              "Spot-compression magnification mammography"
+            ],
+            "correctAnswer": "D) Ultrasound",
+            "correctAnswerText": "Ultrasound",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Ultrasound uses no ionizing radiation and is the modality of choice for symptomatic pregnant or young (<30 years) patients. It also distinguishes cystic from solid lesions and can guide biopsy. Mammography and CT use radiation, and MRI needs gadolinium, so none of them is first-line.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__5__hywtf1",
+            "number": "5",
+            "text": "Which of the following features suggests a malignant breast mass on imaging?",
+            "options": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "originalOptions": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "correctAnswer": "C) Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctAnswerText": "Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)",
+              "Iris Final",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__6__95ciz5",
+            "number": "6",
+            "text": "A palpable mass is located at the 5 o'clock position in the right breast. Which quadrant is this?",
+            "options": [
+              "Lower inner",
+              "Lower outer",
+              "Upper inner",
+              "Upper outer",
+              "Subareolar (central)"
+            ],
+            "originalOptions": [
+              "Lower inner",
+              "Lower outer",
+              "Upper inner",
+              "Upper outer",
+              "Subareolar (central)"
+            ],
+            "correctAnswer": "A) Lower inner",
+            "correctAnswerText": "Lower inner",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "In the right breast, 9 o'clock is lateral, so 3–6 o'clock is the lower inner quadrant and 6–9 is the lower outer. The 5 o'clock position therefore lies in the lower inner quadrant.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__7__716b3n",
+            "number": "7",
+            "text": "Which of the following statements about mammography is FALSE?",
+            "options": [
+              "Axillary lymph nodes with central lucency may be benign",
+              "Sensitivity of mammography is reduced in dense breasts",
+              "Dense breast tissue in young women requires further evaluation",
+              "Pleomorphic microcalcifications are benign",
+              "Spiculated masses are suspicious for malignancy"
+            ],
+            "originalOptions": [
+              "Axillary lymph nodes with central lucency may be benign",
+              "Sensitivity of mammography is reduced in dense breasts",
+              "Dense breast tissue in young women requires further evaluation",
+              "Pleomorphic microcalcifications are benign",
+              "Spiculated masses are suspicious for malignancy"
+            ],
+            "correctAnswer": "D) Pleomorphic microcalcifications are benign",
+            "correctAnswerText": "Pleomorphic microcalcifications are benign",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Fine pleomorphic calcifications are a suspicious morphology. The typically benign types are skin, vascular, popcorn, rod-like, round or punctate, rim, and milk of calcium.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__9__vf62cu",
+            "number": "9",
+            "text": "Which of the following statements about the BI-RADS classification is FALSE?",
+            "options": [
+              "BI-RADS 0 indicates incomplete assessment",
+              "BI-RADS 5 is benign",
+              "BI-RADS 4 suggests a suspicious abnormality",
+              "BI-RADS 2 indicates benign findings",
+              "BI-RADS 3 indicates a probably benign finding"
+            ],
+            "originalOptions": [
+              "BI-RADS 0 indicates incomplete assessment",
+              "BI-RADS 5 is benign",
+              "BI-RADS 4 suggests a suspicious abnormality",
+              "BI-RADS 2 indicates benign findings",
+              "BI-RADS 3 indicates a probably benign finding"
+            ],
+            "correctAnswer": "B) BI-RADS 5 is benign",
+            "correctAnswerText": "BI-RADS 5 is benign",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "BI-RADS 5 is highly suggestive of malignancy (>95%), so it is not benign. BI-RADS 2 is benign and BI-RADS 3 is probably benign.",
+            "batchName": "Aorta Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__chest-radiology__1__ocp3eh",
             "number": "1",
             "text": "What is the most likely diagnosis? [img: Radiologycheartfailure.png ]",
@@ -27237,6 +28162,206 @@
             "subjectId": "radiology",
             "lectureName": "Abdominal Radiology",
             "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__3__54s4x8",
+            "number": "3",
+            "text": "What is the best first imaging modality for a pregnant patient with a palpable breast lump?",
+            "options": [
+              "Bilateral mammography (CC and MLO)",
+              "Contrast-enhanced breast MRI",
+              "CT of the chest",
+              "Ultrasound",
+              "Spot-compression magnification mammography"
+            ],
+            "originalOptions": [
+              "Bilateral mammography (CC and MLO)",
+              "Contrast-enhanced breast MRI",
+              "CT of the chest",
+              "Ultrasound",
+              "Spot-compression magnification mammography"
+            ],
+            "correctAnswer": "D) Ultrasound",
+            "correctAnswerText": "Ultrasound",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Ultrasound uses no ionizing radiation and is the modality of choice for symptomatic pregnant or young (<30 years) patients. It also distinguishes cystic from solid lesions and can guide biopsy. Mammography and CT use radiation, and MRI needs gadolinium, so none of them is first-line.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__5__hywtf1",
+            "number": "5",
+            "text": "Which of the following features suggests a malignant breast mass on imaging?",
+            "options": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "originalOptions": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "correctAnswer": "C) Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctAnswerText": "Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)",
+              "Iris Final",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__6__95ciz5",
+            "number": "6",
+            "text": "A palpable mass is located at the 5 o'clock position in the right breast. Which quadrant is this?",
+            "options": [
+              "Lower inner",
+              "Lower outer",
+              "Upper inner",
+              "Upper outer",
+              "Subareolar (central)"
+            ],
+            "originalOptions": [
+              "Lower inner",
+              "Lower outer",
+              "Upper inner",
+              "Upper outer",
+              "Subareolar (central)"
+            ],
+            "correctAnswer": "A) Lower inner",
+            "correctAnswerText": "Lower inner",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "In the right breast, 9 o'clock is lateral, so 3–6 o'clock is the lower inner quadrant and 6–9 is the lower outer. The 5 o'clock position therefore lies in the lower inner quadrant.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__7__716b3n",
+            "number": "7",
+            "text": "Which of the following statements about mammography is FALSE?",
+            "options": [
+              "Axillary lymph nodes with central lucency may be benign",
+              "Sensitivity of mammography is reduced in dense breasts",
+              "Dense breast tissue in young women requires further evaluation",
+              "Pleomorphic microcalcifications are benign",
+              "Spiculated masses are suspicious for malignancy"
+            ],
+            "originalOptions": [
+              "Axillary lymph nodes with central lucency may be benign",
+              "Sensitivity of mammography is reduced in dense breasts",
+              "Dense breast tissue in young women requires further evaluation",
+              "Pleomorphic microcalcifications are benign",
+              "Spiculated masses are suspicious for malignancy"
+            ],
+            "correctAnswer": "D) Pleomorphic microcalcifications are benign",
+            "correctAnswerText": "Pleomorphic microcalcifications are benign",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Fine pleomorphic calcifications are a suspicious morphology. The typically benign types are skin, vascular, popcorn, rod-like, round or punctate, rim, and milk of calcium.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__9__vf62cu",
+            "number": "9",
+            "text": "Which of the following statements about the BI-RADS classification is FALSE?",
+            "options": [
+              "BI-RADS 0 indicates incomplete assessment",
+              "BI-RADS 5 is benign",
+              "BI-RADS 4 suggests a suspicious abnormality",
+              "BI-RADS 2 indicates benign findings",
+              "BI-RADS 3 indicates a probably benign finding"
+            ],
+            "originalOptions": [
+              "BI-RADS 0 indicates incomplete assessment",
+              "BI-RADS 5 is benign",
+              "BI-RADS 4 suggests a suspicious abnormality",
+              "BI-RADS 2 indicates benign findings",
+              "BI-RADS 3 indicates a probably benign finding"
+            ],
+            "correctAnswer": "B) BI-RADS 5 is benign",
+            "correctAnswerText": "BI-RADS 5 is benign",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "BI-RADS 5 is highly suggestive of malignancy (>95%), so it is not benign. BI-RADS 2 is benign and BI-RADS 3 is probably benign.",
+            "batchName": "Endorphin Final",
+            "batchNames": [
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
             "sourceType": "year",
             "originalSourceType": "lecture"
           },
@@ -33738,6 +34863,314 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__breast-radiology-mammogram__5__hywtf1",
+            "number": "5",
+            "text": "Which of the following features suggests a malignant breast mass on imaging?",
+            "options": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "originalOptions": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "correctAnswer": "C) Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctAnswerText": "Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)",
+              "Iris Final",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__13__o8ps1a",
+            "number": "13",
+            "text": "What are the standard views of screening mammography?",
+            "options": [
+              "Anteroposterior (AP) and lateral",
+              "Craniocaudal (CC) and true lateral",
+              "Mediolateral oblique (MLO) and axillary",
+              "Craniocaudal (CC) and mediolateral oblique (MLO)",
+              "Mediolateral oblique (MLO) and spot compression"
+            ],
+            "originalOptions": [
+              "Anteroposterior (AP) and lateral",
+              "Craniocaudal (CC) and true lateral",
+              "Mediolateral oblique (MLO) and axillary",
+              "Craniocaudal (CC) and mediolateral oblique (MLO)",
+              "Mediolateral oblique (MLO) and spot compression"
+            ],
+            "correctAnswer": "D) Craniocaudal (CC) and mediolateral oblique (MLO)",
+            "correctAnswerText": "Craniocaudal (CC) and mediolateral oblique (MLO)",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The standard views are bilateral CC and MLO. True lateral, spot, magnification, and axillary views are supplementary.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__14__ji3wwe",
+            "number": "14",
+            "text": "A palpable mass is located at the 8 o'clock position in the right breast. Which quadrant is this?",
+            "options": [
+              "Lower inner",
+              "Lower outer",
+              "Upper outer",
+              "Upper inner",
+              "Subareolar (central)"
+            ],
+            "originalOptions": [
+              "Lower inner",
+              "Lower outer",
+              "Upper outer",
+              "Upper inner",
+              "Subareolar (central)"
+            ],
+            "correctAnswer": "B) Lower outer",
+            "correctAnswerText": "Lower outer",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "In the right breast, 6–9 o'clock is the lower-outer quadrant. The lower-inner quadrant is 3–6 o'clock.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__15__qwa2d9",
+            "number": "15",
+            "text": "Why is detection of an abnormality on mammography more difficult in dense breasts, as in young women?",
+            "options": [
+              "Most abnormalities are radiolucent and are masked by fibroglandular tissue",
+              "Fibroglandular tissue attenuates fewer X-rays than fat",
+              "Fatty tissue appears white and hides small lesions",
+              "Calcifications become radiolucent within dense tissue",
+              "Most abnormalities are opaque, so a white lesion is lost on a white (dense) background"
+            ],
+            "originalOptions": [
+              "Most abnormalities are radiolucent and are masked by fibroglandular tissue",
+              "Fibroglandular tissue attenuates fewer X-rays than fat",
+              "Fatty tissue appears white and hides small lesions",
+              "Calcifications become radiolucent within dense tissue",
+              "Most abnormalities are opaque, so a white lesion is lost on a white (dense) background"
+            ],
+            "correctAnswer": "E) Most abnormalities are opaque, so a white lesion is lost on a white (dense) background",
+            "correctAnswerText": "Most abnormalities are opaque, so a white lesion is lost on a white (dense) background",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Most abnormalities are radio-opaque, and dense tissue appears white. In fatty breasts (older patients) the background is black, so the same lesion is easy to see.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__16__ak971j",
+            "number": "16",
+            "text": "Which of the following mammographic calcifications is suspicious for malignancy?",
+            "options": [
+              "Coarse popcorn-like",
+              "Skin calcification with a lucent center",
+              "Fine pleomorphic",
+              "Vascular (parallel tracks)",
+              "Rim (eggshell)"
+            ],
+            "originalOptions": [
+              "Coarse popcorn-like",
+              "Skin calcification with a lucent center",
+              "Fine pleomorphic",
+              "Vascular (parallel tracks)",
+              "Rim (eggshell)"
+            ],
+            "correctAnswer": "C) Fine pleomorphic",
+            "correctAnswerText": "Fine pleomorphic",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Fine pleomorphic calcifications (<0.5 mm with discrete, varied shapes) are a suspicious morphology. The other options are typically benign.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__17__fsyop7",
+            "number": "17",
+            "text": "Which axillary lymph node feature on mammography suggests malignancy?",
+            "options": [
+              "Large, rounded, hyperdense node without a fatty hilum",
+              "Small oval node with a fatty hilum",
+              "Reniform shape with central lucency",
+              "Thin cortex with a preserved fatty hilum",
+              "Small, stable intramammary node with a fatty hilum"
+            ],
+            "originalOptions": [
+              "Large, rounded, hyperdense node without a fatty hilum",
+              "Small oval node with a fatty hilum",
+              "Reniform shape with central lucency",
+              "Thin cortex with a preserved fatty hilum",
+              "Small, stable intramammary node with a fatty hilum"
+            ],
+            "correctAnswer": "A) Large, rounded, hyperdense node without a fatty hilum",
+            "correctAnswerText": "Large, rounded, hyperdense node without a fatty hilum",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Loss of the fatty hilum (no central lucency), rounding, and increased density suggest malignancy. A preserved fatty hilum with a bean shape is benign.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__18__1ecfe4",
+            "number": "18",
+            "text": "BI-RADS 5 is best described as:",
+            "options": [
+              "Incomplete assessment, needs additional imaging",
+              "Probably benign (<2%)",
+              "Suspicious abnormality (2–94%)",
+              "Highly suggestive of malignancy (>95%)",
+              "Known biopsy-proven malignancy"
+            ],
+            "originalOptions": [
+              "Incomplete assessment, needs additional imaging",
+              "Probably benign (<2%)",
+              "Suspicious abnormality (2–94%)",
+              "Highly suggestive of malignancy (>95%)",
+              "Known biopsy-proven malignancy"
+            ],
+            "correctAnswer": "D) Highly suggestive of malignancy (>95%)",
+            "correctAnswerText": "Highly suggestive of malignancy (>95%)",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "BI-RADS 5 means >95% probability of malignancy and appropriate action is required. BI-RADS 4 is the 2–94% suspicious group, and BI-RADS 6 is already biopsy-proven.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__19__dfrbqv",
+            "number": "19",
+            "text": "What is the main value of obtaining both CC and MLO views in mammography?",
+            "options": [
+              "Reducing the radiation dose",
+              "Giving a three-dimensional localization of a lesion",
+              "Differentiating solid from cystic lesions",
+              "Assessing lesion vascularity",
+              "Replacing ultrasound in dense breasts"
+            ],
+            "originalOptions": [
+              "Reducing the radiation dose",
+              "Giving a three-dimensional localization of a lesion",
+              "Differentiating solid from cystic lesions",
+              "Assessing lesion vascularity",
+              "Replacing ultrasound in dense breasts"
+            ],
+            "correctAnswer": "B) Giving a three-dimensional localization of a lesion",
+            "correctAnswerText": "Giving a three-dimensional localization of a lesion",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The CC view shows whether a lesion is inner or outer, and the MLO view shows whether it is upper or lower. Together they localize it in three dimensions. Differentiating solid from cystic is the role of ultrasound.",
+            "batchName": "Iris Final",
+            "batchNames": [
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__chest-radiology__12__trkhlo",
             "number": "12",
             "text": "What is the most likely diagnosis? [img: Radiologycaorticdissection.png ]",
@@ -35057,6 +36490,164 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__breast-radiology-mammogram__1__kbmafr",
+            "number": "1",
+            "text": "Probably benign breast lesion that requires short-interval follow-up is which BI-RADS category?",
+            "options": [
+              "BI-RADS 0",
+              "BI-RADS 1",
+              "BI-RADS 3",
+              "BI-RADS 4A",
+              "BI-RADS 2"
+            ],
+            "originalOptions": [
+              "BI-RADS 0",
+              "BI-RADS 1",
+              "BI-RADS 3",
+              "BI-RADS 4A",
+              "BI-RADS 2"
+            ],
+            "correctAnswer": "C) BI-RADS 3",
+            "correctAnswerText": "BI-RADS 3",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "BI-RADS 3 means probably benign (<2% risk of malignancy), and short-interval follow-up is suggested. BI-RADS 2 is definitely benign (0%) and needs no short-interval follow-up. BI-RADS 4A is already suspicious (2–9%) and biopsy is considered.",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__2__xbfdc0",
+            "number": "2",
+            "text": "Which of the following is a feature of a benign axillary lymph node on mammography?",
+            "options": [
+              "Central lucency (fatty hilum)",
+              "Large, rounded shape without a hilum",
+              "Increased density with cortical thickening",
+              "Irregular or indistinct margins",
+              "Calcifications within the node"
+            ],
+            "originalOptions": [
+              "Central lucency (fatty hilum)",
+              "Large, rounded shape without a hilum",
+              "Increased density with cortical thickening",
+              "Irregular or indistinct margins",
+              "Calcifications within the node"
+            ],
+            "correctAnswer": "A) Central lucency (fatty hilum)",
+            "correctAnswerText": "Central lucency (fatty hilum)",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A normal or benign node is small and bean-shaped with a fatty hilum, which appears as central lucency. Loss of the hilum, rounding, increased density, and irregular margins all suggest malignancy.",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__4__vclebp",
+            "number": "4",
+            "text": "Which mammographic calcification morphology carries the highest suspicion of malignancy?",
+            "options": [
+              "Coarse popcorn-like",
+              "Rim (eggshell)",
+              "Amorphous",
+              "Fine pleomorphic",
+              "Fine linear / fine linear branching"
+            ],
+            "originalOptions": [
+              "Coarse popcorn-like",
+              "Rim (eggshell)",
+              "Amorphous",
+              "Fine pleomorphic",
+              "Fine linear / fine linear branching"
+            ],
+            "correctAnswer": "E) Fine linear / fine linear branching",
+            "correctAnswerText": "Fine linear / fine linear branching",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Thin, irregular, branching calcifications (<0.5 mm) suggest deposition within a duct and carry the highest suspicion. Fine pleomorphic and amorphous are also suspicious but less so. Popcorn-like (involuting fibroadenoma) and rim calcifications are typically benign.",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__5__hywtf1",
+            "number": "5",
+            "text": "Which of the following features suggests a malignant breast mass on imaging?",
+            "options": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "originalOptions": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "correctAnswer": "C) Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctAnswerText": "Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)",
+              "Iris Final",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__chest-radiology__28__cypq7k",
             "number": "28",
             "text": "Which finding characterizes right middle lobe pneumonia on a frontal chest radiograph?",
@@ -35774,6 +37365,86 @@
             "subjectId": "radiology",
             "lectureName": "Abdominal Radiology",
             "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__3__54s4x8",
+            "number": "3",
+            "text": "What is the best first imaging modality for a pregnant patient with a palpable breast lump?",
+            "options": [
+              "Bilateral mammography (CC and MLO)",
+              "Contrast-enhanced breast MRI",
+              "CT of the chest",
+              "Ultrasound",
+              "Spot-compression magnification mammography"
+            ],
+            "originalOptions": [
+              "Bilateral mammography (CC and MLO)",
+              "Contrast-enhanced breast MRI",
+              "CT of the chest",
+              "Ultrasound",
+              "Spot-compression magnification mammography"
+            ],
+            "correctAnswer": "D) Ultrasound",
+            "correctAnswerText": "Ultrasound",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Ultrasound uses no ionizing radiation and is the modality of choice for symptomatic pregnant or young (<30 years) patients. It also distinguishes cystic from solid lesions and can guide biopsy. Mammography and CT use radiation, and MRI needs gadolinium, so none of them is first-line.",
+            "batchName": "Iris Mini-OSCE (Group C)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__8__dq1ztl",
+            "number": "8",
+            "text": "Which of the following is FALSE regarding BI-RADS?",
+            "options": [
+              "BI-RADS 0 indicates an incomplete assessment that needs additional imaging",
+              "BI-RADS 6 indicates the presence of a benign lesion",
+              "BI-RADS 3 carries a <2% probability of malignancy",
+              "BI-RADS 4 is suspicious, and biopsy should be considered",
+              "BI-RADS 1 indicates a negative study"
+            ],
+            "originalOptions": [
+              "BI-RADS 0 indicates an incomplete assessment that needs additional imaging",
+              "BI-RADS 6 indicates the presence of a benign lesion",
+              "BI-RADS 3 carries a <2% probability of malignancy",
+              "BI-RADS 4 is suspicious, and biopsy should be considered",
+              "BI-RADS 1 indicates a negative study"
+            ],
+            "correctAnswer": "B) BI-RADS 6 indicates the presence of a benign lesion",
+            "correctAnswerText": "BI-RADS 6 indicates the presence of a benign lesion",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "BI-RADS 6 is a known, biopsy-proven malignancy, not a benign lesion. The other statements are correct.",
+            "batchName": "Iris Mini-OSCE (Group C)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
             "sourceType": "year",
             "originalSourceType": "lecture"
           },
@@ -36529,6 +38200,206 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__breast-radiology-mammogram__2__xbfdc0",
+            "number": "2",
+            "text": "Which of the following is a feature of a benign axillary lymph node on mammography?",
+            "options": [
+              "Central lucency (fatty hilum)",
+              "Large, rounded shape without a hilum",
+              "Increased density with cortical thickening",
+              "Irregular or indistinct margins",
+              "Calcifications within the node"
+            ],
+            "originalOptions": [
+              "Central lucency (fatty hilum)",
+              "Large, rounded shape without a hilum",
+              "Increased density with cortical thickening",
+              "Irregular or indistinct margins",
+              "Calcifications within the node"
+            ],
+            "correctAnswer": "A) Central lucency (fatty hilum)",
+            "correctAnswerText": "Central lucency (fatty hilum)",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A normal or benign node is small and bean-shaped with a fatty hilum, which appears as central lucency. Loss of the hilum, rounding, increased density, and irregular margins all suggest malignancy.",
+            "batchName": "Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__3__54s4x8",
+            "number": "3",
+            "text": "What is the best first imaging modality for a pregnant patient with a palpable breast lump?",
+            "options": [
+              "Bilateral mammography (CC and MLO)",
+              "Contrast-enhanced breast MRI",
+              "CT of the chest",
+              "Ultrasound",
+              "Spot-compression magnification mammography"
+            ],
+            "originalOptions": [
+              "Bilateral mammography (CC and MLO)",
+              "Contrast-enhanced breast MRI",
+              "CT of the chest",
+              "Ultrasound",
+              "Spot-compression magnification mammography"
+            ],
+            "correctAnswer": "D) Ultrasound",
+            "correctAnswerText": "Ultrasound",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Ultrasound uses no ionizing radiation and is the modality of choice for symptomatic pregnant or young (<30 years) patients. It also distinguishes cystic from solid lesions and can guide biopsy. Mammography and CT use radiation, and MRI needs gadolinium, so none of them is first-line.",
+            "batchName": "Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__4__vclebp",
+            "number": "4",
+            "text": "Which mammographic calcification morphology carries the highest suspicion of malignancy?",
+            "options": [
+              "Coarse popcorn-like",
+              "Rim (eggshell)",
+              "Amorphous",
+              "Fine pleomorphic",
+              "Fine linear / fine linear branching"
+            ],
+            "originalOptions": [
+              "Coarse popcorn-like",
+              "Rim (eggshell)",
+              "Amorphous",
+              "Fine pleomorphic",
+              "Fine linear / fine linear branching"
+            ],
+            "correctAnswer": "E) Fine linear / fine linear branching",
+            "correctAnswerText": "Fine linear / fine linear branching",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Thin, irregular, branching calcifications (<0.5 mm) suggest deposition within a duct and carry the highest suspicion. Fine pleomorphic and amorphous are also suspicious but less so. Popcorn-like (involuting fibroadenoma) and rim calcifications are typically benign.",
+            "batchName": "Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__5__hywtf1",
+            "number": "5",
+            "text": "Which of the following features suggests a malignant breast mass on imaging?",
+            "options": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "originalOptions": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "correctAnswer": "C) Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctAnswerText": "Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
+            "batchName": "Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)",
+              "Iris Final",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__8__dq1ztl",
+            "number": "8",
+            "text": "Which of the following is FALSE regarding BI-RADS?",
+            "options": [
+              "BI-RADS 0 indicates an incomplete assessment that needs additional imaging",
+              "BI-RADS 6 indicates the presence of a benign lesion",
+              "BI-RADS 3 carries a <2% probability of malignancy",
+              "BI-RADS 4 is suspicious, and biopsy should be considered",
+              "BI-RADS 1 indicates a negative study"
+            ],
+            "originalOptions": [
+              "BI-RADS 0 indicates an incomplete assessment that needs additional imaging",
+              "BI-RADS 6 indicates the presence of a benign lesion",
+              "BI-RADS 3 carries a <2% probability of malignancy",
+              "BI-RADS 4 is suspicious, and biopsy should be considered",
+              "BI-RADS 1 indicates a negative study"
+            ],
+            "correctAnswer": "B) BI-RADS 6 indicates the presence of a benign lesion",
+            "correctAnswerText": "BI-RADS 6 indicates the presence of a benign lesion",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "BI-RADS 6 is a known, biopsy-proven malignancy, not a benign lesion. The other statements are correct.",
+            "batchName": "Iris Mini-OSCE (Group D)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__chest-radiology__12__trkhlo",
             "number": "12",
             "text": "What is the most likely diagnosis? [img: Radiologycaorticdissection.png ]",
@@ -37109,6 +38980,44 @@
             "subjectId": "radiology",
             "lectureName": "Abdominal Radiology",
             "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__10__9vj56t",
+            "number": "10",
+            "text": "Which of the following is FALSE regarding mammography?",
+            "options": [
+              "A spiculated mass is suspicious for malignancy",
+              "Simple cysts appear non-echoic on ultrasound",
+              "Coarse heterogeneous calcifications are 0.5–1 mm and are suspicious",
+              "A left breast lower inner lesion lies at 6–9 o'clock",
+              "A fibroadenoma is BI-RADS 2 and needs follow-up"
+            ],
+            "originalOptions": [
+              "A spiculated mass is suspicious for malignancy",
+              "Simple cysts appear non-echoic on ultrasound",
+              "Coarse heterogeneous calcifications are 0.5–1 mm and are suspicious",
+              "A left breast lower inner lesion lies at 6–9 o'clock",
+              "A fibroadenoma is BI-RADS 2 and needs follow-up"
+            ],
+            "correctAnswer": "E) A fibroadenoma is BI-RADS 2 and needs follow-up",
+            "correctAnswerText": "A fibroadenoma is BI-RADS 2 and needs follow-up",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "BI-RADS 2 is a benign finding with routine screening only. Short-interval follow-up belongs to BI-RADS 3 (probably benign).",
+            "batchName": "Overdose Final",
+            "batchNames": [
+              "Overdose Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
             "sourceType": "year",
             "originalSourceType": "lecture"
           },
@@ -40204,6 +42113,44 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__breast-radiology-mammogram__12__v2ej40",
+            "number": "12",
+            "text": "Which clock-face statement for a right-breast mass is FALSE?",
+            "options": [
+              "The right lower-inner quadrant corresponds to 3–6 o'clock",
+              "The right lower-outer quadrant corresponds to 6–9 o'clock",
+              "The right upper-inner quadrant corresponds to 9–12 o'clock",
+              "The right upper-outer quadrant corresponds to 9–12 o'clock",
+              "A right-breast lesion at 5 o'clock lies in the lower-inner quadrant"
+            ],
+            "originalOptions": [
+              "The right lower-inner quadrant corresponds to 3–6 o'clock",
+              "The right lower-outer quadrant corresponds to 6–9 o'clock",
+              "The right upper-inner quadrant corresponds to 9–12 o'clock",
+              "The right upper-outer quadrant corresponds to 9–12 o'clock",
+              "A right-breast lesion at 5 o'clock lies in the lower-inner quadrant"
+            ],
+            "correctAnswer": "C) The right upper-inner quadrant corresponds to 9–12 o'clock",
+            "correctAnswerText": "The right upper-inner quadrant corresponds to 9–12 o'clock",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "In the right breast, 9 o'clock is lateral, so 9–12 o'clock is the upper-outer quadrant. The upper-inner quadrant is 12–3 o'clock.",
+            "batchName": "Vagus Final",
+            "batchNames": [
+              "Vagus Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__chest-radiology__47__rxhjv0",
             "number": "47",
             "text": "Which of the following statements about air bronchograms is FALSE?",
@@ -42068,6 +44015,44 @@
             "subjectId": "radiology",
             "lectureName": "Abdominal Radiology",
             "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__11__19ar4y",
+            "number": "11",
+            "text": "Regarding BI-RADS breast classification, which of the following is FALSE?",
+            "options": [
+              "BI-RADS 2 represents biopsy-proven malignancy",
+              "BI-RADS 3 represents a probably benign finding and needs follow-up",
+              "BI-RADS 4 is suspicious for malignancy",
+              "BI-RADS 0 represents an incomplete study and needs additional imaging",
+              "BI-RADS 1 represents a negative study with no evidence of abnormalities"
+            ],
+            "originalOptions": [
+              "BI-RADS 2 represents biopsy-proven malignancy",
+              "BI-RADS 3 represents a probably benign finding and needs follow-up",
+              "BI-RADS 4 is suspicious for malignancy",
+              "BI-RADS 0 represents an incomplete study and needs additional imaging",
+              "BI-RADS 1 represents a negative study with no evidence of abnormalities"
+            ],
+            "correctAnswer": "A) BI-RADS 2 represents biopsy-proven malignancy",
+            "correctAnswerText": "BI-RADS 2 represents biopsy-proven malignancy",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "BI-RADS 2 is a benign finding. Biopsy-proven malignancy is BI-RADS 6.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
             "sourceType": "year",
             "originalSourceType": "lecture"
           },
@@ -48368,6 +50353,722 @@
         "subjectId": "radiology",
         "lectureName": "Abdominal Radiology",
         "groupName": "Abdominal Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__1__kbmafr",
+        "number": "1",
+        "text": "Probably benign breast lesion that requires short-interval follow-up is which BI-RADS category?",
+        "options": [
+          "BI-RADS 0",
+          "BI-RADS 1",
+          "BI-RADS 3",
+          "BI-RADS 4A",
+          "BI-RADS 2"
+        ],
+        "originalOptions": [
+          "BI-RADS 0",
+          "BI-RADS 1",
+          "BI-RADS 3",
+          "BI-RADS 4A",
+          "BI-RADS 2"
+        ],
+        "correctAnswer": "C) BI-RADS 3",
+        "correctAnswerText": "BI-RADS 3",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "BI-RADS 3 means probably benign (<2% risk of malignancy), and short-interval follow-up is suggested. BI-RADS 2 is definitely benign (0%) and needs no short-interval follow-up. BI-RADS 4A is already suspicious (2–9%) and biopsy is considered.",
+        "batchName": "Iris Mini-OSCE (Group A)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group A)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__2__xbfdc0",
+        "number": "2",
+        "text": "Which of the following is a feature of a benign axillary lymph node on mammography?",
+        "options": [
+          "Central lucency (fatty hilum)",
+          "Large, rounded shape without a hilum",
+          "Increased density with cortical thickening",
+          "Irregular or indistinct margins",
+          "Calcifications within the node"
+        ],
+        "originalOptions": [
+          "Central lucency (fatty hilum)",
+          "Large, rounded shape without a hilum",
+          "Increased density with cortical thickening",
+          "Irregular or indistinct margins",
+          "Calcifications within the node"
+        ],
+        "correctAnswer": "A) Central lucency (fatty hilum)",
+        "correctAnswerText": "Central lucency (fatty hilum)",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "A normal or benign node is small and bean-shaped with a fatty hilum, which appears as central lucency. Loss of the hilum, rounding, increased density, and irregular margins all suggest malignancy.",
+        "batchName": "Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group A)",
+          "Iris Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__3__54s4x8",
+        "number": "3",
+        "text": "What is the best first imaging modality for a pregnant patient with a palpable breast lump?",
+        "options": [
+          "Bilateral mammography (CC and MLO)",
+          "Contrast-enhanced breast MRI",
+          "CT of the chest",
+          "Ultrasound",
+          "Spot-compression magnification mammography"
+        ],
+        "originalOptions": [
+          "Bilateral mammography (CC and MLO)",
+          "Contrast-enhanced breast MRI",
+          "CT of the chest",
+          "Ultrasound",
+          "Spot-compression magnification mammography"
+        ],
+        "correctAnswer": "D) Ultrasound",
+        "correctAnswerText": "Ultrasound",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Ultrasound uses no ionizing radiation and is the modality of choice for symptomatic pregnant or young (<30 years) patients. It also distinguishes cystic from solid lesions and can guide biopsy. Mammography and CT use radiation, and MRI needs gadolinium, so none of them is first-line.",
+        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Final / Aorta Final",
+        "batchNames": [
+          "Iris Mini-OSCE (Group C)",
+          "Iris Mini-OSCE (Group D)",
+          "Endorphin Final",
+          "Aorta Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__4__vclebp",
+        "number": "4",
+        "text": "Which mammographic calcification morphology carries the highest suspicion of malignancy?",
+        "options": [
+          "Coarse popcorn-like",
+          "Rim (eggshell)",
+          "Amorphous",
+          "Fine pleomorphic",
+          "Fine linear / fine linear branching"
+        ],
+        "originalOptions": [
+          "Coarse popcorn-like",
+          "Rim (eggshell)",
+          "Amorphous",
+          "Fine pleomorphic",
+          "Fine linear / fine linear branching"
+        ],
+        "correctAnswer": "E) Fine linear / fine linear branching",
+        "correctAnswerText": "Fine linear / fine linear branching",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "Thin, irregular, branching calcifications (<0.5 mm) suggest deposition within a duct and carry the highest suspicion. Fine pleomorphic and amorphous are also suspicious but less so. Popcorn-like (involuting fibroadenoma) and rim calcifications are typically benign.",
+        "batchName": "Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group A)",
+          "Iris Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__5__hywtf1",
+        "number": "5",
+        "text": "Which of the following features suggests a malignant breast mass on imaging?",
+        "options": [
+          "Round shape with circumscribed margins",
+          "Oval shape with posterior acoustic enhancement",
+          "Irregular shape with spiculated, indistinct, or obscured margins",
+          "Fat-containing mass",
+          "Coarse popcorn-like calcification within the mass"
+        ],
+        "originalOptions": [
+          "Round shape with circumscribed margins",
+          "Oval shape with posterior acoustic enhancement",
+          "Irregular shape with spiculated, indistinct, or obscured margins",
+          "Fat-containing mass",
+          "Coarse popcorn-like calcification within the mass"
+        ],
+        "correctAnswer": "C) Irregular shape with spiculated, indistinct, or obscured margins",
+        "correctAnswerText": "Irregular shape with spiculated, indistinct, or obscured margins",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
+        "batchName": "Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Final / Aorta Final",
+        "batchNames": [
+          "Iris Mini-OSCE (Group A)",
+          "Iris Mini-OSCE (Group D)",
+          "Iris Final",
+          "Endorphin Final",
+          "Aorta Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__6__95ciz5",
+        "number": "6",
+        "text": "A palpable mass is located at the 5 o'clock position in the right breast. Which quadrant is this?",
+        "options": [
+          "Lower inner",
+          "Lower outer",
+          "Upper inner",
+          "Upper outer",
+          "Subareolar (central)"
+        ],
+        "originalOptions": [
+          "Lower inner",
+          "Lower outer",
+          "Upper inner",
+          "Upper outer",
+          "Subareolar (central)"
+        ],
+        "correctAnswer": "A) Lower inner",
+        "correctAnswerText": "Lower inner",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "In the right breast, 9 o'clock is lateral, so 3–6 o'clock is the lower inner quadrant and 6–9 is the lower outer. The 5 o'clock position therefore lies in the lower inner quadrant.",
+        "batchName": "Endorphin Final / Aorta Final",
+        "batchNames": [
+          "Endorphin Final",
+          "Aorta Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__7__716b3n",
+        "number": "7",
+        "text": "Which of the following statements about mammography is FALSE?",
+        "options": [
+          "Axillary lymph nodes with central lucency may be benign",
+          "Sensitivity of mammography is reduced in dense breasts",
+          "Dense breast tissue in young women requires further evaluation",
+          "Pleomorphic microcalcifications are benign",
+          "Spiculated masses are suspicious for malignancy"
+        ],
+        "originalOptions": [
+          "Axillary lymph nodes with central lucency may be benign",
+          "Sensitivity of mammography is reduced in dense breasts",
+          "Dense breast tissue in young women requires further evaluation",
+          "Pleomorphic microcalcifications are benign",
+          "Spiculated masses are suspicious for malignancy"
+        ],
+        "correctAnswer": "D) Pleomorphic microcalcifications are benign",
+        "correctAnswerText": "Pleomorphic microcalcifications are benign",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Fine pleomorphic calcifications are a suspicious morphology. The typically benign types are skin, vascular, popcorn, rod-like, round or punctate, rim, and milk of calcium.",
+        "batchName": "Endorphin Final / Aorta Final",
+        "batchNames": [
+          "Endorphin Final",
+          "Aorta Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__8__dq1ztl",
+        "number": "8",
+        "text": "Which of the following is FALSE regarding BI-RADS?",
+        "options": [
+          "BI-RADS 0 indicates an incomplete assessment that needs additional imaging",
+          "BI-RADS 6 indicates the presence of a benign lesion",
+          "BI-RADS 3 carries a <2% probability of malignancy",
+          "BI-RADS 4 is suspicious, and biopsy should be considered",
+          "BI-RADS 1 indicates a negative study"
+        ],
+        "originalOptions": [
+          "BI-RADS 0 indicates an incomplete assessment that needs additional imaging",
+          "BI-RADS 6 indicates the presence of a benign lesion",
+          "BI-RADS 3 carries a <2% probability of malignancy",
+          "BI-RADS 4 is suspicious, and biopsy should be considered",
+          "BI-RADS 1 indicates a negative study"
+        ],
+        "correctAnswer": "B) BI-RADS 6 indicates the presence of a benign lesion",
+        "correctAnswerText": "BI-RADS 6 indicates the presence of a benign lesion",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "BI-RADS 6 is a known, biopsy-proven malignancy, not a benign lesion. The other statements are correct.",
+        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group C)",
+          "Iris Mini-OSCE (Group D)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__9__vf62cu",
+        "number": "9",
+        "text": "Which of the following statements about the BI-RADS classification is FALSE?",
+        "options": [
+          "BI-RADS 0 indicates incomplete assessment",
+          "BI-RADS 5 is benign",
+          "BI-RADS 4 suggests a suspicious abnormality",
+          "BI-RADS 2 indicates benign findings",
+          "BI-RADS 3 indicates a probably benign finding"
+        ],
+        "originalOptions": [
+          "BI-RADS 0 indicates incomplete assessment",
+          "BI-RADS 5 is benign",
+          "BI-RADS 4 suggests a suspicious abnormality",
+          "BI-RADS 2 indicates benign findings",
+          "BI-RADS 3 indicates a probably benign finding"
+        ],
+        "correctAnswer": "B) BI-RADS 5 is benign",
+        "correctAnswerText": "BI-RADS 5 is benign",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "BI-RADS 5 is highly suggestive of malignancy (>95%), so it is not benign. BI-RADS 2 is benign and BI-RADS 3 is probably benign.",
+        "batchName": "Endorphin Final / Aorta Final",
+        "batchNames": [
+          "Endorphin Final",
+          "Aorta Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__10__9vj56t",
+        "number": "10",
+        "text": "Which of the following is FALSE regarding mammography?",
+        "options": [
+          "A spiculated mass is suspicious for malignancy",
+          "Simple cysts appear non-echoic on ultrasound",
+          "Coarse heterogeneous calcifications are 0.5–1 mm and are suspicious",
+          "A left breast lower inner lesion lies at 6–9 o'clock",
+          "A fibroadenoma is BI-RADS 2 and needs follow-up"
+        ],
+        "originalOptions": [
+          "A spiculated mass is suspicious for malignancy",
+          "Simple cysts appear non-echoic on ultrasound",
+          "Coarse heterogeneous calcifications are 0.5–1 mm and are suspicious",
+          "A left breast lower inner lesion lies at 6–9 o'clock",
+          "A fibroadenoma is BI-RADS 2 and needs follow-up"
+        ],
+        "correctAnswer": "E) A fibroadenoma is BI-RADS 2 and needs follow-up",
+        "correctAnswerText": "A fibroadenoma is BI-RADS 2 and needs follow-up",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "BI-RADS 2 is a benign finding with routine screening only. Short-interval follow-up belongs to BI-RADS 3 (probably benign).",
+        "batchName": "Overdose Final",
+        "batchNames": [
+          "Overdose Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__11__19ar4y",
+        "number": "11",
+        "text": "Regarding BI-RADS breast classification, which of the following is FALSE?",
+        "options": [
+          "BI-RADS 2 represents biopsy-proven malignancy",
+          "BI-RADS 3 represents a probably benign finding and needs follow-up",
+          "BI-RADS 4 is suspicious for malignancy",
+          "BI-RADS 0 represents an incomplete study and needs additional imaging",
+          "BI-RADS 1 represents a negative study with no evidence of abnormalities"
+        ],
+        "originalOptions": [
+          "BI-RADS 2 represents biopsy-proven malignancy",
+          "BI-RADS 3 represents a probably benign finding and needs follow-up",
+          "BI-RADS 4 is suspicious for malignancy",
+          "BI-RADS 0 represents an incomplete study and needs additional imaging",
+          "BI-RADS 1 represents a negative study with no evidence of abnormalities"
+        ],
+        "correctAnswer": "A) BI-RADS 2 represents biopsy-proven malignancy",
+        "correctAnswerText": "BI-RADS 2 represents biopsy-proven malignancy",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "BI-RADS 2 is a benign finding. Biopsy-proven malignancy is BI-RADS 6.",
+        "batchName": "Waman A7yaha Final",
+        "batchNames": [
+          "Waman A7yaha Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__12__v2ej40",
+        "number": "12",
+        "text": "Which clock-face statement for a right-breast mass is FALSE?",
+        "options": [
+          "The right lower-inner quadrant corresponds to 3–6 o'clock",
+          "The right lower-outer quadrant corresponds to 6–9 o'clock",
+          "The right upper-inner quadrant corresponds to 9–12 o'clock",
+          "The right upper-outer quadrant corresponds to 9–12 o'clock",
+          "A right-breast lesion at 5 o'clock lies in the lower-inner quadrant"
+        ],
+        "originalOptions": [
+          "The right lower-inner quadrant corresponds to 3–6 o'clock",
+          "The right lower-outer quadrant corresponds to 6–9 o'clock",
+          "The right upper-inner quadrant corresponds to 9–12 o'clock",
+          "The right upper-outer quadrant corresponds to 9–12 o'clock",
+          "A right-breast lesion at 5 o'clock lies in the lower-inner quadrant"
+        ],
+        "correctAnswer": "C) The right upper-inner quadrant corresponds to 9–12 o'clock",
+        "correctAnswerText": "The right upper-inner quadrant corresponds to 9–12 o'clock",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "In the right breast, 9 o'clock is lateral, so 9–12 o'clock is the upper-outer quadrant. The upper-inner quadrant is 12–3 o'clock.",
+        "batchName": "Vagus Final",
+        "batchNames": [
+          "Vagus Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__13__o8ps1a",
+        "number": "13",
+        "text": "What are the standard views of screening mammography?",
+        "options": [
+          "Anteroposterior (AP) and lateral",
+          "Craniocaudal (CC) and true lateral",
+          "Mediolateral oblique (MLO) and axillary",
+          "Craniocaudal (CC) and mediolateral oblique (MLO)",
+          "Mediolateral oblique (MLO) and spot compression"
+        ],
+        "originalOptions": [
+          "Anteroposterior (AP) and lateral",
+          "Craniocaudal (CC) and true lateral",
+          "Mediolateral oblique (MLO) and axillary",
+          "Craniocaudal (CC) and mediolateral oblique (MLO)",
+          "Mediolateral oblique (MLO) and spot compression"
+        ],
+        "correctAnswer": "D) Craniocaudal (CC) and mediolateral oblique (MLO)",
+        "correctAnswerText": "Craniocaudal (CC) and mediolateral oblique (MLO)",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The standard views are bilateral CC and MLO. True lateral, spot, magnification, and axillary views are supplementary.",
+        "batchName": "Iris Final",
+        "batchNames": [
+          "Iris Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__14__ji3wwe",
+        "number": "14",
+        "text": "A palpable mass is located at the 8 o'clock position in the right breast. Which quadrant is this?",
+        "options": [
+          "Lower inner",
+          "Lower outer",
+          "Upper outer",
+          "Upper inner",
+          "Subareolar (central)"
+        ],
+        "originalOptions": [
+          "Lower inner",
+          "Lower outer",
+          "Upper outer",
+          "Upper inner",
+          "Subareolar (central)"
+        ],
+        "correctAnswer": "B) Lower outer",
+        "correctAnswerText": "Lower outer",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "In the right breast, 6–9 o'clock is the lower-outer quadrant. The lower-inner quadrant is 3–6 o'clock.",
+        "batchName": "Iris Final",
+        "batchNames": [
+          "Iris Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__15__qwa2d9",
+        "number": "15",
+        "text": "Why is detection of an abnormality on mammography more difficult in dense breasts, as in young women?",
+        "options": [
+          "Most abnormalities are radiolucent and are masked by fibroglandular tissue",
+          "Fibroglandular tissue attenuates fewer X-rays than fat",
+          "Fatty tissue appears white and hides small lesions",
+          "Calcifications become radiolucent within dense tissue",
+          "Most abnormalities are opaque, so a white lesion is lost on a white (dense) background"
+        ],
+        "originalOptions": [
+          "Most abnormalities are radiolucent and are masked by fibroglandular tissue",
+          "Fibroglandular tissue attenuates fewer X-rays than fat",
+          "Fatty tissue appears white and hides small lesions",
+          "Calcifications become radiolucent within dense tissue",
+          "Most abnormalities are opaque, so a white lesion is lost on a white (dense) background"
+        ],
+        "correctAnswer": "E) Most abnormalities are opaque, so a white lesion is lost on a white (dense) background",
+        "correctAnswerText": "Most abnormalities are opaque, so a white lesion is lost on a white (dense) background",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "Most abnormalities are radio-opaque, and dense tissue appears white. In fatty breasts (older patients) the background is black, so the same lesion is easy to see.",
+        "batchName": "Iris Final",
+        "batchNames": [
+          "Iris Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__16__ak971j",
+        "number": "16",
+        "text": "Which of the following mammographic calcifications is suspicious for malignancy?",
+        "options": [
+          "Coarse popcorn-like",
+          "Skin calcification with a lucent center",
+          "Fine pleomorphic",
+          "Vascular (parallel tracks)",
+          "Rim (eggshell)"
+        ],
+        "originalOptions": [
+          "Coarse popcorn-like",
+          "Skin calcification with a lucent center",
+          "Fine pleomorphic",
+          "Vascular (parallel tracks)",
+          "Rim (eggshell)"
+        ],
+        "correctAnswer": "C) Fine pleomorphic",
+        "correctAnswerText": "Fine pleomorphic",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Fine pleomorphic calcifications (<0.5 mm with discrete, varied shapes) are a suspicious morphology. The other options are typically benign.",
+        "batchName": "Iris Final",
+        "batchNames": [
+          "Iris Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__17__fsyop7",
+        "number": "17",
+        "text": "Which axillary lymph node feature on mammography suggests malignancy?",
+        "options": [
+          "Large, rounded, hyperdense node without a fatty hilum",
+          "Small oval node with a fatty hilum",
+          "Reniform shape with central lucency",
+          "Thin cortex with a preserved fatty hilum",
+          "Small, stable intramammary node with a fatty hilum"
+        ],
+        "originalOptions": [
+          "Large, rounded, hyperdense node without a fatty hilum",
+          "Small oval node with a fatty hilum",
+          "Reniform shape with central lucency",
+          "Thin cortex with a preserved fatty hilum",
+          "Small, stable intramammary node with a fatty hilum"
+        ],
+        "correctAnswer": "A) Large, rounded, hyperdense node without a fatty hilum",
+        "correctAnswerText": "Large, rounded, hyperdense node without a fatty hilum",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Loss of the fatty hilum (no central lucency), rounding, and increased density suggest malignancy. A preserved fatty hilum with a bean shape is benign.",
+        "batchName": "Iris Final",
+        "batchNames": [
+          "Iris Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__18__1ecfe4",
+        "number": "18",
+        "text": "BI-RADS 5 is best described as:",
+        "options": [
+          "Incomplete assessment, needs additional imaging",
+          "Probably benign (<2%)",
+          "Suspicious abnormality (2–94%)",
+          "Highly suggestive of malignancy (>95%)",
+          "Known biopsy-proven malignancy"
+        ],
+        "originalOptions": [
+          "Incomplete assessment, needs additional imaging",
+          "Probably benign (<2%)",
+          "Suspicious abnormality (2–94%)",
+          "Highly suggestive of malignancy (>95%)",
+          "Known biopsy-proven malignancy"
+        ],
+        "correctAnswer": "D) Highly suggestive of malignancy (>95%)",
+        "correctAnswerText": "Highly suggestive of malignancy (>95%)",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "BI-RADS 5 means >95% probability of malignancy and appropriate action is required. BI-RADS 4 is the 2–94% suspicious group, and BI-RADS 6 is already biopsy-proven.",
+        "batchName": "Iris Final",
+        "batchNames": [
+          "Iris Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__breast-radiology-mammogram__19__dfrbqv",
+        "number": "19",
+        "text": "What is the main value of obtaining both CC and MLO views in mammography?",
+        "options": [
+          "Reducing the radiation dose",
+          "Giving a three-dimensional localization of a lesion",
+          "Differentiating solid from cystic lesions",
+          "Assessing lesion vascularity",
+          "Replacing ultrasound in dense breasts"
+        ],
+        "originalOptions": [
+          "Reducing the radiation dose",
+          "Giving a three-dimensional localization of a lesion",
+          "Differentiating solid from cystic lesions",
+          "Assessing lesion vascularity",
+          "Replacing ultrasound in dense breasts"
+        ],
+        "correctAnswer": "B) Giving a three-dimensional localization of a lesion",
+        "correctAnswerText": "Giving a three-dimensional localization of a lesion",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The CC view shows whether a lesion is inner or outer, and the MLO view shows whether it is upper or lower. Together they localize it in three dimensions. Differentiating solid from cystic is the role of ultrasound.",
+        "batchName": "Iris Final",
+        "batchNames": [
+          "Iris Final"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Breast Radiology (Mammogram)",
+        "groupName": "Breast Radiology (Mammogram)",
         "sourceType": "lecture"
       },
       {
@@ -56865,8 +59566,8 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 317,
-    "totalLectures": 26,
+    "totalQuestions": 336,
+    "totalLectures": 27,
     "hasAiFolder": false
   },
   {
