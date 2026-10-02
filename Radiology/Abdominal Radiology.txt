@@ -352,7 +352,7 @@ D) Descending colon
 E) Right kidney
 Correct Answer: C) Left kidney
 Explanation: The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.
-Batch: Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE
+Batch: Vagus Mini-OSCE (Group B) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE
 Note: 1. Liver || 2. Gallbladder || 3. Left kidney
 ###
 What is the most likely diagnosis? [img: Radiologyacecalvolvulus.png ]
@@ -408,7 +408,7 @@ C) Renal cell carcinoma
 D) Pyonephrosis
 Correct Answer: A) Obstructing renal stone with hydronephrosis
 Explanation: The CT shows a calculus with upstream dilatation of the collecting system, consistent with an obstructing stone causing hydronephrosis.
-Batch: Aorta Final / Waman A7yaha Mini-OSCE
+Batch: Aorta Final / Vagus Mini-OSCE (Group B) / Waman A7yaha Mini-OSCE
 ###
 What is the most likely diagnosis? [img: Radiologyasmallbowelobstruction.png ]
 A) Pneumoperitoneum
