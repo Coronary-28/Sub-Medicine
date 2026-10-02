@@ -1,0 +1,146 @@
+Which of the following is usually hyperdense on non-contrast CT?
+A) Fat
+B) Cerebrospinal fluid
+C) Bone
+D) Chronic blood
+E) Air
+Correct Answer: C) Bone
+Explanation: Bone, acute blood, calcification, metal, and the lens are hyperdense on non-contrast CT. Fat, CSF, chronic blood, and air are hypodense.
+Batch: Iris Mini-OSCE (Group C)
+###
+Which of the following is the most radiolucent on a plain radiograph?
+A) Gas
+B) Fat
+C) Water
+D) Soft tissue
+E) Bone
+Correct Answer: A) Gas
+Explanation: Gas attenuates the X-ray beam least, so it appears black. Fat is dark grey, and bone is white.
+Batch: Iris Final
+###
+Which of the following is WRONG regarding Wilms tumor?
+A) It is the most common primary renal malignancy of childhood
+B) It typically presents as a large solid intrarenal mass
+C) It may extend into the renal vein and inferior vena cava
+D) Lung metastases are rare
+E) Calcification is seen in only a minority of cases
+Correct Answer: D) Lung metastases are rare
+Explanation: The lung is the most common site of Wilms metastasis, so calling lung metastases rare is the false statement. Bone metastases are characteristic of neuroblastoma, not Wilms.
+Batch: Aorta Final
+Note: This question is not covered in the course slides.
+###
+Which of the following is WRONG regarding Wilms tumor?
+A) It arises from the renal parenchyma
+B) Lung metastases are less common than bone metastases
+C) It may extend into the renal vein and inferior vena cava
+D) Calcification is uncommon
+E) It is the most common renal malignancy in children
+Correct Answer: B) Lung metastases are less common than bone metastases
+Explanation: Wilms metastasizes mainly to the lung, and bone metastases are uncommon. Frequent bone metastases point to neuroblastoma, the usual distractor.
+Batch: Aorta Final
+Note: This question is not covered in the course slides.
+###
+Which of the following is hyperdense on CT scan?
+A) Fluid
+B) Fat
+C) Chronic blood
+D) Air
+E) Contrast
+Correct Answer: E) Contrast
+Explanation: Iodinated contrast is markedly hyperdense on CT. Fluid, fat, chronic blood, and air are iso- to hypodense.
+Batch: Overdose Final
+###
+Regarding MRI, which of the following is FALSE?
+A) Its image resolution is higher than that of ultrasound
+B) It is a cross-sectional imaging modality
+C) It utilizes ionizing radiation
+D) Contrast allergy is a relative contraindication for contrasted images
+E) The quality of MRI images is lower in the chest region than in the brain region
+Correct Answer: C) It utilizes ionizing radiation
+Explanation: MRI uses a strong magnet and radiofrequency waves, with no ionizing radiation. Radiographs and CT are the modalities that use it.
+Batch: Overdose Final / Waman A7yaha Final
+###
+Reducing the kV from 90 to 70 in a radiograph, with image density maintained, will generally:
+A) Increase patient exposure
+B) Decrease iodine–soft tissue contrast
+C) Decrease calcium–soft tissue contrast
+D) Allow a decrease in mAs
+E) Decrease the contrast between air and soft tissue
+Correct Answer: A) Increase patient exposure
+Explanation: Lowering kV reduces beam penetration, so mAs must be increased to keep the same image density, and patient dose rises. Contrast between tissues improves rather than falls at lower kV.
+Batch: Waman A7yaha Final
+Note: This question is not covered in the course slides.
+###
+Regarding radiographs, which of the following is TRUE?
+A) The density of a material depends on its hydrogen atom content
+B) A nasogastric tube should appear to the right of the spinous processes to be satisfactory
+C) Cost of imaging is one of its main limitations
+D) Metallic foreign bodies appear denser than bone
+E) It is the first diagnostic modality used for assessing ovarian torsion
+Correct Answer: D) Metallic foreign bodies appear denser than bone
+Explanation: Metal is intense white on radiographs, denser than bone. Hydrogen content determines MRI signal, not radiographic density. A satisfactory NG tube follows the midline with its tip below the left hemidiaphragm. Radiography is cheap, and ovarian torsion is assessed first by ultrasound.
+Batch: Waman A7yaha Final
+###
+Regarding diagnostic radiology, which of the following is TRUE?
+A) PACS is the system used for measurement of radiation dose
+B) Ultrasound is relatively safer than CT scan
+C) Radiation exposure dose is measured in milliamperes
+D) CT iodine-based contrast is safely used in patients with advanced renal failure
+E) Ultrasound produces only three-dimensional images
+Correct Answer: B) Ultrasound is relatively safer than CT scan
+Explanation: Ultrasound uses no ionizing radiation, while CT delivers a high dose. PACS is for archiving and communication of images, and iodinated contrast carries a risk of renal injury.
+Batch: Waman A7yaha Final
+Note: This question is not covered in the course slides.
+###
+Regarding Hounsfield's scale, which one of the following is TRUE?
+A) Bowel gas density measures -300 HU
+B) Mesentery density measures about 120 HU
+C) Fifth rib cortical density measures about 100 HU
+D) Contrasted aortic blood density measures 1000 HU
+E) Splenic parenchymal density measures about 65 HU
+Correct Answer: E) Splenic parenchymal density measures about 65 HU
+Explanation: Splenic parenchyma is soft tissue density, roughly 50–65 HU. Gas is near -1000 HU, mesentery is fat (negative HU, -60 to -120), and compact bone approaches +1000 HU.
+Batch: Waman A7yaha Final
+Note: This question is not covered in the course slides.
+###
+Regarding the ALARA principle, which of the following is FALSE?
+A) It is an abbreviation for "As Low As Reasonably Achievable"
+B) It aims to achieve the best diagnostic result at the lowest reasonable radiation dose
+C) It ensures the use of large radiation doses to achieve better diagnostic results
+D) Commitment to it lowers radiation-induced physical harm to patients
+E) There is a consensus between clinicians and radiologists to apply it
+Correct Answer: C) It ensures the use of large radiation doses to achieve better diagnostic results
+Explanation: ALARA means keeping the dose as low as reasonably achievable while preserving diagnostic quality, the opposite of using large doses.
+Batch: Serotonin Final
+Note: This question is not covered in the course slides.
+###
+Regarding MRI, which of the following is TRUE?
+A) Cost of imaging is one of its limitations
+B) Metallic foreign bodies are safe if small in size
+C) Pacemakers are not a contraindication
+D) It is the first diagnostic modality used for assessing pelvic fractures
+E) The signal of a material depends on its helium atom content
+Correct Answer: A) Cost of imaging is one of its limitations
+Explanation: MRI is more expensive than CT and takes longer to acquire. Pacemakers and metal implants are contraindications, and MRI signal depends on hydrogen, not helium. Fractures are assessed first with radiographs or CT.
+Batch: Serotonin Final
+###
+All of the following statements are FALSE EXCEPT:
+A) CT iodine-based contrast is safely used in patients with advanced renal failure
+B) Ultrasound images are exclusively three-dimensional
+C) The radiation exposure dose is measured in milliamperes
+D) PACS is the system used for archiving and communication in the radiology department
+E) Ionizing radiation is safer than non-ionizing radiation
+Correct Answer: D) PACS is the system used for archiving and communication in the radiology department
+Explanation: PACS (Picture Archiving and Communication System) stores and transmits images, so it is the only true statement. Iodinated contrast risks renal injury, and non-ionizing modalities are safer than ionizing ones.
+Batch: Serotonin Final
+Note: This question is not covered in the course slides.
+###
+Regarding CT scan, which of the following is FALSE?
+A) It utilizes ionizing radiation
+B) The quality of CT images is lower in bone-containing body parts
+C) It is a cross-sectional imaging modality
+D) Thyroid disease is a relative contraindication for contrasted images
+E) Its image resolution is higher than that of ultrasound
+Correct Answer: B) The quality of CT images is lower in bone-containing body parts
+Explanation: CT is the best modality for bone, so image quality is not lower in bone-containing regions. Iodinated contrast can induce thyrotoxicosis, which makes thyroid disease a relative contraindication.
+Batch: Serotonin Final
