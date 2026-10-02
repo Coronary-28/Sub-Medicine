@@ -1,0 +1,189 @@
+Probably benign breast lesion that requires short-interval follow-up is which BI-RADS category?
+A) BI-RADS 0
+B) BI-RADS 1
+C) BI-RADS 3
+D) BI-RADS 4A
+E) BI-RADS 2
+Correct Answer: C) BI-RADS 3
+Explanation: BI-RADS 3 means probably benign (<2% risk of malignancy), and short-interval follow-up is suggested. BI-RADS 2 is definitely benign (0%) and needs no short-interval follow-up. BI-RADS 4A is already suspicious (2–9%) and biopsy is considered.
+Batch: Iris Mini-OSCE (Group A)
+###
+Which of the following is a feature of a benign axillary lymph node on mammography?
+A) Central lucency (fatty hilum)
+B) Large, rounded shape without a hilum
+C) Increased density with cortical thickening
+D) Irregular or indistinct margins
+E) Calcifications within the node
+Correct Answer: A) Central lucency (fatty hilum)
+Explanation: A normal or benign node is small and bean-shaped with a fatty hilum, which appears as central lucency. Loss of the hilum, rounding, increased density, and irregular margins all suggest malignancy.
+Batch: Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D)
+###
+What is the best first imaging modality for a pregnant patient with a palpable breast lump?
+A) Bilateral mammography (CC and MLO)
+B) Contrast-enhanced breast MRI
+C) CT of the chest
+D) Ultrasound
+E) Spot-compression magnification mammography
+Correct Answer: D) Ultrasound
+Explanation: Ultrasound uses no ionizing radiation and is the modality of choice for symptomatic pregnant or young (<30 years) patients. It also distinguishes cystic from solid lesions and can guide biopsy. Mammography and CT use radiation, and MRI needs gadolinium, so none of them is first-line.
+Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D) / Endorphin Final / Aorta Final
+###
+Which mammographic calcification morphology carries the highest suspicion of malignancy?
+A) Coarse popcorn-like
+B) Rim (eggshell)
+C) Amorphous
+D) Fine pleomorphic
+E) Fine linear / fine linear branching
+Correct Answer: E) Fine linear / fine linear branching
+Explanation: Thin, irregular, branching calcifications (<0.5 mm) suggest deposition within a duct and carry the highest suspicion. Fine pleomorphic and amorphous are also suspicious but less so. Popcorn-like (involuting fibroadenoma) and rim calcifications are typically benign.
+Batch: Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D)
+###
+Which of the following features suggests a malignant breast mass on imaging?
+A) Round shape with circumscribed margins
+B) Oval shape with posterior acoustic enhancement
+C) Irregular shape with spiculated, indistinct, or obscured margins
+D) Fat-containing mass
+E) Coarse popcorn-like calcification within the mass
+Correct Answer: C) Irregular shape with spiculated, indistinct, or obscured margins
+Explanation: Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.
+Batch: Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Final / Aorta Final
+###
+A palpable mass is located at the 5 o'clock position in the right breast. Which quadrant is this?
+A) Lower inner
+B) Lower outer
+C) Upper inner
+D) Upper outer
+E) Subareolar (central)
+Correct Answer: A) Lower inner
+Explanation: In the right breast, 9 o'clock is lateral, so 3–6 o'clock is the lower inner quadrant and 6–9 is the lower outer. The 5 o'clock position therefore lies in the lower inner quadrant.
+Batch: Endorphin Final / Aorta Final
+###
+Which of the following statements about mammography is FALSE?
+A) Axillary lymph nodes with central lucency may be benign
+B) Sensitivity of mammography is reduced in dense breasts
+C) Dense breast tissue in young women requires further evaluation
+D) Pleomorphic microcalcifications are benign
+E) Spiculated masses are suspicious for malignancy
+Correct Answer: D) Pleomorphic microcalcifications are benign
+Explanation: Fine pleomorphic calcifications are a suspicious morphology. The typically benign types are skin, vascular, popcorn, rod-like, round or punctate, rim, and milk of calcium.
+Batch: Endorphin Final / Aorta Final
+###
+Which of the following is FALSE regarding BI-RADS?
+A) BI-RADS 0 indicates an incomplete assessment that needs additional imaging
+B) BI-RADS 6 indicates the presence of a benign lesion
+C) BI-RADS 3 carries a <2% probability of malignancy
+D) BI-RADS 4 is suspicious, and biopsy should be considered
+E) BI-RADS 1 indicates a negative study
+Correct Answer: B) BI-RADS 6 indicates the presence of a benign lesion
+Explanation: BI-RADS 6 is a known, biopsy-proven malignancy, not a benign lesion. The other statements are correct.
+Batch: Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)
+###
+Which of the following statements about the BI-RADS classification is FALSE?
+A) BI-RADS 0 indicates incomplete assessment
+B) BI-RADS 5 is benign
+C) BI-RADS 4 suggests a suspicious abnormality
+D) BI-RADS 2 indicates benign findings
+E) BI-RADS 3 indicates a probably benign finding
+Correct Answer: B) BI-RADS 5 is benign
+Explanation: BI-RADS 5 is highly suggestive of malignancy (>95%), so it is not benign. BI-RADS 2 is benign and BI-RADS 3 is probably benign.
+Batch: Endorphin Final / Aorta Final
+###
+Which of the following is FALSE regarding mammography?
+A) A spiculated mass is suspicious for malignancy
+B) Simple cysts appear non-echoic on ultrasound
+C) Coarse heterogeneous calcifications are 0.5–1 mm and are suspicious
+D) A left breast lower inner lesion lies at 6–9 o'clock
+E) A fibroadenoma is BI-RADS 2 and needs follow-up
+Correct Answer: E) A fibroadenoma is BI-RADS 2 and needs follow-up
+Explanation: BI-RADS 2 is a benign finding with routine screening only. Short-interval follow-up belongs to BI-RADS 3 (probably benign).
+Batch: Overdose Final
+###
+Regarding BI-RADS breast classification, which of the following is FALSE?
+A) BI-RADS 2 represents biopsy-proven malignancy
+B) BI-RADS 3 represents a probably benign finding and needs follow-up
+C) BI-RADS 4 is suspicious for malignancy
+D) BI-RADS 0 represents an incomplete study and needs additional imaging
+E) BI-RADS 1 represents a negative study with no evidence of abnormalities
+Correct Answer: A) BI-RADS 2 represents biopsy-proven malignancy
+Explanation: BI-RADS 2 is a benign finding. Biopsy-proven malignancy is BI-RADS 6.
+Batch: Waman A7yaha Final
+###
+Which clock-face statement for a right-breast mass is FALSE?
+A) The right lower-inner quadrant corresponds to 3–6 o'clock
+B) The right lower-outer quadrant corresponds to 6–9 o'clock
+C) The right upper-inner quadrant corresponds to 9–12 o'clock
+D) The right upper-outer quadrant corresponds to 9–12 o'clock
+E) A right-breast lesion at 5 o'clock lies in the lower-inner quadrant
+Correct Answer: C) The right upper-inner quadrant corresponds to 9–12 o'clock
+Explanation: In the right breast, 9 o'clock is lateral, so 9–12 o'clock is the upper-outer quadrant. The upper-inner quadrant is 12–3 o'clock.
+Batch: Vagus Final
+###
+What are the standard views of screening mammography?
+A) Anteroposterior (AP) and lateral
+B) Craniocaudal (CC) and true lateral
+C) Mediolateral oblique (MLO) and axillary
+D) Craniocaudal (CC) and mediolateral oblique (MLO)
+E) Mediolateral oblique (MLO) and spot compression
+Correct Answer: D) Craniocaudal (CC) and mediolateral oblique (MLO)
+Explanation: The standard views are bilateral CC and MLO. True lateral, spot, magnification, and axillary views are supplementary.
+Batch: Iris Final
+###
+A palpable mass is located at the 8 o'clock position in the right breast. Which quadrant is this?
+A) Lower inner
+B) Lower outer
+C) Upper outer
+D) Upper inner
+E) Subareolar (central)
+Correct Answer: B) Lower outer
+Explanation: In the right breast, 6–9 o'clock is the lower-outer quadrant. The lower-inner quadrant is 3–6 o'clock.
+Batch: Iris Final
+###
+Why is detection of an abnormality on mammography more difficult in dense breasts, as in young women?
+A) Most abnormalities are radiolucent and are masked by fibroglandular tissue
+B) Fibroglandular tissue attenuates fewer X-rays than fat
+C) Fatty tissue appears white and hides small lesions
+D) Calcifications become radiolucent within dense tissue
+E) Most abnormalities are opaque, so a white lesion is lost on a white (dense) background
+Correct Answer: E) Most abnormalities are opaque, so a white lesion is lost on a white (dense) background
+Explanation: Most abnormalities are radio-opaque, and dense tissue appears white. In fatty breasts (older patients) the background is black, so the same lesion is easy to see.
+Batch: Iris Final
+###
+Which of the following mammographic calcifications is suspicious for malignancy?
+A) Coarse popcorn-like
+B) Skin calcification with a lucent center
+C) Fine pleomorphic
+D) Vascular (parallel tracks)
+E) Rim (eggshell)
+Correct Answer: C) Fine pleomorphic
+Explanation: Fine pleomorphic calcifications (<0.5 mm with discrete, varied shapes) are a suspicious morphology. The other options are typically benign.
+Batch: Iris Final
+###
+Which axillary lymph node feature on mammography suggests malignancy?
+A) Large, rounded, hyperdense node without a fatty hilum
+B) Small oval node with a fatty hilum
+C) Reniform shape with central lucency
+D) Thin cortex with a preserved fatty hilum
+E) Small, stable intramammary node with a fatty hilum
+Correct Answer: A) Large, rounded, hyperdense node without a fatty hilum
+Explanation: Loss of the fatty hilum (no central lucency), rounding, and increased density suggest malignancy. A preserved fatty hilum with a bean shape is benign.
+Batch: Iris Final
+###
+BI-RADS 5 is best described as:
+A) Incomplete assessment, needs additional imaging
+B) Probably benign (<2%)
+C) Suspicious abnormality (2–94%)
+D) Highly suggestive of malignancy (>95%)
+E) Known biopsy-proven malignancy
+Correct Answer: D) Highly suggestive of malignancy (>95%)
+Explanation: BI-RADS 5 means >95% probability of malignancy and appropriate action is required. BI-RADS 4 is the 2–94% suspicious group, and BI-RADS 6 is already biopsy-proven.
+Batch: Iris Final
+###
+What is the main value of obtaining both CC and MLO views in mammography?
+A) Reducing the radiation dose
+B) Giving a three-dimensional localization of a lesion
+C) Differentiating solid from cystic lesions
+D) Assessing lesion vascularity
+E) Replacing ultrasound in dense breasts
+Correct Answer: B) Giving a three-dimensional localization of a lesion
+Explanation: The CC view shows whether a lesion is inner or outer, and the MLO view shows whether it is upper or lower. Together they localize it in three dimensions. Differentiating solid from cystic is the role of ultrasound.
+Batch: Iris Final
