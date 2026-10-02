@@ -12820,8 +12820,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
-            "batchName": "Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
+            "batchName": "Vagus Mini-OSCE (Group B) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
             "batchNames": [
+              "Vagus Mini-OSCE (Group B)",
               "Vagus Mini-OSCE (Group D)",
               "Waman A7yaha Mini-OSCE"
             ],
@@ -13035,9 +13036,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "The CT shows a calculus with upstream dilatation of the collecting system, consistent with an obstructing stone causing hydronephrosis.",
-            "batchName": "Aorta Final / Waman A7yaha Mini-OSCE",
+            "batchName": "Aorta Final / Vagus Mini-OSCE (Group B) / Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Aorta Final",
+              "Vagus Mini-OSCE (Group B)",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -24157,6 +24159,7 @@
             "batchName": "Aorta Final",
             "batchNames": [
               "Aorta Final",
+              "Vagus Mini-OSCE (Group B)",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -43005,6 +43008,84 @@
         "subjectName": "Radiology",
         "questions": [
           {
+            "id": "radiology__lecture__abdominal-radiology__39__2oyn26",
+            "number": "39",
+            "text": "In this labeled axial CT, structure \"3\" corresponds to which organ? [img: Radiologyaabdominalanatomyleftkidney.png ]",
+            "options": [
+              "Left adrenal gland",
+              "Spleen",
+              "Left kidney",
+              "Descending colon",
+              "Right kidney"
+            ],
+            "originalOptions": [
+              "Left adrenal gland",
+              "Spleen",
+              "Left kidney",
+              "Descending colon",
+              "Right kidney"
+            ],
+            "correctAnswer": "C) Left kidney",
+            "correctAnswerText": "Left kidney",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
+            "batchName": "Vagus Mini-OSCE (Group B)",
+            "batchNames": [
+              "Vagus Mini-OSCE (Group B)",
+              "Vagus Mini-OSCE (Group D)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "1. Liver || 2. Gallbladder || 3. Left kidney",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__abdominal-radiology__45__6lx25b",
+            "number": "45",
+            "text": "What is the most likely diagnosis? [img: Radiologyarenalstonehydronephrosis.png ]",
+            "options": [
+              "Obstructing renal stone with hydronephrosis",
+              "Simple renal cyst",
+              "Renal cell carcinoma",
+              "Pyonephrosis"
+            ],
+            "originalOptions": [
+              "Obstructing renal stone with hydronephrosis",
+              "Simple renal cyst",
+              "Renal cell carcinoma",
+              "Pyonephrosis"
+            ],
+            "correctAnswer": "A) Obstructing renal stone with hydronephrosis",
+            "correctAnswerText": "Obstructing renal stone with hydronephrosis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The CT shows a calculus with upstream dilatation of the collecting system, consistent with an obstructing stone causing hydronephrosis.",
+            "batchName": "Vagus Mini-OSCE (Group B)",
+            "batchNames": [
+              "Aorta Final",
+              "Vagus Mini-OSCE (Group B)",
+              "Waman A7yaha Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Abdominal Radiology",
+            "groupName": "Abdominal Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__chest-radiology__7__iyhxib",
             "number": "7",
             "text": "What is the most likely diagnosis? [img: Radiologycpleuraleffusion.png ]",
@@ -43764,6 +43845,7 @@
             "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
             "batchName": "Vagus Mini-OSCE (Group D)",
             "batchNames": [
+              "Vagus Mini-OSCE (Group B)",
               "Vagus Mini-OSCE (Group D)",
               "Waman A7yaha Mini-OSCE"
             ],
@@ -45375,6 +45457,7 @@
             "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
+              "Vagus Mini-OSCE (Group B)",
               "Vagus Mini-OSCE (Group D)",
               "Waman A7yaha Mini-OSCE"
             ],
@@ -45597,6 +45680,7 @@
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Aorta Final",
+              "Vagus Mini-OSCE (Group B)",
               "Waman A7yaha Mini-OSCE"
             ],
             "note": "",
@@ -48794,8 +48878,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
-        "batchName": "Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
+        "batchName": "Vagus Mini-OSCE (Group B) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
         "batchNames": [
+          "Vagus Mini-OSCE (Group B)",
           "Vagus Mini-OSCE (Group D)",
           "Waman A7yaha Mini-OSCE"
         ],
@@ -49009,9 +49094,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "The CT shows a calculus with upstream dilatation of the collecting system, consistent with an obstructing stone causing hydronephrosis.",
-        "batchName": "Aorta Final / Waman A7yaha Mini-OSCE",
+        "batchName": "Aorta Final / Vagus Mini-OSCE (Group B) / Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Aorta Final",
+          "Vagus Mini-OSCE (Group B)",
           "Waman A7yaha Mini-OSCE"
         ],
         "note": "",
