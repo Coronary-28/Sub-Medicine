@@ -14701,8 +14701,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
-            "batchName": "Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Final / Aorta Final",
+            "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Final / Aorta Final",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group A)",
               "Iris Mini-OSCE (Group D)",
               "Iris Final",
@@ -14818,8 +14819,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "B",
             "explanation": "BI-RADS 6 is a known, biopsy-proven malignancy, not a benign lesion. The other statements are correct.",
-            "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
+            "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)"
             ],
@@ -15005,8 +15007,9 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "The standard views are bilateral CC and MLO. True lateral, spot, magnification, and axillary views are supplementary.",
-            "batchName": "Iris Final",
+            "batchName": "Coronary Mini-OSCE (Group C) / Iris Final",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Final"
             ],
             "note": "",
@@ -24414,6 +24417,7 @@
             "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
             "batchName": "Aorta Final",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group A)",
               "Iris Mini-OSCE (Group D)",
               "Iris Final",
@@ -27052,6 +27056,128 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "radiology__lecture__breast-radiology-mammogram__5__hywtf1",
+            "number": "5",
+            "text": "Which of the following features suggests a malignant breast mass on imaging?",
+            "options": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "originalOptions": [
+              "Round shape with circumscribed margins",
+              "Oval shape with posterior acoustic enhancement",
+              "Irregular shape with spiculated, indistinct, or obscured margins",
+              "Fat-containing mass",
+              "Coarse popcorn-like calcification within the mass"
+            ],
+            "correctAnswer": "C) Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctAnswerText": "Irregular shape with spiculated, indistinct, or obscured margins",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group A)",
+              "Iris Mini-OSCE (Group D)",
+              "Iris Final",
+              "Endorphin Final",
+              "Aorta Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__8__dq1ztl",
+            "number": "8",
+            "text": "Which of the following is FALSE regarding BI-RADS?",
+            "options": [
+              "BI-RADS 0 indicates an incomplete assessment that needs additional imaging",
+              "BI-RADS 6 indicates the presence of a benign lesion",
+              "BI-RADS 3 carries a <2% probability of malignancy",
+              "BI-RADS 4 is suspicious, and biopsy should be considered",
+              "BI-RADS 1 indicates a negative study"
+            ],
+            "originalOptions": [
+              "BI-RADS 0 indicates an incomplete assessment that needs additional imaging",
+              "BI-RADS 6 indicates the presence of a benign lesion",
+              "BI-RADS 3 carries a <2% probability of malignancy",
+              "BI-RADS 4 is suspicious, and biopsy should be considered",
+              "BI-RADS 1 indicates a negative study"
+            ],
+            "correctAnswer": "B) BI-RADS 6 indicates the presence of a benign lesion",
+            "correctAnswerText": "BI-RADS 6 indicates the presence of a benign lesion",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "BI-RADS 6 is a known, biopsy-proven malignancy, not a benign lesion. The other statements are correct.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group C)",
+              "Iris Mini-OSCE (Group D)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__breast-radiology-mammogram__13__o8ps1a",
+            "number": "13",
+            "text": "What are the standard views of screening mammography?",
+            "options": [
+              "Anteroposterior (AP) and lateral",
+              "Craniocaudal (CC) and true lateral",
+              "Mediolateral oblique (MLO) and axillary",
+              "Craniocaudal (CC) and mediolateral oblique (MLO)",
+              "Mediolateral oblique (MLO) and spot compression"
+            ],
+            "originalOptions": [
+              "Anteroposterior (AP) and lateral",
+              "Craniocaudal (CC) and true lateral",
+              "Mediolateral oblique (MLO) and axillary",
+              "Craniocaudal (CC) and mediolateral oblique (MLO)",
+              "Mediolateral oblique (MLO) and spot compression"
+            ],
+            "correctAnswer": "D) Craniocaudal (CC) and mediolateral oblique (MLO)",
+            "correctAnswerText": "Craniocaudal (CC) and mediolateral oblique (MLO)",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The standard views are bilateral CC and MLO. True lateral, spot, magnification, and axillary views are supplementary.",
+            "batchName": "Coronary Mini-OSCE (Group C)",
+            "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
+              "Iris Final"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Breast Radiology (Mammogram)",
+            "groupName": "Breast Radiology (Mammogram)",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "radiology__lecture__chest-radiology__6__j0qu8x",
             "number": "6",
             "text": "Which of the following is NOT a feature of bronchiectasis?",
@@ -28233,6 +28359,7 @@
             "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
             "batchName": "Endorphin Final",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group A)",
               "Iris Mini-OSCE (Group D)",
               "Iris Final",
@@ -34889,6 +35016,7 @@
             "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
             "batchName": "Iris Final",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group A)",
               "Iris Mini-OSCE (Group D)",
               "Iris Final",
@@ -34931,6 +35059,7 @@
             "explanation": "The standard views are bilateral CC and MLO. True lateral, spot, magnification, and axillary views are supplementary.",
             "batchName": "Iris Final",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Final"
             ],
             "note": "",
@@ -36632,6 +36761,7 @@
             "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
             "batchName": "Iris Mini-OSCE (Group A)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group A)",
               "Iris Mini-OSCE (Group D)",
               "Iris Final",
@@ -37436,6 +37566,7 @@
             "explanation": "BI-RADS 6 is a known, biopsy-proven malignancy, not a benign lesion. The other statements are correct.",
             "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)"
             ],
@@ -38345,6 +38476,7 @@
             "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group A)",
               "Iris Mini-OSCE (Group D)",
               "Iris Final",
@@ -38387,6 +38519,7 @@
             "explanation": "BI-RADS 6 is a known, biopsy-proven malignancy, not a benign lesion. The other statements are correct.",
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
+              "Coronary Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group C)",
               "Iris Mini-OSCE (Group D)"
             ],
@@ -50533,8 +50666,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "Irregular shape and spiculated or indistinct margins are the most suspicious mass features for malignancy. Round or oval circumscribed masses are usually benign (cyst or fibroadenoma). Fat density suggests a lipoma or hamartoma, and popcorn calcification suggests an involuting fibroadenoma.",
-        "batchName": "Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Final / Aorta Final",
+        "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group A) / Iris Mini-OSCE (Group D) / Iris Final / Endorphin Final / Aorta Final",
         "batchNames": [
+          "Coronary Mini-OSCE (Group C)",
           "Iris Mini-OSCE (Group A)",
           "Iris Mini-OSCE (Group D)",
           "Iris Final",
@@ -50650,8 +50784,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "B",
         "explanation": "BI-RADS 6 is a known, biopsy-proven malignancy, not a benign lesion. The other statements are correct.",
-        "batchName": "Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
+        "batchName": "Coronary Mini-OSCE (Group C) / Iris Mini-OSCE (Group C) / Iris Mini-OSCE (Group D)",
         "batchNames": [
+          "Coronary Mini-OSCE (Group C)",
           "Iris Mini-OSCE (Group C)",
           "Iris Mini-OSCE (Group D)"
         ],
@@ -50837,8 +50972,9 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "The standard views are bilateral CC and MLO. True lateral, spot, magnification, and axillary views are supplementary.",
-        "batchName": "Iris Final",
+        "batchName": "Coronary Mini-OSCE (Group C) / Iris Final",
         "batchNames": [
+          "Coronary Mini-OSCE (Group C)",
           "Iris Final"
         ],
         "note": "",
