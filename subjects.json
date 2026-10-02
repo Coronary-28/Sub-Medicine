@@ -19441,10 +19441,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "There is a comminuted fracture of the distal third of the clavicle. The proximal fractured fragment is displaced superiorly, with mild skin tenting. The distal  fractured fragment is displaced inferiorly . There is pseudo-widening of the acromioclavicular joint space. However the coracoclavicular and sternoclavicular joint space alignment is maintained. The inferior border of acromion is not in the same line as the inferior border of distal clavicle, this is suspicious for acromioclavicular joint disruption. No associated other bone fractures. Adjacent soft tissue thickening is seen.",
-            "batchName": "Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+            "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
             "batchNames": [
-              "Serotonin Mini-OSCE",
-              "Waman A7yaha Mini-OSCE"
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -19477,9 +19477,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "There is moderate narrowing predominantly involving the medial tibio-femoral and significant narrowing of the lateral patellofemoral compartments. There are moderate marginal osteophytes. There is mild subchondral sclerosis on the right and left. There is moderate pointing of the tibial spines on the right and left. There is a moderate joint effusion on the right and left. There is varus deformity at the knee.",
-            "batchName": "Vagus Mini-OSCE (Group C) / Serotonin Mini-OSCE",
+            "batchName": "Vagus Mini-OSCE (Group C) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
             "batchNames": [
               "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -19659,9 +19660,10 @@
             "isMultiple": false,
             "correctAnswerLetter": "B",
             "explanation": "A pathological fracture through a simple bone cyst allows a bony fragment to settle dependently within the fluid-filled cavity, producing the fallen fragment sign.",
-            "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+            "batchName": "Waman A7yaha Mini-OSCE / Waman A7yaha Final / Serotonin Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE",
+              "Waman A7yaha Final",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -42387,8 +42389,8 @@
             "explanation": "There is a comminuted fracture of the distal third of the clavicle. The proximal fractured fragment is displaced superiorly, with mild skin tenting. The distal  fractured fragment is displaced inferiorly . There is pseudo-widening of the acromioclavicular joint space. However the coracoclavicular and sternoclavicular joint space alignment is maintained. The inferior border of acromion is not in the same line as the inferior border of distal clavicle, this is suspicious for acromioclavicular joint disruption. No associated other bone fractures. Adjacent soft tissue thickening is seen.",
             "batchName": "Serotonin Mini-OSCE",
             "batchNames": [
-              "Serotonin Mini-OSCE",
-              "Waman A7yaha Mini-OSCE"
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -42425,6 +42427,7 @@
             "batchName": "Serotonin Mini-OSCE",
             "batchNames": [
               "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -42612,6 +42615,7 @@
             "batchName": "Serotonin Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE",
+              "Waman A7yaha Final",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -44475,6 +44479,7 @@
             "batchName": "Vagus Mini-OSCE (Group C)",
             "batchNames": [
               "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -45524,6 +45529,46 @@
             "subjectId": "radiology",
             "lectureName": "General Radiology",
             "groupName": "General Radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__39__fkbtcv",
+            "number": "39",
+            "text": "Fallen fragment sign is seen in which of the following lesions?",
+            "options": [
+              "Chondroblastoma",
+              "Simple bone cyst",
+              "Osteosarcoma",
+              "Osteochondroma",
+              "Non-ossifying fibroma"
+            ],
+            "originalOptions": [
+              "Chondroblastoma",
+              "Simple bone cyst",
+              "Osteosarcoma",
+              "Osteochondroma",
+              "Non-ossifying fibroma"
+            ],
+            "correctAnswer": "B) Simple bone cyst",
+            "correctAnswerText": "Simple bone cyst",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "A pathological fracture through a simple bone cyst allows a bony fragment to settle dependently within the fluid-filled cavity, producing the fallen fragment sign.",
+            "batchName": "Waman A7yaha Final",
+            "batchNames": [
+              "Waman A7yaha Mini-OSCE",
+              "Waman A7yaha Final",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
             "sourceType": "year",
             "originalSourceType": "lecture"
           },
@@ -47559,8 +47604,46 @@
             "explanation": "There is a comminuted fracture of the distal third of the clavicle. The proximal fractured fragment is displaced superiorly, with mild skin tenting. The distal  fractured fragment is displaced inferiorly . There is pseudo-widening of the acromioclavicular joint space. However the coracoclavicular and sternoclavicular joint space alignment is maintained. The inferior border of acromion is not in the same line as the inferior border of distal clavicle, this is suspicious for acromioclavicular joint disruption. No associated other bone fractures. Adjacent soft tissue thickening is seen.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
-              "Serotonin Mini-OSCE",
-              "Waman A7yaha Mini-OSCE"
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Musculoskeletal (MSK) radiology",
+            "groupName": "Musculoskeletal (MSK) radiology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__34__w5uaib",
+            "number": "34",
+            "text": "What is the most likely diagnosis? [img: Radiologymosteoarthritis.jpg ]",
+            "options": [
+              "Rheumatoid arthritis",
+              "Septic arthritis",
+              "Osteoarthritis",
+              "Gout"
+            ],
+            "originalOptions": [
+              "Rheumatoid arthritis",
+              "Septic arthritis",
+              "Osteoarthritis",
+              "Gout"
+            ],
+            "correctAnswer": "C) Osteoarthritis",
+            "correctAnswerText": "Osteoarthritis",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "There is moderate narrowing predominantly involving the medial tibio-femoral and significant narrowing of the lateral patellofemoral compartments. There are moderate marginal osteophytes. There is mild subchondral sclerosis on the right and left. There is moderate pointing of the tibial spines on the right and left. There is a moderate joint effusion on the right and left. There is varus deformity at the knee.",
+            "batchName": "Waman A7yaha Mini-OSCE",
+            "batchNames": [
+              "Vagus Mini-OSCE (Group C)",
+              "Waman A7yaha Mini-OSCE",
+              "Serotonin Mini-OSCE"
             ],
             "note": "",
             "pageNumber": "",
@@ -47675,6 +47758,7 @@
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE",
+              "Waman A7yaha Final",
               "Serotonin Mini-OSCE"
             ],
             "note": "",
@@ -56563,10 +56647,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "There is a comminuted fracture of the distal third of the clavicle. The proximal fractured fragment is displaced superiorly, with mild skin tenting. The distal  fractured fragment is displaced inferiorly . There is pseudo-widening of the acromioclavicular joint space. However the coracoclavicular and sternoclavicular joint space alignment is maintained. The inferior border of acromion is not in the same line as the inferior border of distal clavicle, this is suspicious for acromioclavicular joint disruption. No associated other bone fractures. Adjacent soft tissue thickening is seen.",
-        "batchName": "Serotonin Mini-OSCE / Waman A7yaha Mini-OSCE",
+        "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
         "batchNames": [
-          "Serotonin Mini-OSCE",
-          "Waman A7yaha Mini-OSCE"
+          "Waman A7yaha Mini-OSCE",
+          "Serotonin Mini-OSCE"
         ],
         "note": "",
         "pageNumber": "",
@@ -56599,9 +56683,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "There is moderate narrowing predominantly involving the medial tibio-femoral and significant narrowing of the lateral patellofemoral compartments. There are moderate marginal osteophytes. There is mild subchondral sclerosis on the right and left. There is moderate pointing of the tibial spines on the right and left. There is a moderate joint effusion on the right and left. There is varus deformity at the knee.",
-        "batchName": "Vagus Mini-OSCE (Group C) / Serotonin Mini-OSCE",
+        "batchName": "Vagus Mini-OSCE (Group C) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
         "batchNames": [
           "Vagus Mini-OSCE (Group C)",
+          "Waman A7yaha Mini-OSCE",
           "Serotonin Mini-OSCE"
         ],
         "note": "",
@@ -56781,9 +56866,10 @@
         "isMultiple": false,
         "correctAnswerLetter": "B",
         "explanation": "A pathological fracture through a simple bone cyst allows a bony fragment to settle dependently within the fluid-filled cavity, producing the fallen fragment sign.",
-        "batchName": "Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
+        "batchName": "Waman A7yaha Mini-OSCE / Waman A7yaha Final / Serotonin Mini-OSCE",
         "batchNames": [
           "Waman A7yaha Mini-OSCE",
+          "Waman A7yaha Final",
           "Serotonin Mini-OSCE"
         ],
         "note": "",
