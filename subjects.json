@@ -11499,7 +11499,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The fluoroscopic/contrast image shows the classic bird's-beak tapering at the point of torsion of a massively dilated sigmoid loop, diagnostic of sigmoid volvulus rather than a generic obstruction.",
+            "explanation": "The classic \"coffee bean\" sign, a markedly dilated ahaustral gas-filled loop arising from the pelvis and pointing toward the RUQ, identifies sigmoid volvulus. Cecal volvulus arises in the RLQ with the haustral pattern maintained, and a generic large bowel obstruction lacks the coffee-bean loop.",
             "batchName": "Aorta Mini-OSCE (Group A) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Aorta Mini-OSCE (Group A)",
@@ -11651,7 +11651,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Intussusception classically occurs after the first three months of life (usually 3 months–2 years), not simply \"after 3 week of birth,\" making this the incorrect statement; the other options correctly describe its mechanism and ultrasound appearance.",
+            "explanation": "About 95% of intussusceptions occur in children, usually after the first three months of life (after 3 months not 3 weeks). The other statements correctly describe the mechanism, terminology, and ultrasound appearance.",
             "batchName": "Coronary Mini-OSCE (Group C)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)"
@@ -11762,7 +11762,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
+            "explanation": "The contrast enema shows eccentric, irregular annular narrowing of the colon (the apple-core sign), typical of colorectal carcinoma. Intussusception appears as an occluding mass prolapsing into the lumen (coiled-spring sign), not an annular stricture.",
             "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -12084,22 +12084,22 @@
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
               "Dilated esophagus",
-              "Mediastinal widening"
+              "Mediastinal narrowing"
             ],
             "originalOptions": [
               "Bird-beak appearance at the gastroesophageal junction",
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
               "Dilated esophagus",
-              "Mediastinal widening"
+              "Mediastinal narrowing"
             ],
-            "correctAnswer": "E) Mediastinal widening",
-            "correctAnswerText": "Mediastinal widening",
+            "correctAnswer": "E) Mediastinal narrowing",
+            "correctAnswerText": "Mediastinal narrowing",
             "correctIndex": 4,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "Achalasia causes mediastinal widening (not narrowing) from the dilated, fluid-filled esophagus, so calling it \"mediastinal narrowing\" as a listed feature is incorrect — but among the options here, the true described finding is widening, and identifying \"narrowing\" as false is the tested trap; the correct fact is mediastinal widening occurs, making a statement of narrowing the false one.",
+            "explanation": "The dilated, food- and fluid-filled esophagus produces mediastinal widening (a convex opacity overlapping the right mediastinum), so narrowing is the false feature. The other options are recognized findings.",
             "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Final",
             "batchNames": [
               "Endorphin Mini-OSCE (Group C)",
@@ -12114,20 +12114,22 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__20__28k58x",
+            "id": "radiology__lecture__abdominal-radiology__20__jxpef",
             "number": "20",
-            "text": "Best imaging modality for detecting air under the diaphragm:",
+            "text": "Which plain radiograph is the most sensitive for detecting free air under the diaphragm?",
             "options": [
-              "Supine abdominal x-ray",
-              "Non-contrast CT",
+              "Supine abdominal radiograph",
+              "KUB radiograph",
               "Expiratory erect chest x-ray",
-              "Abdominal ultrasound"
+              "Abdominal ultrasound",
+              "Lateral abdominal radiograph"
             ],
             "originalOptions": [
-              "Supine abdominal x-ray",
-              "Non-contrast CT",
+              "Supine abdominal radiograph",
+              "KUB radiograph",
               "Expiratory erect chest x-ray",
-              "Abdominal ultrasound"
+              "Abdominal ultrasound",
+              "Lateral abdominal radiograph"
             ],
             "correctAnswer": "C) Expiratory erect chest x-ray",
             "correctAnswerText": "Expiratory erect chest x-ray",
@@ -12135,13 +12137,13 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.",
+            "explanation": "Free gas rises to collect under the diaphragm in the erect position, so the erect chest film is the most sensitive plain radiograph for pneumoperitoneum. Supine abdominal and KUB films miss it, and the lateral view is reserved for patients who cannot stand.",
             "batchName": "Iris Final / Endorphin Mini-OSCE (Group C)",
             "batchNames": [
               "Iris Final",
               "Endorphin Mini-OSCE (Group C)"
             ],
-            "note": "",
+            "note": "While lecture slides generally state \"Erect chest radiograph,\" the modifier \"expiratory\" included in question banks to emphasize maximized sensitivity for detecting small amounts of subdiaphragmatic free air.",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -12475,24 +12477,26 @@
             "number": "30",
             "text": "Which statement is FALSE regarding hypertrophic pyloric stenosis?",
             "options": [
-              "Pyloric muscle thickness is typically > 3 mm",
-              "Pyloric canal length is usually > 15–18 mm",
+              "Pyloric canal length is usually > 15–17 mm",
+              "Pyloric transverse diameter is usually > 14 mm",
               "It commonly presents with non-bilious projectile vomiting",
-              "Pyloric muscle thickness is < 7 mm"
+              "Single pyloric muscle wall thickness is typically < 3 mm",
+              "There is a male predominance (about 4:1)"
             ],
             "originalOptions": [
-              "Pyloric muscle thickness is typically > 3 mm",
-              "Pyloric canal length is usually > 15–18 mm",
+              "Pyloric canal length is usually > 15–17 mm",
+              "Pyloric transverse diameter is usually > 14 mm",
               "It commonly presents with non-bilious projectile vomiting",
-              "Pyloric muscle thickness is < 7 mm"
+              "Single pyloric muscle wall thickness is typically < 3 mm",
+              "There is a male predominance (about 4:1)"
             ],
-            "correctAnswer": "D) Pyloric muscle thickness is < 7 mm",
-            "correctAnswerText": "Pyloric muscle thickness is < 7 mm",
+            "correctAnswer": "D) Single pyloric muscle wall thickness is typically < 3 mm",
+            "correctAnswerText": "Single pyloric muscle wall thickness is typically < 3 mm",
             "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "D",
-            "explanation": "There is no established \"<7 mm\" criterion for pyloric stenosis; the recognized diagnostic thickness threshold is greater than 3 mm, making this statement inaccurate and false.",
+            "explanation": "In hypertrophic pyloric stenosis the single muscle wall thickness is > 3 mm, which is the most accurate ultrasound criterion, so \"< 3 mm\" is false. The other statements match the course description.",
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
               "Iris Mini-OSCE (Group D)"
@@ -12819,7 +12823,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
+            "explanation": "I don't know what to write; there's no explanation :)",
             "batchName": "Vagus Mini-OSCE (Group B) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Vagus Mini-OSCE (Group B)",
@@ -13000,7 +13004,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The sagittal CT shows a coarse, popcorn-like calcification within the uterus, adjacent to the bladder, the classic appearance of a calcified leiomyoma.",
+            "explanation": "A coarse, popcorn-like calcification in the pelvis in the uterine region is the classic appearance of a calcified leiomyoma. A phlebolith is small and round with a central lucency, and a bladder stone is a rounded intravesical density.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -13122,17 +13126,17 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__48__fqml61",
+            "id": "radiology__lecture__abdominal-radiology__48__5nhscw",
             "number": "48",
-            "text": "Which statement is wrong about intussusception?",
+            "text": "Which statement is wrong about colonic intussusception?",
             "options": [
-              "Most common in children under 2 years",
+              "About 95% of cases occur in children",
               "Most commonly due to a benign tumor in adults",
               "Target sign on ultrasound",
               "Ileocolic type is the most common location"
             ],
             "originalOptions": [
-              "Most common in children under 2 years",
+              "About 95% of cases occur in children",
               "Most commonly due to a benign tumor in adults",
               "Target sign on ultrasound",
               "Ileocolic type is the most common location"
@@ -13143,12 +13147,12 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "In adults, intussusception is more often caused by a malignant lead point (tumor) than a benign one, making this statement false.",
+            "explanation": "In adult colonic intussusception, a malignant tumor (such as primary adenocarcinoma) is the most common lead point rather than a benign lesion, making this statement false.",
             "batchName": "Aorta Final",
             "batchNames": [
               "Aorta Final"
             ],
-            "note": "",
+            "note": "This question is not covered in the course slides. || In adults, over 80% of cases have a clear structural cause, which is mostly benign (85–90%) in the small bowel but mainly malignant (50–65%) in the colon and large intestine. || In children, up to 90% of cases are idiopathic, meaning they have no clear cause and are usually triggered by swollen lymph tissue from a viral infection.",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -13367,28 +13371,30 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__55__fwh4yx",
+            "id": "radiology__lecture__abdominal-radiology__55__hf3tts",
             "number": "55",
-            "text": "Which of the following is a false CT finding in acute appendicitis?",
+            "text": "Which of the following statements about CT findings in acute appendicitis is false?",
             "options": [
-              "Distended appendiceal lumen",
-              "No appendicolith is identified",
-              "Thickened enhancing appendiceal wall",
-              "Periappendiceal fat stranding"
+              "Dilated appendix with a distended lumen (> 6 mm)",
+              "An appendicolith is always present, and its absence excludes the diagnosis",
+              "Thickened, enhancing appendiceal wall",
+              "Periappendiceal fat stranding",
+              "Thickening of the cecal apex"
             ],
             "originalOptions": [
-              "Distended appendiceal lumen",
-              "No appendicolith is identified",
-              "Thickened enhancing appendiceal wall",
-              "Periappendiceal fat stranding"
+              "Dilated appendix with a distended lumen (> 6 mm)",
+              "An appendicolith is always present, and its absence excludes the diagnosis",
+              "Thickened, enhancing appendiceal wall",
+              "Periappendiceal fat stranding",
+              "Thickening of the cecal apex"
             ],
-            "correctAnswer": "B) No appendicolith is identified",
-            "correctAnswerText": "No appendicolith is identified",
+            "correctAnswer": "B) An appendicolith is always present, and its absence excludes the diagnosis",
+            "correctAnswerText": "An appendicolith is always present, and its absence excludes the diagnosis",
             "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "An appendicolith is present in a significant proportion of appendicitis cases; stating \"no appendicolith is identified\" as a defining CT finding is inaccurate, since its absence does not exclude nor define the diagnosis.",
+            "explanation": "An appendicolith may be identified in some cases but is not required, so its absence does not exclude appendicitis. A dilated lumen, thickened enhancing wall, cecal apex thickening, and fat stranding are the recognized CT findings.",
             "batchName": "Endorphin Final",
             "batchNames": [
               "Endorphin Final"
@@ -13640,7 +13646,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "The bird-beak sign is a feature of achalasia (or volvulus), not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
+            "explanation": "The bird-beak sign is a feature of achalasia, not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
             "batchName": "Coronary Mini-OSCE (Group C) / Vagus Final",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
@@ -13655,9 +13661,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__63__5s82g0",
+            "id": "radiology__lecture__abdominal-radiology__63__f57h4b",
             "number": "63",
-            "text": "Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologyagallstonesmri.png ]",
             "options": [
               "Choledocholithiasis",
               "Gallstones",
@@ -13830,9 +13836,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__68__h0jac7",
+            "id": "radiology__lecture__abdominal-radiology__68__424r94",
             "number": "68",
-            "text": "The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
+            "text": "The arrow (labeled 52) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
             "options": [
               "Celiac artery",
               "Superior mesenteric artery",
@@ -13851,7 +13857,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "This recurring recalled anatomy image explicitly labels celiac artery, arising from the anterior aorta at the T12 level.",
+            "explanation": "The celiac trunk arises from the anterior abdominal aorta at the T12 level and gives the left gastric, splenic, and common hepatic arteries. The SMA arises lower at L1, just below it.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -13886,7 +13892,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "D",
-            "explanation": "This recalled station describes calcifications localized to both adrenal glands rather than the kidneys, pancreas, or spleen.",
+            "explanation": "Calcifications located bilaterally in the suprarenal regions, above the kidneys, correspond to calcified adrenal glands. Renal calculi lie within the renal outlines, and splenic granulomas are scattered in the left upper quadrant.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -14048,22 +14054,22 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__74__204mmn",
+            "id": "radiology__lecture__abdominal-radiology__74__eoe132",
             "number": "74",
-            "text": "Regarding Free air in the abdomen, which of following is TRUE?",
+            "text": "Regarding free air in the abdomen, which of the following is TRUE?",
             "options": [
               "The most common cause of free intraperitoneal air is perforated sigmoid colon",
               "Falciform ligament sign lowers the possibility of pneumoperitoneum",
               "History of abdominal surgery within one week is a cause of pneumoperitoneum",
               "Portal venous gas is only seen in the center of the liver",
-              "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine"
+              "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph"
             ],
             "originalOptions": [
               "The most common cause of free intraperitoneal air is perforated sigmoid colon",
               "Falciform ligament sign lowers the possibility of pneumoperitoneum",
               "History of abdominal surgery within one week is a cause of pneumoperitoneum",
               "Portal venous gas is only seen in the center of the liver",
-              "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine"
+              "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph"
             ],
             "correctAnswer": "C) History of abdominal surgery within one week is a cause of pneumoperitoneum",
             "correctAnswerText": "History of abdominal surgery within one week is a cause of pneumoperitoneum",
@@ -14071,7 +14077,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Physiologic post-operative free air can persist for up to a week or more, so recent abdominal surgery is a recognized benign cause of pneumoperitoneum; the falciform ligament sign actually supports the diagnosis, and portal venous gas is peripheral, not central.",
+            "explanation": "Residual post-operative free air can persist for several days after abdominal surgery, so recent surgery is a recognized cause of pneumoperitoneum. The falciform ligament sign supports pneumoperitoneum, portal venous gas is peripheral, and it is the erect (not supine) chest film that is the most sensitive.",
             "batchName": "Waman A7yaha Final",
             "batchNames": [
               "Waman A7yaha Final"
@@ -14122,30 +14128,30 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__76__kg3rqp",
+            "id": "radiology__lecture__abdominal-radiology__76__8y1x3d",
             "number": "76",
-            "text": "Which of the following radiological signs can make the surest distinction between sigmoid volvulus as opposed to cecal volvulus?",
+            "text": "Which of the following is a characteristic of sigmoid volvulus, as opposed to cecal volvulus?",
             "options": [
-              "Whirlpool sign of the twisted mesenteric vessels",
-              "Absent haustral markings throughout the entire colon",
-              "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
-              "Coffee bean sign with medial deviation of the dilated loop",
-              "Multiple air-fluid levels on an erect film"
+              "Dilated loop arising in the right lower quadrant",
+              "Colonic haustral pattern is maintained",
+              "Dilated loop arising in the pelvis and extending toward the right upper quadrant",
+              "Distal colon is collapsed with distended small bowel",
+              "A single air-fluid level"
             ],
             "originalOptions": [
-              "Whirlpool sign of the twisted mesenteric vessels",
-              "Absent haustral markings throughout the entire colon",
-              "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
-              "Coffee bean sign with medial deviation of the dilated loop",
-              "Multiple air-fluid levels on an erect film"
+              "Dilated loop arising in the right lower quadrant",
+              "Colonic haustral pattern is maintained",
+              "Dilated loop arising in the pelvis and extending toward the right upper quadrant",
+              "Distal colon is collapsed with distended small bowel",
+              "A single air-fluid level"
             ],
-            "correctAnswer": "C) A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
-            "correctAnswerText": "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+            "correctAnswer": "C) Dilated loop arising in the pelvis and extending toward the right upper quadrant",
+            "correctAnswerText": "Dilated loop arising in the pelvis and extending toward the right upper quadrant",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Sigmoid volvulus arises in the pelvis/left lower quadrant and its dilated loop characteristically points toward the RUQ, whereas cecal volvulus arises in the RLQ and points toward the epigastrium/LUQ — this site-of-origin-and-direction pattern is more reliable than haustral pattern or the whirlpool sign, both of which can overlap between volvulus types.",
+            "explanation": "Sigmoid volvulus arises in the pelvis (left lower quadrant) and points toward the RUQ, is ahaustral, and shows few air-fluid levels. Cecal volvulus arises in the RLQ and extends toward the epigastrium or LUQ, with haustra maintained, a collapsed distal colon, and a single air-fluid level.",
             "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
               "Iris Mini-OSCE (Group C)"
@@ -14484,26 +14490,26 @@
             "number": "86",
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
-              "The Inferior mesenteric artery arises at the level of L2",
-              "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
-              "The right adrenal gland is higher than left adrenal gland",
+              "The inferior mesenteric artery arises at the level of L2",
+              "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
+              "The right adrenal gland is higher than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
-              "The portal vein confluence lies anterior to the neck of pancreas"
+              "The portal vein confluence lies anterior to the neck of the pancreas"
             ],
             "originalOptions": [
-              "The Inferior mesenteric artery arises at the level of L2",
-              "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
-              "The right adrenal gland is higher than left adrenal gland",
+              "The inferior mesenteric artery arises at the level of L2",
+              "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
+              "The right adrenal gland is higher than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
-              "The portal vein confluence lies anterior to the neck of pancreas"
+              "The portal vein confluence lies anterior to the neck of the pancreas"
             ],
-            "correctAnswer": "C) The right adrenal gland is higher than left adrenal gland",
-            "correctAnswerText": "The right adrenal gland is higher than left adrenal gland",
+            "correctAnswer": "C) The right adrenal gland is higher than the left adrenal gland",
+            "correctAnswerText": "The right adrenal gland is higher than the left adrenal gland",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The right adrenal gland sits more cephalad on its kidney than the left. B is actually a true statement too (the left renal vein does cross anterior to the aorta) — to keep a single best answer, note the IMA arises at L3 (not L2), the right renal vein is the shorter vein, and the portal vein forms posterior to the pancreatic neck, all of which remain false as worded.",
+            "explanation": "The right adrenal gland sits at a slightly higher (more cephalad) level than the left. The IMA arises at L3, the left renal vein is the longer vein and crosses anterior to the aorta, and the portal vein forms posterior to the pancreatic neck.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -24775,17 +24781,17 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__48__fqml61",
+            "id": "radiology__lecture__abdominal-radiology__48__5nhscw",
             "number": "48",
-            "text": "Which statement is wrong about intussusception?",
+            "text": "Which statement is wrong about colonic intussusception?",
             "options": [
-              "Most common in children under 2 years",
+              "About 95% of cases occur in children",
               "Most commonly due to a benign tumor in adults",
               "Target sign on ultrasound",
               "Ileocolic type is the most common location"
             ],
             "originalOptions": [
-              "Most common in children under 2 years",
+              "About 95% of cases occur in children",
               "Most commonly due to a benign tumor in adults",
               "Target sign on ultrasound",
               "Ileocolic type is the most common location"
@@ -24796,12 +24802,12 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "In adults, intussusception is more often caused by a malignant lead point (tumor) than a benign one, making this statement false.",
+            "explanation": "In adult colonic intussusception, a malignant tumor (such as primary adenocarcinoma) is the most common lead point rather than a benign lesion, making this statement false.",
             "batchName": "Aorta Final",
             "batchNames": [
               "Aorta Final"
             ],
-            "note": "",
+            "note": "This question is not covered in the course slides. || In adults, over 80% of cases have a clear structural cause, which is mostly benign (85–90%) in the small bowel but mainly malignant (50–65%) in the colon and large intestine. || In children, up to 90% of cases are idiopathic, meaning they have no clear cause and are usually triggered by swollen lymph tissue from a viral infection.",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -24811,9 +24817,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__63__5s82g0",
+            "id": "radiology__lecture__abdominal-radiology__63__f57h4b",
             "number": "63",
-            "text": "Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologyagallstonesmri.png ]",
             "options": [
               "Choledocholithiasis",
               "Gallstones",
@@ -26602,7 +26608,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The fluoroscopic/contrast image shows the classic bird's-beak tapering at the point of torsion of a massively dilated sigmoid loop, diagnostic of sigmoid volvulus rather than a generic obstruction.",
+            "explanation": "The classic \"coffee bean\" sign, a markedly dilated ahaustral gas-filled loop arising from the pelvis and pointing toward the RUQ, identifies sigmoid volvulus. Cecal volvulus arises in the RLQ with the haustral pattern maintained, and a generic large bowel obstruction lacks the coffee-bean loop.",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
               "Aorta Mini-OSCE (Group A)",
@@ -27492,7 +27498,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Intussusception classically occurs after the first three months of life (usually 3 months–2 years), not simply \"after 3 week of birth,\" making this the incorrect statement; the other options correctly describe its mechanism and ultrasound appearance.",
+            "explanation": "About 95% of intussusceptions occur in children, usually after the first three months of life (after 3 months not 3 weeks). The other statements correctly describe the mechanism, terminology, and ultrasound appearance.",
             "batchName": "Coronary Mini-OSCE (Group C)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)"
@@ -27649,7 +27655,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "The bird-beak sign is a feature of achalasia (or volvulus), not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
+            "explanation": "The bird-beak sign is a feature of achalasia, not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
             "batchName": "Coronary Mini-OSCE (Group C)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
@@ -28468,22 +28474,22 @@
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
               "Dilated esophagus",
-              "Mediastinal widening"
+              "Mediastinal narrowing"
             ],
             "originalOptions": [
               "Bird-beak appearance at the gastroesophageal junction",
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
               "Dilated esophagus",
-              "Mediastinal widening"
+              "Mediastinal narrowing"
             ],
-            "correctAnswer": "E) Mediastinal widening",
-            "correctAnswerText": "Mediastinal widening",
+            "correctAnswer": "E) Mediastinal narrowing",
+            "correctAnswerText": "Mediastinal narrowing",
             "correctIndex": 4,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "Achalasia causes mediastinal widening (not narrowing) from the dilated, fluid-filled esophagus, so calling it \"mediastinal narrowing\" as a listed feature is incorrect — but among the options here, the true described finding is widening, and identifying \"narrowing\" as false is the tested trap; the correct fact is mediastinal widening occurs, making a statement of narrowing the false one.",
+            "explanation": "The dilated, food- and fluid-filled esophagus produces mediastinal widening (a convex opacity overlapping the right mediastinum), so narrowing is the false feature. The other options are recognized findings.",
             "batchName": "Endorphin Final",
             "batchNames": [
               "Endorphin Mini-OSCE (Group C)",
@@ -28829,28 +28835,30 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__55__fwh4yx",
+            "id": "radiology__lecture__abdominal-radiology__55__hf3tts",
             "number": "55",
-            "text": "Which of the following is a false CT finding in acute appendicitis?",
+            "text": "Which of the following statements about CT findings in acute appendicitis is false?",
             "options": [
-              "Distended appendiceal lumen",
-              "No appendicolith is identified",
-              "Thickened enhancing appendiceal wall",
-              "Periappendiceal fat stranding"
+              "Dilated appendix with a distended lumen (> 6 mm)",
+              "An appendicolith is always present, and its absence excludes the diagnosis",
+              "Thickened, enhancing appendiceal wall",
+              "Periappendiceal fat stranding",
+              "Thickening of the cecal apex"
             ],
             "originalOptions": [
-              "Distended appendiceal lumen",
-              "No appendicolith is identified",
-              "Thickened enhancing appendiceal wall",
-              "Periappendiceal fat stranding"
+              "Dilated appendix with a distended lumen (> 6 mm)",
+              "An appendicolith is always present, and its absence excludes the diagnosis",
+              "Thickened, enhancing appendiceal wall",
+              "Periappendiceal fat stranding",
+              "Thickening of the cecal apex"
             ],
-            "correctAnswer": "B) No appendicolith is identified",
-            "correctAnswerText": "No appendicolith is identified",
+            "correctAnswer": "B) An appendicolith is always present, and its absence excludes the diagnosis",
+            "correctAnswerText": "An appendicolith is always present, and its absence excludes the diagnosis",
             "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "An appendicolith is present in a significant proportion of appendicitis cases; stating \"no appendicolith is identified\" as a defining CT finding is inaccurate, since its absence does not exclude nor define the diagnosis.",
+            "explanation": "An appendicolith may be identified in some cases but is not required, so its absence does not exclude appendicitis. A dilated lumen, thickened enhancing wall, cecal apex thickening, and fat stranding are the recognized CT findings.",
             "batchName": "Endorphin Final",
             "batchNames": [
               "Endorphin Final"
@@ -30454,7 +30462,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
+            "explanation": "The contrast enema shows eccentric, irregular annular narrowing of the colon (the apple-core sign), typical of colorectal carcinoma. Intussusception appears as an occluding mass prolapsing into the lumen (coiled-spring sign), not an annular stricture.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -32358,7 +32366,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
+            "explanation": "The contrast enema shows eccentric, irregular annular narrowing of the colon (the apple-core sign), typical of colorectal carcinoma. Intussusception appears as an occluding mass prolapsing into the lumen (coiled-spring sign), not an annular stricture.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -32540,22 +32548,22 @@
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
               "Dilated esophagus",
-              "Mediastinal widening"
+              "Mediastinal narrowing"
             ],
             "originalOptions": [
               "Bird-beak appearance at the gastroesophageal junction",
               "Retro-tracheal air-fluid level",
               "Anterior displacement and bowing of the trachea",
               "Dilated esophagus",
-              "Mediastinal widening"
+              "Mediastinal narrowing"
             ],
-            "correctAnswer": "E) Mediastinal widening",
-            "correctAnswerText": "Mediastinal widening",
+            "correctAnswer": "E) Mediastinal narrowing",
+            "correctAnswerText": "Mediastinal narrowing",
             "correctIndex": 4,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "Achalasia causes mediastinal widening (not narrowing) from the dilated, fluid-filled esophagus, so calling it \"mediastinal narrowing\" as a listed feature is incorrect — but among the options here, the true described finding is widening, and identifying \"narrowing\" as false is the tested trap; the correct fact is mediastinal widening occurs, making a statement of narrowing the false one.",
+            "explanation": "The dilated, food- and fluid-filled esophagus produces mediastinal widening (a convex opacity overlapping the right mediastinum), so narrowing is the false feature. The other options are recognized findings.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group C)",
@@ -32571,20 +32579,22 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__20__28k58x",
+            "id": "radiology__lecture__abdominal-radiology__20__jxpef",
             "number": "20",
-            "text": "Best imaging modality for detecting air under the diaphragm:",
+            "text": "Which plain radiograph is the most sensitive for detecting free air under the diaphragm?",
             "options": [
-              "Supine abdominal x-ray",
-              "Non-contrast CT",
+              "Supine abdominal radiograph",
+              "KUB radiograph",
               "Expiratory erect chest x-ray",
-              "Abdominal ultrasound"
+              "Abdominal ultrasound",
+              "Lateral abdominal radiograph"
             ],
             "originalOptions": [
-              "Supine abdominal x-ray",
-              "Non-contrast CT",
+              "Supine abdominal radiograph",
+              "KUB radiograph",
               "Expiratory erect chest x-ray",
-              "Abdominal ultrasound"
+              "Abdominal ultrasound",
+              "Lateral abdominal radiograph"
             ],
             "correctAnswer": "C) Expiratory erect chest x-ray",
             "correctAnswerText": "Expiratory erect chest x-ray",
@@ -32592,13 +32602,13 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.",
+            "explanation": "Free gas rises to collect under the diaphragm in the erect position, so the erect chest film is the most sensitive plain radiograph for pneumoperitoneum. Supine abdominal and KUB films miss it, and the lateral view is reserved for patients who cannot stand.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
               "Iris Final",
               "Endorphin Mini-OSCE (Group C)"
             ],
-            "note": "",
+            "note": "While lecture slides generally state \"Erect chest radiograph,\" the modifier \"expiratory\" included in question banks to emphasize maximized sensitivity for detecting small amounts of subdiaphragmatic free air.",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -33346,7 +33356,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
+            "explanation": "The contrast enema shows eccentric, irregular annular narrowing of the colon (the apple-core sign), typical of colorectal carcinoma. Intussusception appears as an occluding mass prolapsing into the lumen (coiled-spring sign), not an annular stricture.",
             "batchName": "Endorphin Mini-OSCE (Group D)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -35340,20 +35350,22 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__20__28k58x",
+            "id": "radiology__lecture__abdominal-radiology__20__jxpef",
             "number": "20",
-            "text": "Best imaging modality for detecting air under the diaphragm:",
+            "text": "Which plain radiograph is the most sensitive for detecting free air under the diaphragm?",
             "options": [
-              "Supine abdominal x-ray",
-              "Non-contrast CT",
+              "Supine abdominal radiograph",
+              "KUB radiograph",
               "Expiratory erect chest x-ray",
-              "Abdominal ultrasound"
+              "Abdominal ultrasound",
+              "Lateral abdominal radiograph"
             ],
             "originalOptions": [
-              "Supine abdominal x-ray",
-              "Non-contrast CT",
+              "Supine abdominal radiograph",
+              "KUB radiograph",
               "Expiratory erect chest x-ray",
-              "Abdominal ultrasound"
+              "Abdominal ultrasound",
+              "Lateral abdominal radiograph"
             ],
             "correctAnswer": "C) Expiratory erect chest x-ray",
             "correctAnswerText": "Expiratory erect chest x-ray",
@@ -35361,13 +35373,13 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.",
+            "explanation": "Free gas rises to collect under the diaphragm in the erect position, so the erect chest film is the most sensitive plain radiograph for pneumoperitoneum. Supine abdominal and KUB films miss it, and the lateral view is reserved for patients who cannot stand.",
             "batchName": "Iris Final",
             "batchNames": [
               "Iris Final",
               "Endorphin Mini-OSCE (Group C)"
             ],
-            "note": "",
+            "note": "While lecture slides generally state \"Erect chest radiograph,\" the modifier \"expiratory\" included in question banks to emphasize maximized sensitivity for detecting small amounts of subdiaphragmatic free air.",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -38108,30 +38120,30 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__76__kg3rqp",
+            "id": "radiology__lecture__abdominal-radiology__76__8y1x3d",
             "number": "76",
-            "text": "Which of the following radiological signs can make the surest distinction between sigmoid volvulus as opposed to cecal volvulus?",
+            "text": "Which of the following is a characteristic of sigmoid volvulus, as opposed to cecal volvulus?",
             "options": [
-              "Whirlpool sign of the twisted mesenteric vessels",
-              "Absent haustral markings throughout the entire colon",
-              "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
-              "Coffee bean sign with medial deviation of the dilated loop",
-              "Multiple air-fluid levels on an erect film"
+              "Dilated loop arising in the right lower quadrant",
+              "Colonic haustral pattern is maintained",
+              "Dilated loop arising in the pelvis and extending toward the right upper quadrant",
+              "Distal colon is collapsed with distended small bowel",
+              "A single air-fluid level"
             ],
             "originalOptions": [
-              "Whirlpool sign of the twisted mesenteric vessels",
-              "Absent haustral markings throughout the entire colon",
-              "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
-              "Coffee bean sign with medial deviation of the dilated loop",
-              "Multiple air-fluid levels on an erect film"
+              "Dilated loop arising in the right lower quadrant",
+              "Colonic haustral pattern is maintained",
+              "Dilated loop arising in the pelvis and extending toward the right upper quadrant",
+              "Distal colon is collapsed with distended small bowel",
+              "A single air-fluid level"
             ],
-            "correctAnswer": "C) A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
-            "correctAnswerText": "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+            "correctAnswer": "C) Dilated loop arising in the pelvis and extending toward the right upper quadrant",
+            "correctAnswerText": "Dilated loop arising in the pelvis and extending toward the right upper quadrant",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Sigmoid volvulus arises in the pelvis/left lower quadrant and its dilated loop characteristically points toward the RUQ, whereas cecal volvulus arises in the RLQ and points toward the epigastrium/LUQ — this site-of-origin-and-direction pattern is more reliable than haustral pattern or the whirlpool sign, both of which can overlap between volvulus types.",
+            "explanation": "Sigmoid volvulus arises in the pelvis (left lower quadrant) and points toward the RUQ, is ahaustral, and shows few air-fluid levels. Cecal volvulus arises in the RLQ and extends toward the epigastrium or LUQ, with haustra maintained, a collapsed distal colon, and a single air-fluid level.",
             "batchName": "Iris Mini-OSCE (Group C)",
             "batchNames": [
               "Iris Mini-OSCE (Group C)"
@@ -38946,24 +38958,26 @@
             "number": "30",
             "text": "Which statement is FALSE regarding hypertrophic pyloric stenosis?",
             "options": [
-              "Pyloric muscle thickness is typically > 3 mm",
-              "Pyloric canal length is usually > 15–18 mm",
+              "Pyloric canal length is usually > 15–17 mm",
+              "Pyloric transverse diameter is usually > 14 mm",
               "It commonly presents with non-bilious projectile vomiting",
-              "Pyloric muscle thickness is < 7 mm"
+              "Single pyloric muscle wall thickness is typically < 3 mm",
+              "There is a male predominance (about 4:1)"
             ],
             "originalOptions": [
-              "Pyloric muscle thickness is typically > 3 mm",
-              "Pyloric canal length is usually > 15–18 mm",
+              "Pyloric canal length is usually > 15–17 mm",
+              "Pyloric transverse diameter is usually > 14 mm",
               "It commonly presents with non-bilious projectile vomiting",
-              "Pyloric muscle thickness is < 7 mm"
+              "Single pyloric muscle wall thickness is typically < 3 mm",
+              "There is a male predominance (about 4:1)"
             ],
-            "correctAnswer": "D) Pyloric muscle thickness is < 7 mm",
-            "correctAnswerText": "Pyloric muscle thickness is < 7 mm",
+            "correctAnswer": "D) Single pyloric muscle wall thickness is typically < 3 mm",
+            "correctAnswerText": "Single pyloric muscle wall thickness is typically < 3 mm",
             "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "D",
-            "explanation": "There is no established \"<7 mm\" criterion for pyloric stenosis; the recognized diagnostic thickness threshold is greater than 3 mm, making this statement inaccurate and false.",
+            "explanation": "In hypertrophic pyloric stenosis the single muscle wall thickness is > 3 mm, which is the most accurate ultrasound criterion, so \"< 3 mm\" is false. The other statements match the course description.",
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
               "Iris Mini-OSCE (Group D)"
@@ -43110,7 +43124,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "The bird-beak sign is a feature of achalasia (or volvulus), not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
+            "explanation": "The bird-beak sign is a feature of achalasia, not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
             "batchName": "Vagus Final",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
@@ -43944,7 +43958,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
+            "explanation": "I don't know what to write; there's no explanation :)",
             "batchName": "Vagus Mini-OSCE (Group B)",
             "batchNames": [
               "Vagus Mini-OSCE (Group B)",
@@ -44637,7 +44651,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The fluoroscopic/contrast image shows the classic bird's-beak tapering at the point of torsion of a massively dilated sigmoid loop, diagnostic of sigmoid volvulus rather than a generic obstruction.",
+            "explanation": "The classic \"coffee bean\" sign, a markedly dilated ahaustral gas-filled loop arising from the pelvis and pointing toward the RUQ, identifies sigmoid volvulus. Cecal volvulus arises in the RLQ with the haustral pattern maintained, and a generic large bowel obstruction lacks the coffee-bean loop.",
             "batchName": "Vagus Mini-OSCE (Group D)",
             "batchNames": [
               "Aorta Mini-OSCE (Group A)",
@@ -44756,7 +44770,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
+            "explanation": "I don't know what to write; there's no explanation :)",
             "batchName": "Vagus Mini-OSCE (Group D)",
             "batchNames": [
               "Vagus Mini-OSCE (Group B)",
@@ -45034,22 +45048,22 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__74__204mmn",
+            "id": "radiology__lecture__abdominal-radiology__74__eoe132",
             "number": "74",
-            "text": "Regarding Free air in the abdomen, which of following is TRUE?",
+            "text": "Regarding free air in the abdomen, which of the following is TRUE?",
             "options": [
               "The most common cause of free intraperitoneal air is perforated sigmoid colon",
               "Falciform ligament sign lowers the possibility of pneumoperitoneum",
               "History of abdominal surgery within one week is a cause of pneumoperitoneum",
               "Portal venous gas is only seen in the center of the liver",
-              "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine"
+              "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph"
             ],
             "originalOptions": [
               "The most common cause of free intraperitoneal air is perforated sigmoid colon",
               "Falciform ligament sign lowers the possibility of pneumoperitoneum",
               "History of abdominal surgery within one week is a cause of pneumoperitoneum",
               "Portal venous gas is only seen in the center of the liver",
-              "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine"
+              "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph"
             ],
             "correctAnswer": "C) History of abdominal surgery within one week is a cause of pneumoperitoneum",
             "correctAnswerText": "History of abdominal surgery within one week is a cause of pneumoperitoneum",
@@ -45057,7 +45071,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Physiologic post-operative free air can persist for up to a week or more, so recent abdominal surgery is a recognized benign cause of pneumoperitoneum; the falciform ligament sign actually supports the diagnosis, and portal venous gas is peripheral, not central.",
+            "explanation": "Residual post-operative free air can persist for several days after abdominal surgery, so recent surgery is a recognized cause of pneumoperitoneum. The falciform ligament sign supports pneumoperitoneum, portal venous gas is peripheral, and it is the erect (not supine) chest film that is the most sensitive.",
             "batchName": "Waman A7yaha Final",
             "batchNames": [
               "Waman A7yaha Final"
@@ -46179,7 +46193,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The fluoroscopic/contrast image shows the classic bird's-beak tapering at the point of torsion of a massively dilated sigmoid loop, diagnostic of sigmoid volvulus rather than a generic obstruction.",
+            "explanation": "The classic \"coffee bean\" sign, a markedly dilated ahaustral gas-filled loop arising from the pelvis and pointing toward the RUQ, identifies sigmoid volvulus. Cecal volvulus arises in the RLQ with the haustral pattern maintained, and a generic large bowel obstruction lacks the coffee-bean loop.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Aorta Mini-OSCE (Group A)",
@@ -46334,7 +46348,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
+            "explanation": "The contrast enema shows eccentric, irregular annular narrowing of the colon (the apple-core sign), typical of colorectal carcinoma. Intussusception appears as an occluding mass prolapsing into the lumen (coiled-spring sign), not an annular stricture.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -46599,7 +46613,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
+            "explanation": "I don't know what to write; there's no explanation :)",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Vagus Mini-OSCE (Group B)",
@@ -46785,7 +46799,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The sagittal CT shows a coarse, popcorn-like calcification within the uterus, adjacent to the bladder, the classic appearance of a calcified leiomyoma.",
+            "explanation": "A coarse, popcorn-like calcification in the pelvis in the uterine region is the classic appearance of a calcified leiomyoma. A phlebolith is small and round with a central lucency, and a bladder stone is a rounded intravesical density.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -46874,9 +46888,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__abdominal-radiology__68__h0jac7",
+            "id": "radiology__lecture__abdominal-radiology__68__424r94",
             "number": "68",
-            "text": "The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
+            "text": "The arrow (labeled 52) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
             "options": [
               "Celiac artery",
               "Superior mesenteric artery",
@@ -46895,7 +46909,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "This recurring recalled anatomy image explicitly labels celiac artery, arising from the anterior aorta at the T12 level.",
+            "explanation": "The celiac trunk arises from the anterior abdominal aorta at the T12 level and gives the left gastric, splenic, and common hepatic arteries. The SMA arises lower at L1, just below it.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -46931,7 +46945,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "D",
-            "explanation": "This recalled station describes calcifications localized to both adrenal glands rather than the kidneys, pancreas, or spleen.",
+            "explanation": "Calcifications located bilaterally in the suprarenal regions, above the kidneys, correspond to calcified adrenal glands. Renal calculi lie within the renal outlines, and splenic granulomas are scattered in the left upper quadrant.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -46986,26 +47000,26 @@
             "number": "86",
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
-              "The Inferior mesenteric artery arises at the level of L2",
-              "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
-              "The right adrenal gland is higher than left adrenal gland",
+              "The inferior mesenteric artery arises at the level of L2",
+              "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
+              "The right adrenal gland is higher than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
-              "The portal vein confluence lies anterior to the neck of pancreas"
+              "The portal vein confluence lies anterior to the neck of the pancreas"
             ],
             "originalOptions": [
-              "The Inferior mesenteric artery arises at the level of L2",
-              "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
-              "The right adrenal gland is higher than left adrenal gland",
+              "The inferior mesenteric artery arises at the level of L2",
+              "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
+              "The right adrenal gland is higher than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
-              "The portal vein confluence lies anterior to the neck of pancreas"
+              "The portal vein confluence lies anterior to the neck of the pancreas"
             ],
-            "correctAnswer": "C) The right adrenal gland is higher than left adrenal gland",
-            "correctAnswerText": "The right adrenal gland is higher than left adrenal gland",
+            "correctAnswer": "C) The right adrenal gland is higher than the left adrenal gland",
+            "correctAnswerText": "The right adrenal gland is higher than the left adrenal gland",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The right adrenal gland sits more cephalad on its kidney than the left. B is actually a true statement too (the left renal vein does cross anterior to the aorta) — to keep a single best answer, note the IMA arises at L3 (not L2), the right renal vein is the shorter vein, and the portal vein forms posterior to the pancreatic neck, all of which remain false as worded.",
+            "explanation": "The right adrenal gland sits at a slightly higher (more cephalad) level than the left. The IMA arises at L3, the left renal vein is the longer vein and crosses anterior to the aorta, and the portal vein forms posterior to the pancreatic neck.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -48741,7 +48755,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "The fluoroscopic/contrast image shows the classic bird's-beak tapering at the point of torsion of a massively dilated sigmoid loop, diagnostic of sigmoid volvulus rather than a generic obstruction.",
+        "explanation": "The classic \"coffee bean\" sign, a markedly dilated ahaustral gas-filled loop arising from the pelvis and pointing toward the RUQ, identifies sigmoid volvulus. Cecal volvulus arises in the RLQ with the haustral pattern maintained, and a generic large bowel obstruction lacks the coffee-bean loop.",
         "batchName": "Aorta Mini-OSCE (Group A) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Aorta Mini-OSCE (Group A)",
@@ -48893,7 +48907,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "Intussusception classically occurs after the first three months of life (usually 3 months–2 years), not simply \"after 3 week of birth,\" making this the incorrect statement; the other options correctly describe its mechanism and ultrasound appearance.",
+        "explanation": "About 95% of intussusceptions occur in children, usually after the first three months of life (after 3 months not 3 weeks). The other statements correctly describe the mechanism, terminology, and ultrasound appearance.",
         "batchName": "Coronary Mini-OSCE (Group C)",
         "batchNames": [
           "Coronary Mini-OSCE (Group C)"
@@ -49004,7 +49018,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "The contrast study shows an irregular annular stricture (apple-core lesion) typical of colorectal carcinoma rather than the smooth coiled-spring appearance of intussusception or the beak-like taper of volvulus.",
+        "explanation": "The contrast enema shows eccentric, irregular annular narrowing of the colon (the apple-core sign), typical of colorectal carcinoma. Intussusception appears as an occluding mass prolapsing into the lumen (coiled-spring sign), not an annular stricture.",
         "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Endorphin Mini-OSCE (Group A)",
@@ -49326,22 +49340,22 @@
           "Retro-tracheal air-fluid level",
           "Anterior displacement and bowing of the trachea",
           "Dilated esophagus",
-          "Mediastinal widening"
+          "Mediastinal narrowing"
         ],
         "originalOptions": [
           "Bird-beak appearance at the gastroesophageal junction",
           "Retro-tracheal air-fluid level",
           "Anterior displacement and bowing of the trachea",
           "Dilated esophagus",
-          "Mediastinal widening"
+          "Mediastinal narrowing"
         ],
-        "correctAnswer": "E) Mediastinal widening",
-        "correctAnswerText": "Mediastinal widening",
+        "correctAnswer": "E) Mediastinal narrowing",
+        "correctAnswerText": "Mediastinal narrowing",
         "correctIndex": 4,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "E",
-        "explanation": "Achalasia causes mediastinal widening (not narrowing) from the dilated, fluid-filled esophagus, so calling it \"mediastinal narrowing\" as a listed feature is incorrect — but among the options here, the true described finding is widening, and identifying \"narrowing\" as false is the tested trap; the correct fact is mediastinal widening occurs, making a statement of narrowing the false one.",
+        "explanation": "The dilated, food- and fluid-filled esophagus produces mediastinal widening (a convex opacity overlapping the right mediastinum), so narrowing is the false feature. The other options are recognized findings.",
         "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Final",
         "batchNames": [
           "Endorphin Mini-OSCE (Group C)",
@@ -49356,20 +49370,22 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__20__28k58x",
+        "id": "radiology__lecture__abdominal-radiology__20__jxpef",
         "number": "20",
-        "text": "Best imaging modality for detecting air under the diaphragm:",
+        "text": "Which plain radiograph is the most sensitive for detecting free air under the diaphragm?",
         "options": [
-          "Supine abdominal x-ray",
-          "Non-contrast CT",
+          "Supine abdominal radiograph",
+          "KUB radiograph",
           "Expiratory erect chest x-ray",
-          "Abdominal ultrasound"
+          "Abdominal ultrasound",
+          "Lateral abdominal radiograph"
         ],
         "originalOptions": [
-          "Supine abdominal x-ray",
-          "Non-contrast CT",
+          "Supine abdominal radiograph",
+          "KUB radiograph",
           "Expiratory erect chest x-ray",
-          "Abdominal ultrasound"
+          "Abdominal ultrasound",
+          "Lateral abdominal radiograph"
         ],
         "correctAnswer": "C) Expiratory erect chest x-ray",
         "correctAnswerText": "Expiratory erect chest x-ray",
@@ -49377,13 +49393,13 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "An erect chest film taken in expiration maximizes sensitivity for detecting small amounts of subdiaphragmatic free air, more so than a supine film which cannot show air-fluid levels or subdiaphragmatic air.",
+        "explanation": "Free gas rises to collect under the diaphragm in the erect position, so the erect chest film is the most sensitive plain radiograph for pneumoperitoneum. Supine abdominal and KUB films miss it, and the lateral view is reserved for patients who cannot stand.",
         "batchName": "Iris Final / Endorphin Mini-OSCE (Group C)",
         "batchNames": [
           "Iris Final",
           "Endorphin Mini-OSCE (Group C)"
         ],
-        "note": "",
+        "note": "While lecture slides generally state \"Erect chest radiograph,\" the modifier \"expiratory\" included in question banks to emphasize maximized sensitivity for detecting small amounts of subdiaphragmatic free air.",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -49717,24 +49733,26 @@
         "number": "30",
         "text": "Which statement is FALSE regarding hypertrophic pyloric stenosis?",
         "options": [
-          "Pyloric muscle thickness is typically > 3 mm",
-          "Pyloric canal length is usually > 15–18 mm",
+          "Pyloric canal length is usually > 15–17 mm",
+          "Pyloric transverse diameter is usually > 14 mm",
           "It commonly presents with non-bilious projectile vomiting",
-          "Pyloric muscle thickness is < 7 mm"
+          "Single pyloric muscle wall thickness is typically < 3 mm",
+          "There is a male predominance (about 4:1)"
         ],
         "originalOptions": [
-          "Pyloric muscle thickness is typically > 3 mm",
-          "Pyloric canal length is usually > 15–18 mm",
+          "Pyloric canal length is usually > 15–17 mm",
+          "Pyloric transverse diameter is usually > 14 mm",
           "It commonly presents with non-bilious projectile vomiting",
-          "Pyloric muscle thickness is < 7 mm"
+          "Single pyloric muscle wall thickness is typically < 3 mm",
+          "There is a male predominance (about 4:1)"
         ],
-        "correctAnswer": "D) Pyloric muscle thickness is < 7 mm",
-        "correctAnswerText": "Pyloric muscle thickness is < 7 mm",
+        "correctAnswer": "D) Single pyloric muscle wall thickness is typically < 3 mm",
+        "correctAnswerText": "Single pyloric muscle wall thickness is typically < 3 mm",
         "correctIndex": 3,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "D",
-        "explanation": "There is no established \"<7 mm\" criterion for pyloric stenosis; the recognized diagnostic thickness threshold is greater than 3 mm, making this statement inaccurate and false.",
+        "explanation": "In hypertrophic pyloric stenosis the single muscle wall thickness is > 3 mm, which is the most accurate ultrasound criterion, so \"< 3 mm\" is false. The other statements match the course description.",
         "batchName": "Iris Mini-OSCE (Group D)",
         "batchNames": [
           "Iris Mini-OSCE (Group D)"
@@ -50061,7 +50079,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "The three arrows in this recalled image-only station correspond to the liver, gallbladder, and left kidney respectively.",
+        "explanation": "I don't know what to write; there's no explanation :)",
         "batchName": "Vagus Mini-OSCE (Group B) / Vagus Mini-OSCE (Group D) / Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Vagus Mini-OSCE (Group B)",
@@ -50242,7 +50260,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "The sagittal CT shows a coarse, popcorn-like calcification within the uterus, adjacent to the bladder, the classic appearance of a calcified leiomyoma.",
+        "explanation": "A coarse, popcorn-like calcification in the pelvis in the uterine region is the classic appearance of a calcified leiomyoma. A phlebolith is small and round with a central lucency, and a bladder stone is a rounded intravesical density.",
         "batchName": "Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Waman A7yaha Mini-OSCE"
@@ -50364,17 +50382,17 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__48__fqml61",
+        "id": "radiology__lecture__abdominal-radiology__48__5nhscw",
         "number": "48",
-        "text": "Which statement is wrong about intussusception?",
+        "text": "Which statement is wrong about colonic intussusception?",
         "options": [
-          "Most common in children under 2 years",
+          "About 95% of cases occur in children",
           "Most commonly due to a benign tumor in adults",
           "Target sign on ultrasound",
           "Ileocolic type is the most common location"
         ],
         "originalOptions": [
-          "Most common in children under 2 years",
+          "About 95% of cases occur in children",
           "Most commonly due to a benign tumor in adults",
           "Target sign on ultrasound",
           "Ileocolic type is the most common location"
@@ -50385,12 +50403,12 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "In adults, intussusception is more often caused by a malignant lead point (tumor) than a benign one, making this statement false.",
+        "explanation": "In adult colonic intussusception, a malignant tumor (such as primary adenocarcinoma) is the most common lead point rather than a benign lesion, making this statement false.",
         "batchName": "Aorta Final",
         "batchNames": [
           "Aorta Final"
         ],
-        "note": "",
+        "note": "This question is not covered in the course slides. || In adults, over 80% of cases have a clear structural cause, which is mostly benign (85–90%) in the small bowel but mainly malignant (50–65%) in the colon and large intestine. || In children, up to 90% of cases are idiopathic, meaning they have no clear cause and are usually triggered by swollen lymph tissue from a viral infection.",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -50609,28 +50627,30 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__55__fwh4yx",
+        "id": "radiology__lecture__abdominal-radiology__55__hf3tts",
         "number": "55",
-        "text": "Which of the following is a false CT finding in acute appendicitis?",
+        "text": "Which of the following statements about CT findings in acute appendicitis is false?",
         "options": [
-          "Distended appendiceal lumen",
-          "No appendicolith is identified",
-          "Thickened enhancing appendiceal wall",
-          "Periappendiceal fat stranding"
+          "Dilated appendix with a distended lumen (> 6 mm)",
+          "An appendicolith is always present, and its absence excludes the diagnosis",
+          "Thickened, enhancing appendiceal wall",
+          "Periappendiceal fat stranding",
+          "Thickening of the cecal apex"
         ],
         "originalOptions": [
-          "Distended appendiceal lumen",
-          "No appendicolith is identified",
-          "Thickened enhancing appendiceal wall",
-          "Periappendiceal fat stranding"
+          "Dilated appendix with a distended lumen (> 6 mm)",
+          "An appendicolith is always present, and its absence excludes the diagnosis",
+          "Thickened, enhancing appendiceal wall",
+          "Periappendiceal fat stranding",
+          "Thickening of the cecal apex"
         ],
-        "correctAnswer": "B) No appendicolith is identified",
-        "correctAnswerText": "No appendicolith is identified",
+        "correctAnswer": "B) An appendicolith is always present, and its absence excludes the diagnosis",
+        "correctAnswerText": "An appendicolith is always present, and its absence excludes the diagnosis",
         "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "An appendicolith is present in a significant proportion of appendicitis cases; stating \"no appendicolith is identified\" as a defining CT finding is inaccurate, since its absence does not exclude nor define the diagnosis.",
+        "explanation": "An appendicolith may be identified in some cases but is not required, so its absence does not exclude appendicitis. A dilated lumen, thickened enhancing wall, cecal apex thickening, and fat stranding are the recognized CT findings.",
         "batchName": "Endorphin Final",
         "batchNames": [
           "Endorphin Final"
@@ -50882,7 +50902,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "E",
-        "explanation": "The bird-beak sign is a feature of achalasia (or volvulus), not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
+        "explanation": "The bird-beak sign is a feature of achalasia, not pneumoperitoneum; the other four are all recognized radiographic signs of free intraperitoneal air.",
         "batchName": "Coronary Mini-OSCE (Group C) / Vagus Final",
         "batchNames": [
           "Coronary Mini-OSCE (Group C)",
@@ -50897,9 +50917,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__63__5s82g0",
+        "id": "radiology__lecture__abdominal-radiology__63__f57h4b",
         "number": "63",
-        "text": "Identify the diagnosis in the recalled image. [img: Radiologyagallstonesmri.png ]",
+        "text": "What is the most likely diagnosis? [img: Radiologyagallstonesmri.png ]",
         "options": [
           "Choledocholithiasis",
           "Gallstones",
@@ -51072,9 +51092,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__68__h0jac7",
+        "id": "radiology__lecture__abdominal-radiology__68__424r94",
         "number": "68",
-        "text": "The arrow (labeled 42) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
+        "text": "The arrow (labeled 52) in this axial CT points to which structure? [img: Radiologyaceliacartery.png ]",
         "options": [
           "Celiac artery",
           "Superior mesenteric artery",
@@ -51093,7 +51113,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "A",
-        "explanation": "This recurring recalled anatomy image explicitly labels celiac artery, arising from the anterior aorta at the T12 level.",
+        "explanation": "The celiac trunk arises from the anterior abdominal aorta at the T12 level and gives the left gastric, splenic, and common hepatic arteries. The SMA arises lower at L1, just below it.",
         "batchName": "Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Waman A7yaha Mini-OSCE"
@@ -51128,7 +51148,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "D",
-        "explanation": "This recalled station describes calcifications localized to both adrenal glands rather than the kidneys, pancreas, or spleen.",
+        "explanation": "Calcifications located bilaterally in the suprarenal regions, above the kidneys, correspond to calcified adrenal glands. Renal calculi lie within the renal outlines, and splenic granulomas are scattered in the left upper quadrant.",
         "batchName": "Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Waman A7yaha Mini-OSCE"
@@ -51290,22 +51310,22 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__74__204mmn",
+        "id": "radiology__lecture__abdominal-radiology__74__eoe132",
         "number": "74",
-        "text": "Regarding Free air in the abdomen, which of following is TRUE?",
+        "text": "Regarding free air in the abdomen, which of the following is TRUE?",
         "options": [
           "The most common cause of free intraperitoneal air is perforated sigmoid colon",
           "Falciform ligament sign lowers the possibility of pneumoperitoneum",
           "History of abdominal surgery within one week is a cause of pneumoperitoneum",
           "Portal venous gas is only seen in the center of the liver",
-          "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine"
+          "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph"
         ],
         "originalOptions": [
           "The most common cause of free intraperitoneal air is perforated sigmoid colon",
           "Falciform ligament sign lowers the possibility of pneumoperitoneum",
           "History of abdominal surgery within one week is a cause of pneumoperitoneum",
           "Portal venous gas is only seen in the center of the liver",
-          "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine"
+          "Supine chest radiograph is more sensitive to detect pneumoperitoneum compared to supine abdominal radiograph"
         ],
         "correctAnswer": "C) History of abdominal surgery within one week is a cause of pneumoperitoneum",
         "correctAnswerText": "History of abdominal surgery within one week is a cause of pneumoperitoneum",
@@ -51313,7 +51333,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "Physiologic post-operative free air can persist for up to a week or more, so recent abdominal surgery is a recognized benign cause of pneumoperitoneum; the falciform ligament sign actually supports the diagnosis, and portal venous gas is peripheral, not central.",
+        "explanation": "Residual post-operative free air can persist for several days after abdominal surgery, so recent surgery is a recognized cause of pneumoperitoneum. The falciform ligament sign supports pneumoperitoneum, portal venous gas is peripheral, and it is the erect (not supine) chest film that is the most sensitive.",
         "batchName": "Waman A7yaha Final",
         "batchNames": [
           "Waman A7yaha Final"
@@ -51364,30 +51384,30 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__abdominal-radiology__76__kg3rqp",
+        "id": "radiology__lecture__abdominal-radiology__76__8y1x3d",
         "number": "76",
-        "text": "Which of the following radiological signs can make the surest distinction between sigmoid volvulus as opposed to cecal volvulus?",
+        "text": "Which of the following is a characteristic of sigmoid volvulus, as opposed to cecal volvulus?",
         "options": [
-          "Whirlpool sign of the twisted mesenteric vessels",
-          "Absent haustral markings throughout the entire colon",
-          "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
-          "Coffee bean sign with medial deviation of the dilated loop",
-          "Multiple air-fluid levels on an erect film"
+          "Dilated loop arising in the right lower quadrant",
+          "Colonic haustral pattern is maintained",
+          "Dilated loop arising in the pelvis and extending toward the right upper quadrant",
+          "Distal colon is collapsed with distended small bowel",
+          "A single air-fluid level"
         ],
         "originalOptions": [
-          "Whirlpool sign of the twisted mesenteric vessels",
-          "Absent haustral markings throughout the entire colon",
-          "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
-          "Coffee bean sign with medial deviation of the dilated loop",
-          "Multiple air-fluid levels on an erect film"
+          "Dilated loop arising in the right lower quadrant",
+          "Colonic haustral pattern is maintained",
+          "Dilated loop arising in the pelvis and extending toward the right upper quadrant",
+          "Distal colon is collapsed with distended small bowel",
+          "A single air-fluid level"
         ],
-        "correctAnswer": "C) A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
-        "correctAnswerText": "A mass in the lower abdomen (pelvis) pointing toward the right upper quadrant",
+        "correctAnswer": "C) Dilated loop arising in the pelvis and extending toward the right upper quadrant",
+        "correctAnswerText": "Dilated loop arising in the pelvis and extending toward the right upper quadrant",
         "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "Sigmoid volvulus arises in the pelvis/left lower quadrant and its dilated loop characteristically points toward the RUQ, whereas cecal volvulus arises in the RLQ and points toward the epigastrium/LUQ — this site-of-origin-and-direction pattern is more reliable than haustral pattern or the whirlpool sign, both of which can overlap between volvulus types.",
+        "explanation": "Sigmoid volvulus arises in the pelvis (left lower quadrant) and points toward the RUQ, is ahaustral, and shows few air-fluid levels. Cecal volvulus arises in the RLQ and extends toward the epigastrium or LUQ, with haustra maintained, a collapsed distal colon, and a single air-fluid level.",
         "batchName": "Iris Mini-OSCE (Group C)",
         "batchNames": [
           "Iris Mini-OSCE (Group C)"
@@ -51726,26 +51746,26 @@
         "number": "86",
         "text": "Regarding abdomen anatomy, which of the following is TRUE?",
         "options": [
-          "The Inferior mesenteric artery arises at the level of L2",
-          "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
-          "The right adrenal gland is higher than left adrenal gland",
+          "The inferior mesenteric artery arises at the level of L2",
+          "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
+          "The right adrenal gland is higher than the left adrenal gland",
           "The right renal vein is longer than the left renal vein",
-          "The portal vein confluence lies anterior to the neck of pancreas"
+          "The portal vein confluence lies anterior to the neck of the pancreas"
         ],
         "originalOptions": [
-          "The Inferior mesenteric artery arises at the level of L2",
-          "The left renal vein passes anterior to the aorta to reach the inferior vena cava",
-          "The right adrenal gland is higher than left adrenal gland",
+          "The inferior mesenteric artery arises at the level of L2",
+          "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
+          "The right adrenal gland is higher than the left adrenal gland",
           "The right renal vein is longer than the left renal vein",
-          "The portal vein confluence lies anterior to the neck of pancreas"
+          "The portal vein confluence lies anterior to the neck of the pancreas"
         ],
-        "correctAnswer": "C) The right adrenal gland is higher than left adrenal gland",
-        "correctAnswerText": "The right adrenal gland is higher than left adrenal gland",
+        "correctAnswer": "C) The right adrenal gland is higher than the left adrenal gland",
+        "correctAnswerText": "The right adrenal gland is higher than the left adrenal gland",
         "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "The right adrenal gland sits more cephalad on its kidney than the left. B is actually a true statement too (the left renal vein does cross anterior to the aorta) — to keep a single best answer, note the IMA arises at L3 (not L2), the right renal vein is the shorter vein, and the portal vein forms posterior to the pancreatic neck, all of which remain false as worded.",
+        "explanation": "The right adrenal gland sits at a slightly higher (more cephalad) level than the left. The IMA arises at L3, the left renal vein is the longer vein and crosses anterior to the aorta, and the portal vein forms posterior to the pancreatic neck.",
         "batchName": "Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Waman A7yaha Mini-OSCE"
