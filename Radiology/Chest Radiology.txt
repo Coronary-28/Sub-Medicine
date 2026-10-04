@@ -105,7 +105,7 @@ C) Pneumothorax
 D) Consolidation
 E) Lung collapse
 Correct Answer: C) Pneumothorax
-Explanation: Right-sided pneumothorax with almost complete collapse of the right lung. Mediastinal shift to the left, splayed right ribs and mild right diaphragm depression indicate increased right pleural pressure. A thin visceral pleural line with no lung markings peripheral to it and a lucent pleural space is diagnostic of pneumothorax. Effusion and consolidation produce opacity instead.
+Explanation: Right-sided pneumothorax with almost complete collapse of the right lung. Mediastinal shift to the left, splayed right ribs and mild right diaphragm depression indicate increased right pleural pressure. A thin white visceral pleural line with no lung markings peripheral to it and a radiolucent pleural space is diagnostic of pneumothorax. Effusion and consolidation produce opacity, and collapse is a volume-loss opacity rather than a lucent air space.
 Batch: Iris Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group A) / Endorphin Mini-OSCE (Group C) / Endorphin Final / Aorta Final
 ###
 What is the most likely diagnosis? [img: Radiologycaorticdissection.png ]
@@ -417,7 +417,7 @@ C) Lung collapse
 D) Tension pneumothorax
 E) Diaphragmatic hernia
 Correct Answer: D) Tension pneumothorax
-Explanation: Mobile chest x-ray of an intubated patient with a large right-sided pneumothorax. The right hemithorax is hyper-expanded, the right ribs are splayed, the diaphragm is flattened, there is leftward shift of the mediastinum and the right lung is collapsed. Both lungs show signs of consolidation and this prevents further collapse of the right lung.
+Explanation: Mobile chest x-ray shows a large right tension pneumothorax with a hyper-expanded hemithorax, splayed ribs, flattened diaphragm, and leftward mediastinal shift. Both lungs show consolidation, preventing further collapse of the right lung. This diagnosis is confirmed because a simple pneumothorax causes no mediastinal shift, while a pleural effusion would appear opaque rather than hyperlucent. Additionally, isolated lung collapse pulls the mediastinum toward the affected side instead of pushing it away, and a diaphragmatic hernia would typically display herniated abdominal contents rather than an empty air space.
 Batch: Waman A7yaha Mini-OSCE
 ###
 What is the most likely diagnosis? [img: Radiologycsarcoidosis.png ]
