@@ -1,0 +1,267 @@
+Which of the following is NOT a sign of appendicitis?
+A) Rovsing sign
+B) Psoas sign
+C) Grey Turner sign
+D) Rebound tenderness
+E) Right lower quadrant tenderness
+Correct Answer: C) Grey Turner sign
+Explanation: Grey Turner sign is flank discolouration from retroperitoneal/pancreatic haemorrhage. Rovsing, psoas, and obturator signs are the appendicitis signs.
+###
+Which sign is elicited by passive extension of the right hip while the patient lies on his left side, and suggests a retrocecal appendix?
+A) Psoas sign
+B) Obturator sign
+C) Rovsing sign
+D) Murphy sign
+E) Cullen sign
+Correct Answer: A) Psoas sign
+Explanation: A retrocecal appendix irritates the psoas muscle, so hip extension causes RLQ pain. The obturator sign is pain on internal rotation of the flexed hip. Rovsing sign is RLQ pain on palpation of the LLQ.
+###
+What proportion of patients with appendicitis present with the full classic picture of fever, nausea/vomiting, RLQ pain, and leukocytosis?
+A) 2%
+B) 5%
+C) 10%
+D) 20%
+E) 50%
+Correct Answer: D) 20%
+Explanation: Only about 20% have the full classic combination. Atypical or muted presentations are common, especially in the elderly.
+###
+How should a patient with an Alvarado score of 6 be managed?
+A) Discharge with oral analgesia
+B) Observation with further imaging and serial examination
+C) Immediate appendectomy without imaging
+D) Oral antibiotics and outpatient follow-up
+E) Colonoscopy
+Correct Answer: B) Observation with further imaging and serial examination
+Explanation: A score of 5–6 means possible appendicitis (about 66%), so observe and image. Surgery is reserved for 7–10, and a score of ≤ 4 makes appendicitis unlikely.
+###
+A patient presents with acute right lower quadrant pain and tenderness at McBurney's point. What is the most likely diagnosis and the appropriate initial management?
+A) Acute diverticulitis; oral co-amoxiclav and clear liquids
+B) Renal colic; parenteral NSAIDs and discharge
+C) Ectopic pregnancy; methotrexate
+D) Acute cholecystitis; urgent ERCP
+E) Acute appendicitis; imaging (CT in adults, ultrasound in children/pregnancy), IV fluids/antibiotics, and surgical evaluation
+Correct Answer: E) Acute appendicitis; imaging (CT in adults, ultrasound in children/pregnancy), IV fluids/antibiotics, and surgical evaluation
+Explanation: McBurney's point tenderness is the classic finding of appendicitis, which needs imaging and early surgical review. Methotrexate would be used only for a stable ectopic pregnancy.
+###
+Murphy's sign is characteristic of:
+A) Acute appendicitis
+B) Peptic ulcer disease
+C) Acute cholecystitis
+D) Mesenteric ischaemia
+E) Acute pancreatitis
+Correct Answer: C) Acute cholecystitis
+Explanation: Murphy's sign is inspiratory arrest on deep palpation of the RUQ. Appendicitis is assessed with psoas/Rovsing signs instead.
+###
+A patient presents with afebrile right upper quadrant pain. There is no Murphy sign or jaundice, and ultrasound shows gallstones with acoustic shadowing. The pain has resolved after analgesia and the laboratory results are reassuring. What is the best next step?
+A) Discharge with analgesia, return precautions, and surgical follow-up for elective cholecystectomy
+B) Admit for IV antibiotics and urgent cholecystectomy
+C) Urgent ERCP
+D) Emergency laparotomy
+E) Percutaneous cholecystostomy
+Correct Answer: A) Discharge with analgesia, return precautions, and surgical follow-up for elective cholecystectomy
+Explanation: This is uncomplicated biliary colic. Fever, Murphy sign, jaundice, cholestatic labs, or duct dilation would call for admission and a different pathway.
+###
+Which statement about biliary colic pain is correct?
+A) It is specifically triggered by protein
+B) It always begins exactly 15 minutes after eating
+C) It is typically relieved by food intake
+D) It may radiate to the right shoulder or infrascapular region
+E) It is typically accompanied by high fever and jaundice
+Correct Answer: D) It may radiate to the right shoulder or infrascapular region
+Explanation: Biliary pain is referred to the right infrascapular region. It is commonly precipitated by a fatty meal, but timing and triggers vary. Relief by food suggests peptic ulcer disease, and fever with jaundice suggests cholangitis.
+###
+Which statement about choledocholithiasis is correct?
+A) It is defined by common bile duct dilatation below 5–7 mm
+B) It is a stone in the common bile duct, and the duct may be normal or dilated
+C) It refers to stones confined to the gallbladder
+D) It is infection of the bile duct diagnosed by Charcot's triad
+E) It is inflammation of the gallbladder wall from cystic duct obstruction
+Correct Answer: B) It is a stone in the common bile duct, and the duct may be normal or dilated
+Explanation: Choledocholithiasis is defined by the stone, not by a duct diameter cut-off. Stones in the gallbladder are cholelithiasis, gallbladder inflammation is cholecystitis, and bile-duct infection is cholangitis.
+###
+Fever, jaundice, and right upper quadrant pain form the diagnostic triad of which condition?
+A) Acute cholecystitis
+B) Cholelithiasis
+C) Biliary colic
+D) Uncomplicated choledocholithiasis
+E) Acute cholangitis
+Correct Answer: E) Acute cholangitis
+Explanation: This is Charcot's triad of cholangitis, which is infection behind an obstructed bile duct. Reynolds' pentad adds hypotension and altered mental status, and signals suppurative cholangitis needing urgent ERCP decompression. Cholecystitis does not classically cause jaundice.
+###
+All of the following are true regarding Meckel's diverticulum EXCEPT:
+A) It occurs in about 2% of the population
+B) It is located about 2 feet from the ileocaecal valve
+C) It is more common in females
+D) It is about 2 inches long
+E) It may contain ectopic gastric or pancreatic tissue
+Correct Answer: C) It is more common in females
+Explanation: Meckel's diverticulum is about twice as common in males, and complications are also more common in males. This is the rule-of-2s trap.
+###
+Which of the following is NOT an independent predictor of adverse outcome in upper GI bleeding?
+A) Initial hematocrit < 45%
+B) Initial hematocrit < 30%
+C) Initial systolic BP < 100 mmHg
+D) Red blood in NG lavage
+E) History of cirrhosis or ascites
+Correct Answer: A) Initial hematocrit < 45%
+Explanation: The adverse threshold is an initial hematocrit < 30%, and even that often underestimates true acute blood loss. A hematocrit < 45% is not a recognised predictor.
+###
+What does red blood in the nasogastric aspirate of a patient with GI bleeding suggest?
+A) A lower GI source such as diverticular bleeding
+B) Isolated haemorrhoidal bleeding
+C) Angiodysplasia of the right colon
+D) An upper GI source with higher-risk bleeding
+E) A bleeding Meckel's diverticulum
+Correct Answer: D) An upper GI source with higher-risk bleeding
+Explanation: Red blood in NG lavage localises the bleed to the upper GI tract and predicts an adverse outcome. A negative aspirate does not exclude an upper GI bleed.
+###
+A patient with known cirrhosis presents with haematemesis. Which source must be treated as the cause until proven otherwise?
+A) Mallory-Weiss tear
+B) Variceal haemorrhage
+C) Erosive gastritis
+D) Duodenal ulcer
+E) Angiodysplasia
+Correct Answer: B) Variceal haemorrhage
+Explanation: In cirrhosis, haematemesis is variceal until proven otherwise. It needs a vasoactive drug (octreotide), prophylactic antibiotics, restrictive transfusion, and urgent endoscopy.
+###
+Which of the following best describes angiodysplasia?
+A) Healthy new blood vessels that do not bleed
+B) Colonic outpouchings that become inflamed
+C) Dilated rectal venous cushions
+D) Mucosal tear at the gastro-oesophageal junction after vomiting
+E) Fragile, dilated, thin-walled mucosal and submucosal vessels that cause intermittent bleeding
+Correct Answer: E) Fragile, dilated, thin-walled mucosal and submucosal vessels that cause intermittent bleeding
+Explanation: Angiodysplasia is a common cause of lower GI bleeding, most often in the right colon of older adults. It is associated with chronic kidney disease and aortic stenosis (Heyde's syndrome).
+###
+Which of the following is NOT a characteristic of non-specific abdominal pain?
+A) It is a diagnosis of exclusion
+B) The patient is haemodynamically stable
+C) There is marked localised tenderness with guarding
+D) Investigations are normal or non-diagnostic
+E) Symptoms are improving and the patient tolerates oral fluids
+Correct Answer: C) There is marked localised tenderness with guarding
+Explanation: Tenderness, if present, is mild and non-localising. Guarding, rigidity, rebound, or a toxic appearance requires a search for a specific serious cause.
+###
+What is the most common cause of abdominal pain in the emergency department?
+A) Non-specific abdominal pain
+B) Appendicitis
+C) Biliary disease
+D) Small bowel obstruction
+E) Renal colic
+Correct Answer: A) Non-specific abdominal pain
+Explanation: Non-specific abdominal pain accounts for about 34% of ED abdominal pain, followed by appendicitis (28%) and biliary disease (10%).
+###
+Which is the least typical cause of acute pancreatitis?
+A) Alcohol
+B) Gallstones
+C) Idiopathic
+D) Snake bite
+E) Hypertriglyceridaemia
+Correct Answer: D) Snake bite
+Explanation: Gallstones and alcohol are the commonest causes. Hypertriglyceridaemia and idiopathic disease are established causes. The "I GET SMASHED" mnemonic lists scorpion sting, not snake bite.
+###
+Stroking the skin of the upper medial thigh in a normal cremasteric reflex causes:
+A) Contralateral testicular elevation
+B) Ipsilateral testicular elevation from cremaster muscle contraction
+C) Ipsilateral testicular descent
+D) Contraction of the scrotal skin only, with no testicular movement
+Correct Answer: B) Ipsilateral testicular elevation from cremaster muscle contraction
+Explanation: The reflex is ipsilateral. Its absence supports testicular torsion, although a present reflex does not exclude torsion.
+###
+Which statement about testicular torsion is FALSE?
+A) It presents with a swollen, high-riding testis with a transverse lie
+B) The cremasteric reflex is absent
+C) Duplex ultrasound shows absent blood flow
+D) Salvage is 80–100% if detorsion occurs within 6 hours
+E) It is most common at 20–30 years of age
+Correct Answer: E) It is most common at 20–30 years of age
+Explanation: The peak age is 12–16 years, and only about 10% of cases occur after age 20. Salvage falls to about 50% at 12 hours and 0% at 24 hours.
+###
+Which of the following is NOT a sign of retroperitoneal haemorrhage?
+A) Cullen sign
+B) Grey Turner sign
+C) Battle sign
+D) Fox sign
+Correct Answer: C) Battle sign
+Explanation: Battle sign is mastoid ecchymosis, which indicates a basilar skull fracture. Cullen (periumbilical), Grey Turner (flank), and Fox (inguinal) signs suggest retroperitoneal or pancreatic haemorrhage.
+###
+Which is NOT a major compartment for occult blood loss causing haemorrhagic shock in an adult?
+A) Head
+B) Chest
+C) Abdomen/retroperitoneum
+D) Pelvis
+E) Long bones
+Correct Answer: A) Head
+Explanation: The sites of hidden blood loss are "blood on the floor and four more": chest, abdomen/retroperitoneum, pelvis, and long bones. Intracranial bleeding cannot account for profound systemic blood loss in an adult.
+###
+Which is the most important modifiable risk factor for abdominal aortic aneurysm?
+A) Hypertension
+B) Hyperlipidaemia
+C) Diabetes mellitus
+D) Smoking
+E) Obesity
+Correct Answer: D) Smoking
+Explanation: Smoking is the single strongest modifiable risk factor for AAA, and it also accelerates aneurysm growth. Hypertension and atherosclerosis are contributory only.
+###
+Which is the most important predictor of abdominal aortic aneurysm rupture?
+A) Age
+B) Aneurysm size
+C) Hypertension
+D) Smoking
+E) Male sex
+Correct Answer: B) Aneurysm size
+Explanation: Maximum diameter is the strongest predictor, and risk rises sharply above 5.5 cm. Smoking and hypertension raise risk mainly by increasing growth rate.
+###
+A ruptured abdominal aortic aneurysm is typically described by the patient as:
+A) Colicky right upper quadrant pain radiating to the right shoulder
+B) Burning epigastric pain relieved by food
+C) Periumbilical pain migrating to the right iliac fossa
+D) Postprandial pain with fear of eating
+E) The worst pain of their life: sudden, severe, tearing abdominal, flank, or back pain
+Correct Answer: E) The worst pain of their life: sudden, severe, tearing abdominal, flank, or back pain
+Explanation: Rupture classically causes sudden excruciating pain with hypotension and a pulsatile abdominal mass. The full triad is present in only about half of patients.
+###
+Which statement about lactate in suspected acute mesenteric ischaemia is correct?
+A) A normal lactate reliably excludes the diagnosis
+B) Lactate is highly sensitive, so CTA is unnecessary when it is normal
+C) Lactate is not sensitive enough; a normal level does not exclude ischaemia and must not delay CT angiography
+D) An elevated lactate is required to make the diagnosis
+E) Lactate rises only in chronic mesenteric ischaemia
+Correct Answer: C) Lactate is not sensitive enough; a normal level does not exclude ischaemia and must not delay CT angiography
+Explanation: Lactate can be normal early, before enough bowel is ischaemic to raise it. A high lactate supports severe ischaemia, but a normal value never rules it out.
+###
+Which best describes the pain of early acute mesenteric ischaemia?
+A) Severe pain out of proportion to the examination findings, with a soft abdomen and poor response to analgesia
+B) Mild pain with marked rigidity and rebound tenderness
+C) Postprandial pain starting 15–30 minutes after eating and lasting 1–3 hours
+D) Pain relieved promptly by standard analgesia
+E) Localised RLQ pain with periumbilical migration
+Correct Answer: A) Severe pain out of proportion to the examination findings, with a soft abdomen and poor response to analgesia
+Explanation: Pain out of proportion with a soft abdomen is the early clue. Rigidity and peritonitis appear late with bowel necrosis, and option C describes chronic mesenteric ischaemia.
+###
+What is the classic symptom triad of chronic mesenteric ischaemia?
+A) Fever, jaundice, and right upper quadrant pain
+B) Hypotension, back pain, and a pulsatile abdominal mass
+C) Jugular venous distension, muffled heart sounds, and hypotension
+D) Postprandial abdominal pain, food fear, and weight loss
+E) Pain out of proportion, a soft abdomen, and lactic acidosis
+Correct Answer: D) Postprandial abdominal pain, food fear, and weight loss
+Explanation: This is "abdominal angina", from a fixed mesenteric stenosis that cannot meet post-meal demand. Acute ischaemia instead causes sudden severe constant pain out of proportion to the examination.
+###
+What is the preferred initial imaging test when acute mesenteric ischaemia is suspected?
+A) Plain abdominal X-ray
+B) CT angiography
+C) Abdominal ultrasound
+D) MRCP
+E) Colonoscopy
+Correct Answer: B) CT angiography
+Explanation: CT angiography is the rapid diagnostic study of choice. It shows vessel occlusion, pneumatosis intestinalis, and absent bowel-wall enhancement.
+###
+Which of the following statements is WRONG?
+A) Bowel strangulation classically causes a lactic metabolic acidosis
+B) Vomiting may independently cause a hypochloraemic, hypokalaemic metabolic alkalosis
+C) A high lactate supports the diagnosis of mesenteric ischaemia
+D) Pain out of proportion to examination findings is an early feature of acute mesenteric ischaemia
+E) Bowel strangulation causes metabolic alkalosis with hypokalaemia
+Correct Answer: E) Bowel strangulation causes metabolic alkalosis with hypokalaemia
+Explanation: Ischaemia produces lactic metabolic acidosis, not alkalosis. Any alkalosis in these patients comes from a separate cause, usually vomiting.
