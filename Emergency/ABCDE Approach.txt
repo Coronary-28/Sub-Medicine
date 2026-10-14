@@ -1,0 +1,592 @@
+Which of the following is NOT a limitation of pulse oximetry?
+A) Severe anemia (Hb 7–10 g/dL)
+B) Carbon monoxide poisoning
+C) Severe vasoconstriction
+D) Hypertension
+E) Nail polish or artificial nails
+Correct Answer: D) Hypertension
+Explanation: Hypertension does not interfere with the optical signal. Inaccuracy arises from poor pulsatile flow (vasoconstriction, shock, hypothermia), dyshemoglobinemias (carboxyhemoglobin reads falsely normal), anemia, and optical interference.
+###
+All of the following statements regarding pulse oximetry are true, EXCEPT:
+A) It provides a continuous noninvasive measurement of pulse rate
+B) It provides a continuous noninvasive measurement of the partial pressure of oxygen
+C) It depends on differential light absorption by oxygenated and deoxygenated hemoglobin
+D) Significant dyshemoglobinemia can affect its accuracy
+E) Excessive ambient light can interfere with its accuracy
+Correct Answer: B) It provides a continuous noninvasive measurement of the partial pressure of oxygen
+Explanation: Pulse oximetry estimates hemoglobin saturation (SpO₂), not PaO₂. The partial pressure of oxygen requires arterial blood gas analysis.
+###
+You are alone with a patient in suspected cardiac or respiratory arrest. After ensuring scene safety and before sending for help, what is the next step?
+A) Start chest compressions
+B) Call the ambulance
+C) Open the airway
+D) Begin rescue breaths
+E) Check for responsiveness
+Correct Answer: E) Check for responsiveness
+Explanation: Responsiveness must be established first. Only then is EMS activated, followed by assessment of breathing and pulse.
+###
+A 21-year-old intoxicated college student turns blue and collapses while eating a hot dog. What is the most likely cause?
+A) Cardiac arrest
+B) Alcohol poisoning
+C) Choking
+D) Drug ingestion
+E) Anaphylaxis
+Correct Answer: C) Choking
+Explanation: Sudden cyanosis while eating indicates foreign-body airway obstruction, and intoxication increases the risk of aspiration. Cardiac arrest would be a consequence of prolonged obstruction, not the primary cause.
+###
+A 39-year-old man has a GCS of 6, no facial trauma, a deviated nasal septum, and a full beard. What is the most appropriate airway management?
+A) Orotracheal intubation by two operators with in-line cervical spine stabilization
+B) Forced nasotracheal intubation past the deviated septum
+C) Bag-valve-mask ventilation until the beard can be shaved
+D) Surgical cricothyrotomy
+E) Bag-valve-mask ventilation until the cervical spine is excluded
+Correct Answer: A) Orotracheal intubation by two operators with in-line cervical spine stabilization
+Explanation: A GCS of 6 requires a definitive airway, and a deviated septum argues against the nasal route. A beard is not a contraindication to orotracheal intubation, and surgical cricothyrotomy is reserved for failed airway access.
+###
+A 65-year-old man on a short ladder suddenly collapses and is unresponsive. What is the next step?
+A) Begin chest compressions
+B) Begin mouth-to-mouth ventilation
+C) Check the pulse
+D) Call EMS and obtain an AED
+E) Place him in the recovery position
+Correct Answer: D) Call EMS and obtain an AED
+Explanation: After unresponsiveness is established, EMS is activated and an AED obtained, then breathing and pulse are assessed. CPR cannot be started before arrest is confirmed.
+###
+After finding an unresponsive child, shouting for help, and confirming that the child is not breathing but has a pulse, what is the next step?
+A) Leave the child to search for an AED
+B) Open the airway by head tilt–chin lift and give rescue breaths
+C) Begin back blows and chest thrusts
+D) Start chest compressions
+E) Perform the Heimlich maneuver
+Correct Answer: B) Open the airway by head tilt–chin lift and give rescue breaths
+Explanation: A palpable pulse with absent breathing is respiratory arrest, which is managed with airway opening and rescue breathing. Compressions are indicated only when the pulse is absent.
+###
+After finding an unresponsive child with no normal breathing and no definite pulse, and with help already activated, what should the rescuer do next?
+A) Leave to search for an AED
+B) Deliver rescue breaths only
+C) Begin back blows and chest thrusts
+D) Perform abdominal thrusts
+E) Begin chest compressions (30:2)
+Correct Answer: E) Begin chest compressions (30:2)
+Explanation: The absence of a pulse defines cardiac arrest, so CPR starts immediately. A lone rescuer uses 30:2, and the AED is applied as soon as it is available.
+###
+After finding someone unresponsive with a pulse but not breathing, you are unable to deliver effective breaths. What is the next step?
+A) Begin chest compressions
+B) Perform abdominal thrusts
+C) Repeat head tilt–chin lift and reattempt the breath
+D) Perform the Heimlich maneuver
+E) Leave the patient to search for an AED
+Correct Answer: C) Repeat head tilt–chin lift and reattempt the breath
+Explanation: Ineffective breaths usually result from inadequate airway positioning, so the airway is repositioned first. Compressions are not indicated while a pulse is present.
+###
+A witnessed adult collapse is followed by loss of consciousness and absent normal breathing. What is the correct resuscitation sequence?
+A) Recognize arrest, activate EMS and obtain an AED, begin high-quality CPR (30:2), and defibrillate promptly if the rhythm is shockable
+B) Establish IV access, give epinephrine, begin CPR, then apply the AED
+C) Intubate, begin CPR, call EMS, then apply the AED
+D) Check the pulse for 30 seconds, give rescue breaths first, call EMS, then begin compressions
+E) Perform CPR for 5 minutes, activate EMS, then apply the AED
+Correct Answer: A) Recognize arrest, activate EMS and obtain an AED, begin high-quality CPR (30:2), and defibrillate promptly if the rhythm is shockable
+Explanation: Early activation, immediate high-quality CPR, and early defibrillation form the core sequence. Advanced airway or drug therapy must never delay CPR or the first indicated shock.
+###
+Which of the following findings in a child indicates a currently patent airway, so that immediate invasive airway intervention is not required?
+A) Weak or absent cough
+B) Inability to speak or make sounds
+C) Cyanosis with poor air movement
+D) Crying or speaking
+E) Altered mental status with apnea
+Correct Answer: D) Crying or speaking
+Explanation: Vocalization requires airflow through the airway, whereas the other findings indicate obstruction or respiratory failure. Ongoing reassessment is still required, since stridor, fatigue, or deterioration can develop.
+###
+All of the following are true regarding confirmation of endotracheal tube position, EXCEPT:
+A) Auscultation of the chest and epigastrium
+B) Visualizing the tube passing through the esophagus
+C) Continuous waveform capnography (ETCO₂)
+D) Chest X-ray
+E) Direct visualization of the tube passing between the vocal cords
+Correct Answer: B) Visualizing the tube passing through the esophagus
+Explanation: A tube passing into the esophagus is a misplacement, not a confirmation. Correct placement is through the vocal cords into the trachea, confirmed by waveform capnography and clinical checks.
+###
+All of the following are true regarding retropharyngeal abscess, EXCEPT:
+A) It presents with fever, neck pain, drooling, and torticollis
+B) The prevertebral soft-tissue space is widened on a lateral neck X-ray
+C) It may obstruct the airway or extend into the mediastinum
+D) It may rupture with aspiration
+E) It is most common between ages 5 and 7 years
+Correct Answer: E) It is most common between ages 5 and 7 years
+Explanation: Retropharyngeal abscess is more common in young children, and the stated age range is not the typical peak. The other statements are true, and the condition is potentially life-threatening.
+###
+Apnea is defined as a respiratory pause lasting at least:
+A) 5 seconds
+B) 10 seconds
+C) 20 seconds
+D) 30 seconds
+E) 60 seconds
+Correct Answer: C) 20 seconds
+Explanation: Apnea is a pause of at least 20 seconds, or a shorter pause accompanied by bradycardia, desaturation, cyanosis, or pallor. The same definition applies to apnea of prematurity in a preterm infant.
+###
+An unresponsive adult has no pulse, and the rescuer is unable or unwilling to give breaths. What should the rescuer do?
+A) Start hands-only chest compressions immediately and use an AED as soon as available
+B) Wait for EMS to arrive before any intervention
+C) Perform abdominal thrusts
+D) Recheck the pulse repeatedly until help arrives
+E) Place the patient in the recovery position
+Correct Answer: A) Start hands-only chest compressions immediately and use an AED as soon as available
+Explanation: Compressions and early defibrillation are the priority in pulseless arrest, and hands-only CPR is acceptable when breaths cannot be given. Trained rescuers should add ventilation when feasible.
+###
+What is the best artery for assessing the pulse in an infant?
+A) Radial
+B) Carotid
+C) Femoral
+D) Brachial
+E) Dorsalis pedis
+Correct Answer: D) Brachial
+Explanation: The brachial artery is the preferred pulse-check site in infants (under 1 year), because the short, fat neck makes the carotid pulse difficult to palpate.
+###
+What is the correct initial BLS sequence after finding a collapsed adult?
+A) Start chest compressions, call EMS, check the pulse, assess responsiveness
+B) Assess responsiveness, call EMS and get an AED, check breathing and pulse (≤10 seconds), start chest compressions
+C) Assess responsiveness, open the airway, give two breaths, call EMS, start compressions
+D) Call EMS, check the pulse for 30 seconds, give rescue breaths, start compressions
+E) Assess responsiveness, check breathing and pulse, start compressions, then call EMS
+Correct Answer: B) Assess responsiveness, call EMS and get an AED, check breathing and pulse (≤10 seconds), start chest compressions
+Explanation: Responsiveness is assessed first, EMS and an AED are requested early, and breathing and pulse are checked together within 10 seconds before compressions begin.
+###
+Which is the most common cause of bronchiolitis in children under 2 years of age, including many children older than 1 year?
+A) Parainfluenza virus
+B) Adenovirus
+C) Influenza virus
+D) Streptococcus pneumoniae
+E) Respiratory syncytial virus (RSV)
+Correct Answer: E) Respiratory syncytial virus (RSV)
+Explanation: RSV is the most common cause of bronchiolitis in this age group, although it is not the only pathogen. Parainfluenza virus is the typical cause of croup.
+###
+How often should compressors switch during two-rescuer CPR?
+A) Every 2 cycles
+B) Every 3 cycles
+C) About every 5 cycles (every 2 minutes)
+D) Every 10 cycles
+E) Every 15 cycles
+Correct Answer: C) About every 5 cycles (every 2 minutes)
+Explanation: Rescuers switch about every 2 minutes (approximately 5 cycles of 30:2) to prevent fatigue and preserve compression quality, with the pause kept minimal.
+###
+Which is the earliest sign of respiratory distress or airway compromise?
+A) Tachypnea
+B) Cyanosis
+C) Nasal flaring
+D) Intercostal retractions
+E) Hypotension
+Correct Answer: A) Tachypnea
+Explanation: An increased respiratory rate is the earliest change. Flaring and retractions reflect increased work of breathing, whereas cyanosis and hypotension are late signs.
+###
+A farmer presents with cyanosis, frothy oral secretions, difficulty breathing, and pinpoint pupils. What is the first step?
+A) Administer pralidoxime
+B) Administer atropine
+C) Remove contaminated clothing and wash the skin
+D) Clear the airway
+E) Administer a benzodiazepine
+Correct Answer: D) Clear the airway
+Explanation: This is an organophosphate toxidrome with copious bronchial secretions. Airway and breathing take priority over antidotes (atropine, pralidoxime) in the ABC approach.
+###
+Which is the most commonly used first-choice intraosseous (IO) access site in pediatric patients?
+A) Sternum
+B) Proximal tibia
+C) Distal femur
+D) Proximal humerus
+E) Femoral neck
+Correct Answer: B) Proximal tibia
+Explanation: The proximal tibia is the classic first-choice site in children. The distal tibia and proximal humerus are alternatives depending on age, equipment, and training.
+###
+Which maneuver should be used to open the airway when cervical spine injury is suspected?
+A) Head tilt–chin lift
+B) Neck hyperextension with sniffing position
+C) Head-down positioning with neck flexion
+D) Rolling the patient into the lateral position
+E) Jaw thrust with manual in-line stabilization
+Correct Answer: E) Jaw thrust with manual in-line stabilization
+Explanation: Jaw thrust opens the airway without extending the neck. Head tilt–chin lift is used only if the airway cannot otherwise be opened.
+###
+In an unresponsive patient, the pulse should be checked for no more than ____ seconds.
+A) 2 seconds
+B) 5 seconds
+C) 10 seconds
+D) 15 seconds
+E) 30 seconds
+Correct Answer: C) 10 seconds
+Explanation: The pulse check is limited to 10 seconds so that compressions are not delayed. If there is any doubt about the pulse, CPR is started.
+###
+Which of the following is a late sign of airway compromise?
+A) Low oxygen saturation
+B) Tachypnea
+C) Change in voice
+D) Abnormal breath sounds (stridor, gurgling)
+E) Agitation
+Correct Answer: A) Low oxygen saturation
+Explanation: Desaturation appears late, so the airway must be addressed before it develops. Agitation, tachypnea, voice change, and stridor or gurgling are early signs.
+###
+Which of the following is considered a definitive airway?
+A) Nasal cannula
+B) Oropharyngeal airway
+C) Nasopharyngeal airway
+D) Cuffed tube in the trachea
+E) Non-rebreather oxygen mask
+Correct Answer: D) Cuffed tube in the trachea
+Explanation: A definitive airway is a cuffed tube in the trachea, which protects against aspiration and allows full ventilatory control. Oropharyngeal and nasopharyngeal airways and masks are adjuncts.
+###
+Which of the following is the appropriate management of peritonsillar abscess?
+A) Penicillin plus clindamycin plus vancomycin for every patient
+B) Drainage plus antibiotics covering group A streptococci and oral anaerobes (e.g., ampicillin–sulbactam)
+C) Antibiotics alone without drainage
+D) Observation with analgesia only
+E) Antivirals with corticosteroids
+Correct Answer: B) Drainage plus antibiotics covering group A streptococci and oral anaerobes (e.g., ampicillin–sulbactam)
+Explanation: Treatment combines drainage with antibiotics directed at group A streptococci and oral anaerobes. Penicillin plus clindamycin and/or vancomycin is not a blanket regimen for every patient.
+###
+Which route is the preferred first-line route for administering drugs during cardiac arrest?
+A) Endotracheal tube
+B) Intramuscular
+C) Subcutaneous
+D) Sublingual
+E) Peripheral intravenous
+Correct Answer: E) Peripheral intravenous
+Explanation: The peripheral IV route is first-line, with IO as the alternative when IV access fails. The endotracheal route is a last resort because absorption is poor and unpredictable.
+###
+What is the first maneuver to improve oxygenation after chest injury?
+A) Intubate the patient
+B) Assess arterial blood gases
+C) Administer supplemental oxygen
+D) Ascertain the need for a chest tube
+E) Obtain a lateral cervical spine X-ray
+Correct Answer: C) Administer supplemental oxygen
+Explanation: The simplest effective intervention comes first, and supplemental oxygen is given to all critically ill patients. Definitive airway management follows only if indicated.
+###
+Which is an appropriate first-aid measure for snake bite?
+A) Keep the patient calm, remove rings and constricting items, immobilize the limb at about heart level, and arrange urgent transport for antivenom
+B) Incision through the fang marks
+C) Suction at the bite site
+D) Application of ice
+E) A tight arterial tourniquet above the bite
+Correct Answer: A) Keep the patient calm, remove rings and constricting items, immobilize the limb at about heart level, and arrange urgent transport for antivenom
+Explanation: Incision, suction, ice, and tight tourniquets worsen local tissue damage and delay proper care without reliably reducing venom spread.
+###
+What approximate inspired oxygen concentration is delivered by a standard low-flow nasal cannula at 1–6 L/min?
+A) 21–24%
+B) 45–60%
+C) 60–80%
+D) 24–44%
+E) 90–100%
+Correct Answer: D) 24–44%
+Explanation: A nasal cannula at 1–6 L/min delivers approximately 24–44% oxygen, varying with flow rate and the patient's inspiratory pattern.
+###
+A choking patient becomes unresponsive. What is the best method to clear the obstruction?
+A) Abdominal thrusts
+B) Start CPR with chest compressions
+C) Back blows
+D) Blind finger sweep
+E) Rescue breaths only
+Correct Answer: B) Start CPR with chest compressions
+Explanation: In an unresponsive choking victim, compressions double as expulsion attempts. The mouth is inspected before each set of breaths, and an object is removed only if visible, never by blind finger sweep.
+###
+What is the preferred initial peripheral vascular access for major trauma resuscitation?
+A) A single small-bore peripheral IV
+B) Internal jugular central line
+C) Subclavian central line
+D) Intraosseous access
+E) Two large-bore peripheral IV lines
+Correct Answer: E) Two large-bore peripheral IV lines
+Explanation: Two 14–16G cannulae allow rapid fluid and blood-product administration. IO access is used if IV access fails or is delayed.
+###
+What is the best method to confirm and continuously monitor endotracheal tube placement?
+A) Auscultation alone
+B) Chest X-ray
+C) Continuous waveform capnography
+D) Mist in the tube
+E) Pulse oximetry
+Correct Answer: C) Continuous waveform capnography
+Explanation: Waveform capnography is the most reliable objective confirmation and allows continuous monitoring. Auscultation alone is insufficient.
+###
+What is the earliest sign of ARDS?
+A) Tachypnea
+B) Hypoxia
+C) Crackles on auscultation
+D) Cyanosis
+E) Bilateral infiltrates on chest X-ray
+Correct Answer: A) Tachypnea
+Explanation: An increased respiratory rate precedes hypoxemia, crackles, and radiographic changes.
+###
+A child is found pulseless and not breathing (unwitnessed), and the rescuer is alone. What is the initial management?
+A) Give 5 rescue breaths first
+B) Look for an AED only
+C) Call EMS before starting CPR
+D) Start CPR immediately for 2 minutes, then call EMS
+E) Perform abdominal thrusts
+Correct Answer: D) Start CPR immediately for 2 minutes, then call EMS
+Explanation: In a child, paediatric arrest is usually respiratory in origin, so CPR is started first and EMS is called after 2 minutes if the rescuer is alone. This differs from a witnessed adult collapse, where EMS is called first.
+###
+What is the first-line treatment for symptomatic bradycardia with a pulse in an adult?
+A) Transcutaneous pacing
+B) Atropine
+C) Dopamine infusion
+D) Epinephrine infusion
+E) Amiodarone
+Correct Answer: B) Atropine
+Explanation: Atropine is first-line, repeated every 3–5 minutes to a maximum of 3 mg. Pacing or dopamine/epinephrine infusion follows if atropine is ineffective.
+###
+When can a laryngeal mask airway be used after an attempted endotracheal intubation?
+A) To replace the tube after successful intubation
+B) Only when the patient is fully conscious
+C) As a definitive airway that fully protects against aspiration
+D) Only before any intubation attempt
+E) As a rescue airway when intubation fails and ventilation is required
+Correct Answer: E) As a rescue airway when intubation fails and ventilation is required
+Explanation: A supraglottic airway is quicker to place and serves as a rescue device in failed or delayed intubation. It does not fully protect against aspiration and is not a definitive airway.
+###
+When giving rescue breaths to an apneic patient who has a pulse, how often should the pulse be rechecked?
+A) Every 10 seconds
+B) Every minute
+C) Every 2 minutes
+D) Every 5 minutes
+E) Every 30 seconds
+Correct Answer: C) Every 2 minutes
+Explanation: The pulse is rechecked about every 2 minutes. CPR is started if the pulse is lost.
+###
+Which of the following is the LEAST likely, by itself, to justify unusually prolonged resuscitation?
+A) Catastrophic subarachnoid hemorrhage
+B) Hypothermia
+C) Electrical injury
+D) Toxicologic arrest
+E) Pregnancy near term
+Correct Answer: A) Catastrophic subarachnoid hemorrhage
+Explanation: Prolonged resuscitation is justified when a potentially reversible cause exists, such as hypothermia, toxins, electrical injury, or pregnancy near term. Arrest from catastrophic SAH carries a poor prognosis and does not justify extension.
+###
+Which of the following is NOT an indication for admission in an asthma exacerbation?
+A) Severe respiratory distress
+B) Oxygen saturation below 92%
+C) Persistent symptoms despite initial bronchodilator therapy
+D) Frequent MDI use over the previous months
+E) Altered mental status
+Correct Answer: D) Frequent MDI use over the previous months
+Explanation: Admission is determined by the severity and response of the current episode. Chronic frequent inhaler use does not by itself mandate admission.
+###
+Which statement about high-quality adult CPR is WRONG?
+A) Compress at least 5 cm (2 in) while avoiding excessive depth
+B) Allow only partial chest recoil
+C) Minimize interruptions
+D) Use 30:2 before an advanced airway is placed
+E) Compress at a rate of 100–120/min
+Correct Answer: B) Allow only partial chest recoil
+Explanation: Full chest recoil must be allowed after every compression to permit cardiac refilling. Incomplete recoil reduces coronary and cerebral perfusion.
+###
+While performing CPR on an infant, a second rescuer arrives and EMS has already been activated. What is the next step?
+A) Immediately transport the infant
+B) Wait until exhausted, then switch
+C) Ask the second rescuer to repeat the call to EMS
+D) Have the second rescuer give ventilations only at a 30:2 ratio
+E) Have the second rescuer join for two-rescuer CPR (15:2) and switch compressor roles about every 2 minutes
+Correct Answer: E) Have the second rescuer join for two-rescuer CPR (15:2) and switch compressor roles about every 2 minutes
+Explanation: Two-rescuer pediatric CPR uses 15:2, and switching roles about every 2 minutes minimizes fatigue and preserves compression quality. EMS activation has already been completed.
+###
+A rescuer is uncomfortable giving mouth-to-mouth breaths to an unresponsive person with no pulse. What should be done?
+A) Attempt head tilt and jaw thrust, then give a breath
+B) Wait for EMS before any intervention
+C) Start chest compressions
+D) Place the patient in the recovery position
+E) Search for an AED only
+Correct Answer: C) Start chest compressions
+Explanation: Hands-only compressions are the priority in pulseless arrest and are acceptable when the rescuer is unable or unwilling to give breaths.
+###
+Which of the following lists the correct steps of basic life support (BLS)?
+A) Assess the victim, activate EMS and bring an AED, perform chest compressions, give rescue breaths
+B) Assess the victim, perform chest compressions, give rescue breaths, defibrillate before calling EMS
+C) Assess the airway only
+D) Call EMS, intubate, perform chest compressions
+E) Give rescue breaths, assess the victim, perform chest compressions
+Correct Answer: A) Assess the victim, activate EMS and bring an AED, perform chest compressions, give rescue breaths
+Explanation: BLS begins with assessment and activation of the emergency response with AED retrieval, followed by compressions and breaths. Early defibrillation follows when an AED is available.
+###
+A choking patient is unresponsive but still has a pulse, and EMS has been activated. What is the next step?
+A) Begin CPR
+B) Apply an AED
+C) Place the patient in the recovery position
+D) Open the airway
+E) Perform a blind finger sweep
+Correct Answer: D) Open the airway
+Explanation: A pulse is present, so compressions and an AED are not indicated. The airway obstruction must be addressed first by opening the airway.
+###
+Which of the following is WRONG regarding basic life support?
+A) Scene safety must be ensured first
+B) For a child, the compression-to-breath ratio is 15:2 when only one rescuer is present
+C) For a child, two-rescuer CPR uses 15:2
+D) The brachial artery is used for the pulse check in infants
+E) Compression depth is about one-third of the chest depth in children
+Correct Answer: B) For a child, the compression-to-breath ratio is 15:2 when only one rescuer is present
+Explanation: Single-rescuer pediatric CPR uses 30:2, while 15:2 applies only when two rescuers are present.
+###
+After a failed attempt at peripheral IV access, what is the next step?
+A) Central venous catheter via the femoral vein
+B) Central venous catheter via the internal jugular vein
+C) Central venous catheter via the subclavian vein
+D) Endotracheal drug administration
+E) Intraosseous access
+Correct Answer: E) Intraosseous access
+Explanation: IO access is the rapid, reliable alternative when peripheral IV access fails or is delayed, and it works even in shock. Central lines are slower and carry more complications.
+###
+Which of the following is NOT a contraindication to intraosseous line insertion (before placement)?
+A) Osteomyelitis at the site
+B) Fracture of the target bone
+C) Fluid leakage from the line
+D) Previous IO attempt in the same bone
+E) Cellulitis over the site
+Correct Answer: C) Fluid leakage from the line
+Explanation: Leakage is a post-insertion sign of extravasation or malposition, after which the line should be abandoned. Fracture, local infection, and a prior attempt in the same bone are pre-insertion contraindications.
+###
+What is the target oxygen saturation range in a COPD patient with hypercapnia?
+A) 88–92%
+B) 80–85%
+C) 94–98%
+D) 98–100%
+E) 90–94%
+Correct Answer: A) 88–92%
+Explanation: Controlled oxygen therapy targets 88–92% in patients at risk of hypercapnic respiratory failure, to avoid worsening CO₂ retention. The 94–98% target applies to patients without this risk.
+###
+A conscious child older than 1 year shows the universal sign of choking. Which maneuver is used for severe foreign-body airway obstruction?
+A) Blind finger sweep
+B) Chest thrusts only
+C) Abdominal thrusts only
+D) Alternating 5 back blows and 5 abdominal thrusts
+E) Rescue breaths
+Correct Answer: D) Alternating 5 back blows and 5 abdominal thrusts
+Explanation: Cycles of 5 back blows and 5 abdominal thrusts are continued until the object clears or the child becomes unresponsive. At that point CPR is started.
+###
+All of the following are indications for admission of a pediatric patient with croup, EXCEPT:
+A) Recurrent ER visits
+B) Child age of 24 months
+C) Toxic appearance
+D) Impending respiratory failure
+E) Persistent moderate–severe symptoms despite corticosteroid and nebulized epinephrine
+Correct Answer: B) Child age of 24 months
+Explanation: Admission depends on severity, response to treatment, and risk of deterioration, not on an age of 24 months. Admission or PICU escalation is required for persistent symptoms despite treatment, repeated epinephrine need, failure to maintain oxygenation or hydration, or impending respiratory failure.
+###
+Which is NOT a component of the Pediatric Assessment Triangle?
+A) Airway
+B) Appearance
+C) Work of breathing
+D) Circulation to skin
+Correct Answer: A) Airway
+Explanation: The triangle comprises Appearance, Work of breathing, and Circulation to skin. Airway is assessed separately in the hands-on primary survey.
+###
+All of the following cause acute stridor in children, EXCEPT:
+A) Croup
+B) Foreign body aspiration
+C) Bronchiolitis
+D) Epiglottitis
+E) Bacterial tracheitis
+Correct Answer: C) Bronchiolitis
+Explanation: Bronchiolitis is a lower-airway disease presenting with wheeze and crackles, not stridor. The other conditions are upper-airway causes of acute stridor.
+###
+Which statement regarding epiglottitis is correct?
+A) Hib vaccination has markedly reduced Hib epiglottitis, but other organisms such as streptococci and staphylococci can also cause it
+B) It is always caused by Haemophilus influenzae type b
+C) The diagnosis should be confirmed by throat examination with a tongue depressor
+D) The child should be laid flat to obtain a lateral neck X-ray
+E) The thumbprint sign is seen on an AP neck X-ray
+Correct Answer: A) Hib vaccination has markedly reduced Hib epiglottitis, but other organisms such as streptococci and staphylococci can also cause it
+Explanation: Epiglottitis is not always Hib-related. Throat examination or laying the child flat can precipitate complete obstruction, and the thumbprint sign is seen on the lateral neck film.
+###
+Which finding indicates total or near-total airway obstruction due to a foreign body in a child?
+A) Effective forceful cough
+B) Loud crying
+C) Ability to speak
+D) Weak or absent cough with inability to speak or make sounds
+E) Intermittent wheezing with good air movement
+Correct Answer: D) Weak or absent cough with inability to speak or make sounds
+Explanation: Total obstruction is also associated with cyanosis, altered mental status, apnea, and poor or absent air movement. An effective cough indicates mild obstruction.
+###
+Which combination constitutes the "croup triangle"?
+A) Fever, drooling, tripod positioning
+B) Barking cough, inspiratory stridor, hoarseness
+C) Muffled voice, trismus, uvular deviation
+D) Expiratory wheeze, tachypnea, subcostal retractions
+E) Toxic appearance, thick purulent secretions, high fever
+Correct Answer: B) Barking cough, inspiratory stridor, hoarseness
+Explanation: These three features characterize croup (laryngotracheobronchitis). The other options describe epiglottitis, peritonsillar abscess, bronchiolitis, and bacterial tracheitis respectively.
+###
+What compression-to-ventilation ratio is used for pediatric CPR with one rescuer?
+A) 5:1
+B) 10:2
+C) 15:2
+D) 20:2
+E) 30:2
+Correct Answer: E) 30:2
+Explanation: A single rescuer uses 30:2 in children, while two rescuers use 15:2 before an advanced airway is placed.
+###
+The steeple sign on an AP neck radiograph is classically associated with which condition?
+A) Epiglottitis
+B) Retropharyngeal abscess
+C) Croup
+D) Bacterial tracheitis
+E) Foreign body aspiration
+Correct Answer: C) Croup
+Explanation: The steeple sign represents subglottic narrowing in croup. Croup remains primarily a clinical diagnosis, and imaging is not routinely required.
+###
+In the mnemonic FATHER for the differential diagnosis of acute stridor in children, what does "R" represent?
+A) Retropharyngeal abscess
+B) Respiratory distress syndrome
+C) Reactive airway disease
+D) Respiratory syncytial virus infection
+E) Rhinosinusitis
+Correct Answer: A) Retropharyngeal abscess
+Explanation: FATHER stands for Foreign body, Airway burn/anaphylaxis, Tracheitis/trauma, Hypersensitivity, Epiglottitis, and Retropharyngeal abscess. Croup, the most common cause, is usually listed separately.
+###
+What is the dose of nebulized epinephrine for moderate-to-severe croup?
+A) 0.5 mL of 1:10,000
+B) 2.5 mL of 1 mg/mL regardless of age
+C) 1 mg of 1:10,000 intravenously
+D) 5 mL of 1 mg/mL (1:1000) L-epinephrine, regardless of age or weight
+E) 0.5 mg of 1:1000 intramuscularly
+Correct Answer: D) 5 mL of 1 mg/mL (1:1000) L-epinephrine, regardless of age or weight
+Explanation: The nebulized dose is 5 mL of 1 mg/mL L-epinephrine (or 0.5 mL of 2.25% racemic epinephrine), followed by observation for rebound symptoms. The IV and IM routes are used for arrest and anaphylaxis, respectively.
+###
+How is acute laryngospasm managed?
+A) IM epinephrine as first-line for all cases
+B) Remove the trigger, call for help, perform a jaw thrust, and give 100% oxygen with continuous positive-pressure ventilation
+C) Immediate surgical cricothyrotomy
+D) Atropine
+E) Nebulized corticosteroids
+Correct Answer: B) Remove the trigger, call for help, perform a jaw thrust, and give 100% oxygen with continuous positive-pressure ventilation
+Explanation: Refractory complete laryngospasm may require deepening anesthesia and a neuromuscular blocker such as succinylcholine. IM epinephrine is first-line only when the presentation is anaphylaxis.
+###
+After help is called for an unresponsive, pulseless adult, what should be done while waiting?
+A) Wait for EMS to arrive
+B) Recheck the pulse repeatedly
+C) Intubate the patient
+D) Establish IV access
+E) Begin high-quality CPR immediately
+Correct Answer: E) Begin high-quality CPR immediately
+Explanation: Immediate high-quality CPR maintains coronary and cerebral perfusion until defibrillation or advanced care is available.
+###
+Which device analyzes the cardiac rhythm during basic life support and advises whether a shock is needed?
+A) 12-lead ECG machine
+B) Transcutaneous pacemaker
+C) Automated external defibrillator (AED)
+D) Pulse oximeter
+E) Capnograph
+Correct Answer: C) Automated external defibrillator (AED)
+Explanation: The AED analyzes the rhythm and advises a shock when indicated. The chest is exposed and dried, pads are attached, the patient is cleared during analysis and shock, and CPR is resumed immediately afterward.
+###
+Which lateral neck radiographic sign is classically associated with epiglottitis?
+A) Thumbprint sign
+B) Steeple sign
+C) Widened prevertebral soft-tissue space
+D) Subglottic narrowing
+E) Radiopaque foreign body
+Correct Answer: A) Thumbprint sign
+Explanation: The thumbprint sign reflects a swollen epiglottis. In a toxic child with suspected epiglottitis, imaging must never delay expert airway management.
+###
+All of the following are considered minimal precautions for preventing the spread of communicable disease during resuscitation, EXCEPT:
+A) Water-impervious leggings
+B) Face mask
+C) Goggles
+D) Needle-impermeable sterile gloves
+E) Water-impervious gown
+Correct Answer: D) Needle-impermeable sterile gloves
+Explanation: Minimal barrier precautions consist of a water-impervious gown and leggings, a face mask, and eye protection. Needle-impermeable sterile gloves are not part of the minimal set.
