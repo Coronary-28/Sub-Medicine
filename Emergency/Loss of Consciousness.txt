@@ -1,0 +1,206 @@
+Which is NOT a component of the FAST stroke recognition tool?
+A) Facial droop
+B) Arm weakness
+C) Seizure
+D) Speech difficulty
+E) Time to call emergency services
+Correct Answer: C) Seizure
+Explanation: FAST consists of Face drooping, Arm weakness, Speech difficulty, and Time to call emergency services. Seizures can accompany stroke but are not a recognition sign in this tool.
+###
+A patient presents with acute dysarthria suggestive of stroke, with no available medical history. Which immediate bedside test must not be missed?
+A) Capillary blood glucose
+B) 12-lead ECG
+C) Serum troponin
+D) Lumbar puncture
+E) Arterial blood gas
+Correct Answer: A) Capillary blood glucose
+Explanation: Hypoglycaemia can mimic acute stroke and is rapidly correctable, so glucose is checked first. The stroke pathway (last-known-well time, urgent brain imaging) proceeds in parallel.
+###
+A stroke patient presents with intention tremor, dysdiadochokinesia, nystagmus, ataxia, and a contralateral motor deficit. Which arterial territory is affected?
+A) Anterior cerebral artery
+B) Middle cerebral artery
+C) Posterior cerebral artery
+D) Vertebrobasilar artery
+E) Internal carotid artery
+Correct Answer: D) Vertebrobasilar artery
+Explanation: Cerebellar and brainstem signs (intention tremor, dysdiadochokinesia, nystagmus, ataxia) with a contralateral motor deficit localise to the posterior circulation. MCA strokes produce contralateral face and arm weakness with aphasia or neglect, not cerebellar signs.
+###
+Which of the following is an absolute contraindication to IV thrombolysis in acute ischaemic stroke?
+A) Major surgery 3 weeks ago
+B) Ischaemic stroke within the last 3 months
+C) Pregnancy
+D) Seizure at onset with post-ictal residual deficits
+E) Minor or rapidly improving symptoms
+Correct Answer: B) Ischaemic stroke within the last 3 months
+Explanation: Ischaemic stroke or serious head trauma within the last 3 months is an absolute exclusion. Recent major surgery, pregnancy, seizure at onset, and minor or rapidly improving symptoms are relative considerations.
+###
+Which standardized tool is used for the clinical neurological assessment of stroke severity in the Emergency Department?
+A) Glasgow Coma Scale
+B) AVPU scale
+C) Cincinnati Prehospital Stroke Scale
+D) San Francisco Syncope Rule
+E) NIH Stroke Scale (NIHSS)
+Correct Answer: E) NIH Stroke Scale (NIHSS)
+Explanation: The NIHSS quantifies stroke deficits and is the standard severity assessment in the stroke team pathway. The Cincinnati scale is a prehospital recognition tool (face, arm, speech), and the GCS and AVPU assess conscious level only.
+###
+All of the following are relative exclusion criteria for IV thrombolysis in acute ischaemic stroke EXCEPT:
+A) Pregnancy
+B) Recent GI or GU haemorrhage
+C) Platelet count < 100,000/µL
+D) Minor or rapidly improving symptoms
+E) Seizure at onset with post-ictal residual deficits
+Correct Answer: C) Platelet count < 100,000/µL
+Explanation: Platelets < 100,000/µL (like INR > 1.7 and therapeutic anticoagulation) is an absolute exclusion. The other options are relative exclusions.
+###
+Which of the following is a contraindication to tissue plasminogen activator (tPA) therapy in acute ischaemic stroke?
+A) Blood pressure 200/110 mmHg
+B) Symptom onset 30 minutes earlier
+C) Limb weakness for 2 hours
+D) Normal non-contrast CT head
+E) Platelet count 250,000/µL
+Correct Answer: A) Blood pressure 200/110 mmHg
+Explanation: Severe uncontrolled hypertension (classically ≥ 185/110 mmHg despite treatment) is an exclusion. The other options are within the treatment window or are normal findings.
+###
+All of the following are contraindications to thrombolysis in acute stroke EXCEPT:
+A) Weakness first noticed 5 hours ago
+B) INR > 1.7
+C) Active internal bleeding
+D) Platelet count < 150,000/µL
+E) Ischaemic stroke 2 months ago
+Correct Answer: D) Platelet count < 150,000/µL
+Explanation: The platelet exclusion threshold is < 100,000/µL, so a count between 100,000 and 150,000 is not a contraindication. Onset 5 hours ago is outside the standard window, INR > 1.7 and active bleeding are exclusions, and a stroke within 3 months is an absolute exclusion.
+###
+A patient with acute stroke has a large established multilobar infarct on brain imaging. How does this finding affect eligibility for IV thrombolysis?
+A) It is an absolute contraindication in all cases
+B) It is a relative caution, weighed against time window, clinical severity, and bleeding risk
+C) It is an indication to give a double dose of the thrombolytic
+D) It has no effect on thrombolysis decisions
+E) It mandates repeat CT at 24 hours before any treatment
+Correct Answer: B) It is a relative caution, weighed against time window, clinical severity, and bleeding risk
+Explanation: A large established infarct increases the risk of haemorrhagic transformation. In current practice it is treated as a relative caution rather than a fixed stand-alone exclusion.
+###
+Which of the following is NOT one of the "D"s of stroke care?
+A) Disposition
+B) Drug therapy
+C) Decision
+D) Dispatch
+E) Defibrillation
+Correct Answer: E) Defibrillation
+Explanation: The 8 D's are Detection, Dispatch, Delivery, Door, Data, Decision, Drug (or device), and Disposition. Defibrillation belongs to arrest management, not the stroke chain.
+###
+A patient has isolated left-hand weakness with pronator drift and no sensory loss. Where is the lesion?
+A) Left cerebellum
+B) Right cerebellum
+C) Right frontal motor cortex
+D) Right parietal lobe
+E) Left parietal lobe
+Correct Answer: C) Right frontal motor cortex
+Explanation: Isolated contralateral weakness with pronator drift and intact sensation indicates a lesion of the motor cortex or corticospinal pathway, here on the right. Cerebellar lesions cause ataxia and incoordination rather than weakness, and parietal lesions cause sensory deficits.
+###
+Which of the following arteries is NOT part of the circle of Willis?
+A) Vertebral artery
+B) Anterior communicating artery
+C) Posterior communicating artery
+D) Internal carotid artery
+E) Posterior cerebral artery
+Correct Answer: A) Vertebral artery
+Explanation: The vertebral arteries unite to form the basilar artery and supply the circle only indirectly, so they are feeding vessels rather than components of the ring. The ring is formed by the internal carotid, anterior and posterior cerebral, and the anterior and posterior communicating arteries.
+###
+A patient with diabetes and hypertension presents with vertigo, double vision, and difficulty speaking. The symptoms resolve within 1–2 hours. What is the most likely diagnosis and affected vessel?
+A) Embolic stroke – Middle cerebral artery
+B) Thrombotic stroke – Middle cerebral artery
+C) TIA – Middle cerebral artery
+D) TIA – Vertebrobasilar artery
+E) Thrombotic stroke – Anterior cerebral artery
+Correct Answer: D) TIA – Vertebrobasilar artery
+Explanation: Vertigo, diplopia, and dysarthria point to posterior-circulation ischaemia, and complete resolution within a short window defines a TIA. MCA events cause contralateral face and arm weakness, aphasia, or neglect.
+###
+A patient presents with thunderclap headache, photophobia, vomiting, neck stiffness, and blood pressure 190/110 mmHg. Subarachnoid haemorrhage is suspected and urgent non-contrast CT head is arranged. Which listed IV agent is appropriate if controlled blood-pressure reduction is required?
+A) Ceftriaxone
+B) Nicardipine
+C) Ketorolac
+D) Platelet transfusion
+E) Vitamin K
+Correct Answer: B) Nicardipine
+Explanation: Nicardipine is the preferred titratable IV antihypertensive in SAH, allowing controlled reduction while avoiding hypotension. Ceftriaxone treats meningitis, and ketorolac, platelets, and vitamin K have no role in blood-pressure control.
+###
+A patient with Ehlers-Danlos syndrome presents with sudden severe headache, neck stiffness, photophobia, and nausea. What is the most important immediate step in the Emergency Department?
+A) Lumbar puncture before any imaging
+B) IV thrombolysis
+C) Oral analgesia and observation
+D) Cervical spine radiograph
+E) Urgent non-contrast CT head
+Correct Answer: E) Urgent non-contrast CT head
+Explanation: Connective tissue disease raises the risk of aneurysmal rupture and arterial dissection, so sudden severe headache is treated as SAH until proven otherwise. After ABC stabilisation, urgent non-contrast CT is highly sensitive in the first 6 hours, and LP is reserved for a negative CT with persistent suspicion.
+###
+A woman presents with headache. Which of the following is the correct match?
+A) Band-like pain – Cluster headache
+B) Early-morning headache – Migraine
+C) Neck stiffness – Subarachnoid haemorrhage
+D) Unilateral periorbital pain with lacrimation – Tension-type headache
+E) Thunderclap onset – Tension-type headache
+Correct Answer: C) Neck stiffness – Subarachnoid haemorrhage
+Explanation: Meningism from blood irritating the meninges accompanies SAH, usually with thunderclap onset. Band-like pain is tension-type, periorbital pain with lacrimation is cluster, and early-morning headache suggests raised intracranial pressure.
+###
+Can severe hyperglycaemia (above 300 mg/dL) cause a decreased level of consciousness?
+A) Yes, through hyperosmolarity, dehydration, or diabetic ketoacidosis
+B) No, only hypoglycaemia lowers the level of consciousness
+C) No, it affects consciousness only in non-diabetic patients
+D) Yes, but only through direct neuronal toxicity of glucose
+E) No, unless the glucose exceeds 1,000 mg/dL
+Correct Answer: A) Yes, through hyperosmolarity, dehydration, or diabetic ketoacidosis
+Explanation: Severe hyperglycaemia impairs consciousness through hyperosmolar dehydration or DKA, where acidosis disrupts neuronal metabolism. Hyperglycaemia is therefore a recognised cause of altered mental status.
+###
+Which of the following diseases is NOT among those that must be reported immediately to health authorities?
+A) Cholera
+B) Plague
+C) Poliomyelitis
+D) Meningitis
+E) Yellow fever
+Correct Answer: D) Meningitis
+Explanation: Cholera, plague, poliomyelitis, and yellow fever are the classic immediately reportable diseases. Meningitis is not part of this group (national notification lists may vary).
+###
+A patient has a brief, self-limited loss of consciousness followed by complete spontaneous recovery without a persistent neurological deficit. What is this event called?
+A) Coma
+B) Transient loss of consciousness (TLOC)
+C) Stupor
+D) Obtundation
+E) Non-convulsive status epilepticus
+Correct Answer: B) Transient loss of consciousness (TLOC)
+Explanation: TLOC is a spontaneous, self-limited loss of awareness and postural tone with prompt, complete recovery. It is termed syncope when caused by transient global cerebral hypoperfusion. Coma is prolonged unarousable unresponsiveness, typically more than 1 hour.
+###
+A person collapses after prolonged standing in a hot, crowded environment. What is the likely diagnosis and initial management?
+A) Cardiac syncope – immediate synchronised cardioversion
+B) Seizure – IV benzodiazepine
+C) Stokes-Adams attack – transcutaneous pacing
+D) Drug-induced orthostatic hypotension – IV vasopressor infusion
+E) Vasovagal syncope – supine position with leg elevation, assessment of ABCs and glucose, and exclusion of dangerous causes
+Correct Answer: E) Vasovagal syncope – supine position with leg elevation, assessment of ABCs and glucose, and exclusion of dangerous causes
+Explanation: Prolonged standing and a hot, crowded setting are typical orthostatic triggers of reflex (vasovagal) syncope. Management is supportive: lay the patient supine, elevate the legs, assess ABCs and glucose, and exclude dangerous causes.
+###
+Which of the following best defines a Stokes-Adams attack?
+A) A gradual faint after prolonged standing, preceded by pallor and nausea
+B) Exertional syncope from fixed outflow obstruction in severe aortic stenosis
+C) Sudden syncope from transient complete heart block or a long sinus pause, often without prodrome
+D) Loss of consciousness with tonic-clonic movements and prolonged post-ictal confusion
+E) Fainting during or immediately after micturition
+Correct Answer: C) Sudden syncope from transient complete heart block or a long sinus pause, often without prodrome
+Explanation: A transient, severe bradyarrhythmia causes abrupt cerebral hypoperfusion with rapid recovery, and the lack of a prodrome distinguishes it from vasovagal syncope. A gradual faint with pallor and nausea is vasovagal, and prolonged post-ictal confusion indicates seizure.
+###
+A patient faints during or immediately after urination. What is the likely diagnosis and mechanism?
+A) Micturition syncope – situational reflex syncope from vagal activation with reduced vascular resistance and venous return
+B) Orthostatic hypotension – inadequate preload from volume depletion
+C) Cardiac syncope – sustained ventricular tachyarrhythmia
+D) Seizure – abnormal cortical electrical activity
+E) Vertebrobasilar TIA – transient brainstem ischaemia
+Correct Answer: A) Micturition syncope – situational reflex syncope from vagal activation with reduced vascular resistance and venous return
+Explanation: Fainting that is temporally linked to voiding is a situational reflex syncope. Vagal activation lowers vascular resistance and venous return, producing cerebral hypoperfusion.
+###
+What is reflex (neurally mediated) syncope, and what are its main subtypes?
+A) Syncope from an arrhythmia; subtypes are bradyarrhythmic and tachyarrhythmic
+B) Syncope from volume depletion, drugs, or autonomic failure on standing
+C) Syncope from brainstem ischaemia; subtypes are vertebral and basilar
+D) Syncope from an involuntary autonomic reflex causing vasodilation and/or bradycardia; subtypes are vasovagal, situational, and carotid-sinus
+E) Syncope from mechanical obstruction such as massive PE or aortic dissection
+Correct Answer: D) Syncope from an involuntary autonomic reflex causing vasodilation and/or bradycardia; subtypes are vasovagal, situational, and carotid-sinus
+Explanation: Reflex syncope results from a sudden rise in parasympathetic tone and sympathetic withdrawal, causing bradycardia and/or hypotension. The other options describe cardiac, orthostatic, neurological, and obstructive causes.
