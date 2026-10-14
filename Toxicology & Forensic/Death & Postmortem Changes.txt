@@ -1,0 +1,521 @@
+Molecular (cellular) death occurs in relation to somatic death:
+A) Before somatic death
+B) Simultaneously with somatic death
+C) After somatic death
+D) Only after rigor mortis is fully established
+E) Only after the onset of putrefaction
+Correct Answer: C) After somatic death
+Explanation: Molecular death follows somatic death (about 1–2 hours after vital functions stop) and occurs piecemeal, cell by cell. This lag is the basis of the organ-donation window.
+###
+Which statement about second-degree burns is NOT correct?
+A) It is a cause of apparent death (suspended animation)
+B) It extends into the dermis
+C) Blister formation is characteristic
+D) It is very painful
+E) It is less severe than a full-thickness burn
+Correct Answer: A) It is a cause of apparent death (suspended animation)
+Explanation: A second-degree burn does not suppress the vital signs, so it cannot simulate death. Its features are dermal involvement, blisters and marked pain, because the nerve endings are intact, unlike third-degree burns.
+###
+A dead body is found in a flat. Rectal temperature is 26.4°C, ambient temperature 18°C, and body weight 90 kg. The approximate time since death is:
+A) One hour
+B) Less than six hours
+C) Three hours
+D) More than six hours
+E) Less than four hours
+Correct Answer: D) More than six hours
+Explanation: (37.2 − 26.4) = 10.8°C ÷ 1–1.5°C/hour gives about 7–11 hours. A heavy 90 kg body cools more slowly, so the interval is, if anything, longer (Henssge nomogram corrects for weight and ambient temperature).
+###
+A body is found in an apartment with a rectal temperature of 32°C and rigor mortis not yet complete. The most likely time since death is:
+A) One hour
+B) Less than 6 hours
+C) 12 hours
+D) More than 8 hours
+E) 24 hours
+Correct Answer: B) Less than 6 hours
+Explanation: (37.2 − 32) = 5.2°C ÷ 1–1.5°C/hour gives about 3.5–5 hours. Incomplete rigor, which begins at 2–3 hours and is established by 9–12 hours, fits a recent death.
+###
+The estimated time since death of a body found cold AND stiff is:
+A) Less than 3 hours
+B) 3–8 hours
+C) More than 36 hours
+D) 48–72 hours
+E) 8–36 hours
+Correct Answer: E) 8–36 hours
+Explanation: Cold with rigor present means 8–36 hours. Warm and flaccid is under 3 hours, warm and stiff is 3–8 hours, and cold and flaccid (secondary flaccidity) is over 36 hours.
+###
+A full stomach with undigested meal at autopsy indicates that the last meal was taken:
+A) More than four hours before death
+B) More than six hours before death
+C) Less than two hours before death
+D) More than twelve hours before death
+E) It is a meaningless finding
+Correct Answer: C) Less than two hours before death
+Explanation: A full stomach with undigested food suggests death within about 2 hours of the meal, whereas an empty stomach suggests at least 4–6 hours. It is only a rough guide, since fear, injury and coma delay gastric emptying.
+###
+Which of the following post-mortem changes begins immediately after death?
+A) Suggilation (livor mortis / hypostasis)
+B) Rigor mortis
+C) Putrefaction
+D) Adipocere formation
+E) Algor mortis
+Correct Answer: A) Suggilation (livor mortis / hypostasis)
+Explanation: Livor starts as soon as circulation stops and blood is governed by gravity (apparent at about 2 hours, fixed at about 6–8 hours). Rigor appears at 2–3 hours and putrefaction becomes visible at 48–72 hours. Cooling (algor) is a gradual process.
+###
+Which of the following appears immediately after death in a person who died under intense emotion?
+A) Rigor mortis
+B) Livor mortis
+C) Algor mortis
+D) Cadaveric spasm
+E) Primary flaccidity
+Correct Answer: D) Cadaveric spasm
+Explanation: Cadaveric spasm is instantaneous rigidity at the moment of death, linked to violent death with intense emotion. Ordinary rigor mortis is delayed by 2–3 hours.
+###
+Rigor mortis is first evident in:
+A) Lower limbs
+B) Eyelids (orbicularis oculi) / voluntary muscles
+C) Myocardium
+D) Intestine
+E) Trunk muscles
+Correct Answer: B) Eyelids (orbicularis oculi) / voluntary muscles
+Explanation: Rigor is first detected in the small muscles of the eyelids, then face and jaw, neck, upper limbs, trunk and lower limbs (head to foot). The myocardium stiffens early but this is not evident on examination.
+###
+The fundamental cause of rigor mortis is:
+A) Active contraction triggered by calcium channel activation
+B) Breakdown of the muscle cell wall by autolytic enzymes
+C) Coagulation of muscle proteins by heat
+D) Rising alkalinity of muscle tissue
+E) Depletion of ATP, so actin–myosin cross-bridges cannot release
+Correct Answer: E) Depletion of ATP, so actin–myosin cross-bridges cannot release
+Explanation: Rigor is a passive stiffening, not an active contraction: with low ATP and rising acidity the actin–myosin bonds cannot dissociate. Heat coagulation causes heat stiffness, and muscle turns alkaline again only in secondary flaccidity.
+###
+The best site for recording body temperature to estimate the time of death is:
+A) Axilla
+B) Mouth
+C) Rectum
+D) Groin
+E) External auditory meatus
+Correct Answer: C) Rectum
+Explanation: The rectum (8–10 cm above the anus) gives the true core temperature and is the standard site for the cooling formula. The external ear is a recognised site but is not the ideal one.
+###
+In practice, the most accurate way of estimating the time of death is:
+A) Scene markers (last seen alive, uncollected mail, dated receipts)
+B) Algor mortis
+C) Rigor mortis
+D) Livor mortis
+E) Gastric emptying
+Correct Answer: A) Scene markers (last seen alive, uncollected mail, dated receipts)
+Explanation: All biological methods are imprecise, and scene markers are often more accurate. Core temperature is the best scientific method, but it does not outperform circumstantial evidence.
+###
+"Livor" in livor mortis (hypostasis) means:
+A) Blue
+B) Red
+C) Green
+D) Purple (livid)
+E) Yellow
+Correct Answer: D) Purple (livid)
+Explanation: Livor means livid (purple), reflecting blood pooling in dependent parts. Blue is the colour of cyanosis, not of livor.
+###
+The normal colour of post-mortem lividity is:
+A) Cherry red
+B) Bluish or purplish-red
+C) Brown
+D) Pale pink
+E) Greenish-black
+Correct Answer: B) Bluish or purplish-red
+Explanation: Normal hypostasis is bluish or purplish-red. Cherry pink indicates CO, cyanide or cold, brown indicates methaemoglobinaemia, pale indicates anaemia or haemorrhage, and greenish-black is a putrefactive change.
+###
+What is the colour of livor mortis in methaemoglobinaemia?
+A) Cherry pink
+B) Pale
+C) Deep bluish violet
+D) Normal bluish-purple
+E) Brown
+Correct Answer: E) Brown
+Explanation: Methaemoglobin gives brown lividity. Deep bluish violet is seen in asphyxia, and cherry pink in CO poisoning, cold and cyanide.
+###
+The colour of hypostasis in mummified bodies is:
+A) Cherry pink
+B) Pale
+C) Brown to black
+D) Deep bluish violet
+E) Yellow
+Correct Answer: C) Brown to black
+Explanation: In mummified bodies, lividity appears brown to black due to desiccation. Deep bluish violet is characteristic of asphyxia.
+###
+Which of the following is NOT related to colour?
+A) Congestion
+B) Cyanosis
+C) Vibices
+D) Hypostasis
+E) Livor
+Correct Answer: A) Congestion
+Explanation: Congestion means excess blood in the vessels and is not defined by a colour. Cyanosis denotes blueness, vibices are streaks of hypostasis, and livor means livid (purple).
+###
+Hypostasis in the lower limbs is a sign of:
+A) Incomplete hanging
+B) Strangulation
+C) Drowning
+D) Complete hanging
+E) Smothering
+Correct Answer: D) Complete hanging
+Explanation: In complete hanging the body is vertical and fully suspended, so lividity collects distally in the legs, feet and hands. In incomplete hanging it follows the part touching the ground.
+###
+Hypostasis in drowning is most commonly seen on:
+A) The back only
+B) A site that depends on the water current and body posture
+C) The lower limbs
+D) Always the front of the body
+E) It never develops in water
+Correct Answer: B) A site that depends on the water current and body posture
+Explanation: Moving water keeps turning the body, so hypostasis is often faint and its site is variable. A floating body usually lies face-down, giving lividity of the face, upper chest and upper limbs, but this is not constant.
+###
+Which of the following produces MARKED hypostasis after death?
+A) Anaemia
+B) Pneumonia
+C) Myocardial infarction
+D) Severe haemorrhage
+E) Congestive heart failure
+Correct Answer: E) Congestive heart failure
+Explanation: Congestive heart failure (like asphyxia and polycythaemia) leaves more blood available to pool, so hypostasis is marked. Anaemia and haemorrhage reduce circulating blood and give faint or absent lividity.
+###
+All of the following cause faint, late or absent hypostasis EXCEPT:
+A) Anaemia
+B) Cholera
+C) Polycythaemia
+D) Haemorrhage
+E) Infancy
+Correct Answer: C) Polycythaemia
+Explanation: Polycythaemia increases the red-cell mass and gives marked lividity. Anaemia, haemorrhage, cholera and the extremes of age tend to produce pale, late or absent lividity.
+###
+Absence of hypostasis after death is most likely in:
+A) Anaemia or death from severe external haemorrhage
+B) Polycythaemia
+C) Congestive heart failure
+D) Asphyxia
+E) Methaemoglobinaemia
+Correct Answer: A) Anaemia or death from severe external haemorrhage
+Explanation: Lividity needs enough blood to pool in dependent vessels, and anaemia or massive blood loss leaves too little. Polycythaemia, CHF and asphyxia give marked lividity.
+###
+Which post-mortem change is related to the red blood cell count?
+A) Rigor mortis
+B) Algor mortis
+C) Cadaveric spasm
+D) Lividity (hypostasis)
+E) Putrefaction
+Correct Answer: D) Lividity (hypostasis)
+Explanation: The intensity of livor depends on red-cell mass and blood fluidity: marked in polycythaemia and faint in anaemia. The other changes are muscular, thermal or bacterial.
+###
+Extensive muscular exercise immediately before death:
+A) Delays the onset of rigor mortis
+B) Accelerates the onset of rigor mortis
+C) Has no effect on rigor mortis
+D) Prevents rigor mortis from developing
+E) Prolongs the duration of rigor mortis
+Correct Answer: B) Accelerates the onset of rigor mortis
+Explanation: Fatigued or exhausted muscles, and increased activity just before death, give rapid onset and short duration of rigor because of rapid ATP depletion. Rested, healthy muscles develop rigor slowly and keep it longer.
+###
+All of the following are early signs of death EXCEPT:
+A) Skin loses its elasticity with facial pallor
+B) Muscles rapidly become flaccid (primary flaccidity) with loss of tone
+C) The eyes lose their intraocular tension
+D) The retinal vessels show fragmentation ("trucking") of the blood columns
+E) The muscles immediately stop all twitching and never respond to any stimulation
+Correct Answer: E) The muscles immediately stop all twitching and never respond to any stimulation
+Explanation: After death muscles may still twitch focally and respond to touch or stimulation for some hours, because cellular death is progressive. Options A–D are recognised early changes.
+###
+All of the following are early signs of death EXCEPT:
+A) Primary flaccidity of the muscles
+B) Loss of the corneal reflex
+C) Rigor mortis (2–3 hours after death)
+D) Beginning of body cooling
+E) Loss of skin elasticity
+Correct Answer: C) Rigor mortis (2–3 hours after death)
+Explanation: Rigor needs 2–3 hours to appear, so it is the odd one out among the immediate changes. Primary flaccidity, loss of corneal reflex and the start of cooling occur at once.
+###
+A 55-year-old man, apparently dead, is brought to the casualty department. The earliest post-mortem change to appear is:
+A) Loss of skin elasticity with pallor
+B) Post-mortem lividity
+C) Corneal clouding
+D) Muscle stiffening
+E) Cooling of the body
+Correct Answer: A) Loss of skin elasticity with pallor
+Explanation: Pallor and loss of skin elasticity appear within minutes of circulatory arrest. Lividity, corneal clouding, cooling and rigor take hours.
+###
+All of the following are post-mortem changes in the eyes EXCEPT:
+A) Corneal opacity
+B) Tache noire
+C) Decreased intraocular tension
+D) A persistently transparent cornea
+E) "Trucking" of the retinal vessels
+Correct Answer: D) A persistently transparent cornea
+Explanation: After death the cornea becomes opaque (earlier if the lids are open, within about 10–12 hours if closed), so a persistently clear cornea is not a post-mortem change. The other findings are all described after death.
+###
+Which of the following is NOT a post-mortem change in the eyes?
+A) Corneal opacity
+B) Transparent cornea
+C) Tache noire
+D) Anisocoria
+E) Loss of intraocular tension
+Correct Answer: B) Transparent cornea
+Explanation: A clear cornea is a feature of life or of very early death. Corneal opacity, tache noire, anisocoria and falling intraocular tension all develop after death.
+###
+After death, body temperature may be higher than expected in all of the following EXCEPT:
+A) Infections
+B) Asphyxial death
+C) Pontine haemorrhage
+D) Coronary thrombosis (MI)
+E) Haemorrhage
+Correct Answer: E) Haemorrhage
+Explanation: Rectal temperature is lower than expected after haemorrhage, cholera, CHF and hypothermia. It is higher after infections, asphyxia, pontine haemorrhage, coronary thrombosis, struggle and heat stroke.
+###
+Which of the following is a POSITIVE sign of death?
+A) Flat EEG
+B) Absent breath sounds
+C) Decomposition (putrefaction)
+D) Absent heart sounds
+E) Loss of the corneal reflex
+Correct Answer: C) Decomposition (putrefaction)
+Explanation: Putrefaction, adipocere, mummification, rigor and fixed hypostasis are certain signs of death. Flat EEG and absent heart or breath sounds also occur in suspended animation, and corneal reflex loss is unreliable.
+###
+The diagnosis of brainstem death depends on all of the following EXCEPT:
+A) Presence of the gag reflex
+B) Fixed dilated unresponsive pupils
+C) Apnoea after disconnection from the ventilator
+D) Absent corneal reflex
+E) Absent oculocephalic (doll's eye) reflex
+Correct Answer: A) Presence of the gag reflex
+Explanation: Brainstem death requires coma, absence of ALL brainstem reflexes (including gag and cough) and apnoea. A present gag reflex means brainstem function persists.
+###
+Which of the following organs is MOST resistant to putrefaction?
+A) Brain
+B) Spleen
+C) Liver
+D) Prostate
+E) Stomach
+Correct Answer: D) Prostate
+Explanation: The prostate (and non-gravid uterus) are among the last organs to putrefy. The brain, stomach, spleen and liver putrefy early.
+###
+Which of the following is the last organ to putrefy?
+A) Testes
+B) Uterus (non-gravid) / prostate
+C) Ovary
+D) Adrenals
+E) Stomach
+Correct Answer: B) Uterus (non-gravid) / prostate
+Explanation: The non-gravid uterus and prostate are late-putrefying organs, whereas the stomach and intestines are early. The gravid uterus is also an early-putrefying organ.
+###
+Which of the following pairs are signs of putrefaction?
+A) Rigid muscles and cherry-red discoloration
+B) Waxy, soap-like fat and brittle bones
+C) Contact pallor and dark-red lividity
+D) Tache noire and corneal clouding
+E) Green discoloration of the right iliac fossa and bloating with foul-smelling gas
+Correct Answer: E) Green discoloration of the right iliac fossa and bloating with foul-smelling gas
+Explanation: The first visible sign of putrefaction is greenish discoloration over the right iliac fossa (near the bacteria-rich caecum), followed by gas formation and bloating. The other pairs describe rigor, adipocere, lividity and eye changes.
+###
+Which of the following are two other types of decomposition besides putrefaction?
+A) Autolysis and marbling
+B) Rigor mortis and secondary flaccidity
+C) Mummification and adipocere
+D) Livor mortis and algor mortis
+E) Cadaveric spasm and tache noire
+Correct Answer: C) Mummification and adipocere
+Explanation: Mummification (desiccation in dry, warm conditions) and adipocere (fat saponification in moist conditions) are the special routes of decomposition. The other options are early post-mortem changes or part of putrefaction itself.
+###
+Which of the following sets contains only signs of LATE putrefaction?
+A) Liquefaction of soft tissues, skin slippage, bloating, greenish-black discoloration, exposure of the skeleton
+B) Liquefaction of soft tissues, skin slippage, bloating, greenish-black discoloration, rigor mortis
+C) Liquefaction of soft tissues, skin slippage, bloating, greenish-black discoloration, tache noire
+D) Liquefaction of soft tissues, skin slippage, bloating, greenish-black discoloration, early lividity
+E) Liquefaction of soft tissues, skin slippage, bloating, greenish-black discoloration, cadaveric spasm
+Correct Answer: A) Liquefaction of soft tissues, skin slippage, bloating, greenish-black discoloration, exposure of the skeleton
+Explanation: Late putrefaction progresses through bloating and blistering with skin slippage to liquefaction and eventually skeleton exposure. Rigor, tache noire, early lividity and cadaveric spasm are early or non-putrefactive changes.
+###
+Adipocere is chiefly composed of which acid?
+A) Oleic acid
+B) Stearic acid
+C) Linoleic acid
+D) Palmitic acid
+E) Butyric acid
+Correct Answer: D) Palmitic acid
+Explanation: Adipocere is mainly saturated fatty acids, chiefly palmitic acid, formed by hydrolysis and hydrogenation of body fat. Stearic and hydroxy-stearic acids are minor components and little oleic acid remains.
+###
+Adipocere formation is associated with which organism?
+A) Escherichia coli
+B) Clostridium perfringens
+C) Staphylococcus
+D) Pseudomonas
+E) Klebsiella
+Correct Answer: B) Clostridium perfringens
+Explanation: Bacterial enzymes of Clostridium perfringens hydrolyse and hydrogenate body fat in warm, moist conditions. Moisture is essential.
+###
+Adipocere occurs first in:
+A) Skin
+B) Muscles
+C) Heart
+D) Liver
+E) Subcutaneous fat
+Correct Answer: E) Subcutaneous fat
+Explanation: Adipocere forms first in subcutaneous fat (cheeks, breasts, buttocks). Internal organs such as the liver, kidney and heart may be affected later.
+###
+Mummification involves:
+A) Bacterial action
+B) Humidity
+C) Dryness (desiccation)
+D) Transformation of fat tissue
+E) Anaerobic fermentation
+Correct Answer: C) Dryness (desiccation)
+Explanation: Mummification needs dry, warm conditions that dry out the tissues, preventing bacterial growth. Humidity and bacterial action favour putrefaction or adipocere.
+###
+Mummification is:
+A) Desiccation
+B) Saponification
+C) Necrosis
+D) Liquefaction
+E) Autolysis
+Correct Answer: A) Desiccation
+Explanation: Mummification is drying and shrivelling of tissues with no microbial growth. Saponification is adipocere, and liquefaction occurs in putrefaction.
+###
+The most common source of putrefactive organisms is the:
+A) Respiratory tract
+B) Natural orifices
+C) External lesions
+D) Alimentary tract
+E) Skin surface
+Correct Answer: D) Alimentary tract
+Explanation: Most putrefactive bacteria come from the bowel, with Clostridium predominating. This is why discoloration starts in the right iliac fossa over the caecum.
+###
+Which of the following does NOT significantly affect putrefaction?
+A) Age
+B) Sex
+C) Clothing
+D) Moist environment
+E) Cause of death
+Correct Answer: B) Sex
+Explanation: Sex is not a major factor (only slightly faster in females, who have more fat). Temperature, moisture, clothing, age and cause of death clearly alter the rate.
+###
+Which of the following does NOT retard putrefaction?
+A) Submersion in water
+B) Deep burial in a coffin
+C) Burial in dry, sandy soil
+D) Poisoning with strychnine or heavy metals
+E) Burial in a shallow grave
+Correct Answer: E) Burial in a shallow grave
+Explanation: Surface burial decomposes the body more because surface soil has more bacteria and access. Water immersion, coffins, dry sandy soil and metal poisons all delay putrefaction.
+###
+Cadaveric spasm occurs in:
+A) Involuntary muscles
+B) Subcutaneous tissue
+C) Voluntary muscles
+D) All of the above
+E) Cardiac muscle
+Correct Answer: C) Voluntary muscles
+Explanation: Cadaveric spasm affects voluntary (skeletal) muscles only, usually the hands and forearms, particularly those contracted at the moment of death.
+###
+Suspended animation is:
+A) Apparent death in which the patient can be revived
+B) Apparent death in which the patient cannot be aroused
+C) A state that lasts for days or weeks
+D) A state that can never be induced voluntarily
+E) Irreversible loss of brainstem function with preserved circulation
+Correct Answer: A) Apparent death in which the patient can be revived
+Explanation: In suspended animation vital signs are not detectable by routine methods, but the person can be resuscitated. It can even be voluntary, as in yoga practitioners.
+###
+Which of the following is NOT a cause of apparent death (suspended animation)?
+A) Hypothermia
+B) Drug overdose (barbiturates, opiates)
+C) Electrocution
+D) Pulmonary embolism
+E) Drowning
+Correct Answer: D) Pulmonary embolism
+Explanation: Pulmonary embolism causes true, rapid death. Hypothermia, hypnotic or opiate overdose, electrocution and drowning can suppress vital signs reversibly.
+###
+Which of the following is NOT a cause of apparent death (suspended animation)?
+A) Newborn infants
+B) Second-degree burn
+C) Heat stroke
+D) Hypothermia
+E) Cholera
+Correct Answer: B) Second-degree burn
+Explanation: A second-degree burn does not suppress the vital signs. Newborns, heat stroke, hypothermia and cholera are recognised causes of apparent death.
+###
+All of the following may simulate death EXCEPT:
+A) Drowning
+B) Hypnotic overdose
+C) Electrocution
+D) Morphine overdose
+E) Cyanide poisoning
+Correct Answer: E) Cyanide poisoning
+Explanation: Cyanide causes rapid true death rather than a reversible suppression of vital signs. Drowning, hypnotic or opiate overdose and electrocution can all produce apparent death.
+###
+Maggots of a cadaver help in determining the:
+A) Mode of death
+B) Manner of death
+C) Time since death
+D) Identity of the disease
+E) Cause of death
+Correct Answer: C) Time since death
+Explanation: Forensic entomology uses the stage of maggot development (larva, pupa, adult), corrected for temperature, to give a minimum post-mortem interval.
+###
+Maggots are most useful in forensic practice for:
+A) Estimating the time of death in late stages
+B) Removing necrotic tissue
+C) Estimating the time of death in early stages
+D) Removing bad odour
+E) Accurately identifying poisoning
+Correct Answer: A) Estimating the time of death in late stages
+Explanation: Entomology is most valuable in late decomposition, when temperature, rigor and lividity no longer help. In the early hours those methods are better.
+###
+When a tattoo has been destroyed, its former presence can be inferred from pigment in the:
+A) Deep dermis
+B) Subcutaneous tissue
+C) Underlying muscle
+D) Regional lymph nodes
+E) Epidermis
+Correct Answer: D) Regional lymph nodes
+Explanation: Macrophages carry tattoo pigment to the draining lymph nodes, so it persists there even if the skin is burnt or decomposed.
+###
+In suspected air embolism, the body cavity to be opened first is the:
+A) Cranial cavity (brain)
+B) Thorax
+C) Abdomen
+D) Pelvis
+E) Neck
+Correct Answer: B) Thorax
+Explanation: The thorax is opened first so air is not introduced artefactually. The pericardial sac is filled with water and the right ventricle incised under water, where escaping bubbles confirm venous air embolism.
+###
+"Nutmeg liver" refers to:
+A) Amoebic hepatitis
+B) Pyogenic abscess
+C) Hepatitis C
+D) Alcoholic liver cirrhosis
+E) Chronic venous congestion
+Correct Answer: E) Chronic venous congestion
+Explanation: Nutmeg liver results from chronic venous congestion, usually right-sided heart failure. It shows dark congested centrilobular zones alternating with pale periportal zones.
+###
+Fatty change of the liver is usually and more commonly seen in:
+A) Pancreatic tumours
+B) Heart failure
+C) Metabolic disorders
+D) Brain infarction
+E) Kidney failure
+Correct Answer: C) Metabolic disorders
+Explanation: Steatosis is commonest in metabolic disorders (obesity, diabetes) and alcohol. Heart failure produces nutmeg liver (chronic venous congestion) rather than fatty change.
+###
+Fatty change of the liver is seen in:
+A) Metabolic disease and poisoning by phosphorus or arsenic
+B) Heart failure
+C) Kidney failure
+D) Brain tumours
+E) Pancreatic tumours
+Correct Answer: A) Metabolic disease and poisoning by phosphorus or arsenic
+Explanation: Fatty change occurs with metabolic disorders, alcohol, and poisoning by phosphorus and arsenic. Heart failure causes congestion (nutmeg liver) instead.
+###
+A black triangular patch appears on the exposed sclera at each side of the iris in a body whose eyelids were left open for several hours. This finding is:
+A) Hypostasis of the conjunctiva
+B) Subconjunctival haemorrhage
+C) Corneal opacity
+D) Tache noire
+E) Trucking of the retinal vessels
+Correct Answer: D) Tache noire
+Explanation: When the lids stay open for 3–4 hours, drying of the exposed sclera forms yellow triangles that turn brown and then black. This is tache noire, not a haemorrhage or lividity.
