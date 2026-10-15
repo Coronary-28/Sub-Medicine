@@ -1,0 +1,359 @@
+Which leads are used for rapid ECG-axis determination?
+A) II and III
+B) aVR and aVL
+C) I and aVF
+D) V1 and V6
+E) III and aVL
+Correct Answer: C) I and aVF
+Explanation: Leads I and aVF divide the frontal plane into quadrants (I positive and aVF positive = normal axis; I positive and aVF negative = leftward axis; I negative and aVF positive = right axis). Lead II is used to resolve borderline left axis deviation.
+###
+How many large squares are there in 1 second of an ECG tracing at the standard paper speed of 25 mm/s?
+A) 5
+B) 3
+C) 10
+D) 25
+E) 1
+Correct Answer: A) 5
+Explanation: One large square equals 0.20 s, so 1 second contains 5 large squares (25 mm). A small square equals 0.04 s.
+###
+What is the heart rate on the regular ECG strip shown, in which each R–R interval spans two large squares? [img: ERECG150beats.png ]
+A) 80
+B) 100
+C) 130
+D) 150
+E) 180
+Correct Answer: D) 150
+Explanation: Heart rate = 300 ÷ number of large squares between consecutive R waves = 300 ÷ 2 = 150 beats/min.
+###
+How many large squares are there in 1 minute of ECG tracing?
+A) 150
+B) 300
+C) 600
+D) 1500
+E) 60
+Correct Answer: B) 300
+Explanation: At 25 mm/s, 1 second contains 5 large squares, so 1 minute contains 5 × 60 = 300. This is the basis of the 300 rule for heart rate.
+###
+How many small squares are there in 1 minute of ECG tracing?
+A) 300
+B) 600
+C) 750
+D) 3000
+E) 1500
+Correct Answer: E) 1500
+Explanation: One small square equals 0.04 s, so 60 ÷ 0.04 = 1500. This is the basis of the 1500 rule for precise rate calculation.
+###
+How many small squares correspond to 1 mV of amplitude on a standard ECG?
+A) 5
+B) 2.5
+C) 10
+D) 15
+E) 25
+Correct Answer: C) 10
+Explanation: The standard calibration is 10 mm/mV, and each small square (1 mm) equals 0.1 mV, so 10 small squares equal 1 mV.
+###
+Which method is used to calculate the heart rate from a regular rhythm on an ECG?
+A) 300 divided by the number of large squares between consecutive R waves
+B) 1500 divided by the number of large squares between consecutive R waves
+C) 300 divided by the number of small squares between consecutive R waves
+D) The number of QRS complexes in one large square multiplied by 300
+E) The R–R interval in seconds multiplied by 60
+Correct Answer: A) 300 divided by the number of large squares between consecutive R waves
+Explanation: The 300 rule applies to regular rhythms. The 1500 rule requires small squares (1500 ÷ small squares), and the heart rate is 60 divided by the R–R interval in seconds, not multiplied by it.
+###
+Calculate the ventricular rate on the regular ECG strip shown. [img: ERECG180beats.png ]
+A) 100
+B) 120
+C) 150
+D) 180
+E) 200
+Correct Answer: D) 180
+Explanation: An R–R interval of about 1.7 large squares gives 300 ÷ 1.7 ≈ 180 beats/min using the 300 rule.
+###
+What ECG findings define right bundle branch block? [img: ERECGRBBB.png ]
+A) QRS ≥120 ms with broad notched R waves in I, aVL, and V5–V6 and a deep S wave in V1
+B) QRS ≥120 ms with an rsR′ (M-shaped) pattern in V1–V2 and a broad terminal S wave in I and V6
+C) QRS <120 ms with an rSR′ pattern in V1 and normal terminal forces
+D) Short PR interval with a delta wave and a widened QRS
+E) Constant PR interval with intermittent non-conducted P waves
+Correct Answer: B) QRS ≥120 ms with an rsR′ (M-shaped) pattern in V1–V2 and a broad terminal S wave in I and V6
+Explanation: RBBB requires a QRS ≥120 ms with late right-ventricular forces (rsR′ in V1–V2) and a broad terminal S wave in the left-sided leads. Option C describes incomplete RBBB, and option A describes LBBB.
+###
+What diagnostic difficulties can arise when a patient has LBBB on the ECG?
+A) It abolishes P waves, preventing rhythm interpretation
+B) It shortens the PR interval and mimics pre-excitation
+C) It produces diffuse concave ST elevation with PR depression, mimicking pericarditis
+D) It produces a dominant R wave in V1, mimicking posterior MI
+E) It causes secondary ST–T changes that can obscure or mimic acute ST elevation, making MI diagnosis and localisation difficult
+Correct Answer: E) It causes secondary ST–T changes that can obscure or mimic acute ST elevation, making MI diagnosis and localisation difficult
+Explanation: LBBB alters ventricular depolarisation and repolarisation, so ischaemic ST changes are hard to interpret. Clinical context, serial biomarkers, and validated criteria such as modified Sgarbossa are used, and a new LBBB with chest pain is managed as a STEMI equivalent.
+###
+Which set of ECG findings supports the diagnosis of right ventricular hypertrophy?
+A) Sokolow-Lyon voltage ≥35 mm with left axis deviation and lateral strain pattern
+B) Left axis deviation with deep S waves in V1 and tall R waves in V5–V6
+C) Right axis deviation with a dominant R wave in V1 (R/S ratio >1), with or without ST depression and T-wave inversion in V1–V3
+D) Tall R wave in aVL with ST depression and T-wave inversion in I and aVL
+E) Pathological Q waves in V1–V4 with ST elevation
+Correct Answer: C) Right axis deviation with a dominant R wave in V1 (R/S ratio >1), with or without ST depression and T-wave inversion in V1–V3
+Explanation: RVH is recognised by right axis deviation and a dominant R wave in V1 (R/S >1), often with a right ventricular strain pattern. Option A describes LVH.
+###
+What are the ECG characteristics of left bundle branch block?
+A) QRS ≥120 ms; broad notched or slurred R waves in I, aVL, and V5–V6; absent septal q waves; deep S waves in V1–V3; secondary ST–T discordance
+B) QRS ≥120 ms; rSR′ pattern in V1; broad terminal S wave in I and V6
+C) QRS <120 ms with a delta wave and short PR interval
+D) QRS ≥120 ms with a terminal R wave in aVR >3 mm
+E) Narrow QRS with a tall R wave in V1 and ST depression in V1–V3
+Correct Answer: A) QRS ≥120 ms; broad notched or slurred R waves in I, aVL, and V5–V6; absent septal q waves; deep S waves in V1–V3; secondary ST–T discordance
+Explanation: LBBB shows a broad monophasic or notched R wave in the lateral leads and a deep QS or rS in V1–V3, with ST–T changes opposite to the QRS direction. Option B describes RBBB, and option D describes TCA toxicity.
+###
+A patient with chest pain has a normal ECG and elevated cardiac troponin. This most likely suggests:
+A) STEMI
+B) Stable angina
+C) Unstable angina
+D) NSTEMI
+E) Acute pericarditis
+Correct Answer: D) NSTEMI
+Explanation: NSTEMI is myocardial infarction with a raised troponin and no ST elevation (the ECG may be normal, or show T inversion or ST depression). Unstable angina is the closest alternative, but its troponin is normal.
+###
+A patient with suspected inferior MI has ST elevation in leads II, III, and aVF and in lead V4R. Which drug is contraindicated?
+A) Aspirin
+B) Nitroglycerin
+C) Heparin
+D) Beta-blocker
+E) Atorvastatin
+Correct Answer: B) Nitroglycerin
+Explanation: ST elevation in V4R indicates right ventricular infarction, which is preload-dependent, so nitrates can cause profound hypotension. Nitrates are also contraindicated after recent PDE-5 inhibitor use.
+###
+A patient has an unstable tachyarrhythmia with a pulse. What is the immediate treatment?
+A) Adenosine
+B) Amiodarone
+C) Synchronized cardioversion
+D) Atropine
+E) Unsynchronized defibrillation
+Correct Answer: C) Synchronized cardioversion
+Explanation: An unstable tachyarrhythmia with a pulse requires immediate synchronized cardioversion, with sedation if feasible. Adenosine is for stable regular narrow-complex tachycardia, and unsynchronized defibrillation is for pulseless VT or VF.
+###
+What rhythm is shown on the ECG strip? [img: ERECGMAT.png ]
+A) Sinus tachycardia
+B) Atrial flutter
+C) Multifocal atrial tachycardia
+D) Wolff-Parkinson-White syndrome
+E) Atrial fibrillation
+Correct Answer: C) Multifocal atrial tachycardia
+Explanation: MAT is an irregular tachycardia with at least three distinct P-wave morphologies and variable PR intervals. Atrial fibrillation is the closest alternative, but it has no discernible P waves.
+###
+The ECG shows constant PR intervals with intermittent non-conducted P waves and dropped QRS complexes. What is the diagnosis? [img: ERECGsecAVblockM2.png ]
+A) Second-degree AV block, Mobitz type II
+B) Second-degree AV block, Mobitz type I (Wenckebach)
+C) First-degree AV block
+D) Third-degree (complete) AV block
+E) Sinoatrial exit block
+Correct Answer: A) Second-degree AV block, Mobitz type II
+Explanation: A constant PR interval before a suddenly dropped QRS defines Mobitz II. Mobitz I shows progressive PR lengthening before the dropped beat.
+###
+An ECG shows diffuse concave (saddle-shaped) ST elevation in all leads. What is the diagnosis and treatment? [img: ERECGpericarditis.png ]
+A) STEMI — urgent PCI
+B) Benign early repolarization — no treatment
+C) Hyperkalaemia — calcium gluconate
+D) Acute pericarditis — NSAID (ibuprofen)
+E) Acute pulmonary embolism — heparin
+Correct Answer: D) Acute pericarditis — NSAID (ibuprofen)
+Explanation: Diffuse concave ST elevation with PR depression that does not follow a coronary territory indicates pericarditis, treated with an NSAID plus colchicine. STEMI shows convex elevation in contiguous leads with reciprocal depression.
+###
+ST-segment elevation in leads II, III, and aVF indicates infarction of which wall?
+A) Anterior wall
+B) Inferior wall
+C) Lateral wall
+D) Posterior wall
+E) Septal wall
+Correct Answer: B) Inferior wall
+Explanation: Leads II, III, and aVF face the inferior wall of the left ventricle, typically supplied by the right coronary artery.
+###
+A haemodynamically stable patient has a regular monomorphic wide-complex tachycardia (ventricular tachycardia). Which treatment is most appropriate? [img: ERECGamiodarone.png ]
+A) Atropine
+B) Verapamil
+C) Unsynchronized defibrillation
+D) Synchronized cardioversion
+E) IV amiodarone
+Correct Answer: E) IV amiodarone
+Explanation: Stable monomorphic VT is treated with IV antiarrhythmics (amiodarone, procainamide, lidocaine, or sotalol). Synchronized cardioversion is reserved for unstable VT, and defibrillation for pulseless VT.
+###
+Which of the following describes the ECG characteristics of sinus arrhythmia?
+A) Irregularly irregular rhythm with absent P waves
+B) Inverted P waves before every QRS with a shortened PR interval
+C) Normal P waves before every QRS with a constant PR interval and P–P variation of at least 120 ms, classically respiratory
+D) Progressive PR lengthening with intermittently dropped QRS complexes
+E) Regular P–P intervals with variable QRS morphology
+Correct Answer: C) Normal P waves before every QRS with a constant PR interval and P–P variation of at least 120 ms, classically respiratory
+Explanation: In sinus arrhythmia the P, QRS, and T morphology is normal and only the R–R timing varies, rising with inspiration and falling with expiration. Non-respiratory variation suggests pathology.
+###
+Which characteristic ST-segment morphology is seen with digoxin effect?
+A) Scooped (sagging) ST-segment depression
+B) Diffuse concave ST elevation with PR depression
+C) Coved ST elevation in V1–V2
+D) Osborn waves at the J point
+E) Peaked T waves with a widened QRS
+Correct Answer: A) Scooped (sagging) ST-segment depression
+Explanation: Digoxin effect produces a scooped ST depression ("reverse tick") with a shortened QT, and is a benign finding at therapeutic levels. Digoxin toxicity instead causes arrhythmias.
+###
+A report states "possible left axis deviation" (lead I positive, aVF negative). Which finding confirms true left axis deviation?
+A) Lead II positive
+B) Lead III positive
+C) Lead aVR negative
+D) Lead II negative
+E) Lead aVL negative
+Correct Answer: D) Lead II negative
+Explanation: When lead I is positive and aVF is negative, a negative lead II confirms true left axis deviation (about −30° to −90°). A positive lead II means the axis is borderline and may still be normal.
+###
+Which ECG findings suggest an early repolarization pattern?
+A) Convex ST elevation in contiguous leads with reciprocal ST depression and evolving Q waves
+B) J-point elevation ≥1 mm in at least two contiguous leads with concave ST elevation and a notched or slurred QRS downstroke
+C) Coved ST elevation in V1–V2 with a pseudo-RBBB pattern
+D) Diffuse concave ST elevation with PR depression
+E) Scooped ST depression with a shortened QT interval
+Correct Answer: B) J-point elevation ≥1 mm in at least two contiguous leads with concave ST elevation and a notched or slurred QRS downstroke
+Explanation: Early repolarization is a benign pattern, most common in young males and athletes, that is stable on serial ECGs. Pericarditis is the closest alternative, but it shows PR depression and diffuse changes.
+###
+A patient has first-degree heart block on ECG (PR >200 ms, all P waves conducted). What is the immediate management?
+A) Atropine
+B) Permanent pacemaker insertion
+C) Synchronized cardioversion
+D) Transcutaneous pacing
+E) No acute treatment needed
+Correct Answer: E) No acute treatment needed
+Explanation: First-degree AV block is a benign finding in which every impulse is conducted, so no treatment is needed unless it is symptomatic or drug-induced.
+###
+Which of the following is NOT a feature of a pathological Q wave?
+A) Width ≥0.04 s (one small square)
+B) Depth >25% of the following R-wave amplitude
+C) Width <0.04 s
+D) Depth ≥2 mm (0.2 mV)
+E) Presence in leads V1–V4
+Correct Answer: C) Width <0.04 s
+Explanation: A pathological Q wave is ≥40 ms wide and deeper than 25% of the R wave. A Q wave narrower than 40 ms is physiological, and any Q wave in V1–V4 is considered pathological.
+###
+All of the following shorten the QT interval EXCEPT:
+A) Hypothyroidism
+B) Hypercalcaemia
+C) Hyperkalaemia
+D) Digoxin effect
+E) Hyperthermia
+Correct Answer: A) Hypothyroidism
+Explanation: Hypothyroidism prolongs the QT interval (via bradycardia). Hypercalcaemia, hyperkalaemia, digoxin effect, and increased sympathetic tone (fever, hyperthyroidism) shorten it.
+###
+An ECG shows an irregularly irregular rhythm with absent P waves. What is the diagnosis?
+A) Atrial flutter with variable block
+B) Multifocal atrial tachycardia
+C) Ventricular fibrillation
+D) Atrial fibrillation
+E) Sinus arrhythmia
+Correct Answer: D) Atrial fibrillation
+Explanation: AF shows chaotic atrial activity with no P waves, a fibrillatory baseline, and an irregularly irregular ventricular response. MAT is also irregular, but it has at least three distinct P-wave morphologies.
+###
+Which option correctly defines a pathological Q wave and lists conditions that can produce pseudoinfarction Q waves?
+A) Width <40 ms and depth <25% of the R wave; causes: MI, WPW, hypertrophic cardiomyopathy, LBBB
+B) Width ≥40 ms and depth >25% of the R wave; causes: prior MI, WPW, hypertrophic cardiomyopathy, LBBB
+C) Width ≥40 ms only; causes: hyperkalaemia, hypothermia, digoxin effect, cardiac tamponade
+D) Depth ≥2 mm in leads III and aVR only; causes: PE, pericarditis, early repolarization, Brugada syndrome
+E) Width <40 ms and depth >50% of the R wave; causes: hypokalaemia, hypocalcaemia, hypothermia, TCA toxicity
+Correct Answer: B) Width ≥40 ms and depth >25% of the R wave; causes: prior MI, WPW, hypertrophic cardiomyopathy, LBBB
+Explanation: Pathological Q waves represent myocardial scar. Pseudoinfarction Q waves occur in WPW (negative delta wave), hypertrophic cardiomyopathy, LBBB, severe LVH, and acute myocarditis.
+###
+Which group of conditions causes shortening of the QT interval?
+A) Hypocalcaemia, hypokalaemia, hypomagnesaemia, hypothermia
+B) Class Ia/III antiarrhythmics, macrolides, antipsychotics, ondansetron
+C) Hypothyroidism, bradycardia, raised ICP, myocardial ischaemia
+D) Congenital long QT syndrome, hypomagnesaemia, tricyclic antidepressants
+E) Hypercalcaemia, hyperkalaemia, digoxin effect, congenital short QT syndrome
+Correct Answer: E) Hypercalcaemia, hyperkalaemia, digoxin effect, congenital short QT syndrome
+Explanation: These conditions shorten repolarisation. The other options list classic causes of QT prolongation (electrolyte depletion, drugs, and bradycardic states).
+###
+P mitrale (a broad, notched P wave >0.12 s in lead II) is most commonly associated with:
+A) COPD
+B) Pulmonary hypertension
+C) Mitral stenosis (left atrial enlargement)
+D) Pulmonary fibrosis
+E) Right ventricular hypertrophy
+Correct Answer: C) Mitral stenosis (left atrial enlargement)
+Explanation: P mitrale reflects left atrial enlargement, as in mitral stenosis, mitral regurgitation, or left heart failure. COPD, pulmonary fibrosis, and pulmonary hypertension cause the tall peaked P pulmonale instead.
+###
+Which of the following is a recognised cause of poor R-wave progression across the precordial leads?
+A) Anteroseptal myocardial infarction
+B) Posterior myocardial infarction
+C) Type A WPW (left-sided accessory pathway)
+D) Normal variant in young children
+E) Isolated right bundle branch block
+Correct Answer: A) Anteroseptal myocardial infarction
+Explanation: Loss of anterior forces from anteroseptal infarction (also LVH, LBBB, COPD, and lead misplacement) impairs R-wave progression. Posterior MI, left-sided WPW, RBBB, and the paediatric variant produce tall R waves in V1.
+###
+Which of the following is a recognised cause of a tall R wave in V1?
+A) Anteroseptal myocardial infarction
+B) Left bundle branch block
+C) COPD with emphysema
+D) Posterior myocardial infarction
+E) Left ventricular hypertrophy
+Correct Answer: D) Posterior myocardial infarction
+Explanation: Posterior infarction produces a tall R wave in V1–V2 as the mirror image of posterior Q waves. Other causes are RVH, RBBB, left-sided WPW, and dextrocardia. The other options cause poor R-wave progression or deep S waves in V1.
+###
+An ECG shows both a tall peaked P wave and a broad notched P wave. Which chamber-enlargement pattern does this suggest?
+A) Right atrial enlargement only
+B) Biatrial enlargement
+C) Left atrial enlargement only
+D) Wolff-Parkinson-White syndrome
+E) Atrial fibrillation
+Correct Answer: B) Biatrial enlargement
+Explanation: The tall peaked component reflects right atrial enlargement (P pulmonale) and the broad notched component reflects left atrial enlargement (P mitrale), so both atria are enlarged.
+###
+What are the normal duration and amplitude of the P wave on ECG?
+A) <80 ms and <1 mm
+B) <120 ms and <5 mm
+C) <200 ms and <2.5 mm
+D) >120 ms and <2.5 mm
+E) <120 ms (3 small squares) and <2.5 mm in limb leads
+Correct Answer: E) <120 ms (3 small squares) and <2.5 mm in limb leads
+Explanation: A normal P wave is shorter than 120 ms and lower than 2.5 mm in the limb leads. A longer P wave suggests left atrial enlargement, and a taller one suggests right atrial enlargement.
+###
+At a paper speed of 25 mm/s, what defines a narrow and a wide QRS complex?
+A) Narrow <80 ms; wide ≥80 ms
+B) Narrow <100 ms; wide ≥100 ms
+C) Narrow <120 ms (<3 small squares); wide ≥120 ms (≥3 small squares)
+D) Narrow <200 ms; wide ≥200 ms
+E) Narrow <120 ms; wide >200 ms
+Correct Answer: C) Narrow <120 ms (<3 small squares); wide ≥120 ms (≥3 small squares)
+Explanation: A QRS of 120 ms or more is wide, suggesting a ventricular origin, bundle branch block, or pre-excitation.
+###
+Which of the following is NOT a cause of QT prolongation?
+A) Hypercalcaemia
+B) Hypokalaemia
+C) Hypomagnesaemia
+D) Hypocalcaemia
+E) Hypothermia
+Correct Answer: A) Hypercalcaemia
+Explanation: Hypercalcaemia shortens the QT interval. Hypocalcaemia, hypokalaemia, hypomagnesaemia, and hypothermia prolong it, as do many drugs.
+###
+Which of the following is a recognised cause of left axis deviation?
+A) Right ventricular hypertrophy
+B) Left posterior fascicular block
+C) COPD
+D) Left anterior fascicular block
+E) Pulmonary embolism
+Correct Answer: D) Left anterior fascicular block
+Explanation: Left axis deviation (lead I positive, aVF negative) occurs with left anterior fascicular block, LVH, inferior MI, and ventricular pacing. The other options cause right axis deviation.
+###
+In which limb lead are the P wave, QRS complex, and T wave normally predominantly negative?
+A) Lead I
+B) Lead aVR
+C) Lead II
+D) Lead III
+E) Lead aVL
+Correct Answer: B) Lead aVR
+Explanation: Lead aVR looks at the heart from the right shoulder, opposite to the normal direction of depolarisation, so all its waves are normally negative.
+###
+When can the normally negative complexes in lead aVR become predominantly positive?
+A) Right ventricular hypertrophy
+B) Posterior myocardial infarction
+C) Left bundle branch block
+D) Pulmonary embolism
+E) Dextrocardia or right-arm/left-arm limb-lead reversal
+Correct Answer: E) Dextrocardia or right-arm/left-arm limb-lead reversal
+Explanation: Both conditions invert the normal limb-lead vectors. They are distinguished by precordial R-wave progression, which is lost in dextrocardia and normal in limb-lead reversal.
