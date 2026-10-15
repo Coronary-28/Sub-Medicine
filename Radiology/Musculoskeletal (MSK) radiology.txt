@@ -483,8 +483,8 @@ A) Type 1
 B) Type 2
 C) Type 3
 D) Type 4
-Correct Answer: B) Type 2
-Explanation: Physeal fracture of the distal fibula. It is best seen on the oblique view and is displaced. There is a tiny metaphyseal fragment making it a type II Salter-Harris fracture.
+Correct Answer: C) Type 3
+Explanation: Physeal fracture of the distal tibia. It is a fracture that extends through the growth plate (physis) and down through the epiphysis into the joint space. This specific intra-articular extension through the epiphysis makes it a type III Salter-Harris fracture.
 Batch: Aorta Final
 ###
 Recalled hand radiograph diagnosis. [img: Radiologymrheumatoidarthritis.png ]
