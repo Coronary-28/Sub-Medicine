@@ -1,127 +1,134 @@
-When dealing with vulnerable children (victims of violence), what is the MAIN priority of the physician from an ethical point of view?
-A) Respect confidentiality
-B) Protection through early detection
-C) Protection of secrecy
-D) Respect autonomy of parents
-E) Notification to the authority
-Correct Answer: B) Protection through early detection
-Explanation: The physician's primary ethical duty with child abuse victims is early identification and protection, which takes priority over confidentiality or parental autonomy.
+Which of the following is the main ethical priority of the physician when dealing with vulnerable children who are victims of violence?
+A) Protection of secrecy
+B) Respect for confidentiality
+C) Protection through early detection
+D) Respect for the autonomy of the parents
+E) Notification to the authorities
+Correct Answer: C) Protection through early detection
+Explanation: In suspected child abuse, the physician's primary ethical duty is early detection and protection of the child. This outranks confidentiality and parental autonomy.
 ###
-Breach of confidentiality is permissible in which case?
-A) Upon request of the patient
-B) Wife/husband request
-C) Insurance company request
-D) Reporting rheumatoid arthritis to employer
-Correct Answer: A) Upon request of the patient
-Explanation: Confidentiality may be breached with the patient's own consent, for notifiable diseases, court order, or public safety — spousal, insurer, or employer requests without patient consent do not justify it.
+In which of the following situations is breach of confidentiality permissible?
+A) Reporting a notifiable infectious disease (e.g., cholera) to the health authorities
+B) Request by the patient's husband or wife
+C) Request by an insurance company representative
+D) Reporting rheumatoid arthritis to the patient's employer
+E) Request by a relative of the patient
+Correct Answer: A) Reporting a notifiable infectious disease (e.g., cholera) to the health authorities
+Explanation: Notifiable diseases must be reported to the Ministry of Health by law. Requests from a spouse, insurer, employer, or relative do not justify a breach without the patient's consent.
 ###
-Breaching confidentiality is permissible in:
-A) Wife/husband request
-B) Insurance representative request
-C) Report cholera case (notifiable disease)
-Correct Answer: C) Report cholera case (notifiable disease)
-Explanation: Notifiable/communicable diseases like cholera must be reported to public health authorities by law regardless of patient consent, due to public health risk.
-###
-All but one of the following is related to the bioethics principles (code of ethics):
-A) Justice
-B) Reluctant
-C) Beneficence
-D) Non-maleficence
-Correct Answer: B) Reluctant
-Explanation: The four bioethics pillars are autonomy, beneficence, non-maleficence, and justice; "reluctant" is not a recognized bioethical principle.
-###
-One of the following is NOT correct concerning valid consent prior to medical treatment:
-A) Voluntary and freely given
-B) Consent of partner (Husband/Wife) is always mandatory
-C) Informed of what the treatment involves
-D) Informed including benefits and risks
-E) Examining capacity of patient
-Correct Answer: B) Consent of partner (Husband/Wife) is always mandatory
-Explanation: A competent adult patient can independently give valid consent; requiring spousal consent would violate patient autonomy.
-###
-Regarding consent — a 23-year-old single adult female with vaginal bleeding. Which statement is correct?
-A) Medical consent must be obtained from her father or husband
-B) Consent of partner is always mandatory
-C) A guardian must be present
-D) An adult patient can give her own medical consent independently
-Correct Answer: D) An adult patient can give her own medical consent independently
-Explanation: Any competent adult has full legal capacity to consent to medical treatment without parental or spousal authorization.
-###
-The utmost important rule when doing a physical examination of intimate parts of the body is:
-A) A chaperon must be present
-B) Written consent is mandatory
-C) Only a same-sex physician may examine
-D) A family member must be present
-Correct Answer: A) A chaperon must be present
-Explanation: A chaperon safeguards both the patient's dignity and the physician's professional integrity during intimate examinations.
-###
-"Respect for Persons" in the ethical approach might mean any of the following EXCEPT:
+All of the following are principles of bioethics EXCEPT:
 A) Autonomy
-B) Integrity
-C) Follow doctor's order
+B) Justice
+C) Non-maleficence
+D) Reluctance
+E) Beneficence
+Correct Answer: D) Reluctance
+Explanation: The four principles of bioethics are autonomy, beneficence, non-maleficence, and justice. "Reluctance" is not a bioethical principle.
+###
+Which of the following is NOT correct concerning valid consent prior to medical treatment?
+A) It must be voluntary and freely given
+B) Consent of the husband or wife is always mandatory
+C) The patient must be informed of what the treatment involves
+D) The patient must be informed of the benefits and risks
+E) The capacity of the patient must be assessed
+Correct Answer: B) Consent of the husband or wife is always mandatory
+Explanation: Valid consent requires voluntariness, adequate information, and capacity. A competent adult consents for himself or herself, and requiring spousal consent would violate patient autonomy.
+###
+A 23-year-old single adult female presents with vaginal bleeding. Which of the following statements regarding consent is correct?
+A) Consent must be obtained from her father or husband
+B) Consent of her partner is always mandatory
+C) A guardian must be present
+D) A court order is required before treatment
+E) She can give her own medical consent independently
+Correct Answer: E) She can give her own medical consent independently
+Explanation: Any competent adult (18 years or older) has full capacity to consent to treatment without parental, spousal, or guardian authorization.
+###
+What is the most important rule when performing a physical examination of the intimate parts of the body?
+A) The examination must be performed only after police notification
+B) The examination must be performed by a physician of the same gender only
+C) A chaperone must be present
+D) The examination must be photographed before it begins
+E) The examination must be performed in the presence of a guardian
+Correct Answer: C) A chaperone must be present
+Explanation: A chaperone protects the dignity of the patient and the professional integrity of the physician during examination of intimate parts.
+###
+"Respect for persons" in the ethical approach includes all of the following EXCEPT:
+A) Following the doctor's orders
+B) Autonomy
+C) Integrity
 D) Equity
 E) Equality
-Correct Answer: C) Follow doctor's order
-Explanation: Respect for persons centers on autonomy, integrity, equity, and equality, which empower the patient — blind obedience to the doctor is the opposite of patient-centred ethics.
+Correct Answer: A) Following the doctor's orders
+Explanation: Respect for persons comprises autonomy, integrity, equity, and equality. Following the doctor's orders contradicts patient-centred ethics.
 ###
-One of the following is NOT TRUE concerning duties of doctors to patients:
-A) Respect a patient's right to confidentiality
+Which of the following is NOT true concerning the duties of doctors to patients?
+A) Respect the patient's right to confidentiality
 B) Always bear in mind the obligation to respect human life
-C) Informed consent is not necessary when dealing with victims of violence
-D) Whenever examination is beyond the physician's capacity, refer to another physician
+C) Refer the patient to another physician whenever the examination is beyond the physician's capacity
+D) Informed consent is not necessary when dealing with victims of violence
 E) Act in the patient's best interest when providing medical care
-Correct Answer: C) Informed consent is not necessary when dealing with victims of violence
-Explanation: Informed consent is always required except in true emergencies where delay would cause harm; being a violence victim does not remove this requirement.
+Correct Answer: D) Informed consent is not necessary when dealing with victims of violence
+Explanation: Informed consent is required for victims of violence as for any other patient. Only a true emergency in which delay would cause harm waives it.
 ###
-One of the following characters is NOT appropriate considering ethical standards:
-A) Maintain professional competence throughout career
+Which of the following is NOT appropriate considering ethical standards?
+A) Maintain professional competence throughout one's career
 B) Enhance intimate relationships with patients
-C) Respect patient confidentiality
-D) Enhance multidisciplinary approach
-E) Deal honestly with patients
+C) Deal honestly with patients
+D) Enhance a multidisciplinary approach
+E) Respect patient confidentiality
 Correct Answer: B) Enhance intimate relationships with patients
-Explanation: Romantic or intimate relationships between physicians and patients violate professional boundaries and are strictly unethical.
+Explanation: An intimate relationship between a physician and a patient is unethical because it violates professional boundaries.
 ###
-One of the following is odd and not known to be relevant to world medical declarations related to humanization of health service:
-A) Declaration of Helsinki
-B) United Nations development fund for women
-C) Declaration of Geneva
-D) Medical trials on animals
-E) United Nations children fund
-Correct Answer: B) United Nations development fund for women
-Explanation: Recognized WHO/WMA medical declarations include Helsinki and Geneva; the UN development fund for women is not a medical declaration.
-###
-One of the following is odd and not well known to be relevant to world medical declarations related to humanization of health service:
+Which of the following is NOT a declaration of the World Medical Association related to the humanization of medical practice?
 A) Declaration of Geneva
-B) Declaration of London
+B) Declaration of Helsinki
 C) Declaration of Oslo
 D) Declaration of Tokyo
-E) Declaration of Helsinki
-Correct Answer: B) Declaration of London
-Explanation: WMA declarations include Geneva, Helsinki, Oslo, and Tokyo; there is no formally recognized "Declaration of London" in medical ethics.
+E) Declaration of London
+Correct Answer: E) Declaration of London
+Explanation: The WMA declarations include Geneva, Helsinki, Oslo, Tokyo, and Sydney. There is no "Declaration of London" in medical ethics.
 ###
-Humanization of medical practice was the main theme in:
-A) Nuremberg code
-B) Geneva declaration code
-C) Oslo declaration code
-D) Tokyo declaration code
-E) Ottawa declaration code
-Correct Answer: B) Geneva declaration code
-Explanation: The Declaration of Geneva (1948) was the WMA's post-WWII commitment to humanize medical practice, forming the modern physician's oath.
+The humanization of medical practice was the main theme of which of the following?
+A) Nuremberg Code
+B) Oslo Declaration
+C) Geneva Declaration
+D) Tokyo Declaration
+E) Ottawa Declaration
+Correct Answer: C) Geneva Declaration
+Explanation: The Declaration of Geneva (1948) is the physician's oath and defines the physician's duties. The Nuremberg Code (1947) concerns consent in research, Oslo concerns therapeutic abortion, and Tokyo concerns torture.
 ###
-Declaration of Helsinki is related to:
-A) Violence
-B) Child abuse
-C) Humans in medical research
+The Declaration of Helsinki is related to:
+A) Humans in medical research
+B) Violence
+C) Child abuse
 D) Torture of prisoners
-Correct Answer: C) Humans in medical research
-Explanation: The Declaration of Helsinki (1964) establishes ethical standards specifically for medical research involving human subjects.
+E) Therapeutic abortion
+Correct Answer: A) Humans in medical research
+Explanation: The Declaration of Helsinki (1964) sets the ethical standards for medical research on human subjects. Torture is addressed by Tokyo and therapeutic abortion by Oslo.
 ###
-Types of consent — all EXCEPT one:
-A) Requesting euthanasia by patient
-B) Accepting medical treatment
-C) Implied consent for medical examination
-D) Written consent by rape victim
-E) Involvement in a research trial authorized by IRB
-Correct Answer: A) Requesting euthanasia by patient
-Explanation: Euthanasia is not a valid consent scenario for treatment — it is illegal in most jurisdictions, unlike the other listed valid consent types.
+All of the following are types of consent EXCEPT:
+A) Implied consent for medical examination
+B) Informed consent for accepting medical treatment
+C) Written consent by a rape victim
+D) Request for euthanasia by the patient
+E) Participation in a research trial authorized by an Institutional Review Board
+Correct Answer: D) Request for euthanasia by the patient
+Explanation: Euthanasia is illegal in Jordan and is not a type of consent. The other options are recognized forms: implied, informed, written (expressed), and research consent approved by an IRB.
+###
+Which of the following is NOT related to the World Medical Association declarations concerning the humanization of health services?
+A) Declaration of Helsinki
+B) United Nations Development Fund for Women
+C) Declaration of Geneva
+D) Declaration of Tokyo
+E) Declaration of Oslo
+Correct Answer: B) United Nations Development Fund for Women
+Explanation: Helsinki, Geneva, Tokyo, and Oslo are all World Medical Association declarations. The United Nations Development Fund for Women is a United Nations agency and not a medical declaration.
+###
+Breach of patient confidentiality is permissible in which of the following cases?
+A) Request by the patient's husband or wife
+B) Request by an insurance company
+C) Reporting rheumatoid arthritis to the patient's employer
+D) Request by a relative of the patient
+E) Upon the request or consent of the patient
+Correct Answer: E) Upon the request or consent of the patient
+Explanation: Confidentiality may be breached with the patient's own consent, for notifiable diseases, by court order, for child protection, or when there is a serious risk to others. Requests from a spouse, insurer, employer, or relative do not justify a breach.
