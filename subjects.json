@@ -78232,23 +78232,23 @@
             "options": [
               "Jugular vein",
               "Subclavian vein",
-              "Femoral vein",
+              "Axillary vein",
               "Heart",
-              "Axillary vein"
+              "Femoral vein"
             ],
             "originalOptions": [
               "Jugular vein",
               "Subclavian vein",
-              "Femoral vein",
+              "Axillary vein",
               "Heart",
-              "Axillary vein"
+              "Femoral vein"
             ],
-            "correctAnswer": "C) Femoral vein",
+            "correctAnswer": "E) Femoral vein",
             "correctAnswerText": "Femoral vein",
-            "correctIndex": 2,
+            "correctIndex": 4,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
+            "correctAnswerLetter": "E",
             "explanation": "Femoral blood undergoes minimal postmortem redistribution, making it the preferred site for accurate quantitative drug measurement, whereas central blood (heart, subclavian) is prone to redistribution artifact.",
             "batchName": "",
             "batchNames": [],
@@ -85192,23 +85192,23 @@
         "options": [
           "Jugular vein",
           "Subclavian vein",
-          "Femoral vein",
+          "Axillary vein",
           "Heart",
-          "Axillary vein"
+          "Femoral vein"
         ],
         "originalOptions": [
           "Jugular vein",
           "Subclavian vein",
-          "Femoral vein",
+          "Axillary vein",
           "Heart",
-          "Axillary vein"
+          "Femoral vein"
         ],
-        "correctAnswer": "C) Femoral vein",
+        "correctAnswer": "E) Femoral vein",
         "correctAnswerText": "Femoral vein",
-        "correctIndex": 2,
+        "correctIndex": 4,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "C",
+        "correctAnswerLetter": "E",
         "explanation": "Femoral blood undergoes minimal postmortem redistribution, making it the preferred site for accurate quantitative drug measurement, whereas central blood (heart, subclavian) is prone to redistribution artifact.",
         "batchName": "",
         "batchNames": [],
