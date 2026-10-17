@@ -9,10 +9,10 @@ Explanation: Femoral vein blood is preferred postmortem because it is peripheral
 Which sample site is best for QUANTITATIVE toxicology analysis?
 A) Jugular vein
 B) Subclavian vein
-C) Femoral vein
+C) Axillary vein
 D) Heart
-E) Axillary vein
-Correct Answer: C) Femoral vein
+E) Femoral vein
+Correct Answer: E) Femoral vein
 Explanation: Femoral blood undergoes minimal postmortem redistribution, making it the preferred site for accurate quantitative drug measurement, whereas central blood (heart, subclavian) is prone to redistribution artifact.
 ###
 Which of the following is NOT a characteristic of vitreous humor as a toxicology sample?
