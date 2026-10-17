@@ -1,0 +1,169 @@
+What is required to establish a diagnosis of shock?
+A) Finding of metabolic acidosis
+B) Documented hypotension with low cardiac output
+C) Evidence of inadequate perfusion of the body's organs
+D) Confirmed hypoxia
+E) Confirmed increased systemic vascular resistance
+Correct Answer: C) Evidence of inadequate perfusion of the body's organs
+Explanation: Shock is defined by inadequate end-organ perfusion, so no single parameter is required. Hypotension, acidosis and hypoxia may all be absent in compensated shock, and vascular resistance is low in distributive shock.
+###
+The shock index is calculated as:
+A) Heart rate ÷ systolic blood pressure
+B) Systolic blood pressure ÷ heart rate
+C) Heart rate ÷ diastolic blood pressure
+D) Mean arterial pressure ÷ heart rate
+E) Pulse pressure ÷ heart rate
+Correct Answer: A) Heart rate ÷ systolic blood pressure
+Explanation: Shock index = HR ÷ SBP (normal 0.5–0.7). A value ≥ 0.9–1.0 suggests occult shock even when the systolic pressure appears normal.
+###
+A patient who was stabbed multiple times presents with heart rate 130/min, blood pressure 95/70 mmHg and SpO₂ 93%. Which class of haemorrhagic shock does this represent?
+A) Class 1
+B) Class 2
+C) Class 3
+D) Class 4
+Correct Answer: C) Class 3
+Explanation: Heart rate > 120 with a falling blood pressure and a narrowed pulse pressure (25 mmHg) indicates Class III (31–40% blood loss), which requires blood transfusion. Class IV shows heart rate > 140 and a markedly low blood pressure.
+###
+A previously healthy 70-kg man has an estimated acute blood loss of 2 litres. Which statement applies?
+A) His urinary output will be at the lower limit of normal
+B) His systolic blood pressure will be decreased, with a narrowed pulse pressure
+C) He will have tachycardia with no change in systolic blood pressure
+D) His pulse pressure will be widened
+E) He will have a normal respiratory rate and mental state
+Correct Answer: B) His systolic blood pressure will be decreased, with a narrowed pulse pressure
+Explanation: A loss of about 2 L (~30% of blood volume) corresponds to Class III, in which systolic pressure falls and pulse pressure narrows, with tachycardia > 120, tachypnoea, confusion and reduced urine output. Tachycardia with a preserved systolic pressure describes Class II.
+###
+Which of the following describes Class I haemorrhagic shock?
+A) Blood loss of 15–30% with a narrowed pulse pressure
+B) Tachycardia > 100/min with hypotension
+C) Blood loss of 31–40% with confusion
+D) Heart rate > 140/min with negligible urine output
+E) Blood loss of less than 15% with normal heart rate and blood pressure, and at most mild anxiety
+Correct Answer: E) Blood loss of less than 15% with normal heart rate and blood pressure, and at most mild anxiety
+Explanation: Class I (< 750 mL) is absorbed with essentially normal vital signs. Tachycardia and a narrowed pulse pressure begin in Class II, and hypotension appears in Class III.
+###
+A trauma patient has Class III haemorrhagic shock. Which of the following findings is NOT expected?
+A) Heart rate > 120/min
+B) Respiratory rate 30–40/min
+C) Negligible urine output
+D) Decreased pulse pressure
+E) Decreased blood pressure
+Correct Answer: C) Negligible urine output
+Explanation: Urine output is reduced in Class III but becomes negligible only in Class IV (> 40% blood loss). The other findings are all characteristic of Class III.
+###
+A 34-year-old man pinned by a cement truck has deformities and marked swelling of both thighs. His shock:
+A) Cannot be explained without a major arterial injury
+B) Will likely reverse with traction splints
+C) Cannot be explained without a concomitant intra-abdominal injury
+D) Cannot be explained without a concomitant pelvic fracture
+E) Is most likely neurogenic in origin
+Correct Answer: B) Will likely reverse with traction splints
+Explanation: Each femoral fracture can cause 1–2 L of blood loss, so bilateral femoral fractures alone can account for Class III–IV haemorrhage; the long bones are one of the "blood on the floor and four more" sites. Shock of this kind requires blood resuscitation.
+###
+The "physiologic hypervolaemia" of pregnancy is clinically significant because it:
+A) Increases the risk of pulmonary oedema
+B) Reduces the need for blood transfusion
+C) Reduces the crystalloid volume required for resuscitation
+D) Increases the volume of blood loss required to produce hypotension
+E) Complicates the management of closed head injury
+Correct Answer: D) Increases the volume of blood loss required to produce hypotension
+Explanation: Blood volume expands by about 40–50% in pregnancy, so a pregnant patient can lose considerably more blood before tachycardia or hypotension appear. This masks the severity of haemorrhage while the fetus may already be compromised.
+###
+Which statement about crystalloid resuscitation in haemorrhagic shock is correct?
+A) Large volumes are preferred to restore oxygen delivery
+B) Excessive volumes can worsen oedema, dilutional coagulopathy and hypothermia, increasing morbidity and mortality
+C) Crystalloid restores oxygen-carrying capacity as effectively as blood
+D) It should be continued until blood pressure is normal, regardless of bleeding control
+E) It is preferred over blood products once haemoglobin falls below 9 g/dL
+Correct Answer: B) Excessive volumes can worsen oedema, dilutional coagulopathy and hypothermia, increasing morbidity and mortality
+Explanation: Crystalloid carries no oxygen and dilutes haemoglobin and clotting factors. In haemorrhagic shock, blood products and definitive haemorrhage control are prioritised, with permissive hypotension until bleeding is controlled.
+###
+Which packed red cells : plasma : platelets ratio is commonly used in massive transfusion for severe haemorrhage?
+A) 4:2:1
+B) 2:1:1
+C) 1:2:2
+D) 3:2:1
+E) 1:1:1
+Correct Answer: E) 1:1:1
+Explanation: Massive transfusion protocols use balanced resuscitation with packed red cells, plasma and platelets in a 1:1:1 ratio, which replaces volume and clotting factors together.
+###
+A patient in shock is not responding to initial fluid resuscitation. What is the most appropriate immediate next step?
+A) Repeat crystalloid boluses until the blood pressure normalises
+B) Administer a loop diuretic
+C) Reassess using ABCDE, search for hidden causes, and start vasopressors or blood products as indicated
+D) Continue observation, as response is expected to be delayed
+E) Defer resuscitation until CT imaging is completed
+Correct Answer: C) Reassess using ABCDE, search for hidden causes, and start vasopressors or blood products as indicated
+Explanation: Fluid refractoriness calls for immediate ABCDE reassessment and a search for ongoing haemorrhage, tension pneumothorax or tamponade. Noradrenaline is started for vasodilatory shock, and blood products for haemorrhagic shock.
+###
+Shortly after urinary catheterisation, a patient develops fever, tachycardia, altered mental status and hypotension. Which type of shock should be suspected?
+A) Septic shock
+B) Anaphylactic shock
+C) Hypovolaemic shock
+D) Cardiogenic shock
+E) Neurogenic shock
+Correct Answer: A) Septic shock
+Explanation: Fever with haemodynamic instability in a patient with an indwelling urinary catheter indicates urosepsis. Management is cultures and lactate, antibiotics within the hour, fluids, and noradrenaline to keep MAP ≥ 65 mmHg if shock persists.
+###
+A patient with poor oral intake and dehydration is hypotensive, with no fever and no documented source of infection. Which type of shock best fits this presentation?
+A) Septic shock
+B) Cardiogenic shock
+C) Neurogenic shock
+D) Hypovolaemic shock
+E) Anaphylactic shock
+Correct Answer: D) Hypovolaemic shock
+Explanation: Volume depletion from poor intake explains the hypotension, and there is neither fever nor an infective source to suggest sepsis. If fever or an infective source appears, reassess urgently for septic shock.
+###
+A tachycardic patient with fever remains hypotensive despite initial fluid resuscitation. Which type of shock is most likely?
+A) Hypovolaemic shock from dehydration alone
+B) Septic shock
+C) Cardiogenic shock
+D) Neurogenic shock
+E) Obstructive shock
+Correct Answer: B) Septic shock
+Explanation: Fever with persistent hypoperfusion despite fluids indicates infection-driven vasodilation, which is septic shock. Dehydration alone would be expected to respond to fluid replacement.
+###
+A child develops a skin reaction, hoarseness and shortness of breath after receiving an antibiotic. After stopping the drug, what is the best next step?
+A) IV hydrocortisone
+B) Nebulised adrenaline
+C) Nebulised salbutamol
+D) IV chlorphenamine
+E) IM adrenaline in the anterolateral thigh
+Correct Answer: E) IM adrenaline in the anterolateral thigh
+Explanation: This is anaphylaxis with airway involvement, and IM adrenaline is the first-line, life-saving treatment. Corticosteroids, antihistamines and bronchodilators are adjuncts and must not delay it; repeat dosing depends on response and the local protocol.
+###
+A patient has hypotension, distended neck veins and absent breath sounds on one side. Which type of shock is this?
+A) Cardiogenic shock
+B) Hypovolaemic shock
+C) Obstructive shock
+D) Neurogenic shock
+E) Septic shock
+Correct Answer: C) Obstructive shock
+Explanation: Hypotension with raised JVP and unilateral absent breath sounds indicates tension pneumothorax, a mechanical cause of obstructive shock. Cardiogenic shock can also raise the JVP but would not explain the unilateral absent breath sounds.
+###
+Which of the following constitutes Beck's triad in cardiac tamponade?
+A) Hypotension, distended neck veins and muffled heart sounds
+B) Hypotension, bradycardia and warm, dry skin
+C) Hypertension, bradycardia and irregular respiration
+D) Hypotension, tracheal deviation and absent unilateral breath sounds
+E) Hypotension, widened pulse pressure and bounding pulse
+Correct Answer: A) Hypotension, distended neck veins and muffled heart sounds
+Explanation: Beck's triad is hypotension, jugular venous distension and muffled heart sounds. The complete triad is often absent, so eFAST should be used to confirm tamponade.
+###
+Which of the following best describes milrinone?
+A) A β-adrenergic agonist producing inotropy with vasoconstriction
+B) A Na⁺/K⁺-ATPase inhibitor
+C) An α₁-agonist that raises systemic vascular resistance
+D) A phosphodiesterase-3 inhibitor with inotropic and vasodilator effects, whose main risks are hypotension and arrhythmia
+E) A calcium channel blocker with negative inotropic effect
+Correct Answer: D) A phosphodiesterase-3 inhibitor with inotropic and vasodilator effects, whose main risks are hypotension and arrhythmia
+Explanation: Milrinone raises cAMP independently of β-receptors, so it remains effective in patients taking β-blockers, and it is an "inodilator". Its vasodilation explains the hypotension.
+###
+Which of the following is NOT a recognised complication of central venous catheter insertion?
+A) Pneumothorax
+B) Hypercalcaemia
+C) Air embolism
+D) Arterial puncture
+E) Catheter malposition with arrhythmia
+Correct Answer: B) Hypercalcaemia
+Explanation: Recognised complications include arterial puncture, pneumothorax or haemothorax, malposition with arrhythmia, air embolism, infection and thrombosis. Hypercalcaemia is not related to catheter insertion.
