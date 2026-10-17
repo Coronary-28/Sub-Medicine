@@ -78557,28 +78557,30 @@
         "path": "Toxicology & Forensic/Role of Medical Reports.txt",
         "questions": [
           {
-            "id": "toxicology-forensic__lecture__role-of-medical-reports__1__eugpmn",
+            "id": "toxicology-forensic__lecture__role-of-medical-reports__1__e2stg4",
             "number": "1",
-            "text": "Issuing the initial medical report in a medico-legal case is the responsibility of:",
+            "text": "Reporting and documentation of injuries include all of the following EXCEPT:",
             "options": [
-              "Medical Officer",
-              "Surgical Specialist",
-              "The first physician who manages the patient in the emergency department",
-              "Forensic Pathologist"
+              "Injury location (anatomical measurement from a fixed landmark)",
+              "Type of injury (e.g., bruise, laceration, abrasion)",
+              "Description of the assailant (left- or right-handed)",
+              "Estimated age of the wound",
+              "Pain and/or tenderness"
             ],
             "originalOptions": [
-              "Medical Officer",
-              "Surgical Specialist",
-              "The first physician who manages the patient in the emergency department",
-              "Forensic Pathologist"
+              "Injury location (anatomical measurement from a fixed landmark)",
+              "Type of injury (e.g., bruise, laceration, abrasion)",
+              "Description of the assailant (left- or right-handed)",
+              "Estimated age of the wound",
+              "Pain and/or tenderness"
             ],
-            "correctAnswer": "C) The first physician who manages the patient in the emergency department",
-            "correctAnswerText": "The first physician who manages the patient in the emergency department",
+            "correctAnswer": "C) Description of the assailant (left- or right-handed)",
+            "correctAnswerText": "Description of the assailant (left- or right-handed)",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The primary medico-legal report is always issued by the first doctor to examine the patient, regardless of specialty, to ensure timely and accurate documentation.",
+            "explanation": "The medico-legal report documents the victim's injuries objectively (site, type, size, age, tenderness). Assailant handedness is an investigative inference, not a clinical finding.",
             "batchName": "",
             "batchNames": [],
             "note": "",
@@ -78590,28 +78592,28 @@
             "sourceType": "lecture"
           },
           {
-            "id": "toxicology-forensic__lecture__role-of-medical-reports__2__b7bka2",
+            "id": "toxicology-forensic__lecture__role-of-medical-reports__2__t248jq",
             "number": "2",
-            "text": "Who gives the PRIMARY medical report:",
+            "text": "According to Jordanian law, a physician is obliged to report which of the following to the Ministry of Health?",
             "options": [
-              "The first surgeon who met the patient",
-              "The first doctor who met the patient",
-              "Senior or head of department",
-              "Forensic doctor"
+              "Cases of trauma",
+              "Notifiable infectious diseases",
+              "All deaths",
+              "Sexually transmitted diseases only"
             ],
             "originalOptions": [
-              "The first surgeon who met the patient",
-              "The first doctor who met the patient",
-              "Senior or head of department",
-              "Forensic doctor"
+              "Cases of trauma",
+              "Notifiable infectious diseases",
+              "All deaths",
+              "Sexually transmitted diseases only"
             ],
-            "correctAnswer": "B) The first doctor who met the patient",
-            "correctAnswerText": "The first doctor who met the patient",
+            "correctAnswer": "B) Notifiable infectious diseases",
+            "correctAnswerText": "Notifiable infectious diseases",
             "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "Legal responsibility for the initial medico-legal report falls on the first physician to assess the patient, irrespective of specialty.",
+            "explanation": "The Public Health Law obliges the physician to notify the Ministry of Health of notifiable infectious diseases (e.g., cholera). It does not extend to all trauma cases or all deaths, nor is it limited to sexually transmitted diseases.",
             "batchName": "",
             "batchNames": [],
             "note": "",
@@ -78623,63 +78625,28 @@
             "sourceType": "lecture"
           },
           {
-            "id": "toxicology-forensic__lecture__role-of-medical-reports__3__pr41ai",
+            "id": "toxicology-forensic__lecture__role-of-medical-reports__3__chsyl0",
             "number": "3",
-            "text": "Reporting and documentation of injuries will include all of the following EXCEPT one:",
+            "text": "Who is responsible for issuing the primary medico-legal report?",
             "options": [
-              "Injury location (anatomical measure distance from landmark)",
-              "Type (e.g. bruise, laceration, abrasion)",
-              "Estimate age of wound",
-              "Assailant description whether left or right hand user",
-              "Pain and/or Tenderness"
+              "The forensic physician",
+              "The senior physician or head of department",
+              "The first physician who examines or manages the patient, regardless of specialty",
+              "The surgeon on duty"
             ],
             "originalOptions": [
-              "Injury location (anatomical measure distance from landmark)",
-              "Type (e.g. bruise, laceration, abrasion)",
-              "Estimate age of wound",
-              "Assailant description whether left or right hand user",
-              "Pain and/or Tenderness"
+              "The forensic physician",
+              "The senior physician or head of department",
+              "The first physician who examines or manages the patient, regardless of specialty",
+              "The surgeon on duty"
             ],
-            "correctAnswer": "D) Assailant description whether left or right hand user",
-            "correctAnswerText": "Assailant description whether left or right hand user",
-            "correctIndex": 3,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "Medico-legal documentation records the victim's objective injury findings; assailant handedness is an investigative inference, not a clinical documentation item.",
-            "batchName": "",
-            "batchNames": [],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Toxicology & Forensic",
-            "subjectId": "toxicology-forensic",
-            "lectureName": "Role of Medical Reports",
-            "groupName": "Role of Medical Reports",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "toxicology-forensic__lecture__role-of-medical-reports__4__wti260",
-            "number": "4",
-            "text": "According to Jordanian Public Health Law, a physician MUST report which of the following to the Ministry of Health:",
-            "options": [
-              "All cases of trauma",
-              "All deaths",
-              "Notifiable infectious diseases",
-              "Only sexually transmitted diseases"
-            ],
-            "originalOptions": [
-              "All cases of trauma",
-              "All deaths",
-              "Notifiable infectious diseases",
-              "Only sexually transmitted diseases"
-            ],
-            "correctAnswer": "C) Notifiable infectious diseases",
-            "correctAnswerText": "Notifiable infectious diseases",
+            "correctAnswer": "C) The first physician who examines or manages the patient, regardless of specialty",
+            "correctAnswerText": "The first physician who examines or manages the patient, regardless of specialty",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Jordanian public health law mandates reporting notifiable/communicable diseases (e.g., cholera, typhoid) to the Ministry of Health, not all trauma or deaths generally.",
+            "explanation": "The primary report is written by the first doctor who sees the patient, usually in the emergency department, whatever his specialty. The forensic physician completes the final report later.",
             "batchName": "",
             "batchNames": [],
             "note": "",
@@ -78691,65 +78658,28 @@
             "sourceType": "lecture"
           },
           {
-            "id": "toxicology-forensic__lecture__role-of-medical-reports__5__wq4c00",
-            "number": "5",
-            "text": "A 60-year-old man underwent arthroscopy and meniscectomy, and died of pulmonary embolism. Which post-op care was NEGLIGENT?",
+            "id": "toxicology-forensic__lecture__role-of-medical-reports__4__vc390s",
+            "number": "4",
+            "text": "The components of a medico-legal report are:",
             "options": [
-              "Not informed how serious it is if he feels headache",
-              "Not informed of the kind of painkillers to use",
-              "Not told to have residence within 2 miles of hospital",
-              "Not informed of how serious it is if he feels short of breath",
-              "Not told the duration of disablement from work"
+              "Findings and diagnosis only",
+              "Heading (preamble), body (history and findings), and conclusion (opinion)",
+              "History and physical examination only",
+              "Laboratory and imaging results only"
             ],
             "originalOptions": [
-              "Not informed how serious it is if he feels headache",
-              "Not informed of the kind of painkillers to use",
-              "Not told to have residence within 2 miles of hospital",
-              "Not informed of how serious it is if he feels short of breath",
-              "Not told the duration of disablement from work"
+              "Findings and diagnosis only",
+              "Heading (preamble), body (history and findings), and conclusion (opinion)",
+              "History and physical examination only",
+              "Laboratory and imaging results only"
             ],
-            "correctAnswer": "D) Not informed of how serious it is if he feels short of breath",
-            "correctAnswerText": "Not informed of how serious it is if he feels short of breath",
-            "correctIndex": 3,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "Pulmonary embolism is a known post-surgical complication presenting with dyspnoea; failing to warn the patient about this warning sign constitutes negligence.",
-            "batchName": "",
-            "batchNames": [],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Toxicology & Forensic",
-            "subjectId": "toxicology-forensic",
-            "lectureName": "Role of Medical Reports",
-            "groupName": "Role of Medical Reports",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "toxicology-forensic__lecture__role-of-medical-reports__6__h5mib",
-            "number": "6",
-            "text": "A surgeon under the effect of alcohol performed a laparotomy, resulting in the patient's death. The surgeon is guilty of:",
-            "options": [
-              "Contributory medical negligence",
-              "Criminal medical negligence",
-              "Civil medical negligence",
-              "Therapeutic misadventure",
-              "Ethical malpraxis"
-            ],
-            "originalOptions": [
-              "Contributory medical negligence",
-              "Criminal medical negligence",
-              "Civil medical negligence",
-              "Therapeutic misadventure",
-              "Ethical malpraxis"
-            ],
-            "correctAnswer": "B) Criminal medical negligence",
-            "correctAnswerText": "Criminal medical negligence",
+            "correctAnswer": "B) Heading (preamble), body (history and findings), and conclusion (opinion)",
+            "correctAnswerText": "Heading (preamble), body (history and findings), and conclusion (opinion)",
             "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "Operating while impaired by alcohol is a reckless disregard for patient safety with full knowledge of the risk, rising to the level of criminal negligence rather than mere civil liability.",
+            "explanation": "A complete report has three parts: the heading identifying the case and the requesting authority, the body containing the history and examination findings, and the conclusion giving the medical opinion.",
             "batchName": "",
             "batchNames": [],
             "note": "",
@@ -78761,28 +78691,30 @@
             "sourceType": "lecture"
           },
           {
-            "id": "toxicology-forensic__lecture__role-of-medical-reports__7__5lxih1",
-            "number": "7",
-            "text": "Components of a medico-legal report are:",
+            "id": "toxicology-forensic__lecture__role-of-medical-reports__5__wi0ro4",
+            "number": "5",
+            "text": "A surgeon operated while under the influence of alcohol, and the patient died. The surgeon is guilty of:",
             "options": [
-              "Only findings and diagnosis",
-              "History and physical examination only",
-              "Laboratory results and imaging only",
-              "Heading (preamble) + Body (findings) + Conclusion (opinion)"
+              "Contributory medical negligence",
+              "Civil medical negligence",
+              "Therapeutic misadventure",
+              "Ethical malpractice",
+              "Criminal medical negligence"
             ],
             "originalOptions": [
-              "Only findings and diagnosis",
-              "History and physical examination only",
-              "Laboratory results and imaging only",
-              "Heading (preamble) + Body (findings) + Conclusion (opinion)"
+              "Contributory medical negligence",
+              "Civil medical negligence",
+              "Therapeutic misadventure",
+              "Ethical malpractice",
+              "Criminal medical negligence"
             ],
-            "correctAnswer": "D) Heading (preamble) + Body (findings) + Conclusion (opinion)",
-            "correctAnswerText": "Heading (preamble) + Body (findings) + Conclusion (opinion)",
-            "correctIndex": 3,
+            "correctAnswer": "E) Criminal medical negligence",
+            "correctAnswerText": "Criminal medical negligence",
+            "correctIndex": 4,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "A complete medico-legal report consists of three parts: the preamble (who/what/when/where), the body of objective findings, and the conclusion containing professional opinion.",
+            "correctAnswerLetter": "E",
+            "explanation": "Gross negligence or recklessness (operating while intoxicated) that causes death constitutes criminal negligence. Civil negligence results in compensation only, and therapeutic misadventure is an accident despite proper care.",
             "batchName": "",
             "batchNames": [],
             "note": "",
@@ -78794,28 +78726,63 @@
             "sourceType": "lecture"
           },
           {
-            "id": "toxicology-forensic__lecture__role-of-medical-reports__8__zicwt9",
-            "number": "8",
+            "id": "toxicology-forensic__lecture__role-of-medical-reports__6__zicwt9",
+            "number": "6",
             "text": "In Jordan, a physician is legally governed by:",
             "options": [
-              "Only the Medical Association Law",
-              "Only the Public Health Law",
-              "Medical Association Law + Public Health Law + Jordanian Penal Code",
-              "International medical ethics codes only"
+              "The Medical Association Law only",
+              "The Public Health Law only",
+              "International medical ethics codes only",
+              "The Medical Association Law, the Public Health Law, and the Jordanian Penal Code"
             ],
             "originalOptions": [
-              "Only the Medical Association Law",
-              "Only the Public Health Law",
-              "Medical Association Law + Public Health Law + Jordanian Penal Code",
-              "International medical ethics codes only"
+              "The Medical Association Law only",
+              "The Public Health Law only",
+              "International medical ethics codes only",
+              "The Medical Association Law, the Public Health Law, and the Jordanian Penal Code"
             ],
-            "correctAnswer": "C) Medical Association Law + Public Health Law + Jordanian Penal Code",
-            "correctAnswerText": "Medical Association Law + Public Health Law + Jordanian Penal Code",
-            "correctIndex": 2,
+            "correctAnswer": "D) The Medical Association Law, the Public Health Law, and the Jordanian Penal Code",
+            "correctAnswerText": "The Medical Association Law, the Public Health Law, and the Jordanian Penal Code",
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "C",
-            "explanation": "Jordanian physicians are bound by three combined legal frameworks: the Medical Association Law, the Public Health Law, and the Penal Code (governing criminal negligence).",
+            "correctAnswerLetter": "D",
+            "explanation": "The physician's practice is regulated by all three Jordanian laws together; international codes are not by themselves legally binding.",
+            "batchName": "",
+            "batchNames": [],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Toxicology & Forensic",
+            "subjectId": "toxicology-forensic",
+            "lectureName": "Role of Medical Reports",
+            "groupName": "Role of Medical Reports",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "toxicology-forensic__lecture__role-of-medical-reports__7__j2i9yw",
+            "number": "7",
+            "text": "A 60-year-old man underwent arthroscopy with meniscectomy and died of pulmonary embolism. Which aspect of his post-operative care was negligent?",
+            "options": [
+              "He was not informed how serious a headache would be",
+              "He was not informed which analgesics to use",
+              "He was not told to stay within 2 miles of the hospital",
+              "He was not informed of the duration of work disablement",
+              "He was not informed how serious shortness of breath would be"
+            ],
+            "originalOptions": [
+              "He was not informed how serious a headache would be",
+              "He was not informed which analgesics to use",
+              "He was not told to stay within 2 miles of the hospital",
+              "He was not informed of the duration of work disablement",
+              "He was not informed how serious shortness of breath would be"
+            ],
+            "correctAnswer": "E) He was not informed how serious shortness of breath would be",
+            "correctAnswerText": "He was not informed how serious shortness of breath would be",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "After lower-limb surgery, shortness of breath is the warning sign of pulmonary embolism, and the patient must be told it requires urgent medical attention. The other omissions are not related to the cause of death.",
             "batchName": "",
             "batchNames": [],
             "note": "",
@@ -85547,28 +85514,30 @@
         "sourceType": "lecture"
       },
       {
-        "id": "toxicology-forensic__lecture__role-of-medical-reports__1__eugpmn",
+        "id": "toxicology-forensic__lecture__role-of-medical-reports__1__e2stg4",
         "number": "1",
-        "text": "Issuing the initial medical report in a medico-legal case is the responsibility of:",
+        "text": "Reporting and documentation of injuries include all of the following EXCEPT:",
         "options": [
-          "Medical Officer",
-          "Surgical Specialist",
-          "The first physician who manages the patient in the emergency department",
-          "Forensic Pathologist"
+          "Injury location (anatomical measurement from a fixed landmark)",
+          "Type of injury (e.g., bruise, laceration, abrasion)",
+          "Description of the assailant (left- or right-handed)",
+          "Estimated age of the wound",
+          "Pain and/or tenderness"
         ],
         "originalOptions": [
-          "Medical Officer",
-          "Surgical Specialist",
-          "The first physician who manages the patient in the emergency department",
-          "Forensic Pathologist"
+          "Injury location (anatomical measurement from a fixed landmark)",
+          "Type of injury (e.g., bruise, laceration, abrasion)",
+          "Description of the assailant (left- or right-handed)",
+          "Estimated age of the wound",
+          "Pain and/or tenderness"
         ],
-        "correctAnswer": "C) The first physician who manages the patient in the emergency department",
-        "correctAnswerText": "The first physician who manages the patient in the emergency department",
+        "correctAnswer": "C) Description of the assailant (left- or right-handed)",
+        "correctAnswerText": "Description of the assailant (left- or right-handed)",
         "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "The primary medico-legal report is always issued by the first doctor to examine the patient, regardless of specialty, to ensure timely and accurate documentation.",
+        "explanation": "The medico-legal report documents the victim's injuries objectively (site, type, size, age, tenderness). Assailant handedness is an investigative inference, not a clinical finding.",
         "batchName": "",
         "batchNames": [],
         "note": "",
@@ -85580,28 +85549,28 @@
         "sourceType": "lecture"
       },
       {
-        "id": "toxicology-forensic__lecture__role-of-medical-reports__2__b7bka2",
+        "id": "toxicology-forensic__lecture__role-of-medical-reports__2__t248jq",
         "number": "2",
-        "text": "Who gives the PRIMARY medical report:",
+        "text": "According to Jordanian law, a physician is obliged to report which of the following to the Ministry of Health?",
         "options": [
-          "The first surgeon who met the patient",
-          "The first doctor who met the patient",
-          "Senior or head of department",
-          "Forensic doctor"
+          "Cases of trauma",
+          "Notifiable infectious diseases",
+          "All deaths",
+          "Sexually transmitted diseases only"
         ],
         "originalOptions": [
-          "The first surgeon who met the patient",
-          "The first doctor who met the patient",
-          "Senior or head of department",
-          "Forensic doctor"
+          "Cases of trauma",
+          "Notifiable infectious diseases",
+          "All deaths",
+          "Sexually transmitted diseases only"
         ],
-        "correctAnswer": "B) The first doctor who met the patient",
-        "correctAnswerText": "The first doctor who met the patient",
+        "correctAnswer": "B) Notifiable infectious diseases",
+        "correctAnswerText": "Notifiable infectious diseases",
         "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "Legal responsibility for the initial medico-legal report falls on the first physician to assess the patient, irrespective of specialty.",
+        "explanation": "The Public Health Law obliges the physician to notify the Ministry of Health of notifiable infectious diseases (e.g., cholera). It does not extend to all trauma cases or all deaths, nor is it limited to sexually transmitted diseases.",
         "batchName": "",
         "batchNames": [],
         "note": "",
@@ -85613,63 +85582,28 @@
         "sourceType": "lecture"
       },
       {
-        "id": "toxicology-forensic__lecture__role-of-medical-reports__3__pr41ai",
+        "id": "toxicology-forensic__lecture__role-of-medical-reports__3__chsyl0",
         "number": "3",
-        "text": "Reporting and documentation of injuries will include all of the following EXCEPT one:",
+        "text": "Who is responsible for issuing the primary medico-legal report?",
         "options": [
-          "Injury location (anatomical measure distance from landmark)",
-          "Type (e.g. bruise, laceration, abrasion)",
-          "Estimate age of wound",
-          "Assailant description whether left or right hand user",
-          "Pain and/or Tenderness"
+          "The forensic physician",
+          "The senior physician or head of department",
+          "The first physician who examines or manages the patient, regardless of specialty",
+          "The surgeon on duty"
         ],
         "originalOptions": [
-          "Injury location (anatomical measure distance from landmark)",
-          "Type (e.g. bruise, laceration, abrasion)",
-          "Estimate age of wound",
-          "Assailant description whether left or right hand user",
-          "Pain and/or Tenderness"
+          "The forensic physician",
+          "The senior physician or head of department",
+          "The first physician who examines or manages the patient, regardless of specialty",
+          "The surgeon on duty"
         ],
-        "correctAnswer": "D) Assailant description whether left or right hand user",
-        "correctAnswerText": "Assailant description whether left or right hand user",
-        "correctIndex": 3,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "D",
-        "explanation": "Medico-legal documentation records the victim's objective injury findings; assailant handedness is an investigative inference, not a clinical documentation item.",
-        "batchName": "",
-        "batchNames": [],
-        "note": "",
-        "pageNumber": "",
-        "subjectName": "Toxicology & Forensic",
-        "subjectId": "toxicology-forensic",
-        "lectureName": "Role of Medical Reports",
-        "groupName": "Role of Medical Reports",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "toxicology-forensic__lecture__role-of-medical-reports__4__wti260",
-        "number": "4",
-        "text": "According to Jordanian Public Health Law, a physician MUST report which of the following to the Ministry of Health:",
-        "options": [
-          "All cases of trauma",
-          "All deaths",
-          "Notifiable infectious diseases",
-          "Only sexually transmitted diseases"
-        ],
-        "originalOptions": [
-          "All cases of trauma",
-          "All deaths",
-          "Notifiable infectious diseases",
-          "Only sexually transmitted diseases"
-        ],
-        "correctAnswer": "C) Notifiable infectious diseases",
-        "correctAnswerText": "Notifiable infectious diseases",
+        "correctAnswer": "C) The first physician who examines or manages the patient, regardless of specialty",
+        "correctAnswerText": "The first physician who examines or manages the patient, regardless of specialty",
         "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "Jordanian public health law mandates reporting notifiable/communicable diseases (e.g., cholera, typhoid) to the Ministry of Health, not all trauma or deaths generally.",
+        "explanation": "The primary report is written by the first doctor who sees the patient, usually in the emergency department, whatever his specialty. The forensic physician completes the final report later.",
         "batchName": "",
         "batchNames": [],
         "note": "",
@@ -85681,65 +85615,28 @@
         "sourceType": "lecture"
       },
       {
-        "id": "toxicology-forensic__lecture__role-of-medical-reports__5__wq4c00",
-        "number": "5",
-        "text": "A 60-year-old man underwent arthroscopy and meniscectomy, and died of pulmonary embolism. Which post-op care was NEGLIGENT?",
+        "id": "toxicology-forensic__lecture__role-of-medical-reports__4__vc390s",
+        "number": "4",
+        "text": "The components of a medico-legal report are:",
         "options": [
-          "Not informed how serious it is if he feels headache",
-          "Not informed of the kind of painkillers to use",
-          "Not told to have residence within 2 miles of hospital",
-          "Not informed of how serious it is if he feels short of breath",
-          "Not told the duration of disablement from work"
+          "Findings and diagnosis only",
+          "Heading (preamble), body (history and findings), and conclusion (opinion)",
+          "History and physical examination only",
+          "Laboratory and imaging results only"
         ],
         "originalOptions": [
-          "Not informed how serious it is if he feels headache",
-          "Not informed of the kind of painkillers to use",
-          "Not told to have residence within 2 miles of hospital",
-          "Not informed of how serious it is if he feels short of breath",
-          "Not told the duration of disablement from work"
+          "Findings and diagnosis only",
+          "Heading (preamble), body (history and findings), and conclusion (opinion)",
+          "History and physical examination only",
+          "Laboratory and imaging results only"
         ],
-        "correctAnswer": "D) Not informed of how serious it is if he feels short of breath",
-        "correctAnswerText": "Not informed of how serious it is if he feels short of breath",
-        "correctIndex": 3,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "D",
-        "explanation": "Pulmonary embolism is a known post-surgical complication presenting with dyspnoea; failing to warn the patient about this warning sign constitutes negligence.",
-        "batchName": "",
-        "batchNames": [],
-        "note": "",
-        "pageNumber": "",
-        "subjectName": "Toxicology & Forensic",
-        "subjectId": "toxicology-forensic",
-        "lectureName": "Role of Medical Reports",
-        "groupName": "Role of Medical Reports",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "toxicology-forensic__lecture__role-of-medical-reports__6__h5mib",
-        "number": "6",
-        "text": "A surgeon under the effect of alcohol performed a laparotomy, resulting in the patient's death. The surgeon is guilty of:",
-        "options": [
-          "Contributory medical negligence",
-          "Criminal medical negligence",
-          "Civil medical negligence",
-          "Therapeutic misadventure",
-          "Ethical malpraxis"
-        ],
-        "originalOptions": [
-          "Contributory medical negligence",
-          "Criminal medical negligence",
-          "Civil medical negligence",
-          "Therapeutic misadventure",
-          "Ethical malpraxis"
-        ],
-        "correctAnswer": "B) Criminal medical negligence",
-        "correctAnswerText": "Criminal medical negligence",
+        "correctAnswer": "B) Heading (preamble), body (history and findings), and conclusion (opinion)",
+        "correctAnswerText": "Heading (preamble), body (history and findings), and conclusion (opinion)",
         "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "Operating while impaired by alcohol is a reckless disregard for patient safety with full knowledge of the risk, rising to the level of criminal negligence rather than mere civil liability.",
+        "explanation": "A complete report has three parts: the heading identifying the case and the requesting authority, the body containing the history and examination findings, and the conclusion giving the medical opinion.",
         "batchName": "",
         "batchNames": [],
         "note": "",
@@ -85751,28 +85648,30 @@
         "sourceType": "lecture"
       },
       {
-        "id": "toxicology-forensic__lecture__role-of-medical-reports__7__5lxih1",
-        "number": "7",
-        "text": "Components of a medico-legal report are:",
+        "id": "toxicology-forensic__lecture__role-of-medical-reports__5__wi0ro4",
+        "number": "5",
+        "text": "A surgeon operated while under the influence of alcohol, and the patient died. The surgeon is guilty of:",
         "options": [
-          "Only findings and diagnosis",
-          "History and physical examination only",
-          "Laboratory results and imaging only",
-          "Heading (preamble) + Body (findings) + Conclusion (opinion)"
+          "Contributory medical negligence",
+          "Civil medical negligence",
+          "Therapeutic misadventure",
+          "Ethical malpractice",
+          "Criminal medical negligence"
         ],
         "originalOptions": [
-          "Only findings and diagnosis",
-          "History and physical examination only",
-          "Laboratory results and imaging only",
-          "Heading (preamble) + Body (findings) + Conclusion (opinion)"
+          "Contributory medical negligence",
+          "Civil medical negligence",
+          "Therapeutic misadventure",
+          "Ethical malpractice",
+          "Criminal medical negligence"
         ],
-        "correctAnswer": "D) Heading (preamble) + Body (findings) + Conclusion (opinion)",
-        "correctAnswerText": "Heading (preamble) + Body (findings) + Conclusion (opinion)",
-        "correctIndex": 3,
+        "correctAnswer": "E) Criminal medical negligence",
+        "correctAnswerText": "Criminal medical negligence",
+        "correctIndex": 4,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "D",
-        "explanation": "A complete medico-legal report consists of three parts: the preamble (who/what/when/where), the body of objective findings, and the conclusion containing professional opinion.",
+        "correctAnswerLetter": "E",
+        "explanation": "Gross negligence or recklessness (operating while intoxicated) that causes death constitutes criminal negligence. Civil negligence results in compensation only, and therapeutic misadventure is an accident despite proper care.",
         "batchName": "",
         "batchNames": [],
         "note": "",
@@ -85784,28 +85683,63 @@
         "sourceType": "lecture"
       },
       {
-        "id": "toxicology-forensic__lecture__role-of-medical-reports__8__zicwt9",
-        "number": "8",
+        "id": "toxicology-forensic__lecture__role-of-medical-reports__6__zicwt9",
+        "number": "6",
         "text": "In Jordan, a physician is legally governed by:",
         "options": [
-          "Only the Medical Association Law",
-          "Only the Public Health Law",
-          "Medical Association Law + Public Health Law + Jordanian Penal Code",
-          "International medical ethics codes only"
+          "The Medical Association Law only",
+          "The Public Health Law only",
+          "International medical ethics codes only",
+          "The Medical Association Law, the Public Health Law, and the Jordanian Penal Code"
         ],
         "originalOptions": [
-          "Only the Medical Association Law",
-          "Only the Public Health Law",
-          "Medical Association Law + Public Health Law + Jordanian Penal Code",
-          "International medical ethics codes only"
+          "The Medical Association Law only",
+          "The Public Health Law only",
+          "International medical ethics codes only",
+          "The Medical Association Law, the Public Health Law, and the Jordanian Penal Code"
         ],
-        "correctAnswer": "C) Medical Association Law + Public Health Law + Jordanian Penal Code",
-        "correctAnswerText": "Medical Association Law + Public Health Law + Jordanian Penal Code",
-        "correctIndex": 2,
+        "correctAnswer": "D) The Medical Association Law, the Public Health Law, and the Jordanian Penal Code",
+        "correctAnswerText": "The Medical Association Law, the Public Health Law, and the Jordanian Penal Code",
+        "correctIndex": 3,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "C",
-        "explanation": "Jordanian physicians are bound by three combined legal frameworks: the Medical Association Law, the Public Health Law, and the Penal Code (governing criminal negligence).",
+        "correctAnswerLetter": "D",
+        "explanation": "The physician's practice is regulated by all three Jordanian laws together; international codes are not by themselves legally binding.",
+        "batchName": "",
+        "batchNames": [],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Toxicology & Forensic",
+        "subjectId": "toxicology-forensic",
+        "lectureName": "Role of Medical Reports",
+        "groupName": "Role of Medical Reports",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "toxicology-forensic__lecture__role-of-medical-reports__7__j2i9yw",
+        "number": "7",
+        "text": "A 60-year-old man underwent arthroscopy with meniscectomy and died of pulmonary embolism. Which aspect of his post-operative care was negligent?",
+        "options": [
+          "He was not informed how serious a headache would be",
+          "He was not informed which analgesics to use",
+          "He was not told to stay within 2 miles of the hospital",
+          "He was not informed of the duration of work disablement",
+          "He was not informed how serious shortness of breath would be"
+        ],
+        "originalOptions": [
+          "He was not informed how serious a headache would be",
+          "He was not informed which analgesics to use",
+          "He was not told to stay within 2 miles of the hospital",
+          "He was not informed of the duration of work disablement",
+          "He was not informed how serious shortness of breath would be"
+        ],
+        "correctAnswer": "E) He was not informed how serious shortness of breath would be",
+        "correctAnswerText": "He was not informed how serious shortness of breath would be",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "After lower-limb surgery, shortness of breath is the warning sign of pulmonary embolism, and the patient must be told it requires urgent medical attention. The other omissions are not related to the cause of death.",
         "batchName": "",
         "batchNames": [],
         "note": "",
@@ -86951,7 +86885,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 205,
+    "totalQuestions": 204,
     "totalLectures": 14,
     "hasAiFolder": false
   }
