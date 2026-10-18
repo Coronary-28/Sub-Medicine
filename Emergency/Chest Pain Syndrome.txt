@@ -1,119 +1,299 @@
-A 30-year-old woman presents with chest pain. She has a history of previous deep vein thrombosis, is not pregnant, and pulmonary embolism is suspected. What is the investigation of choice?
+A 55-year-old man with hypertension, diabetes mellitus and hypercholesterolaemia, and known stable angina, presents with chest pain radiating to both arms. What ECG finding is most likely?
+A) Short QT interval
+B) ST-segment elevation
+C) Persistent ST-segment depression
+D) Normal ECG
+E) Pathological Q waves
+Correct Answer: D) Normal ECG
+Explanation: Stable angina is demand ischaemia on a fixed plaque without myocardial infarction, so the ECG and troponin are typically normal. Persistent ST depression suggests NSTE-ACS, ST elevation suggests STEMI or vasospasm, and Q waves indicate an old infarct.
+###
+Which of the following is NOT a recognised life-threatening complication of acute coronary syndrome?
+A) Malignant ventricular arrhythmias (VF or pulseless VT)
+B) Cardiogenic shock
+C) Tension pneumothorax
+D) Papillary-muscle rupture with acute severe mitral regurgitation
+E) Ventricular free-wall rupture with cardiac tamponade
+Correct Answer: C) Tension pneumothorax
+Explanation: ACS complications are electrical (VF, pulseless VT, high-grade AV block), pump failure (acute heart failure, cardiogenic shock), and mechanical (papillary-muscle rupture, septal rupture, free-wall rupture). Tension pneumothorax is not a complication of MI.
+###
+What is the most clinically important adverse effect of nitroglycerin?
+A) Hypotension
+B) Headache
+C) Reflex tachycardia
+D) Syncope
+E) Hypertension
+Correct Answer: A) Hypotension
+Explanation: Dose-related vasodilation causes hypotension, which is the most clinically important effect and can lead to syncope. Headache is very common but not dangerous, and reflex tachycardia is a secondary response.
+###
+A 30-year-old woman presents with chest pain. She has a history of previous deep vein thrombosis and is not pregnant. Pulmonary embolism is suspected. What is the investigation of choice?
 A) Chest X-ray
-B) Echocardiography
-C) CT pulmonary angiography (CTPA)
-D) 12-lead ECG
-E) Ventilation-perfusion (V/Q) scan
-Correct Answer: C) CT pulmonary angiography (CTPA)
+B) CT pulmonary angiography (CTPA)
+C) Echocardiography
+D) Ventilation-perfusion (V/Q) scan
+E) 12-lead ECG
+Correct Answer: B) CT pulmonary angiography (CTPA)
 Explanation: CTPA is the first-line confirmatory test for suspected PE in a non-pregnant patient with no contrast contraindication. V/Q scanning is preferred only in pregnancy, significant renal impairment, or contrast allergy, and CXR, ECG, and echocardiography cannot confirm PE.
 ###
-A patient presents with tearing chest pain and a difference in blood pressure between the two arms. What is the best medication to give initially?
-A) Labetalol
-B) Aspirin
-C) Alteplase
-D) Sublingual nitroglycerin
-E) Unfractionated heparin infusion
-Correct Answer: A) Labetalol
-Explanation: Tearing chest pain with an inter-arm BP differential suggests aortic dissection, which requires IV beta-blockade first to lower heart rate and aortic shear stress. Vasodilators are added only after heart-rate control, and antiplatelets, anticoagulants, and thrombolytics are contraindicated.
+A patient presents with tearing chest pain and a difference in blood pressure between the two arms. What is the best initial medication?
+A) Aspirin
+B) Alteplase
+C) Sublingual nitroglycerin
+D) Unfractionated heparin infusion
+E) Intravenous labetalol
+Correct Answer: E) Intravenous labetalol
+Explanation: Tearing chest pain with an inter-arm BP difference indicates aortic dissection, which requires IV beta-blockade first (target heart rate 60–70 bpm, systolic BP 100–120 mmHg) to reduce aortic shear stress. Antiplatelets, anticoagulants, and thrombolytics are contraindicated, and a vasodilator is added only after heart-rate control.
 ###
-A diabetic patient presents with dyspnoea but no chest pain. Which diagnosis must NOT be excluded?
+A diabetic patient presents with dyspnoea but no chest pain. Which diagnosis must NOT be missed?
 A) Costochondritis
 B) Gastro-oesophageal reflux disease
-C) Acute pericarditis
-D) Acute myocardial infarction
+C) Acute myocardial infarction
+D) Acute pericarditis
 E) Viral pleurisy
-Correct Answer: D) Acute myocardial infarction
-Explanation: Diabetic patients, especially with autonomic neuropathy, often present with silent or atypical ACS in which dyspnoea is an anginal equivalent. The other options are pain-predominant conditions and are not the critical diagnosis to exclude here.
+Correct Answer: C) Acute myocardial infarction
+Explanation: Diabetic patients, especially those with autonomic neuropathy, often present with silent or atypical ACS in which dyspnoea is the anginal equivalent. The other options are pain-predominant conditions and are not the critical diagnosis to exclude.
 ###
-An ECG shows ST-segment elevation in leads II, III and aVF. The most likely location of the myocardial infarction is:
+An older farmer develops central chest pain while working. The pain subsides after a 10-minute rest and returns when he resumes work. His ECG and troponin are normal. What is the most likely diagnosis?
+A) Stable angina
+B) Unstable angina
+C) NSTEMI
+D) STEMI
+E) Acute pericarditis
+Correct Answer: A) Stable angina
+Explanation: Predictable exertional pain that is relieved by rest, with normal ECG and troponin, indicates stable angina (demand ischaemia on a fixed plaque with no infarction). Unstable angina presents with new, crescendo, or rest pain, and NSTEMI requires a troponin rise.
+###
+A patient with confirmed STEMI is in an ambulance. A non-PCI hospital and a PCI-capable hospital are each about 15 minutes away. What is the best management?
+A) Take him to the non-PCI hospital for fibrinolysis
+B) Take him to the nearest hospital with CABG capacity
+C) Take him to the nearest emergency department and wait for serial troponins
+D) Transfer him directly to the PCI-capable hospital for primary PCI
+E) Give fibrinolytics in the ambulance, then take him to the non-PCI hospital
+Correct Answer: D) Transfer him directly to the PCI-capable hospital for primary PCI
+Explanation: Primary PCI is preferred when the anticipated first-medical-contact-to-device delay is 120 minutes or less, and the patient should not be detoured to a non-PCI hospital. Fibrinolysis is reserved for when the delay to PCI exceeds 120 minutes.
+###
+What is the definitive reperfusion treatment for an eligible STEMI patient at a PCI-capable centre?
+A) Intravenous alteplase
+B) Primary percutaneous coronary intervention (PCI)
+C) Emergency coronary artery bypass grafting
+D) Intravenous heparin infusion alone
+E) Sublingual nitroglycerin with a beta-blocker
+Correct Answer: B) Primary percutaneous coronary intervention (PCI)
+Explanation: In STEMI the goal is reperfusion, and primary PCI within 90 minutes of arrival is the preferred strategy at a PCI-capable centre. Fibrinolysis is used only when timely PCI is not available.
+###
+An ECG shows ST-segment elevation in leads II, III and aVF. The most likely location of the myocardial infarction is: [img: ERChestInferiorMI.jpg ]
 A) Anterolateral
-B) Inferior
-C) Septal
+B) Septal
+C) Lateral
 D) Posterior
-E) Lateral
-Correct Answer: B) Inferior
-Explanation: ST elevation in II, III and aVF localises the infarct to the inferior wall (usually RCA), often with reciprocal depression in I and aVL. Lateral infarcts involve I, aVL, V5–V6, and anterior or anterolateral infarcts involve the precordial leads.
+E) Inferior
+Correct Answer: E) Inferior
+Explanation: ST elevation in II, III and aVF localises the infarct to the inferior wall (usually RCA), with reciprocal depression in I and aVL. Lateral infarcts involve I, aVL, V5–V6, anterior or septal infarcts involve V1–V4, and posterior MI shows reciprocal ST depression in V1–V2.
+###
+Which of the following medications used in coronary artery disease relieves symptoms but has no proven effect on mortality or morbidity?
+A) Aspirin
+B) Atorvastatin
+C) Nitroglycerin
+D) Beta-blocker (after myocardial infarction)
+E) Clopidogrel
+Correct Answer: C) Nitroglycerin
+Explanation: Nitrates relieve angina through vasodilation but have not been shown to improve survival. Aspirin and statins reduce cardiovascular events in established CAD, and beta-blockers improve prognosis after MI.
+###
+A patient has ischaemic chest pain. The ECG shows no ST-segment elevation (normal, ST depression, or T-wave inversion) and the troponin level is elevated. What is the diagnosis?
+A) NSTEMI
+B) Unstable angina
+C) STEMI
+D) Stable angina
+E) Acute pericarditis
+Correct Answer: A) NSTEMI
+Explanation: NSTEMI is myocardial injury with a troponin rise without ST elevation. Unstable angina has a normal troponin, and STEMI requires ST elevation or hyperacute T waves.
 ###
 Chest pain radiating to the jaw and relieved by sitting forward is most likely due to:
 A) Stable angina
 B) Gastro-oesophageal reflux disease
 C) Pulmonary embolism
-D) Acute myocardial infarction
-E) Acute pericarditis
-Correct Answer: E) Acute pericarditis
-Explanation: Pericarditis pain is classically worse when lying supine and relieved by sitting forward, and it may radiate to the neck, back, or jaw. Stable angina is exertional and relieved by rest or GTN, not by posture.
+D) Acute pericarditis
+E) Acute myocardial infarction
+Correct Answer: D) Acute pericarditis
+Explanation: Pericarditis pain is classically worse when lying supine and relieved by sitting forward, and may radiate to the neck, back, or jaw. Stable angina is exertional and relieved by rest or GTN, not by posture.
 ###
 Chest pain that is reproducible on palpation of the chest wall most likely indicates:
 A) Acute myocardial infarction
-B) Unstable angina
-C) Costochondritis (musculoskeletal chest pain)
+B) Costochondritis (musculoskeletal chest pain)
+C) Unstable angina
 D) Acute pericarditis
 E) Aortic dissection
-Correct Answer: C) Costochondritis (musculoskeletal chest pain)
+Correct Answer: B) Costochondritis (musculoskeletal chest pain)
 Explanation: Pain reproduced by chest-wall palpation points to a musculoskeletal cause and lowers the probability of ACS (LR ≈ 0.3). It does not exclude ACS on its own, since about 15% of ACS patients also have chest-wall tenderness.
 ###
-Which of the following correctly distinguishes between the three types of angina?
-A) Stable angina: predictable exertional pain relieved by rest or GTN; unstable angina: new, crescendo, or rest pain without troponin rise; vasospastic (Prinzmetal) angina: episodic rest pain from coronary spasm with transient ST elevation
-B) Stable angina: rest pain with transient ST elevation; unstable angina: predictable exertional pain relieved by rest; vasospastic angina: pain with troponin rise
-C) Stable angina: pain at rest from plaque rupture; unstable angina: exertional pain relieved by rest; vasospastic angina: exertional pain treated first-line with beta-blockers
-D) All three types are characterised by elevated troponin from myocardial necrosis and differ only in the duration of pain
-E) Unstable angina differs from stable angina by a raised troponin, and vasospastic angina is treated first-line with beta-blockers
-Correct Answer: A) Stable angina: predictable exertional pain relieved by rest or GTN; unstable angina: new, crescendo, or rest pain without troponin rise; vasospastic (Prinzmetal) angina: episodic rest pain from coronary spasm with transient ST elevation
-Explanation: Stable angina is demand ischaemia on a fixed plaque, and unstable angina is plaque rupture with partial thrombosis but normal troponin; a troponin rise defines NSTEMI. Vasospastic angina is treated with calcium channel blockers or nitrates, and beta-blockers are generally avoided.
+Which of the following correctly distinguishes the three types of angina?
+A) All three types have a raised troponin from myocardial necrosis and differ only in the duration of pain
+B) Stable angina: rest pain with transient ST elevation; unstable angina: predictable exertional pain; vasospastic angina: pain with a troponin rise
+C) Stable angina: rest pain from plaque rupture; unstable angina: exertional pain relieved by rest; vasospastic angina: exertional pain treated first-line with beta-blockers
+D) Unstable angina differs from stable angina by a raised troponin, and vasospastic angina is treated first-line with beta-blockers
+E) Stable angina: predictable exertional pain relieved by rest or GTN; unstable angina: new, crescendo, or rest pain without troponin rise; vasospastic (Prinzmetal) angina: episodic rest pain from coronary spasm with transient ST elevation
+Correct Answer: E) Stable angina: predictable exertional pain relieved by rest or GTN; unstable angina: new, crescendo, or rest pain without troponin rise; vasospastic (Prinzmetal) angina: episodic rest pain from coronary spasm with transient ST elevation
+Explanation: Stable angina is demand ischaemia on a fixed plaque, and unstable angina is plaque rupture with partial thrombosis but a normal troponin; a troponin rise defines NSTEMI. Vasospastic angina is treated with calcium channel blockers or nitrates, and beta-blockers are generally avoided.
 ###
 All of the following are life-threatening causes of chest pain EXCEPT:
 A) Aortic dissection
 B) Tension pneumothorax
-C) Pulmonary embolism
-D) Costochondritis
+C) Costochondritis
+D) Pulmonary embolism
 E) Oesophageal rupture (Boerhaave's syndrome)
-Correct Answer: D) Costochondritis
-Explanation: Costochondritis is a benign musculoskeletal cause of chest pain. Aortic dissection, tension pneumothorax, PE, and oesophageal rupture are all immediately life-threatening causes.
+Correct Answer: C) Costochondritis
+Explanation: Costochondritis is a benign musculoskeletal cause of chest pain. Aortic dissection, tension pneumothorax, PE, and oesophageal rupture are all immediately life-threatening.
 ###
-A patient with a previous history of myocardial infarction attends the cardiology clinic for a routine check-up. He is asymptomatic. His ECG shows a prolonged PR interval with 1:1 AV conduction. What is the most appropriate management?
+In a patient with suspected acute myocardial infarction, which of the following statements is FALSE?
+A) Treatment should be delayed until cardiac biomarker results are available
+B) An ECG should be performed immediately (within 10 minutes of arrival)
+C) Prompt reperfusion improves outcome
+D) Aspirin should be given as soon as MI is suspected
+E) Serial ECGs should be compared rather than relying on a single tracing
+Correct Answer: A) Treatment should be delayed until cardiac biomarker results are available
+Explanation: STEMI is diagnosed from the ECG, and reperfusion must not wait for troponin or other enzyme results, because time is muscle. Biomarkers are sent in parallel with treatment, not before it.
+###
+A patient with a previous history of myocardial infarction attends the cardiology clinic for a routine check-up. He is asymptomatic, and his ECG is shown. What is the most appropriate management? [img: ERChestnoacutetherapy.png ]
 A) Atropine 0.5 mg IV
-B) No acute therapy
-C) Transcutaneous pacing
-D) Permanent pacemaker insertion
+B) Transcutaneous pacing
+C) Permanent pacemaker insertion
+D) No acute therapy
 E) Epinephrine infusion
-Correct Answer: B) No acute therapy
+Correct Answer: D) No acute therapy
 Explanation: A fixed PR interval above 200 ms with 1:1 conduction is first-degree AV block, which is benign and needs no treatment when asymptomatic. Pacing is reserved for symptomatic bradycardia, asymptomatic Mobitz II, or complete heart block.
 ###
-What is the first-line anti-inflammatory treatment for uncomplicated acute pericarditis?
-A) Oral corticosteroids alone
-B) NSAID alone
-C) Paracetamol with opioid analgesia
-D) Colchicine alone
-E) NSAID (e.g. ibuprofen) plus colchicine, with gastroprotection
-Correct Answer: E) NSAID (e.g. ibuprofen) plus colchicine, with gastroprotection
-Explanation: Colchicine added to an NSAID reduces symptom duration and the recurrence rate. Corticosteroids are reserved for when NSAIDs and colchicine are contraindicated or fail, and aspirin is preferred in post-MI pericarditis.
+What is abdominal angina, and what is its classic presentation?
+A) Acute mesenteric ischaemia with sudden severe pain out of proportion to the examination
+B) Chronic mesenteric ischaemia with postprandial pain, food fear (sitophobia), and weight loss
+C) Mesenteric venous thrombosis in hypercoagulable states
+D) Non-occlusive mesenteric ischaemia from vasoconstriction
+E) Biliary colic after fatty meals
+Correct Answer: B) Chronic mesenteric ischaemia with postprandial pain, food fear (sitophobia), and weight loss
+Explanation: Abdominal angina is the gut equivalent of cardiac angina: atherosclerotic mesenteric stenosis cannot meet the increased demand after a meal. Acute mesenteric ischaemia instead presents with sudden, severe pain out of proportion to the examination.
 ###
-Which of the following is true about this ECG? [img: ERChestInferiorMI.jpg]
-A) It shows ECG changes of a lateral MI
-B) It shows ECG changes of an anterior MI
-C) It shows ECG changes of an inferior MI
-D) It shows pathological Q waves in the chest leads
-E) It shows ECG changes of a posterior MI
-Correct Answer: C) It shows ECG changes of an inferior MI
-Explanation: ST elevation in II, III and aVF with reciprocal change in aVL indicates an inferior MI. Lateral changes involve I, aVL, V5–V6, anterior changes involve V1–V4, and posterior MI shows reciprocal depression in V1–V2.
+A patient presents with sudden-onset tearing chest pain radiating to the back. This is classically associated with:
+A) Myocardial infarction
+B) Pulmonary embolism
+C) Acute pericarditis
+D) Tension pneumothorax
+E) Aortic dissection
+Correct Answer: E) Aortic dissection
+Explanation: Aortic dissection typically causes abrupt, severe tearing pain that is maximal at onset and radiates to the back. Myocardial infarction causes pressure-like pain that builds more gradually, and pericarditis pain is positional.
 ###
-An ECG shows diffuse concave ST-segment elevation with PR-segment depression. What is the most appropriate management?
-A) Aspirin or NSAIDs plus colchicine
-B) Activation of the cath lab for primary PCI
-C) Intravenous fibrinolytic therapy
-D) Intravenous heparin infusion
-E) High-dose oral corticosteroids as first-line therapy
-Correct Answer: A) Aspirin or NSAIDs plus colchicine
-Explanation: Diffuse concave ST elevation with PR depression indicates acute pericarditis, not coronary occlusion. Reperfusion therapy is for STEMI with regional convex ST elevation and reciprocal changes, and corticosteroids are second-line.
+What is the most common initiating event of acute coronary syndrome?
+A) Fixed atherosclerotic stenosis with demand ischaemia
+B) Coronary artery vasospasm
+C) Atherosclerotic plaque rupture with superimposed thrombosis
+D) Coronary embolism from atrial fibrillation
+E) Aortic dissection extending into the coronary ostium
+Correct Answer: C) Atherosclerotic plaque rupture with superimposed thrombosis
+Explanation: ACS results from plaque rupture (less commonly erosion) followed by platelet activation and thrombus formation, causing partial or complete vessel occlusion. Fixed-plaque demand ischaemia causes stable angina, and spasm causes Prinzmetal angina.
+###
+A patient with a tachyarrhythmia (ECG shown) has hypotension and ischaemic chest discomfort. What is the immediate treatment? [img: ERChestisc.png ]
+A) Immediate synchronised cardioversion, with sedation if feasible without delaying treatment
+B) Intravenous adenosine 6 mg rapid push
+C) Intravenous amiodarone infusion
+D) Vagal manoeuvres
+E) Intravenous beta-blocker
+Correct Answer: A) Immediate synchronised cardioversion, with sedation if feasible without delaying treatment
+Explanation: This is Atrial Fibrillation. Hypotension and ischaemic chest pain are unstable features, so an unstable tachyarrhythmia requires immediate synchronised cardioversion. Drug therapy and vagal manoeuvres are for haemodynamically stable patients.
+###
+An ECG shows diffuse concave ST-segment elevation with PR-segment depression. What is the most appropriate first-line treatment? [img: ERChestacutepericarditis.png ]
+A) Primary PCI
+B) Intravenous fibrinolytic therapy
+C) Intravenous heparin infusion
+D) An NSAID (e.g. ibuprofen) or aspirin, plus colchicine
+E) High-dose oral corticosteroids alone
+Correct Answer: D) An NSAID (e.g. ibuprofen) or aspirin, plus colchicine
+Explanation: Diffuse concave ST elevation with PR depression indicates acute pericarditis, treated with an NSAID plus colchicine (aspirin is preferred after MI), which reduces symptom duration and recurrence. Reperfusion is for STEMI with regional convex elevation and reciprocal changes, and corticosteroids are second-line.
+###
+Which of the following is NOT one of the traditional 8 D's of stroke care?
+A) Detection
+B) Defibrillation
+C) Dispatch
+D) Delivery
+E) Decision
+Correct Answer: B) Defibrillation
+Explanation: The 8 D's are Detection, Dispatch, Delivery, Door, Data, Decision, Drug (or device), and Disposition. Defibrillation belongs to cardiac arrest care, not stroke care.
+###
+Nitroglycerin should be avoided or used with extreme caution in all of the following situations EXCEPT:
+A) Suspected right ventricular infarction
+B) Tadalafil use within the past 48 hours
+C) Systolic blood pressure of 70 mmHg
+D) Severe aortic stenosis
+E) Ongoing ischaemic chest pain with normal blood pressure and no other contraindication
+Correct Answer: E) Ongoing ischaemic chest pain with normal blood pressure and no other contraindication
+Explanation: Nitrates are indicated for ongoing angina when blood pressure permits. They cause severe hypotension in preload-dependent states (RV infarction, severe aortic stenosis), in baseline hypotension, and after recent PDE-5 inhibitor use (sildenafil or vardenafil within 24 hours, tadalafil within 48 hours).
+###
+A patient with STEMI has been referred for primary PCI and the catheterisation laboratory is activated. Which medication regimen should be started while preparing for PCI?
+A) Aspirin plus warfarin
+B) Clopidogrel alone
+C) Aspirin, a P2Y12 inhibitor (e.g. clopidogrel), and an anticoagulant (UFH or LMWH)
+D) Ibuprofen plus clopidogrel
+E) Warfarin plus a statin
+Correct Answer: C) Aspirin, a P2Y12 inhibitor (e.g. clopidogrel), and an anticoagulant (UFH or LMWH)
+Explanation: Aspirin is given immediately, with clopidogrel whenever PCI is planned and initial anticoagulation with heparin or LMWH, along with a high-intensity statin. Warfarin is not an acute anticoagulant in ACS, and nitrates, morphine, and oxygen are given only for specific indications.
 ###
 Diffuse ST-segment elevation with PR-segment depression is seen in:
-A) Cardiac tamponade
-B) Pulmonary embolism
-C) Acute anterior STEMI
-D) Acute pericarditis
+A) Acute pericarditis
+B) Cardiac tamponade
+C) Pulmonary embolism
+D) Acute anterior STEMI
 E) Benign early repolarisation
-Correct Answer: D) Acute pericarditis
-Explanation: Pericarditis causes diffuse concave ST elevation with PR depression (and PR elevation in aVR). Tamponade is characterised by low-voltage QRS and electrical alternans, and benign early repolarisation lacks PR depression and is stable on serial ECGs.
+Correct Answer: A) Acute pericarditis
+Explanation: Pericarditis causes diffuse concave ST elevation with PR depression (and PR elevation in aVR). Tamponade shows low-voltage QRS and electrical alternans, and benign early repolarisation lacks PR depression and is stable on serial ECGs.
+###
+Which of the following is the most common ECG finding in acute pulmonary embolism?
+A) S1Q3T3 pattern
+B) Right bundle branch block
+C) Right axis deviation
+D) Sinus tachycardia
+E) P pulmonale
+Correct Answer: D) Sinus tachycardia
+Explanation: Sinus tachycardia is the most common ECG finding in PE. S1Q3T3 is classic but rare, and RBBB, right axis deviation, and P pulmonale are less common, non-specific findings.
+###
+What is the key chest X-ray finding in acute aortic dissection?
+A) Pneumomediastinum
+B) Widened mediastinum
+C) Water-bottle cardiac silhouette
+D) Visceral pleural line with absent lung markings
+E) Wedge-shaped peripheral opacity
+Correct Answer: B) Widened mediastinum
+Explanation: A widened mediastinum with an abnormal aortic contour is the classic radiographic finding in aortic dissection, although a normal CXR never excludes it and CT aortography is the diagnostic study. A water-bottle silhouette indicates a large pericardial effusion.
+###
+A patient with diabetes, hypertension, and hypercholesterolaemia presents with ischaemic chest pain, and the ECG shows lateral T-wave inversions. What is the best next step?
+A) Immediate fibrinolytic therapy
+B) Immediate PCI without further assessment
+C) Discharge with an outpatient stress test
+D) Immediate CT aortography
+E) Cardiac monitoring with aspirin and anti-ischaemic therapy while completing ACS risk stratification
+Correct Answer: E) Cardiac monitoring with aspirin and anti-ischaemic therapy while completing ACS risk stratification
+Explanation: T-wave inversion without ST elevation suggests NSTE-ACS, which is managed with monitoring, aspirin, anti-ischaemic therapy, and serial ECG and troponin with risk stratification (e.g. HEART or TIMI score). Fibrinolysis is indicated only for STEMI, and the timing of invasive management depends on risk.
+###
+Which leads primarily represent the anterior wall of the left ventricle?
+A) V1–V2
+B) I and aVL
+C) V3–V4
+D) V5–V6
+E) II, III and aVF
+Correct Answer: C) V3–V4
+Explanation: V3–V4 overlie the anterior wall (LAD territory), V1–V2 the septum, and V5–V6 and I/aVL the lateral wall. V1–V4 together are often described as the anteroseptal/anterior territory.
+###
+Which myocardial territory is involved when ST elevation is seen in the lateral leads (I, aVL, V5 and V6)? [img: ERChestlateralwall.png ]
+A) Lateral/anterolateral wall
+B) Inferior wall
+C) Posterior wall
+D) Septal wall
+E) Right ventricle
+Correct Answer: A) Lateral/anterolateral wall
+Explanation: Leads I, aVL, V5 and V6 face the lateral wall (circumflex or diagonal/LAD territory), and extension of the changes through V3–V6 is described as anterolateral. The inferior wall is represented by II, III and aVF, and posterior infarction appears as reciprocal ST depression in V1–V2.
+###
+Which medication should be avoided in inferior myocardial infarction because of possible right ventricular infarction and preload dependence?
+A) Aspirin
+B) Morphine
+C) Oxygen
+D) Nitroglycerin
+E) Clopidogrel
+Correct Answer: D) Nitroglycerin
+Explanation: Nitrates reduce preload, which can cause severe hypotension and even arrest in a preload-dependent RV infarction (confirmed by ST elevation in V4R) and after recent PDE-5 inhibitor use. Aspirin and antiplatelet therapy remain indicated, and oxygen is given only when SpO₂ is below 95%.
 ###
 How is a posterior myocardial infarction recognised on the standard 12-lead ECG, and how is it best confirmed?
 A) ST elevation in V1–V3, confirmed by right-sided leads (V4R)
@@ -122,13 +302,49 @@ C) ST elevation in II, III and aVF, confirmed by right-sided leads (V4R)
 D) Pathological Q waves in V1–V3, confirmed by right-sided leads (V3R–V4R)
 E) ST elevation in I, aVL, V5–V6, confirmed by posterior leads V7–V9
 Correct Answer: B) ST depression in V1–V3 with tall broad R waves, confirmed by ST elevation in posterior leads V7–V9
-Explanation: Posterior MI appears on the standard ECG only as reciprocal changes in V1–V3, and ST elevation in the posterior leads (V7–V9) gives direct confirmation. Right-sided leads (V4R) are used to confirm right ventricular infarction.
+Explanation: Posterior MI appears on the standard ECG only as reciprocal changes in V1–V3, and ST elevation in posterior leads V7–V9 gives direct confirmation. Right-sided leads (V4R) are used to confirm right ventricular infarction.
 ###
-Which medication should be avoided in inferior myocardial infarction because of possible right ventricular infarction and preload dependence?
-A) Aspirin
-B) Oxygen
-C) Morphine
-D) Clopidogrel
-E) Nitroglycerin
-Correct Answer: E) Nitroglycerin
-Explanation: Nitrates reduce preload, which can cause severe hypotension in a preload-dependent RV infarction (also after recent PDE-5 inhibitor use). Aspirin and antiplatelet therapy remain indicated, and oxygen is given only when SpO₂ is below 95%.
+Which of the following is an absolute contraindication to fibrinolytic therapy in ACS?
+A) Pregnancy
+B) Ischaemic stroke more than 3 months ago
+C) Seizure disorder
+D) Concomitant warfarin therapy
+E) Suspected aortic dissection
+Correct Answer: E) Suspected aortic dissection
+Explanation: Fibrinolysis can precipitate catastrophic bleeding in suspected aortic dissection, so it is an absolute contraindication. Pregnancy, current anticoagulant use, and an ischaemic stroke more than 3 months ago are relative contraindications.
+###
+Which of the following patients meets the criteria for fibrinolytic therapy?
+A) A patient with NSTEMI
+B) A patient with unstable angina
+C) A patient with STEMI, symptom onset within 12 hours, no contraindication, and an anticipated first-medical-contact-to-PCI delay greater than 120 minutes
+D) A patient with STEMI who presents directly to a PCI-capable centre with an expected door-to-balloon time under 90 minutes
+E) A patient with stable angina
+Correct Answer: C) A patient with STEMI, symptom onset within 12 hours, no contraindication, and an anticipated first-medical-contact-to-PCI delay greater than 120 minutes
+Explanation: Fibrinolysis is indicated for STEMI (≥1 mm ST elevation in two contiguous leads) within the time window when timely PCI is not available. It is not used for NSTEMI or unstable angina, and primary PCI is preferred when it can be delivered promptly.
+###
+A patient with STEMI arrived at a non-PCI hospital 30 minutes ago. The nearest PCI-capable centre is 45 minutes away, and the decision is made to transfer him for PCI. What is the maximum acceptable time from first medical contact to PCI?
+A) 120 minutes
+B) 30 minutes
+C) 45 minutes
+D) 60 minutes
+E) 90 minutes
+Correct Answer: A) 120 minutes
+Explanation: When the patient presents to a non-PCI hospital, transfer for primary PCI is appropriate if the first-medical-contact-to-device time is 120 minutes or less; beyond that, fibrinolysis should be given. The 90-minute target applies only to direct presentation to a PCI-capable hospital.
+###
+What is the target door-to-balloon time for a patient presenting directly to a PCI-capable hospital?
+A) 30 minutes
+B) 45 minutes
+C) 60 minutes
+D) 90 minutes
+E) 120 minutes
+Correct Answer: D) 90 minutes
+Explanation: The door-to-balloon target for primary PCI is within 90 minutes of arrival. Thirty minutes is the door-to-needle target for fibrinolysis, and 120 minutes is the first-medical-contact-to-device threshold used in transfer decisions.
+###
+A haemodynamically stable asthmatic patient has atrial fibrillation with a rapid ventricular response and no heart failure (ECG shown). What is the most appropriate first treatment? [img: ERChestdiltiazem.png ]
+A) Intravenous propranolol
+B) Intravenous diltiazem
+C) Immediate synchronised cardioversion
+D) Intravenous adenosine 6 mg
+E) Intravenous amiodarone
+Correct Answer: B) Intravenous diltiazem
+Explanation: Stable AF is managed with rate control, and a non-dihydropyridine calcium channel blocker is preferred in asthma because beta-blockers can precipitate bronchospasm. Cardioversion is for unstable patients, adenosine is for regular narrow-complex SVT, and amiodarone is reserved for AF with reduced ejection fraction (EF < 40%).
