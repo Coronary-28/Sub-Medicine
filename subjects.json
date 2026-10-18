@@ -25766,14 +25766,14 @@
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
               "The portal vein confluence lies anterior to the neck of the pancreas",
-              "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
+              "The right adrenal gland lies more superiorly than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The third part of the duodenum passes between liver and pancreas",
               "The Inferior mesenteric artery arises at the level of L3"
             ],
             "originalOptions": [
               "The portal vein confluence lies anterior to the neck of the pancreas",
-              "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
+              "The right adrenal gland lies more superiorly than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The third part of the duodenum passes between liver and pancreas",
               "The Inferior mesenteric artery arises at the level of L3"
@@ -25784,7 +25784,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "The IMA arises from the anterior aorta at L3; the portal vein actually forms posterior (not anterior) to the pancreatic neck, the right (not left) adrenal gland sits more cephalad, and the left (not right) renal vein is the longer vessel.",
+            "explanation": "The IMA arises from the anterior aorta at the level of L3. The portal vein forms posterior (not anterior) to the pancreatic neck, the left (not right) adrenal gland sits more superiorly, and the left (not right) renal vein is the longer vessel.",
             "batchName": "Serotonin Final",
             "batchNames": [
               "Serotonin Final"
@@ -25804,14 +25804,14 @@
             "options": [
               "The Inferior mesenteric artery arises at the level of L2",
               "The second part of the duodenum receives the common bile and pancreatic ducts",
-              "The right adrenal gland is lower and more medial than the left adrenal gland",
+              "The right adrenal gland lies more superiorly than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of pancreas"
             ],
             "originalOptions": [
               "The Inferior mesenteric artery arises at the level of L2",
               "The second part of the duodenum receives the common bile and pancreatic ducts",
-              "The right adrenal gland is lower and more medial than the left adrenal gland",
+              "The right adrenal gland lies more superiorly than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of pancreas"
             ],
@@ -25821,7 +25821,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum; the IMA actually arises at L3, the right adrenal is higher (not lower), the left renal vein is longer, and the portal vein forms posterior to the pancreatic neck.",
+            "explanation": "The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum. The IMA arises at L3, the left adrenal gland actually sits at a more superior level than the right adrenal gland (T11-L1 vs T12-L1), the left renal vein is longer than right, and the portal vein forms posterior to the pancreatic neck.",
             "batchName": "Waman A7yaha Final",
             "batchNames": [
               "Waman A7yaha Final"
@@ -25841,24 +25841,24 @@
             "options": [
               "The inferior mesenteric artery arises at the level of L2",
               "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
-              "The right adrenal gland is higher than the left adrenal gland",
+              "The left adrenal gland is higher than the right adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of the pancreas"
             ],
             "originalOptions": [
               "The inferior mesenteric artery arises at the level of L2",
               "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
-              "The right adrenal gland is higher than the left adrenal gland",
+              "The left adrenal gland is higher than the right adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of the pancreas"
             ],
-            "correctAnswer": "C) The right adrenal gland is higher than the left adrenal gland",
-            "correctAnswerText": "The right adrenal gland is higher than the left adrenal gland",
+            "correctAnswer": "C) The left adrenal gland is higher than the right adrenal gland",
+            "correctAnswerText": "The left adrenal gland is higher than the right adrenal gland",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The right adrenal gland sits at a slightly higher (more cephalad) level than the left. The IMA arises at L3, the left renal vein is the longer vein and crosses anterior to the aorta, and the portal vein forms posterior to the pancreatic neck.",
+            "explanation": "The left adrenal gland sits at a slightly higher (more cephalad) level than the right adrenal gland (T11-L1 vs T12-L1). The IMA arises at L3, the left renal vein is the longer vein and crosses anterior to the aorta, and the portal vein forms posterior to the pancreatic neck.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -52093,14 +52093,14 @@
             "text": "Regarding abdomen anatomy, which of the following is TRUE?",
             "options": [
               "The portal vein confluence lies anterior to the neck of the pancreas",
-              "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
+              "The right adrenal gland lies more superiorly than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The third part of the duodenum passes between liver and pancreas",
               "The Inferior mesenteric artery arises at the level of L3"
             ],
             "originalOptions": [
               "The portal vein confluence lies anterior to the neck of the pancreas",
-              "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
+              "The right adrenal gland lies more superiorly than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The third part of the duodenum passes between liver and pancreas",
               "The Inferior mesenteric artery arises at the level of L3"
@@ -52111,7 +52111,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "The IMA arises from the anterior aorta at L3; the portal vein actually forms posterior (not anterior) to the pancreatic neck, the right (not left) adrenal gland sits more cephalad, and the left (not right) renal vein is the longer vessel.",
+            "explanation": "The IMA arises from the anterior aorta at the level of L3. The portal vein forms posterior (not anterior) to the pancreatic neck, the left (not right) adrenal gland sits more superiorly, and the left (not right) renal vein is the longer vessel.",
             "batchName": "Serotonin Final",
             "batchNames": [
               "Serotonin Final"
@@ -56479,14 +56479,14 @@
             "options": [
               "The Inferior mesenteric artery arises at the level of L2",
               "The second part of the duodenum receives the common bile and pancreatic ducts",
-              "The right adrenal gland is lower and more medial than the left adrenal gland",
+              "The right adrenal gland lies more superiorly than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of pancreas"
             ],
             "originalOptions": [
               "The Inferior mesenteric artery arises at the level of L2",
               "The second part of the duodenum receives the common bile and pancreatic ducts",
-              "The right adrenal gland is lower and more medial than the left adrenal gland",
+              "The right adrenal gland lies more superiorly than the left adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of pancreas"
             ],
@@ -56496,7 +56496,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum; the IMA actually arises at L3, the right adrenal is higher (not lower), the left renal vein is longer, and the portal vein forms posterior to the pancreatic neck.",
+            "explanation": "The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum. The IMA arises at L3, the left adrenal gland actually sits at a more superior level than the right adrenal gland (T11-L1 vs T12-L1), the left renal vein is longer than right, and the portal vein forms posterior to the pancreatic neck.",
             "batchName": "Waman A7yaha Final",
             "batchNames": [
               "Waman A7yaha Final"
@@ -58351,24 +58351,24 @@
             "options": [
               "The inferior mesenteric artery arises at the level of L2",
               "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
-              "The right adrenal gland is higher than the left adrenal gland",
+              "The left adrenal gland is higher than the right adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of the pancreas"
             ],
             "originalOptions": [
               "The inferior mesenteric artery arises at the level of L2",
               "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
-              "The right adrenal gland is higher than the left adrenal gland",
+              "The left adrenal gland is higher than the right adrenal gland",
               "The right renal vein is longer than the left renal vein",
               "The portal vein confluence lies anterior to the neck of the pancreas"
             ],
-            "correctAnswer": "C) The right adrenal gland is higher than the left adrenal gland",
-            "correctAnswerText": "The right adrenal gland is higher than the left adrenal gland",
+            "correctAnswer": "C) The left adrenal gland is higher than the right adrenal gland",
+            "correctAnswerText": "The left adrenal gland is higher than the right adrenal gland",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The right adrenal gland sits at a slightly higher (more cephalad) level than the left. The IMA arises at L3, the left renal vein is the longer vein and crosses anterior to the aorta, and the portal vein forms posterior to the pancreatic neck.",
+            "explanation": "The left adrenal gland sits at a slightly higher (more cephalad) level than the right adrenal gland (T11-L1 vs T12-L1). The IMA arises at L3, the left renal vein is the longer vein and crosses anterior to the aorta, and the portal vein forms posterior to the pancreatic neck.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Waman A7yaha Mini-OSCE"
@@ -63022,14 +63022,14 @@
         "text": "Regarding abdomen anatomy, which of the following is TRUE?",
         "options": [
           "The portal vein confluence lies anterior to the neck of the pancreas",
-          "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
+          "The right adrenal gland lies more superiorly than the left adrenal gland",
           "The right renal vein is longer than the left renal vein",
           "The third part of the duodenum passes between liver and pancreas",
           "The Inferior mesenteric artery arises at the level of L3"
         ],
         "originalOptions": [
           "The portal vein confluence lies anterior to the neck of the pancreas",
-          "The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland",
+          "The right adrenal gland lies more superiorly than the left adrenal gland",
           "The right renal vein is longer than the left renal vein",
           "The third part of the duodenum passes between liver and pancreas",
           "The Inferior mesenteric artery arises at the level of L3"
@@ -63040,7 +63040,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "E",
-        "explanation": "The IMA arises from the anterior aorta at L3; the portal vein actually forms posterior (not anterior) to the pancreatic neck, the right (not left) adrenal gland sits more cephalad, and the left (not right) renal vein is the longer vessel.",
+        "explanation": "The IMA arises from the anterior aorta at the level of L3. The portal vein forms posterior (not anterior) to the pancreatic neck, the left (not right) adrenal gland sits more superiorly, and the left (not right) renal vein is the longer vessel.",
         "batchName": "Serotonin Final",
         "batchNames": [
           "Serotonin Final"
@@ -63060,14 +63060,14 @@
         "options": [
           "The Inferior mesenteric artery arises at the level of L2",
           "The second part of the duodenum receives the common bile and pancreatic ducts",
-          "The right adrenal gland is lower and more medial than the left adrenal gland",
+          "The right adrenal gland lies more superiorly than the left adrenal gland",
           "The right renal vein is longer than the left renal vein",
           "The portal vein confluence lies anterior to the neck of pancreas"
         ],
         "originalOptions": [
           "The Inferior mesenteric artery arises at the level of L2",
           "The second part of the duodenum receives the common bile and pancreatic ducts",
-          "The right adrenal gland is lower and more medial than the left adrenal gland",
+          "The right adrenal gland lies more superiorly than the left adrenal gland",
           "The right renal vein is longer than the left renal vein",
           "The portal vein confluence lies anterior to the neck of pancreas"
         ],
@@ -63077,7 +63077,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum; the IMA actually arises at L3, the right adrenal is higher (not lower), the left renal vein is longer, and the portal vein forms posterior to the pancreatic neck.",
+        "explanation": "The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum. The IMA arises at L3, the left adrenal gland actually sits at a more superior level than the right adrenal gland (T11-L1 vs T12-L1), the left renal vein is longer than right, and the portal vein forms posterior to the pancreatic neck.",
         "batchName": "Waman A7yaha Final",
         "batchNames": [
           "Waman A7yaha Final"
@@ -63097,24 +63097,24 @@
         "options": [
           "The inferior mesenteric artery arises at the level of L2",
           "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
-          "The right adrenal gland is higher than the left adrenal gland",
+          "The left adrenal gland is higher than the right adrenal gland",
           "The right renal vein is longer than the left renal vein",
           "The portal vein confluence lies anterior to the neck of the pancreas"
         ],
         "originalOptions": [
           "The inferior mesenteric artery arises at the level of L2",
           "The left renal vein passes posterior to the aorta to reach the inferior vena cava",
-          "The right adrenal gland is higher than the left adrenal gland",
+          "The left adrenal gland is higher than the right adrenal gland",
           "The right renal vein is longer than the left renal vein",
           "The portal vein confluence lies anterior to the neck of the pancreas"
         ],
-        "correctAnswer": "C) The right adrenal gland is higher than the left adrenal gland",
-        "correctAnswerText": "The right adrenal gland is higher than the left adrenal gland",
+        "correctAnswer": "C) The left adrenal gland is higher than the right adrenal gland",
+        "correctAnswerText": "The left adrenal gland is higher than the right adrenal gland",
         "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "The right adrenal gland sits at a slightly higher (more cephalad) level than the left. The IMA arises at L3, the left renal vein is the longer vein and crosses anterior to the aorta, and the portal vein forms posterior to the pancreatic neck.",
+        "explanation": "The left adrenal gland sits at a slightly higher (more cephalad) level than the right adrenal gland (T11-L1 vs T12-L1). The IMA arises at L3, the left renal vein is the longer vein and crosses anterior to the aorta, and the portal vein forms posterior to the pancreatic neck.",
         "batchName": "Waman A7yaha Mini-OSCE",
         "batchNames": [
           "Waman A7yaha Mini-OSCE"
