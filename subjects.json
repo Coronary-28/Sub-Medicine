@@ -78574,15 +78574,13 @@
               "Injury location (anatomical measurement from a fixed landmark)",
               "Type of injury (e.g., bruise, laceration, abrasion)",
               "Description of the assailant (left- or right-handed)",
-              "Estimated age of the wound",
-              "Pain and/or tenderness"
+              "Estimated age of the wound"
             ],
             "originalOptions": [
               "Injury location (anatomical measurement from a fixed landmark)",
               "Type of injury (e.g., bruise, laceration, abrasion)",
               "Description of the assailant (left- or right-handed)",
-              "Estimated age of the wound",
-              "Pain and/or tenderness"
+              "Estimated age of the wound"
             ],
             "correctAnswer": "C) Description of the assailant (left- or right-handed)",
             "correctAnswerText": "Description of the assailant (left- or right-handed)",
@@ -85525,15 +85523,13 @@
           "Injury location (anatomical measurement from a fixed landmark)",
           "Type of injury (e.g., bruise, laceration, abrasion)",
           "Description of the assailant (left- or right-handed)",
-          "Estimated age of the wound",
-          "Pain and/or tenderness"
+          "Estimated age of the wound"
         ],
         "originalOptions": [
           "Injury location (anatomical measurement from a fixed landmark)",
           "Type of injury (e.g., bruise, laceration, abrasion)",
           "Description of the assailant (left- or right-handed)",
-          "Estimated age of the wound",
-          "Pain and/or tenderness"
+          "Estimated age of the wound"
         ],
         "correctAnswer": "C) Description of the assailant (left- or right-handed)",
         "correctAnswerText": "Description of the assailant (left- or right-handed)",
