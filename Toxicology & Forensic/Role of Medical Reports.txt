@@ -3,7 +3,6 @@ A) Injury location (anatomical measurement from a fixed landmark)
 B) Type of injury (e.g., bruise, laceration, abrasion)
 C) Description of the assailant (left- or right-handed)
 D) Estimated age of the wound
-E) Pain and/or tenderness
 Correct Answer: C) Description of the assailant (left- or right-handed)
 Explanation: The medico-legal report documents the victim's injuries objectively (site, type, size, age, tenderness). Assailant handedness is an investigative inference, not a clinical finding.
 ###
