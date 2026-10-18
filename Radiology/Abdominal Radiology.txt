@@ -775,30 +775,30 @@ Batch: Vagus Final
 ###
 Regarding abdomen anatomy, which of the following is TRUE?
 A) The portal vein confluence lies anterior to the neck of the pancreas
-B) The left adrenal gland lies more superiorly (cephalad) than the right adrenal gland
+B) The right adrenal gland lies more superiorly than the left adrenal gland
 C) The right renal vein is longer than the left renal vein
 D) The third part of the duodenum passes between liver and pancreas
 E) The Inferior mesenteric artery arises at the level of L3
 Correct Answer: E) The Inferior mesenteric artery arises at the level of L3
-Explanation: The IMA arises from the anterior aorta at L3; the portal vein actually forms posterior (not anterior) to the pancreatic neck, the right (not left) adrenal gland sits more cephalad, and the left (not right) renal vein is the longer vessel.
+Explanation: The IMA arises from the anterior aorta at the level of L3. The portal vein forms posterior (not anterior) to the pancreatic neck, the left (not right) adrenal gland sits more superiorly, and the left (not right) renal vein is the longer vessel.
 Batch: Serotonin Final
 ###
 Regarding abdomen anatomy, which of the following is TRUE?
 A) The Inferior mesenteric artery arises at the level of L2
 B) The second part of the duodenum receives the common bile and pancreatic ducts
-C) The right adrenal gland is lower and more medial than the left adrenal gland
+C) The right adrenal gland lies more superiorly than the left adrenal gland
 D) The right renal vein is longer than the left renal vein
 E) The portal vein confluence lies anterior to the neck of pancreas
 Correct Answer: B) The second part of the duodenum receives the common bile and pancreatic ducts
-Explanation: The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum; the IMA actually arises at L3, the right adrenal is higher (not lower), the left renal vein is longer, and the portal vein forms posterior to the pancreatic neck.
+Explanation: The major duodenal papilla, where the common bile duct and main pancreatic duct join and empty, is located in the second (descending) part of the duodenum. The IMA arises at L3, the left adrenal gland actually sits at a more superior level than the right adrenal gland (T11-L1 vs T12-L1), the left renal vein is longer than right, and the portal vein forms posterior to the pancreatic neck.
 Batch: Waman A7yaha Final
 ###
 Regarding abdomen anatomy, which of the following is TRUE?
 A) The inferior mesenteric artery arises at the level of L2
 B) The left renal vein passes posterior to the aorta to reach the inferior vena cava
-C) The right adrenal gland is higher than the left adrenal gland
+C) The left adrenal gland is higher than the right adrenal gland
 D) The right renal vein is longer than the left renal vein
 E) The portal vein confluence lies anterior to the neck of the pancreas
-Correct Answer: C) The right adrenal gland is higher than the left adrenal gland
-Explanation: The right adrenal gland sits at a slightly higher (more cephalad) level than the left. The IMA arises at L3, the left renal vein is the longer vein and crosses anterior to the aorta, and the portal vein forms posterior to the pancreatic neck.
+Correct Answer: C) The left adrenal gland is higher than the right adrenal gland
+Explanation: The left adrenal gland sits at a slightly higher (more cephalad) level than the right adrenal gland (T11-L1 vs T12-L1). The IMA arises at L3, the left renal vein is the longer vein and crosses anterior to the aorta, and the portal vein forms posterior to the pancreatic neck.
 Batch: Waman A7yaha Mini-OSCE
