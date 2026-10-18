@@ -493,12 +493,12 @@ Correct Answer: A) Hib vaccination has markedly reduced Hib epiglottitis, but ot
 Explanation: Epiglottitis is not always Hib-related. Throat examination or laying the child flat can precipitate complete obstruction, and the thumbprint sign is seen on the lateral neck film.
 ###
 Which finding indicates total or near-total airway obstruction due to a foreign body in a child?
-A) Effective forceful cough
+A) Weak or absent cough with inability to speak or make sounds
 B) Loud crying
 C) Ability to speak
-D) Weak or absent cough with inability to speak or make sounds
+D) Effective forceful cough
 E) Intermittent wheezing with good air movement
-Correct Answer: D) Weak or absent cough with inability to speak or make sounds
+Correct Answer: A) Weak or absent cough with inability to speak or make sounds
 Explanation: Total obstruction is also associated with cyanosis, altered mental status, apnea, and poor or absent air movement. An effective cough indicates mild obstruction.
 ###
 Which combination constitutes the "croup triangle"?
