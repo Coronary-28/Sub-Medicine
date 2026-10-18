@@ -383,8 +383,6 @@ D) At least 10–20 mmHg
 Correct Answer: D) At least 10–20 mmHg
 Explanation: An ETCO2 of at least 10–20 mmHg reflects adequate compressions, whereas a persistent value below 10 mmHg suggests poor CPR quality or a low likelihood of ROSC. A sudden rise to 40 mmHg or more suggests ROSC.
 ###
-
-
 All of the following are correct regarding basic life support (BLS) EXCEPT:
 A) Personal and scene safety must be ensured first
 B) Single-rescuer CPR in a child uses a compression-to-ventilation ratio of 15:2
