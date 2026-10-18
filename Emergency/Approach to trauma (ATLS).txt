@@ -1,0 +1,854 @@
+A crushed trauma patient is hypotensive and tachycardic with no external bleeding. What is the most appropriate initial approach?
+A) Rapid infusion of 2 L warmed crystalloid followed by CT of the chest, abdomen, and pelvis
+B) Complete history and secondary survey before any intervention
+C) xABCDE with cervical-spine protection, presumed hemorrhagic shock, large-bore IV/IO access, activation of a massive transfusion protocol, eFAST, and portable chest and pelvic radiographs
+D) Immediate transfer to radiology for contrast CT before resuscitation
+E) Vasopressor infusion to restore blood pressure
+Correct Answer: C) xABCDE with cervical-spine protection, presumed hemorrhagic shock, large-bore IV/IO access, activation of a massive transfusion protocol, eFAST, and portable chest and pelvic radiographs
+Explanation: Post-traumatic hypotension is hemorrhagic until proven otherwise, and the occult sources are the chest, abdomen, pelvis/retroperitoneum, and long bones. Treatment is blood products and bleeding control, not repeated crystalloid loading or CT.
+###
+A 17-year-old is found unconscious in a swimming pool. He is unresponsive with abdominal breathing at 16/min, BP 80/50 mmHg, and HR 49/min. In addition to hypoxemia, which condition must be considered earliest?
+A) Cervical spine injury
+B) Electrolyte imbalance
+C) Metabolic acidosis
+D) Severe atelectasis
+E) Hypothermia
+Correct Answer: A) Cervical spine injury
+Explanation: Cervical spine injury must be assumed in any unconscious patient after a diving or fall mechanism until it is excluded. Hypotension with bradycardia and diaphragmatic breathing suggests a cervical cord lesion with neurogenic shock.
+###
+A 26-year-old seat-belted driver has mild abdominal tenderness, hypoactive bowel sounds, and questionable liver dullness. The abdominal X-ray shows free air. What is the most appropriate management?
+A) Careful observation for further evidence of intra-abdominal injury
+B) Suspected ruptured diaphragm with pneumothorax; chest tube insertion
+C) Contrast study of the gastrointestinal tract
+D) Prompt laparotomy
+E) Diagnostic peritoneal lavage
+Correct Answer: D) Prompt laparotomy
+Explanation: Free intraperitoneal air indicates hollow-viscus perforation, which is a surgical emergency regardless of how stable the patient appears. Observation or further diagnostic studies only delay definitive treatment.
+###
+A 29-year-old woman at 32 weeks of gestation is involved in a car accident. BP is 120/70 mmHg, HR is 107/min, and the FAST examination is negative. What is the most appropriate next step?
+A) Immediate cesarean section in the operating room
+B) Monitor the mother and fetus for a minimum of 4 hours
+C) Immediate cesarean section in the emergency department
+D) Discharge if laboratory tests are normal
+E) CT of the abdomen and pelvis
+Correct Answer: B) Monitor the mother and fetus for a minimum of 4 hours
+Explanation: A stable pregnant trauma patient with a negative FAST requires at least 4 hours of maternal and fetal monitoring because placental abruption may present late. Kleihauer-Betke testing is added if the mother is Rh-negative.
+###
+After high-speed blunt trauma, a patient remains hypotensive and tachycardic despite initial crystalloid. FAST shows free fluid in Morison's pouch. What is the most appropriate management?
+A) CT of the abdomen and pelvis with intravenous contrast
+B) Diagnostic peritoneal lavage
+C) Further crystalloid boluses with observation
+D) Repeat FAST after 30 minutes
+E) Activate the massive transfusion protocol and proceed to emergency laparotomy
+Correct Answer: E) Activate the massive transfusion protocol and proceed to emergency laparotomy
+Explanation: Persistent hypotension with a positive FAST indicates intraperitoneal hemorrhage, which requires urgent operative control. CT is reserved for hemodynamically stable patients, and DPL is rarely needed when FAST is available.
+###
+A patient has a gunshot wound to the center of the abdomen. Which organ is most likely to be injured?
+A) Liver
+B) Spleen
+C) Small intestine
+D) Diaphragm
+E) Kidney
+Correct Answer: C) Small intestine
+Explanation: The small bowel occupies the largest volume of the central abdomen and is the organ most commonly injured in penetrating gunshot wounds. The actual injury still depends on the entry site and trajectory.
+###
+A patient with a stab wound to the lower chest is hypotensive with muffled heart sounds and distended neck veins. What is the most likely diagnosis?
+A) Cardiac tamponade
+B) Tension pneumothorax
+C) Massive hemothorax
+D) Open pneumothorax
+E) Flail chest
+Correct Answer: A) Cardiac tamponade
+Explanation: Hypotension, muffled heart sounds, and jugular venous distension constitute Beck's triad of tamponade. In tension pneumothorax, breath sounds are unilaterally absent, while in massive hemothorax the neck veins are flat.
+###
+In a patient with suspected traumatic cardiac tamponade, which bedside investigation is the best rapid diagnostic adjunct?
+A) Electrocardiogram
+B) Chest radiograph
+C) CT of the chest with contrast
+D) eFAST with a focused pericardial view
+E) Pericardiocentesis
+Correct Answer: D) eFAST with a focused pericardial view
+Explanation: eFAST rapidly detects pericardial fluid at the bedside. In an unstable penetrating-trauma patient it must not delay surgical decompression.
+###
+A patient with a penetrating chest wound and confirmed cardiac tamponade is hemodynamically unstable. What is the definitive management?
+A) Needle thoracostomy
+B) Emergency thoracotomy or operative pericardial decompression
+C) Tube thoracostomy
+D) Rapid intravenous fluid infusion alone
+E) Pericardiocentesis as definitive treatment
+Correct Answer: B) Emergency thoracotomy or operative pericardial decompression
+Explanation: Traumatic tamponade requires surgical decompression and repair of the cardiac injury. Pericardiocentesis is only a temporizing bridge when surgical care is not immediately available.
+###
+Which of the following is a contraindication to performing a CT scan in a trauma patient?
+A) Suspected head injury
+B) Positive FAST in a stable patient
+C) Pelvic fracture in a stable patient
+D) Need for cervical spine evaluation
+E) Unstable vital signs
+Correct Answer: E) Unstable vital signs
+Explanation: CT requires transport and time, so it is reserved for hemodynamically stable patients. An unstable patient needs resuscitation and hemorrhage control, not "scan and plan".
+###
+A chest radiograph of a trauma patient is shown. What is the most likely diagnosis? [img: ERATLSdiaphragmaticrupture.png ]
+A) Tension pneumothorax
+B) Massive hemothorax
+C) Traumatic diaphragmatic rupture
+D) Pulmonary contusion
+E) Traumatic aortic injury
+Correct Answer: C) Traumatic diaphragmatic rupture
+Explanation: A large gastric air-fluid level projects in the lower half of the left hemithorax, mildly displacing the heart to the right. There is also left lower zone atelectasis and a basal pleural effusion.
+###
+All of the following belong to the secondary survey EXCEPT:
+A) FAST scan
+B) Detailed AMPLE history
+C) Complete head-to-toe physical examination
+D) Selective CT imaging in a stable patient
+E) Systematic neurological examination
+Correct Answer: A) FAST scan
+Explanation: FAST is an adjunct to the primary survey used to detect hemorrhage during resuscitation. History, complete examination, and selective CT belong to the secondary survey, which follows stabilization.
+###
+An 8-year-old child has a penetrating knife wound to the abdomen and a positive FAST scan. What is the next step?
+A) Send for CT
+B) Observe
+C) Diagnostic peritoneal lavage
+D) Transfer to the operating room immediately
+E) Repeat FAST after 6 hours
+Correct Answer: D) Transfer to the operating room immediately
+Explanation: A penetrating abdominal wound with a positive FAST indicates hemoperitoneum and a significant intra-abdominal injury. Operative exploration is required rather than imaging or observation.
+###
+What does the acronym FAST represent in trauma assessment?
+A) Face, Arm, Speech, Time
+B) Focused Assessment with Sonography in Trauma
+C) Fast Assessment of Spinal Trauma
+D) Focused Airway and Shock Triage
+E) Fluid Assessment and Shock Therapy
+Correct Answer: B) Focused Assessment with Sonography in Trauma
+Explanation: In trauma, FAST is a bedside ultrasound examination of the pericardial, hepatorenal, splenorenal, and pelvic views to detect free fluid. "Face, Arm, Speech, Time" is the stroke mnemonic.
+###
+What does the acronym FAST represent in stroke assessment?
+A) Fall, Arrhythmia, Syncope, Trauma
+B) Focused Assessment with Sonography in Trauma
+C) Fever, Aphasia, Seizure, Tremor
+D) Face, Arm, Sensation, Tone
+E) Face droop, Arm weakness, Speech difficulty, Time to call emergency services
+Correct Answer: E) Face droop, Arm weakness, Speech difficulty, Time to call emergency services
+Explanation: FAST is a rapid recognition tool for stroke, and the "T" reminds the rescuer to call emergency services and note the last-known-well time. It is not a complete neurological examination.
+###
+A hemodynamically stable patient has a penetrating wound just left of the sternum at the fifth intercostal space. Which rapid bedside study should be performed during the trauma assessment?
+A) Chest radiograph only
+B) Diagnostic peritoneal lavage
+C) eFAST including a pericardial view
+D) MRI of the chest
+E) Immediate pericardiocentesis
+Correct Answer: C) eFAST including a pericardial view
+Explanation: A parasternal wound in the cardiac box requires exclusion of pericardial fluid, which eFAST provides rapidly while serial examination continues. Formal echocardiography or operative evaluation follows if suspicion persists.
+###
+What is the initial imaging modality of choice in an unstable trauma patient with suspected hemoperitoneum?
+A) FAST (bedside ultrasound)
+B) CT of the abdomen with contrast
+C) MRI of the abdomen
+D) Plain abdominal radiograph
+E) Angiography
+Correct Answer: A) FAST (bedside ultrasound)
+Explanation: FAST is performed at the bedside without leaving the resuscitation area. Contrast CT is the definitive study for stable patients, and a negative FAST does not exclude intra-abdominal injury.
+###
+A 22-year-old man with a gunshot wound to the left chest has BP 80/40 mmHg, which improves to 122/84 mmHg after 2 L of Ringer's lactate. HR is now 100/min and RR is 28/min. A closed tube thoracostomy drains a small amount of blood with no air leak. What is the most appropriate next step?
+A) Transesophageal echocardiography
+B) Aortogram
+C) Arterial blood gas
+D) Reexamine the chest
+E) CT of the chest
+Correct Answer: D) Reexamine the chest
+Explanation: The patient responded to resuscitation and the tube drained little blood, so the next step is reassessment. Deterioration or ongoing bleeding would prompt urgent operative management.
+###
+A mechanically ventilated trauma patient suddenly develops hypotension, high airway pressures, and absent breath sounds on one side, consistent with tension pneumothorax. What is the immediate management?
+A) Chest radiograph followed by tube thoracostomy
+B) Immediate needle or finger decompression followed by tube thoracostomy
+C) Increase the PEEP
+D) Pericardiocentesis
+E) Bronchoscopy
+Correct Answer: B) Immediate needle or finger decompression followed by tube thoracostomy
+Explanation: Tension pneumothorax is a clinical diagnosis and decompression must not wait for imaging. Positive-pressure ventilation accelerates the tension, so increasing PEEP would worsen it.
+###
+According to current ATLS guidance, where should needle decompression of a tension pneumothorax be performed?
+A) 2nd intercostal space, midclavicular line
+B) 3rd intercostal space, midaxillary line
+C) 6th intercostal space, posterior axillary line
+D) 8th intercostal space, midscapular line
+E) 4th–5th intercostal space, anterior axillary line
+Correct Answer: E) 4th–5th intercostal space, anterior axillary line
+Explanation: The 4th–5th intercostal space at the anterior axillary line fails less often because the chest wall is thinner there. The 2nd intercostal space at the midclavicular line is the older, traditional site.
+###
+Which of the following defines massive hemothorax?
+A) More than 1000 mL of blood on initial drainage or more than 100 mL/hour
+B) More than 1000 mL of blood on initial drainage or more than 200 mL/hour
+C) More than 1500 mL of blood on initial drainage or ongoing loss of about 200 mL/hour for 2–4 hours
+D) More than 500 mL of blood on initial drainage or more than 200 mL/hour
+E) More than 2000 mL of blood on initial drainage only
+Correct Answer: C) More than 1500 mL of blood on initial drainage or ongoing loss of about 200 mL/hour for 2–4 hours
+Explanation: These are the classic thresholds that prompt urgent operative consultation for thoracotomy. The decision also rests on physiology and transfusion requirements, not on volume alone.
+###
+After a trauma, a chest tube immediately drains 1700 mL of blood. What definitive management should be considered?
+A) Urgent operative exploration (thoracotomy)
+B) Insertion of a second chest tube and observation
+C) Clamping the chest tube
+D) CT of the chest before any intervention
+E) Observation with a repeat chest radiograph
+Correct Answer: A) Urgent operative exploration (thoracotomy)
+Explanation: Immediate drainage above 1500 mL meets the classic threshold for operative control of ongoing intrathoracic hemorrhage. Resuscitation continues alongside surgical preparation.
+###
+An elderly man has 4 stab wounds above the nipple line. He is intubated, a chest tube drains 700 mL of blood, and 2 L of normal saline is given. BP is now 60/0 mmHg and HR is 160/min. What is the most appropriate next step?
+A) Angiography
+B) CT of the chest
+C) Pneumatic anti-shock garment application
+D) Emergency thoracotomy
+E) Immediate transfer to another facility
+Correct Answer: D) Emergency thoracotomy
+Explanation: Persistent shock despite a chest tube and fluid resuscitation indicates ongoing intrathoracic hemorrhage that needs operative control. Imaging or transfer would delay hemorrhage control in a patient who is peri-arrest.
+###
+After chest trauma, subcutaneous emphysema extends to the neck and the patient does not improve after chest-tube insertion. Which injury should be suspected?
+A) Pulmonary contusion
+B) Tracheobronchial injury
+C) Cardiac tamponade
+D) Diaphragmatic rupture
+E) Blunt aortic injury
+Correct Answer: B) Tracheobronchial injury
+Explanation: A persistent large air leak or failure of lung re-expansion despite a functioning chest tube suggests a major tracheobronchial disruption. It is confirmed by bronchoscopy and usually needs operative repair.
+###
+What is the initial management of a suspected massive traumatic hemothorax?
+A) Needle thoracostomy
+B) Chest radiograph before any intervention
+C) Pericardiocentesis
+D) Immediate thoracotomy without a chest tube
+E) Large-bore chest tube with blood-product resuscitation and urgent surgical consultation
+Correct Answer: E) Large-bore chest tube with blood-product resuscitation and urgent surgical consultation
+Explanation: A large-bore tube drains the blood and quantifies ongoing loss, and it should not be delayed for imaging. Warmed blood products and early thoracic surgical involvement accompany it.
+###
+Where is a chest tube inserted for traumatic hemothorax?
+A) 2nd intercostal space, midclavicular line
+B) 8th intercostal space, posterior axillary line
+C) Within the safe triangle, at the 5th intercostal space anterior to the midaxillary line
+D) 7th intercostal space, paravertebral line
+E) Subxiphoid region
+Correct Answer: C) Within the safe triangle, at the 5th intercostal space anterior to the midaxillary line
+Explanation: The safe triangle is bounded by the lateral edge of pectoralis major, the lateral edge of latissimus dorsi, and the 5th intercostal space. Insertion here avoids vital structures.
+###
+Which of the following is appropriate in the management of flail chest?
+A) Analgesia, judicious fluid therapy, and ventilatory support when needed
+B) Placement of a sandbag over the flail segment
+C) Immediate surgical fixation of all fractured ribs
+D) Tight circumferential chest strapping
+E) Aggressive crystalloid resuscitation
+Correct Answer: A) Analgesia, judicious fluid therapy, and ventilatory support when needed
+Explanation: The main problem is pain, impaired ventilation, and underlying pulmonary contusion. Excessive fluid worsens contusion, and weights or strapping further restrict ventilation.
+###
+Which of the following best describes a flail chest?
+A) One rib fractured at three sites
+B) One fractured rib on the right and one on the left
+C) Isolated fracture of the sternum
+D) Three consecutive ribs, each fractured at two or more sites, producing a paradoxically moving segment
+E) Fractures of ribs 10–12 with liver injury
+Correct Answer: D) Three consecutive ribs, each fractured at two or more sites, producing a paradoxically moving segment
+Explanation: A free-floating chest-wall segment moves paradoxically, inward on inspiration. The clinical problem is pain, impaired ventilation, and underlying pulmonary contusion.
+###
+Which finding is characteristic of massive hemothorax?
+A) Hyperresonance to percussion with absent breath sounds
+B) Dullness to percussion, decreased breath sounds, and hypotension with flat neck veins
+C) Distended neck veins with hyperresonance
+D) Tracheal deviation toward the affected side with hyperresonance
+E) Muffled heart sounds with clear lungs
+Correct Answer: B) Dullness to percussion, decreased breath sounds, and hypotension with flat neck veins
+Explanation: Massive hemothorax produces hemorrhagic shock, so the neck veins are flat from hypovolemia and percussion is dull. Hyperresonance with distended neck veins indicates tension pneumothorax.
+###
+Why can a normal initial chest radiograph in a child not exclude significant thoracic injury?
+A) Children rarely sustain thoracic injury
+B) Pulmonary contusion is never visible on radiographs
+C) Rib fractures are always visible on the first film
+D) The mediastinum in children is fixed
+E) The compliant chest wall transmits force to the lungs, causing contusion or rib/cartilage injury without a visible fracture
+Correct Answer: E) The compliant chest wall transmits force to the lungs, causing contusion or rib/cartilage injury without a visible fracture
+Explanation: Pediatric chest-wall compliance allows major intrathoracic injury with few external or radiographic signs. A normal film therefore does not exclude significant injury.
+###
+In open pneumothorax, air preferentially enters the pleural space through the chest wall defect when its diameter is at least what proportion of the tracheal diameter?
+A) One-quarter
+B) One-third
+C) Two-thirds
+D) One-tenth
+E) Half of the tracheal diameter, regardless of tissue resistance
+Correct Answer: C) Two-thirds
+Explanation: When the defect reaches about two-thirds of the tracheal diameter or more, air follows the path of least resistance through the wound rather than through the trachea. This impairs ventilation.
+###
+What is the initial management of an open pneumothorax?
+A) A three-sided (vented) occlusive dressing followed by a chest tube at a separate site
+B) A fully sealed four-sided occlusive dressing
+C) Primary closure of the wound in the emergency department
+D) Needle thoracostomy through the wound
+E) Packing the wound with gauze
+Correct Answer: A) A three-sided (vented) occlusive dressing followed by a chest tube at a separate site
+Explanation: The vented dressing acts as a one-way flutter valve and prevents conversion to tension pneumothorax. A fully sealed dressing traps air and may cause tension.
+###
+Which rib fractures generally require the greatest force and signal a high risk of associated injuries?
+A) Ribs 4–6
+B) Ribs 7–9
+C) Ribs 10–12
+D) Ribs 1–3
+E) Ribs 5–8
+Correct Answer: D) Ribs 1–3
+Explanation: Ribs 1–3 are protected by the shoulder girdle, so their fracture implies a high-energy mechanism. It raises suspicion for great-vessel, brachial plexus, and intrathoracic injury.
+###
+Which finding best differentiates cardiac tamponade from tension pneumothorax as the cause of hypotension?
+A) Jugular venous pressure
+B) Breath sounds
+C) Tachycardia
+D) Pulse pressure
+E) Blood pressure
+Correct Answer: B) Breath sounds
+Explanation: Breath sounds are unilaterally absent in tension pneumothorax and generally present and equal in tamponade. Jugular venous distension, tachycardia, and a narrow pulse pressure may occur in both.
+###
+A trauma patient has both a suspected tension pneumothorax and a head injury. What takes priority?
+A) CT of the head
+B) Complete neurological assessment with GCS first
+C) Mannitol administration
+D) Intubation for a depressed GCS
+E) Immediate decompression of the tension pneumothorax during the Breathing step, before neurological assessment
+Correct Answer: E) Immediate decompression of the tension pneumothorax during the Breathing step, before neurological assessment
+Explanation: Life threats are treated in ABCDE order, and hypoxia worsens secondary brain injury. The head injury is then managed while avoiding hypoxia and hypotension.
+###
+A penetrating lower-chest injury causes unilateral reduced chest movement and decreased breath sounds without tension physiology. What is the initial definitive pleural treatment?
+A) Needle decompression only
+B) Observation with serial radiographs
+C) Tube thoracostomy
+D) Thoracotomy
+E) Pericardiocentesis
+Correct Answer: C) Tube thoracostomy
+Explanation: Traumatic hemothorax or pneumothorax is treated definitively with a chest tube. Diaphragmatic and thoracoabdominal injury should also be considered with a lower-chest wound.
+###
+A 32-year-old man was trapped under a car for 2 hours. He has cool, mottled, insensate extremities, firm hard muscles, and absent pulses below the femoral level. Which intervention is most likely to improve limb salvage?
+A) Lower extremity fasciotomies
+B) Skeletal traction
+C) Anticoagulant therapy
+D) Thrombolytic therapy
+E) Immediate transfer to a trauma center
+Correct Answer: A) Lower extremity fasciotomies
+Explanation: Prolonged crush produces compartment syndrome, with tense muscles, neurological deficit, and absent pulses. Emergency fasciotomy is time-critical for limb salvage.
+###
+An 18-year-old struck on the back of the leg by a car can walk and has minimal swelling, normal pulses, normal motor examination, and no fracture on X-ray, but he reports persistent pain. Which diagnosis should be considered?
+A) Simple contusion; discharge
+B) Deep vein thrombosis
+C) Stress fracture
+D) Compartment syndrome
+E) Acute arterial injury
+Correct Answer: D) Compartment syndrome
+Explanation: Pain out of proportion to the injury is the earliest and most reliable feature, and a normal distal pulse does not exclude it. The patient should not be discharged, and fasciotomy is definitive treatment.
+###
+A construction worker falls 9 meters. HR is 124/min, BP 80/40 mmHg, and SpO₂ 89%. He has an occipital skull fracture, gurgling breathing, diminished breath sounds on the right, no jugular venous distension, a deformed knee, and an arm fracture. What is the most appropriate next step?
+A) Diagnostic peritoneal lavage
+B) Endotracheal intubation with inline cervical spine stabilization
+C) Reduction and splinting of the extremity injuries
+D) Burr holes for epidural hematoma
+E) Insertion of a 32F chest tube on the right
+Correct Answer: B) Endotracheal intubation with inline cervical spine stabilization
+Explanation: Gurgling respiration indicates an unprotected airway, and airway control takes priority with cervical protection. Decreased breath sounds are addressed in the Breathing step that follows.
+###
+A trauma patient with spinal cord injury has flaccid lower extremities, no rectal tone, and absent deep tendon reflexes. Which feature is expected in spinal shock, as distinct from neurogenic shock?
+A) Hypertension
+B) Bradycardia with hypotension
+C) Spastic paralysis with hyperreflexia
+D) Warm, vasodilated skin
+E) Flaccid paralysis with loss of deep tendon reflexes
+Correct Answer: E) Flaccid paralysis with loss of deep tendon reflexes
+Explanation: Spinal shock is a temporary loss of all cord function below the lesion. Neurogenic shock is the hemodynamic state of hypotension and bradycardia from loss of sympathetic tone.
+###
+A patient with spinal cord injury has warm skin, HR 70/min, and BP 60/40 mmHg, and hemorrhage has been excluded. Which statement about management is correct?
+A) Vasopressors are contraindicated
+B) Large-volume crystalloid alone is the treatment of choice
+C) Vasopressors such as norepinephrine are indicated with judicious fluid administration
+D) Atropine alone corrects the hypotension
+E) Corticosteroids restore vascular tone
+Correct Answer: C) Vasopressors such as norepinephrine are indicated with judicious fluid administration
+Explanation: Neurogenic shock results from loss of vascular tone, so volume alone is usually insufficient and may cause pulmonary edema. Bleeding must be excluded first because it is far more common in trauma.
+###
+A young construction worker falls from a height of two stories and sustains bilateral calcaneal fractures. Which diagnostic study is the next step?
+A) Complete spine radiographic series
+B) Doppler ultrasound studies
+C) Compartment pressure measurement
+D) Angiography
+E) CT of the abdomen
+Correct Answer: A) Complete spine radiographic series
+Explanation: Bilateral calcaneal fractures result from axial loading and are associated with thoracolumbar spine compression fractures. The spine must therefore be evaluated.
+###
+A 25-year-old man opens his eyes to pain, moans periodically, and has the left arm reach toward the painful stimulus. The right arm does not respond and the legs are stiffly extended. What is the GCS?
+A) 12
+B) 4
+C) 6
+D) 9
+E) 2
+Correct Answer: D) 9
+Explanation: Eye opening to pain scores 2 and moaning (incomprehensible sounds) scores 2. The best motor response is localization, which scores 5, giving 2 + 2 + 5 = 9.
+###
+A patient opens his eyes to command, moves his arms and legs on command, and is disoriented in conversation. What is the GCS?
+A) 11
+B) 13
+C) 12
+D) 14
+E) 15
+Correct Answer: B) 13
+Explanation: Eye opening to command scores 3, obeying commands scores 6, and confused conversation scores 4, giving 3 + 6 + 4 = 13.
+###
+A patient's eyes open to voice, speech consists of inappropriate words, and he localizes pain. What is the GCS?
+A) E3 V4 M5
+B) E2 V4 M2
+C) E3 V3 M4
+D) E3 V3 M3
+E) E3 V3 M5
+Correct Answer: E) E3 V3 M5
+Explanation: Eye opening to voice is 3, inappropriate words is 3, and localizing pain is 5, giving a total GCS of 11. Withdrawal rather than localization would score M4 and give 10.
+###
+A 40-year-old motorcyclist with isolated head injury has unequal dilated pupils, eye opening to pain, incomprehensible sounds, and abnormal flexion. BP is 130/80 mmHg with noisy breathing. What are the GCS and the immediate management?
+A) GCS 9; observe and repeat the examination
+B) GCS 7; mannitol and CT before addressing the airway
+C) GCS 7; secure the airway with cervical protection, avoid hypoxia and hypotension, give hyperosmolar therapy, and obtain urgent CT and neurosurgical review
+D) GCS 7; prophylactic prolonged hyperventilation
+E) GCS 5; burr-hole decompression in the emergency department
+Correct Answer: C) GCS 7; secure the airway with cervical protection, avoid hypoxia and hypotension, give hyperosmolar therapy, and obtain urgent CT and neurosurgical review
+Explanation: E2 + V2 + M3 = 7, and unequal dilated pupils with falling consciousness indicate impending herniation. Airway control comes first, and hyperventilation is only a brief rescue measure.
+###
+A 21-year-old man thrown from a horse has a facial injury and a GCS of 9. Despite suction and an oropharyngeal airway, he continues to snore. What is the next step?
+A) Intubation with cervical-spine protection
+B) Repeat jaw thrust only
+C) Insertion of a nasopharyngeal airway
+D) CT of the head before airway intervention
+E) Observation
+Correct Answer: A) Intubation with cervical-spine protection
+Explanation: Persistent obstruction despite basic maneuvers shows the airway cannot be maintained, so a definitive airway is required. Pre-intubation GCS components are documented, and CT follows once the patient is stable.
+###
+Which statement about moderate brain injury is correct?
+A) The GCS range is 13–15
+B) CT is indicated only if a neurological deficit is present
+C) Repeated neurological examination is unnecessary
+D) If the patient deteriorates, he should be managed as a severe head injury
+E) Discharge depends on clinical examination alone
+Correct Answer: D) If the patient deteriorates, he should be managed as a severe head injury
+Explanation: Moderate injury is GCS 9–13, all patients need CT, and serial neurological examination is mandatory. Deterioration prompts the severe-injury pathway of airway control, ICP management, and neurosurgical consultation.
+###
+Which of the following is NOT an indication for CT of the brain after minor head injury?
+A) Two or more episodes of vomiting
+B) A single episode of vomiting
+C) GCS below 15 at 2 hours after injury
+D) Suspected open or depressed skull fracture
+E) Age 65 years or older
+Correct Answer: B) A single episode of vomiting
+Explanation: By the Canadian CT Head Rule, vomiting becomes an indication only with two or more episodes. A single episode is not sufficient on its own.
+###
+All of the following statements about subdural hematoma are correct EXCEPT:
+A) It appears crescent-shaped on CT
+B) It worsens if the patient is taking anticoagulants
+C) It carries high morbidity and mortality because of the underlying brain injury
+D) It needs rapid evacuation if CT shows a midline shift of more than 5 mm
+E) It is classically caused by injury to the middle meningeal artery
+Correct Answer: E) It is classically caused by injury to the middle meningeal artery
+Explanation: Subdural hematoma results from torn bridging veins. Middle meningeal artery injury, usually after temporal bone fracture, causes epidural hematoma.
+###
+All of the following statements about epidural hematoma are correct EXCEPT:
+A) It is associated with skull fracture
+B) It can be rapidly fatal
+C) It is classically caused by a tear of the bridging veins
+D) It has a lenticular (biconvex) shape on CT
+E) It is associated with a lucid interval
+Correct Answer: C) It is classically caused by a tear of the bridging veins
+Explanation: Epidural hematoma arises from the middle meningeal artery and is lens-shaped on CT. Bridging-vein tears cause subdural hematoma, which is crescent-shaped.
+###
+Which of the following is NOT considered a definitive airway?
+A) Laryngeal mask airway
+B) Orotracheal tube
+C) Nasotracheal tube
+D) Surgical cricothyroidotomy tube
+E) Tracheostomy tube
+Correct Answer: A) Laryngeal mask airway
+Explanation: A definitive airway is a cuffed tube in the trachea that protects against aspiration. A laryngeal mask is a supraglottic device and does not fully protect the airway.
+###
+A patient with head trauma, a depressed skull fracture, gurgling respirations, and vomitus on the face has a low GCS. After supplemental oxygen and jaw elevation, what is the next step?
+A) Request a CT scan
+B) Bag-valve-mask ventilation
+C) Insert a gastric tube
+D) Suction the oropharynx
+E) Obtain a lateral cervical spine X-ray
+Correct Answer: D) Suction the oropharynx
+Explanation: Gurgling indicates fluid in the airway, and it must be cleared before ventilation can be effective. Failure to suction prevents airway management and risks aspiration.
+###
+A 17-year-old helmeted motorcyclist has GCS 7, BP 140/92 mmHg, HR 88/min, and RR 18/min. Appropriate immobilization should include a semirigid cervical collar and:
+A) A short spine board
+B) A long spine board
+C) Cervical traction tongs
+D) Soft collar in place of the rigid collar
+E) Prone positioning on a stretcher
+Correct Answer: B) A long spine board
+Explanation: A rigid collar with a long board and head blocks is standard for transport of a patient with possible spinal injury. The patient should be removed from the board as soon as practical to limit pressure and respiratory complications.
+###
+Cervical spine injury should be assumed in all of the following EXCEPT:
+A) Multisystem trauma
+B) Altered level of consciousness
+C) Blunt injury above the clavicles
+D) Neurological deficit
+E) Isolated chest pain
+Correct Answer: E) Isolated chest pain
+Explanation: Isolated chest pain is not a criterion for presuming cervical injury. Multisystem trauma, altered consciousness, neurological deficit, and significant blunt injury above the clavicles are.
+###
+Which finding precludes clinical clearance of the cervical spine without imaging?
+A) Absence of posterior midline tenderness
+B) Absence of focal neurological deficit
+C) Altered level of consciousness
+D) Absence of intoxication
+E) Absence of a painful distracting injury
+Correct Answer: C) Altered level of consciousness
+Explanation: NEXUS and Canadian C-spine criteria require a normal level of alertness for clinical clearance. An obtunded patient cannot be cleared clinically and requires imaging.
+###
+Which of the following alone is NOT sufficient to clear the cervical spine and remove the collar?
+A) A negative cervical spine X-ray
+B) Absence of pain with voluntary movement
+C) Absence of neurological deficit
+D) An alert and cooperative patient
+E) Absence of a distracting injury
+Correct Answer: A) A negative cervical spine X-ray
+Explanation: Plain films miss a substantial proportion of cervical injuries. Clearance requires clinical criteria, with CT or MRI when indicated.
+###
+Which statement is correct regarding rigid cervical collars in isolated penetrating neck trauma?
+A) They are mandatory in all cases
+B) They reduce mortality
+C) They must be applied before airway assessment
+D) They should be avoided because they can obscure bleeding, impede airway inspection, and delay surgery
+E) They are indicated only when an anterior neck hematoma is present
+Correct Answer: D) They should be avoided because they can obscure bleeding, impede airway inspection, and delay surgery
+Explanation: Isolated penetrating neck trauma rarely causes unstable spinal injury. A collar can hide expanding hematoma and hinder airway management.
+###
+Which of the following is NOT generally used in acute traumatic brain-injury care?
+A) Anticonvulsants when indicated
+B) Warfarin
+C) Mannitol
+D) Isotonic intravenous fluids
+E) Sedatives
+Correct Answer: B) Warfarin
+Explanation: Anticoagulation worsens intracranial hemorrhage and requires reversal in head injury. Hyperosmolar agents, anticonvulsants, sedation, and isotonic fluids are part of acute management.
+###
+In a trauma patient with cerebral edema, why should hypercarbia be avoided?
+A) It causes metabolic acidosis
+B) It causes neurogenic pulmonary edema
+C) It causes hypokalemia
+D) It causes respiratory acidosis
+E) It causes cerebral vasodilatation, increasing cerebral blood flow and ICP
+Correct Answer: E) It causes cerebral vasodilatation, increasing cerebral blood flow and ICP
+Explanation: CO₂ is a potent cerebral vasodilator, so hypercarbia raises intracranial pressure. The target PaCO₂ is 35–40 mmHg, with brief hyperventilation reserved for herniation.
+###
+In managing a head-injured patient, what is the most important initial step?
+A) Determine the GCS score
+B) Obtain a cervical spine film
+C) Secure the airway
+D) Support the circulation
+E) Control scalp hemorrhage
+Correct Answer: C) Secure the airway
+Explanation: Airway comes first in the ABCDE sequence. Hypoxia and hypotension are the most damaging secondary insults to an injured brain.
+###
+A 73-year-old man falls down stairs. He is hypotensive and tachycardic, opens his eyes to voice, is confused, and has clear fluid dripping from the ear with mastoid ecchymosis. What is the most likely diagnosis?
+A) Basilar skull fracture
+B) Epidural hematoma
+C) Cervical spine injury
+D) Cerebral contusion
+E) Open depressed skull fracture
+Correct Answer: A) Basilar skull fracture
+Explanation: Otorrhea of cerebrospinal fluid with mastoid ecchymosis (Battle sign) is the classic sign of basilar skull fracture. Hypotension, however, should still prompt a search for hemorrhage elsewhere.
+###
+A motorcyclist with severe facial fractures and GCS 6 arrives in the emergency department. What is the immediate management?
+A) CT of the head and face before airway management
+B) Blind nasotracheal intubation
+C) Oxygen by mask and observation
+D) Early definitive airway with cervical-spine protection by the most experienced operator, with a rescue surgical-airway plan, treating the patient as severe TBI
+E) Maxillofacial reduction before any airway intervention
+Correct Answer: D) Early definitive airway with cervical-spine protection by the most experienced operator, with a rescue surgical-airway plan, treating the patient as severe TBI
+Explanation: Facial fractures with GCS 6 imply a difficult airway and an unprotected airway. Traumatic brain injury and cervical spine injury must be presumed.
+###
+A facial-trauma patient with initial hypoxemia and GCS 10 is intubated with cervical-spine protection and becomes physiologically stable. What should be done next?
+A) MRI of the brain
+B) Urgent non-contrast CT of the head and cervical spine, with facial imaging as indicated
+C) Skull radiographs
+D) Lumbar puncture
+E) Electroencephalography
+Correct Answer: B) Urgent non-contrast CT of the head and cervical spine, with facial imaging as indicated
+Explanation: Once the patient is stabilized, CT is the investigation of choice for acute intracranial and cervical injury. Neurosurgical and maxillofacial teams are involved early.
+###
+A trauma patient has BP 70/40 mmHg, HR 125/min, SpO₂ 89%, and is unresponsive to voice. A foot is deformed and the opposite arm has a large laceration. What is the best next step?
+A) Splint the deformed foot
+B) Apply a tourniquet to the deformed foot
+C) Obtain CT of the head
+D) Fluid bolus alone
+E) Airway control with cervical-spine protection while controlling the external hemorrhage and resuscitating shock
+Correct Answer: E) Airway control with cervical-spine protection while controlling the external hemorrhage and resuscitating shock
+Explanation: The unresponsive, hypoxic patient needs airway control, while the bleeding arm laceration needs direct control simultaneously. The deformed foot is a closed injury and does not require a tourniquet.
+###
+A hemodynamically unstable patient has a narrow-complex tachycardia of 180/min. What is the next step?
+A) IV adenosine
+B) Vagal maneuvers
+C) Synchronized cardioversion
+D) Amiodarone infusion
+E) Unsynchronized defibrillation
+Correct Answer: C) Synchronized cardioversion
+Explanation: Instability from a tachyarrhythmia mandates immediate synchronized cardioversion. Adenosine and vagal maneuvers are reserved for stable patients.
+###
+All of the following are adjuncts to the primary survey of a trauma patient EXCEPT:
+A) Abdominal CT scan
+B) FAST
+C) ECG
+D) Arterial blood gases
+E) Chest X-ray
+Correct Answer: A) Abdominal CT scan
+Explanation: CT requires transport and a relatively stable patient, so it belongs to the secondary survey. ECG, ABG, FAST, and portable radiographs are primary-survey adjuncts.
+###
+As the first doctor receiving a trauma patient in the emergency room, what is the most important task?
+A) Write the specific details of the injury
+B) Inform the police
+C) Take a full history
+D) Perform the ABCDE primary survey and treat life-threatening problems
+E) Estimate the duration of incapacity
+Correct Answer: D) Perform the ABCDE primary survey and treat life-threatening problems
+Explanation: The first clinical priority is identification and treatment of immediate life threats. History and documentation follow stabilization.
+###
+What is the appropriate initial volume of crystalloid for a pediatric trauma patient in shock?
+A) 500 mL
+B) 20 mL/kg
+C) 1–2 liters
+D) 45 mL/kg
+E) 80 mL/kg
+Correct Answer: B) 20 mL/kg
+Explanation: The traditional initial pediatric bolus is 20 mL/kg of warmed isotonic crystalloid, followed by reassessment. In hemorrhagic shock, blood products are started early rather than repeating large crystalloid volumes.
+###
+Which screening radiographs are traditionally obtained in the initial assessment of a multiply injured patient?
+A) Skull, cervical spine, chest
+B) Chest, abdomen, pelvis
+C) Cervical spine, chest, abdomen
+D) Skull, chest, abdomen
+E) Cervical spine, chest, pelvis
+Correct Answer: E) Cervical spine, chest, pelvis
+Explanation: The classic trauma series comprises a lateral cervical spine, an AP chest, and an AP pelvis. Current practice is selective and relies on CT according to stability and local protocol.
+###
+In the initial assessment of trauma patients, which of the following does NOT affect circulation?
+A) Femoral fracture
+B) Spinal cord injury
+C) Isolated brain trauma
+D) Second-degree burn of 20% body surface area
+E) Ruptured heart valve
+Correct Answer: C) Isolated brain trauma
+Explanation: Isolated brain injury does not cause hypotension, so shock should prompt a search for hemorrhage or another cause. Spinal cord injury causes neurogenic shock, and the other options reduce effective circulating volume or cardiac output.
+###
+In the initial assessment of trauma patients, which of the following does NOT affect ventilation?
+A) Cardiac tamponade
+B) Flail chest and pulmonary contusion
+C) Airway obstruction
+D) Hemothorax
+E) Tension pneumothorax
+Correct Answer: A) Cardiac tamponade
+Explanation: Tamponade impairs circulation by restricting cardiac filling, not ventilation. The other options directly impair air entry or lung expansion.
+###
+Maintaining a target systolic blood pressure of 80–90 mmHg in active hemorrhage without traumatic brain injury, until surgical hemostasis is achieved, is known as:
+A) Normotensive resuscitation
+B) Fluid challenge
+C) Vasopressor titration
+D) Permissive hypotension
+E) Isovolemic hemodilution
+Correct Answer: D) Permissive hypotension
+Explanation: Permissive hypotension is a component of damage-control resuscitation. It avoids disrupting early clot, and it is not used in traumatic brain injury, where cerebral perfusion pressure must be maintained.
+###
+Which of the following is NOT an immediately life-threatening thoracic injury identified and treated during the primary survey?
+A) Open pneumothorax
+B) Blunt esophageal rupture
+C) Tension pneumothorax
+D) Massive hemothorax
+E) Cardiac tamponade
+Correct Answer: B) Blunt esophageal rupture
+Explanation: Esophageal rupture is serious but is usually identified in the secondary survey. Airway obstruction, tension and open pneumothorax, massive hemothorax, flail chest, and tamponade are the immediate threats.
+###
+Which statement best distinguishes a mass-casualty incident from a multiple-casualty incident?
+A) A multiple-casualty incident exceeds the facility's resources
+B) A mass-casualty incident can be handled with the usual resources
+C) The two terms are identical
+D) In a mass-casualty incident, only the most severely injured are treated, regardless of survivability
+E) A mass-casualty incident exceeds the available resources and requires disaster triage
+Correct Answer: E) A mass-casualty incident exceeds the available resources and requires disaster triage
+Explanation: In a multiple-casualty incident, resources are adequate and the most seriously injured are treated first. A mass-casualty incident overwhelms capacity.
+###
+Which principle applies to triage in a mass-casualty incident?
+A) Allocate the most time and equipment to the most severely injured, including those with unsurvivable injuries
+B) Treat patients in order of arrival
+C) Use limited resources for the greatest overall benefit, with unsurvivable injuries classified as expectant
+D) Treat the walking wounded first
+E) Treat children before all other patients
+Correct Answer: C) Use limited resources for the greatest overall benefit, with unsurvivable injuries classified as expectant
+Explanation: The goal shifts from the best outcome for one patient to the best outcome for the greatest number. Committing disproportionate resources to one patient reduces total lives saved.
+###
+A patient with multiple stab wounds has BP 89/40 mmHg and is irritable. What is the most likely diagnosis?
+A) Class III hemorrhagic shock
+B) Septic shock
+C) Cardiac tamponade
+D) Tension pneumothorax
+E) Neurogenic shock
+Correct Answer: A) Class III hemorrhagic shock
+Explanation: Hypotension with altered behavior after multiple stab wounds indicates major blood loss. Tamponade and tension pneumothorax must still be actively excluded during the Breathing and Circulation steps.
+###
+Which of the following is NOT included in the primary survey?
+A) Control of exsanguinating external hemorrhage
+B) Airway assessment with cervical-spine protection
+C) Assessment of GCS and pupils
+D) Taking a full history
+E) Exposure with prevention of hypothermia
+Correct Answer: D) Taking a full history
+Explanation: The primary survey is limited to identifying and treating immediate life threats. A detailed history (AMPLE) belongs to the secondary survey.
+###
+A patient with diabetes and hypertension has fever, hypotension, and turbid urine draining from a Foley catheter. Which shock state is most likely?
+A) Hemorrhagic shock
+B) Septic shock
+C) Cardiogenic shock
+D) Neurogenic shock
+E) Obstructive shock
+Correct Answer: B) Septic shock
+Explanation: Fever and hypotension with a urinary catheter and turbid urine point to a urinary source of sepsis. Treatment is cultures, early antimicrobials, resuscitation, and source control.
+###
+A patient has dyspnea, pleuritic chest pain, tachypnea, tachycardia, and hemoptysis, and pulmonary embolism is strongly suspected. What is the imaging study of choice?
+A) Chest radiograph
+B) D-dimer testing
+C) Ventilation-perfusion scan
+D) Echocardiography
+E) CT pulmonary angiography
+Correct Answer: E) CT pulmonary angiography
+Explanation: CTPA is the first-line confirmatory test in a stable patient with a high pre-test probability. V/Q scanning is preferred in pregnancy, renal impairment, or contrast allergy.
+###
+Which of the following is essential before passing a urinary catheter in a male trauma patient?
+A) Perform a retrograde urethrogram in every patient
+B) Know the mechanism of injury
+C) Examine the rectum and perineum
+D) Determine pelvic stability
+E) Examine the abdomen
+Correct Answer: C) Examine the rectum and perineum
+Explanation: Rectal and perineal examination excludes signs of urethral injury, namely a high-riding prostate, perineal bruising, and a scrotal hematoma. Blood at the meatus likewise warrants a retrograde urethrogram before catheterization.
+###
+Which of the following is NOT a contraindication to Foley catheter insertion in a trauma patient?
+A) Urinary retention
+B) Blood at the urethral meatus
+C) Perineal hematoma
+D) High-riding prostate
+E) Scrotal hematoma
+Correct Answer: A) Urinary retention
+Explanation: Urinary retention is an indication for catheterization. The other findings suggest urethral disruption and require a urethrogram first.
+###
+What does the AMPLE history mnemonic stand for in the trauma secondary survey?
+A) Airway, Medications, Pain, Last meal, Events
+B) Allergies, Mechanism, Pain, Labs, Examination
+C) Allergies, Medications, Pain, Location, Evaluation
+D) Allergies, Medications, Past medical history, Last meal, Events surrounding the injury
+E) Age, Medications, Previous surgery, Labs, Environment
+Correct Answer: D) Allergies, Medications, Past medical history, Last meal, Events surrounding the injury
+Explanation: AMPLE is the focused history obtained in the secondary survey. Pregnancy is included under past medical history, and the event history covers the environment and mechanism.
+###
+What is the most common type of shock in trauma patients?
+A) Cardiogenic shock
+B) Hypovolemic (hemorrhagic) shock
+C) Neurogenic shock
+D) Septic shock
+E) Obstructive shock
+Correct Answer: B) Hypovolemic (hemorrhagic) shock
+Explanation: Hypotension after trauma is hemorrhagic until proven otherwise. Tension pneumothorax and tamponade must still be excluded during the primary survey.
+###
+Which of the following is an absolute contraindication to fibrinolytic therapy?
+A) Systolic blood pressure of 170 mmHg
+B) Active peptic ulcer disease
+C) Pregnancy
+D) Ischemic stroke more than 3 months earlier
+E) Previous intracranial hemorrhage
+Correct Answer: E) Previous intracranial hemorrhage
+Explanation: Any prior intracranial hemorrhage is an absolute contraindication because of the risk of recurrent intracranial bleeding. The other options are relative contraindications or are not contraindications.
+###
+Which of the following is NOT an indication for intubation?
+A) GCS of 8 or less
+B) Inability to protect the airway
+C) GCS of 10 with a protected airway and adequate oxygenation
+D) Apnea
+E) Severe maxillofacial injury with impending airway obstruction
+Correct Answer: C) GCS of 10 with a protected airway and adequate oxygenation
+Explanation: A GCS of 8 or less is the threshold for intubation. A patient with a higher GCS needs intubation only if the airway is unprotected or deterioration is anticipated.
+###
+Which of the following is NOT an objective sign of airway obstruction?
+A) Neck vein distention
+B) Stridor
+C) Use of accessory muscles of respiration
+D) Paradoxical chest-abdominal movement
+E) Cyanosis
+Correct Answer: A) Neck vein distention
+Explanation: Neck vein distention reflects a circulatory problem such as tamponade or tension pneumothorax. Stridor, accessory-muscle use, paradoxical movement, and cyanosis are objective signs of airway obstruction.
+###
+Which statement about trauma patients with comorbidities is false?
+A) They have reduced physiological reserve
+B) In elderly patients, normal vital signs may mask significant shock
+C) They warrant a lower threshold for imaging and admission
+D) They should not be transferred to a higher-level facility
+E) Beta-blockers may mask tachycardia
+Correct Answer: D) They should not be transferred to a higher-level facility
+Explanation: Patients with comorbidities have poor reserve and benefit from care at a higher-level trauma center. Transfer is appropriate when their needs exceed local capability.
+###
+Which statement about the emergency management of trauma patients is correct?
+A) The specific injury must be identified before management begins
+B) The priorities are the same for all trauma patients
+C) A detailed history must precede resuscitation
+D) Diagnosis must be established before treatment
+E) Unstable patients should undergo CT first
+Correct Answer: B) The priorities are the same for all trauma patients
+Explanation: Management follows the same ABCDE sequence of treating the greatest threat to life first. It does not depend on knowing the specific injury.
+###
+Which statement about the classes of hemorrhagic shock is false?
+A) Class II: 15–30% blood loss
+B) Class III: 31–40% blood loss
+C) Class IV: more than 40% blood loss
+D) Class I: normal heart rate and blood pressure
+E) Class I: less than 5% blood loss
+Correct Answer: E) Class I: less than 5% blood loss
+Explanation: Class I corresponds to a loss of less than 15% of blood volume, which the body absorbs with little physiological change.
+###
+Which statement about airway management in trauma is false?
+A) Endotracheal intubation helps protect the airway
+B) Endotracheal intubation prevents aspiration
+C) Endotracheal intubation is always required in trauma
+D) Endotracheal intubation allows oxygenation
+E) Endotracheal intubation allows control of ventilation
+Correct Answer: C) Endotracheal intubation is always required in trauma
+Explanation: Intubation is indicated when airway protection, oxygenation, ventilation, or severe neurological compromise requires it, not simply because trauma occurred.
+###
+How should the airway be opened in a trauma patient with possible cervical spine injury?
+A) Jaw thrust with manual in-line cervical stabilization
+B) Head-tilt with chin-lift
+C) Neck extension with chin-lift
+D) Insertion of a nasopharyngeal airway in every patient
+E) Flexing the neck over a pillow
+Correct Answer: A) Jaw thrust with manual in-line cervical stabilization
+Explanation: Jaw thrust opens the airway without extending the neck. Head-tilt/chin-lift is avoided when cervical injury is suspected.
+###
+Which rapid adjuncts help identify occult hemorrhage in an unstable trauma patient?
+A) CT of the abdomen and pelvis with contrast
+B) Serial hemoglobin measurement only
+C) MRI of the abdomen
+D) eFAST with portable chest and pelvic radiographs
+E) Diagnostic laparoscopy
+Correct Answer: D) eFAST with portable chest and pelvic radiographs
+Explanation: These bedside studies identify the main hidden sources of bleeding without leaving the resuscitation area. A baseline hemoglobin cannot exclude acute hemorrhage, and unstable patients should not go to CT.
+###
+How is hemorrhage from an unstable pelvic fracture managed?
+A) Repeated rocking of the pelvis to assess stability
+B) Pelvic binder at the level of the greater trochanters, massive transfusion, and early hemorrhage control
+C) Rapid 3 L crystalloid infusion
+D) CT before applying a binder
+E) Urinary catheter insertion in all patients
+Correct Answer: B) Pelvic binder at the level of the greater trochanters, massive transfusion, and early hemorrhage control
+Explanation: Circumferential compression reduces pelvic volume and tamponades venous and bony bleeding. Definitive control is by pelvic packing, angioembolization, or surgery according to physiology and resources.
+###
+Which statement about traumatic diaphragmatic injury is FALSE?
+A) Blunt trauma can produce a large diaphragmatic tear
+B) It may be misinterpreted as hemothorax on chest radiograph
+C) Even small tears require surgical repair
+D) A nasogastric tube coiled in the chest is a diagnostic clue
+E) The right diaphragm is injured more often than the left
+Correct Answer: E) The right diaphragm is injured more often than the left
+Explanation: Left-sided injury is more common because the liver protects the right hemidiaphragm. The injury can be missed initially and later present as herniation of bowel or stomach into the thorax.
