@@ -38639,13 +38639,13 @@
               "Eccentric metaphyseal location",
               "Size greater than 3 cm",
               "Sunburst periosteal reaction",
-              "Most common benign non-ossifying fibrous lesion of bone"
+              "Most common non-neoplastic fibrous bone lesion"
             ],
             "originalOptions": [
               "Eccentric metaphyseal location",
               "Size greater than 3 cm",
               "Sunburst periosteal reaction",
-              "Most common benign non-ossifying fibrous lesion of bone"
+              "Most common non-neoplastic fibrous bone lesion"
             ],
             "correctAnswer": "C) Sunburst periosteal reaction",
             "correctAnswerText": "Sunburst periosteal reaction",
@@ -38961,28 +38961,30 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__406r4r",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__n313f7",
             "number": "10",
-            "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
+            "text": "Which of the following is NOT a highly specific fracture for non-accidental injury (child abuse)?",
             "options": [
-              "Metaphyseal corner (bucket handle) fracture",
+              "Metaphyseal corner (bucket-handle) fracture",
               "Posterior rib fracture",
-              "Parietal bone fracture",
-              "Scapular fracture"
+              "Simple linear parietal bone fracture",
+              "Scapular fracture",
+              "Sternal fracture"
             ],
             "originalOptions": [
-              "Metaphyseal corner (bucket handle) fracture",
+              "Metaphyseal corner (bucket-handle) fracture",
               "Posterior rib fracture",
-              "Parietal bone fracture",
-              "Scapular fracture"
+              "Simple linear parietal bone fracture",
+              "Scapular fracture",
+              "Sternal fracture"
             ],
-            "correctAnswer": "C) Parietal bone fracture",
-            "correctAnswerText": "Parietal bone fracture",
+            "correctAnswer": "C) Simple linear parietal bone fracture",
+            "correctAnswerText": "Simple linear parietal bone fracture",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.",
+            "explanation": "Simple linear parietal fractures are low-specificity and commonly accidental. Metaphyseal corner fractures (pathognomonic), posterior rib, scapular, and sternal fractures are the highly specific ones.",
             "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
@@ -39344,7 +39346,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "explanation": "Syndesmophytic fusion of the spine (bamboo spine) with sacroiliac involvement is the hallmark of ankylosing spondylitis. OA shows asymmetric (non-uniform) narrowing with osteophytes, and RA shows uniform narrowing with marginal erosions and periarticular osteopenia, without syndesmophytic fusion.",
             "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Final / Aorta Final / Vagus Mini-OSCE (Group C) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -39654,9 +39656,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__29__e3snr5",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__29__cn4ph0",
             "number": "29",
-            "text": "Which is WRONG about this avulsion fracture pairing?",
+            "text": "Which of the following avulsion fracture–muscle pairings is WRONG?",
             "options": [
               "Ischial tuberosity – hamstrings",
               "Anterior superior iliac spine – adductor muscles",
@@ -39994,12 +39996,12 @@
               "Fracture of the cuboid bone",
               "Fracture of the lateral cuneiform"
             ],
-            "correctAnswer": "D) Fracture of the 5th metatarsal base",
-            "correctAnswerText": "Fracture of the lateral cuneiform",
-            "correctIndex": 3,
+            "correctAnswer": "A) Fracture of the 5th metatarsal base",
+            "correctAnswerText": "Fracture of the 5th metatarsal base",
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "A",
             "explanation": "A true fracture at the proximal 5th metatarsal is transverse, whereas the normal apophysis runs longitudinally — a key distinguishing feature.",
             "batchName": "Serotonin Mini-OSCE",
             "batchNames": [
@@ -40514,9 +40516,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__53__refdem",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__53__u51p5j",
             "number": "53",
-            "text": "In Lesser-trochanter avulsion fracture, which muscle is affected?",
+            "text": "Which muscle's pull is responsible for an avulsion fracture of the lesser trochanter?",
             "options": [
               "Sartorius",
               "Iliopsoas",
@@ -40535,7 +40537,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The iliopsoas inserts on the lesser trochanter, making it the muscle responsible for lesser trochanteric avulsion fractures.",
+            "explanation": "The iliopsoas inserts on the lesser trochanter, so its forceful contraction avulses it. Sartorius pulls on the ASIS, rectus femoris on the AIIS, and gluteus medius on the greater trochanter.",
             "batchName": "Endorphin Final / Aorta Final",
             "batchNames": [
               "Endorphin Final",
@@ -40550,9 +40552,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__54__349kc2",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__54__cmkivl",
             "number": "54",
-            "text": "Identify the Salter-Harris type in this fracture : [img: Radiologymsalter2harris.png ]",
+            "text": "Identify the Salter-Harris type in this fracture : [img: Radiologymsalter3harrisdistaltibia.png ]",
             "options": [
               "Type 1",
               "Type 2",
@@ -40585,9 +40587,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__55__3p5rmw",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__55__l13xo5",
             "number": "55",
-            "text": "Recalled hand radiograph diagnosis. [img: Radiologymrheumatoidarthritis.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologymrheumatoidarthritis.png ]",
             "options": [
               "Osteoarthritis",
               "Psoriatic arthritis",
@@ -40956,14 +40958,14 @@
               "Syndesmophytes run perpendicular to the spine",
               "In osteoarthritis, sclerosis occurs with severe osteopenia",
               "In rheumatoid arthritis, marginal erosions occur at the medial aspect of the MCP joints",
-              "Joint space and bone density are normal in septic arthritis"
+              "Marginal erosions are the earliest radiographic sign of septic arthritis"
             ],
             "originalOptions": [
               "In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening",
               "Syndesmophytes run perpendicular to the spine",
               "In osteoarthritis, sclerosis occurs with severe osteopenia",
               "In rheumatoid arthritis, marginal erosions occur at the medial aspect of the MCP joints",
-              "Joint space and bone density are normal in septic arthritis"
+              "Marginal erosions are the earliest radiographic sign of septic arthritis"
             ],
             "correctAnswer": "A) In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening",
             "correctAnswerText": "In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening",
@@ -40971,7 +40973,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "MRI in septic arthritis shows synovial thickening on post-contrast fat-saturated T1; syndesmophytes actually run parallel (not perpendicular) to the spine, and RA erosions occur at the radial (not medial) MCP aspect.",
+            "explanation": "MRI in septic arthritis shows synovial thickening on post-contrast fat-saturated T1. Syndesmophytes run parallel (not perpendicular) to the spine, RA erosions occur at the radial (not medial) side of the MCPs, OA sclerosis is seen unless severe osteoporosis is present, and the first radiographic sign of septic arthritis is joint effusion, not erosions.",
             "batchName": "Overdose Final",
             "batchNames": [
               "Overdose Final"
@@ -41080,7 +41082,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "Well-defined \"punched-out\" erosions with sclerotic, overhanging margins are pathognomonic for gout, unlike the ill-defined marginal erosions of RA.",
+            "explanation": "Well-defined punched-out erosions with sclerotic, overhanging margins and preserved joint space are the typical appearance of gout. RA erosions are marginal \"bare-area\" erosions with periarticular osteopenia and uniform joint-space narrowing.",
             "batchName": "Serotonin Final",
             "batchNames": [
               "Serotonin Final"
@@ -41388,9 +41390,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__77__mjuwq2",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__77__wsyvui",
             "number": "77",
-            "text": "In this labeled knee anatomy image, which structure is indicated? [img: Radiologymkneeanatomy.jpg ]",
+            "text": "In this labeled knee anatomy image, which structure (10) is indicated? [img: Radiologymkneeanatomy.jpg ]",
             "options": [
               "Femoral condyle",
               "Patella",
@@ -46023,7 +46025,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "explanation": "Syndesmophytic fusion of the spine (bamboo spine) with sacroiliac involvement is the hallmark of ankylosing spondylitis. OA shows asymmetric (non-uniform) narrowing with osteophytes, and RA shows uniform narrowing with marginal erosions and periarticular osteopenia, without syndesmophytic fusion.",
             "batchName": "Aorta Final",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -46303,9 +46305,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__53__refdem",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__53__u51p5j",
             "number": "53",
-            "text": "In Lesser-trochanter avulsion fracture, which muscle is affected?",
+            "text": "Which muscle's pull is responsible for an avulsion fracture of the lesser trochanter?",
             "options": [
               "Sartorius",
               "Iliopsoas",
@@ -46324,7 +46326,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The iliopsoas inserts on the lesser trochanter, making it the muscle responsible for lesser trochanteric avulsion fractures.",
+            "explanation": "The iliopsoas inserts on the lesser trochanter, so its forceful contraction avulses it. Sartorius pulls on the ASIS, rectus femoris on the AIIS, and gluteus medius on the greater trochanter.",
             "batchName": "Aorta Final",
             "batchNames": [
               "Endorphin Final",
@@ -46340,9 +46342,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__54__349kc2",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__54__cmkivl",
             "number": "54",
-            "text": "Identify the Salter-Harris type in this fracture : [img: Radiologymsalter2harris.png ]",
+            "text": "Identify the Salter-Harris type in this fracture : [img: Radiologymsalter3harrisdistaltibia.png ]",
             "options": [
               "Type 1",
               "Type 2",
@@ -46376,9 +46378,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__55__3p5rmw",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__55__l13xo5",
             "number": "55",
-            "text": "Recalled hand radiograph diagnosis. [img: Radiologymrheumatoidarthritis.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologymrheumatoidarthritis.png ]",
             "options": [
               "Osteoarthritis",
               "Psoriatic arthritis",
@@ -47290,13 +47292,13 @@
               "Eccentric metaphyseal location",
               "Size greater than 3 cm",
               "Sunburst periosteal reaction",
-              "Most common benign non-ossifying fibrous lesion of bone"
+              "Most common non-neoplastic fibrous bone lesion"
             ],
             "originalOptions": [
               "Eccentric metaphyseal location",
               "Size greater than 3 cm",
               "Sunburst periosteal reaction",
-              "Most common benign non-ossifying fibrous lesion of bone"
+              "Most common non-neoplastic fibrous bone lesion"
             ],
             "correctAnswer": "C) Sunburst periosteal reaction",
             "correctAnswerText": "Sunburst periosteal reaction",
@@ -48506,28 +48508,30 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__406r4r",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__n313f7",
             "number": "10",
-            "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
+            "text": "Which of the following is NOT a highly specific fracture for non-accidental injury (child abuse)?",
             "options": [
-              "Metaphyseal corner (bucket handle) fracture",
+              "Metaphyseal corner (bucket-handle) fracture",
               "Posterior rib fracture",
-              "Parietal bone fracture",
-              "Scapular fracture"
+              "Simple linear parietal bone fracture",
+              "Scapular fracture",
+              "Sternal fracture"
             ],
             "originalOptions": [
-              "Metaphyseal corner (bucket handle) fracture",
+              "Metaphyseal corner (bucket-handle) fracture",
               "Posterior rib fracture",
-              "Parietal bone fracture",
-              "Scapular fracture"
+              "Simple linear parietal bone fracture",
+              "Scapular fracture",
+              "Sternal fracture"
             ],
-            "correctAnswer": "C) Parietal bone fracture",
-            "correctAnswerText": "Parietal bone fracture",
+            "correctAnswer": "C) Simple linear parietal bone fracture",
+            "correctAnswerText": "Simple linear parietal bone fracture",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.",
+            "explanation": "Simple linear parietal fractures are low-specificity and commonly accidental. Metaphyseal corner fractures (pathognomonic), posterior rib, scapular, and sternal fractures are the highly specific ones.",
             "batchName": "Coronary Mini-OSCE (Group C)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
@@ -49969,7 +49973,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "explanation": "Syndesmophytic fusion of the spine (bamboo spine) with sacroiliac involvement is the hallmark of ankylosing spondylitis. OA shows asymmetric (non-uniform) narrowing with osteophytes, and RA shows uniform narrowing with marginal erosions and periarticular osteopenia, without syndesmophytic fusion.",
             "batchName": "Endorphin Final",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -50145,9 +50149,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__53__refdem",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__53__u51p5j",
             "number": "53",
-            "text": "In Lesser-trochanter avulsion fracture, which muscle is affected?",
+            "text": "Which muscle's pull is responsible for an avulsion fracture of the lesser trochanter?",
             "options": [
               "Sartorius",
               "Iliopsoas",
@@ -50166,7 +50170,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The iliopsoas inserts on the lesser trochanter, making it the muscle responsible for lesser trochanteric avulsion fractures.",
+            "explanation": "The iliopsoas inserts on the lesser trochanter, so its forceful contraction avulses it. Sartorius pulls on the ASIS, rectus femoris on the AIIS, and gluteus medius on the greater trochanter.",
             "batchName": "Endorphin Final",
             "batchNames": [
               "Endorphin Final",
@@ -51333,7 +51337,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "explanation": "Syndesmophytic fusion of the spine (bamboo spine) with sacroiliac involvement is the hallmark of ankylosing spondylitis. OA shows asymmetric (non-uniform) narrowing with osteophytes, and RA shows uniform narrowing with marginal erosions and periarticular osteopenia, without syndesmophytic fusion.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -52300,28 +52304,30 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__406r4r",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__n313f7",
             "number": "10",
-            "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
+            "text": "Which of the following is NOT a highly specific fracture for non-accidental injury (child abuse)?",
             "options": [
-              "Metaphyseal corner (bucket handle) fracture",
+              "Metaphyseal corner (bucket-handle) fracture",
               "Posterior rib fracture",
-              "Parietal bone fracture",
-              "Scapular fracture"
+              "Simple linear parietal bone fracture",
+              "Scapular fracture",
+              "Sternal fracture"
             ],
             "originalOptions": [
-              "Metaphyseal corner (bucket handle) fracture",
+              "Metaphyseal corner (bucket-handle) fracture",
               "Posterior rib fracture",
-              "Parietal bone fracture",
-              "Scapular fracture"
+              "Simple linear parietal bone fracture",
+              "Scapular fracture",
+              "Sternal fracture"
             ],
-            "correctAnswer": "C) Parietal bone fracture",
-            "correctAnswerText": "Parietal bone fracture",
+            "correctAnswer": "C) Simple linear parietal bone fracture",
+            "correctAnswerText": "Simple linear parietal bone fracture",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.",
+            "explanation": "Simple linear parietal fractures are low-specificity and commonly accidental. Metaphyseal corner fractures (pathognomonic), posterior rib, scapular, and sternal fractures are the highly specific ones.",
             "batchName": "Endorphin Mini-OSCE (Group B)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
@@ -54236,28 +54242,30 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__406r4r",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__n313f7",
             "number": "10",
-            "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
+            "text": "Which of the following is NOT a highly specific fracture for non-accidental injury (child abuse)?",
             "options": [
-              "Metaphyseal corner (bucket handle) fracture",
+              "Metaphyseal corner (bucket-handle) fracture",
               "Posterior rib fracture",
-              "Parietal bone fracture",
-              "Scapular fracture"
+              "Simple linear parietal bone fracture",
+              "Scapular fracture",
+              "Sternal fracture"
             ],
             "originalOptions": [
-              "Metaphyseal corner (bucket handle) fracture",
+              "Metaphyseal corner (bucket-handle) fracture",
               "Posterior rib fracture",
-              "Parietal bone fracture",
-              "Scapular fracture"
+              "Simple linear parietal bone fracture",
+              "Scapular fracture",
+              "Sternal fracture"
             ],
-            "correctAnswer": "C) Parietal bone fracture",
-            "correctAnswerText": "Parietal bone fracture",
+            "correctAnswer": "C) Simple linear parietal bone fracture",
+            "correctAnswerText": "Simple linear parietal bone fracture",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.",
+            "explanation": "Simple linear parietal fractures are low-specificity and commonly accidental. Metaphyseal corner fractures (pathognomonic), posterior rib, scapular, and sternal fractures are the highly specific ones.",
             "batchName": "Endorphin Mini-OSCE (Group D)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
@@ -55292,28 +55300,30 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__406r4r",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__10__n313f7",
             "number": "10",
-            "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
+            "text": "Which of the following is NOT a highly specific fracture for non-accidental injury (child abuse)?",
             "options": [
-              "Metaphyseal corner (bucket handle) fracture",
+              "Metaphyseal corner (bucket-handle) fracture",
               "Posterior rib fracture",
-              "Parietal bone fracture",
-              "Scapular fracture"
+              "Simple linear parietal bone fracture",
+              "Scapular fracture",
+              "Sternal fracture"
             ],
             "originalOptions": [
-              "Metaphyseal corner (bucket handle) fracture",
+              "Metaphyseal corner (bucket-handle) fracture",
               "Posterior rib fracture",
-              "Parietal bone fracture",
-              "Scapular fracture"
+              "Simple linear parietal bone fracture",
+              "Scapular fracture",
+              "Sternal fracture"
             ],
-            "correctAnswer": "C) Parietal bone fracture",
-            "correctAnswerText": "Parietal bone fracture",
+            "correctAnswer": "C) Simple linear parietal bone fracture",
+            "correctAnswerText": "Simple linear parietal bone fracture",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.",
+            "explanation": "Simple linear parietal fractures are low-specificity and commonly accidental. Metaphyseal corner fractures (pathognomonic), posterior rib, scapular, and sternal fractures are the highly specific ones.",
             "batchName": "Endorphin Mini-OSCE (Group E)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)",
@@ -58023,13 +58033,13 @@
               "Eccentric metaphyseal location",
               "Size greater than 3 cm",
               "Sunburst periosteal reaction",
-              "Most common benign non-ossifying fibrous lesion of bone"
+              "Most common non-neoplastic fibrous bone lesion"
             ],
             "originalOptions": [
               "Eccentric metaphyseal location",
               "Size greater than 3 cm",
               "Sunburst periosteal reaction",
-              "Most common benign non-ossifying fibrous lesion of bone"
+              "Most common non-neoplastic fibrous bone lesion"
             ],
             "correctAnswer": "C) Sunburst periosteal reaction",
             "correctAnswerText": "Sunburst periosteal reaction",
@@ -58166,9 +58176,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__29__e3snr5",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__29__cn4ph0",
             "number": "29",
-            "text": "Which is WRONG about this avulsion fracture pairing?",
+            "text": "Which of the following avulsion fracture–muscle pairings is WRONG?",
             "options": [
               "Ischial tuberosity – hamstrings",
               "Anterior superior iliac spine – adductor muscles",
@@ -60602,14 +60612,14 @@
               "Syndesmophytes run perpendicular to the spine",
               "In osteoarthritis, sclerosis occurs with severe osteopenia",
               "In rheumatoid arthritis, marginal erosions occur at the medial aspect of the MCP joints",
-              "Joint space and bone density are normal in septic arthritis"
+              "Marginal erosions are the earliest radiographic sign of septic arthritis"
             ],
             "originalOptions": [
               "In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening",
               "Syndesmophytes run perpendicular to the spine",
               "In osteoarthritis, sclerosis occurs with severe osteopenia",
               "In rheumatoid arthritis, marginal erosions occur at the medial aspect of the MCP joints",
-              "Joint space and bone density are normal in septic arthritis"
+              "Marginal erosions are the earliest radiographic sign of septic arthritis"
             ],
             "correctAnswer": "A) In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening",
             "correctAnswerText": "In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening",
@@ -60617,7 +60627,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "MRI in septic arthritis shows synovial thickening on post-contrast fat-saturated T1; syndesmophytes actually run parallel (not perpendicular) to the spine, and RA erosions occur at the radial (not medial) MCP aspect.",
+            "explanation": "MRI in septic arthritis shows synovial thickening on post-contrast fat-saturated T1. Syndesmophytes run parallel (not perpendicular) to the spine, RA erosions occur at the radial (not medial) side of the MCPs, OA sclerosis is seen unless severe osteoporosis is present, and the first radiographic sign of septic arthritis is joint effusion, not erosions.",
             "batchName": "Overdose Final",
             "batchNames": [
               "Overdose Final"
@@ -61616,7 +61626,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "Well-defined \"punched-out\" erosions with sclerotic, overhanging margins are pathognomonic for gout, unlike the ill-defined marginal erosions of RA.",
+            "explanation": "Well-defined punched-out erosions with sclerotic, overhanging margins and preserved joint space are the typical appearance of gout. RA erosions are marginal \"bare-area\" erosions with periarticular osteopenia and uniform joint-space narrowing.",
             "batchName": "Serotonin Final",
             "batchNames": [
               "Serotonin Final"
@@ -62751,7 +62761,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "explanation": "Syndesmophytic fusion of the spine (bamboo spine) with sacroiliac involvement is the hallmark of ankylosing spondylitis. OA shows asymmetric (non-uniform) narrowing with osteophytes, and RA shows uniform narrowing with marginal erosions and periarticular osteopenia, without syndesmophytic fusion.",
             "batchName": "Serotonin Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -62973,12 +62983,12 @@
               "Fracture of the cuboid bone",
               "Fracture of the lateral cuneiform"
             ],
-            "correctAnswer": "D) Fracture of the 5th metatarsal base",
-            "correctAnswerText": "Fracture of the lateral cuneiform",
-            "correctIndex": 3,
+            "correctAnswer": "A) Fracture of the 5th metatarsal base",
+            "correctAnswerText": "Fracture of the 5th metatarsal base",
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "A",
             "explanation": "A true fracture at the proximal 5th metatarsal is transverse, whereas the normal apophysis runs longitudinally — a key distinguishing feature.",
             "batchName": "Serotonin Mini-OSCE",
             "batchNames": [
@@ -64842,7 +64852,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "explanation": "Syndesmophytic fusion of the spine (bamboo spine) with sacroiliac involvement is the hallmark of ankylosing spondylitis. OA shows asymmetric (non-uniform) narrowing with osteophytes, and RA shows uniform narrowing with marginal erosions and periarticular osteopenia, without syndesmophytic fusion.",
             "batchName": "Vagus Mini-OSCE (Group C)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -67930,7 +67940,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+            "explanation": "Syndesmophytic fusion of the spine (bamboo spine) with sacroiliac involvement is the hallmark of ankylosing spondylitis. OA shows asymmetric (non-uniform) narrowing with osteophytes, and RA shows uniform narrowing with marginal erosions and periarticular osteopenia, without syndesmophytic fusion.",
             "batchName": "Waman A7yaha Mini-OSCE",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -68474,9 +68484,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__musculoskeletal-msk-radiology__77__mjuwq2",
+            "id": "radiology__lecture__musculoskeletal-msk-radiology__77__wsyvui",
             "number": "77",
-            "text": "In this labeled knee anatomy image, which structure is indicated? [img: Radiologymkneeanatomy.jpg ]",
+            "text": "In this labeled knee anatomy image, which structure (10) is indicated? [img: Radiologymkneeanatomy.jpg ]",
             "options": [
               "Femoral condyle",
               "Patella",
@@ -75883,13 +75893,13 @@
           "Eccentric metaphyseal location",
           "Size greater than 3 cm",
           "Sunburst periosteal reaction",
-          "Most common benign non-ossifying fibrous lesion of bone"
+          "Most common non-neoplastic fibrous bone lesion"
         ],
         "originalOptions": [
           "Eccentric metaphyseal location",
           "Size greater than 3 cm",
           "Sunburst periosteal reaction",
-          "Most common benign non-ossifying fibrous lesion of bone"
+          "Most common non-neoplastic fibrous bone lesion"
         ],
         "correctAnswer": "C) Sunburst periosteal reaction",
         "correctAnswerText": "Sunburst periosteal reaction",
@@ -76205,28 +76215,30 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__10__406r4r",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__10__n313f7",
         "number": "10",
-        "text": "Which of the following is NOT typically involved in non-traumatic fractures of child abuse?",
+        "text": "Which of the following is NOT a highly specific fracture for non-accidental injury (child abuse)?",
         "options": [
-          "Metaphyseal corner (bucket handle) fracture",
+          "Metaphyseal corner (bucket-handle) fracture",
           "Posterior rib fracture",
-          "Parietal bone fracture",
-          "Scapular fracture"
+          "Simple linear parietal bone fracture",
+          "Scapular fracture",
+          "Sternal fracture"
         ],
         "originalOptions": [
-          "Metaphyseal corner (bucket handle) fracture",
+          "Metaphyseal corner (bucket-handle) fracture",
           "Posterior rib fracture",
-          "Parietal bone fracture",
-          "Scapular fracture"
+          "Simple linear parietal bone fracture",
+          "Scapular fracture",
+          "Sternal fracture"
         ],
-        "correctAnswer": "C) Parietal bone fracture",
-        "correctAnswerText": "Parietal bone fracture",
+        "correctAnswer": "C) Simple linear parietal bone fracture",
+        "correctAnswerText": "Simple linear parietal bone fracture",
         "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.",
+        "explanation": "Simple linear parietal fractures are low-specificity and commonly accidental. Metaphyseal corner fractures (pathognomonic), posterior rib, scapular, and sternal fractures are the highly specific ones.",
         "batchName": "Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)",
         "batchNames": [
           "Coronary Mini-OSCE (Group C)",
@@ -76588,7 +76600,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "A",
-        "explanation": "The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.",
+        "explanation": "Syndesmophytic fusion of the spine (bamboo spine) with sacroiliac involvement is the hallmark of ankylosing spondylitis. OA shows asymmetric (non-uniform) narrowing with osteophytes, and RA shows uniform narrowing with marginal erosions and periarticular osteopenia, without syndesmophytic fusion.",
         "batchName": "Endorphin Mini-OSCE (Group A) / Endorphin Final / Aorta Final / Vagus Mini-OSCE (Group C) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE",
         "batchNames": [
           "Endorphin Mini-OSCE (Group A)",
@@ -76898,9 +76910,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__29__e3snr5",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__29__cn4ph0",
         "number": "29",
-        "text": "Which is WRONG about this avulsion fracture pairing?",
+        "text": "Which of the following avulsion fracture–muscle pairings is WRONG?",
         "options": [
           "Ischial tuberosity – hamstrings",
           "Anterior superior iliac spine – adductor muscles",
@@ -77238,12 +77250,12 @@
           "Fracture of the cuboid bone",
           "Fracture of the lateral cuneiform"
         ],
-        "correctAnswer": "D) Fracture of the 5th metatarsal base",
-        "correctAnswerText": "Fracture of the lateral cuneiform",
-        "correctIndex": 3,
+        "correctAnswer": "A) Fracture of the 5th metatarsal base",
+        "correctAnswerText": "Fracture of the 5th metatarsal base",
+        "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "D",
+        "correctAnswerLetter": "A",
         "explanation": "A true fracture at the proximal 5th metatarsal is transverse, whereas the normal apophysis runs longitudinally — a key distinguishing feature.",
         "batchName": "Serotonin Mini-OSCE",
         "batchNames": [
@@ -77758,9 +77770,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__53__refdem",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__53__u51p5j",
         "number": "53",
-        "text": "In Lesser-trochanter avulsion fracture, which muscle is affected?",
+        "text": "Which muscle's pull is responsible for an avulsion fracture of the lesser trochanter?",
         "options": [
           "Sartorius",
           "Iliopsoas",
@@ -77779,7 +77791,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "The iliopsoas inserts on the lesser trochanter, making it the muscle responsible for lesser trochanteric avulsion fractures.",
+        "explanation": "The iliopsoas inserts on the lesser trochanter, so its forceful contraction avulses it. Sartorius pulls on the ASIS, rectus femoris on the AIIS, and gluteus medius on the greater trochanter.",
         "batchName": "Endorphin Final / Aorta Final",
         "batchNames": [
           "Endorphin Final",
@@ -77794,9 +77806,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__54__349kc2",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__54__cmkivl",
         "number": "54",
-        "text": "Identify the Salter-Harris type in this fracture : [img: Radiologymsalter2harris.png ]",
+        "text": "Identify the Salter-Harris type in this fracture : [img: Radiologymsalter3harrisdistaltibia.png ]",
         "options": [
           "Type 1",
           "Type 2",
@@ -77829,9 +77841,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__55__3p5rmw",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__55__l13xo5",
         "number": "55",
-        "text": "Recalled hand radiograph diagnosis. [img: Radiologymrheumatoidarthritis.png ]",
+        "text": "What is the most likely diagnosis? [img: Radiologymrheumatoidarthritis.png ]",
         "options": [
           "Osteoarthritis",
           "Psoriatic arthritis",
@@ -78200,14 +78212,14 @@
           "Syndesmophytes run perpendicular to the spine",
           "In osteoarthritis, sclerosis occurs with severe osteopenia",
           "In rheumatoid arthritis, marginal erosions occur at the medial aspect of the MCP joints",
-          "Joint space and bone density are normal in septic arthritis"
+          "Marginal erosions are the earliest radiographic sign of septic arthritis"
         ],
         "originalOptions": [
           "In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening",
           "Syndesmophytes run perpendicular to the spine",
           "In osteoarthritis, sclerosis occurs with severe osteopenia",
           "In rheumatoid arthritis, marginal erosions occur at the medial aspect of the MCP joints",
-          "Joint space and bone density are normal in septic arthritis"
+          "Marginal erosions are the earliest radiographic sign of septic arthritis"
         ],
         "correctAnswer": "A) In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening",
         "correctAnswerText": "In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening",
@@ -78215,7 +78227,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "A",
-        "explanation": "MRI in septic arthritis shows synovial thickening on post-contrast fat-saturated T1; syndesmophytes actually run parallel (not perpendicular) to the spine, and RA erosions occur at the radial (not medial) MCP aspect.",
+        "explanation": "MRI in septic arthritis shows synovial thickening on post-contrast fat-saturated T1. Syndesmophytes run parallel (not perpendicular) to the spine, RA erosions occur at the radial (not medial) side of the MCPs, OA sclerosis is seen unless severe osteoporosis is present, and the first radiographic sign of septic arthritis is joint effusion, not erosions.",
         "batchName": "Overdose Final",
         "batchNames": [
           "Overdose Final"
@@ -78324,7 +78336,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "E",
-        "explanation": "Well-defined \"punched-out\" erosions with sclerotic, overhanging margins are pathognomonic for gout, unlike the ill-defined marginal erosions of RA.",
+        "explanation": "Well-defined punched-out erosions with sclerotic, overhanging margins and preserved joint space are the typical appearance of gout. RA erosions are marginal \"bare-area\" erosions with periarticular osteopenia and uniform joint-space narrowing.",
         "batchName": "Serotonin Final",
         "batchNames": [
           "Serotonin Final"
@@ -78632,9 +78644,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__musculoskeletal-msk-radiology__77__mjuwq2",
+        "id": "radiology__lecture__musculoskeletal-msk-radiology__77__wsyvui",
         "number": "77",
-        "text": "In this labeled knee anatomy image, which structure is indicated? [img: Radiologymkneeanatomy.jpg ]",
+        "text": "In this labeled knee anatomy image, which structure (10) is indicated? [img: Radiologymkneeanatomy.jpg ]",
         "options": [
           "Femoral condyle",
           "Patella",
