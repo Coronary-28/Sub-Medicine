@@ -41889,7 +41889,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "Migraine is not a cause of diffuse cerebral edema; drug overdose, hypertensive emergency (PRES), anoxic injury, and trauma are all recognized causes of diffuse brain swelling.",
+            "explanation": "Migraine is not a cause of diffuse cerebral edema. Drug overdose, hypertensive emergency, anoxic injury, and trauma are all recognized causes of diffuse brain swelling.",
             "batchName": "Endorphin Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Serotonin Final",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -42167,24 +42167,26 @@
             "number": "12",
             "text": "A brain MRI lesion is isointense on T1 and hyperintense on T2. What stage of hemorrhage is most likely?",
             "options": [
-              "Early subacute (1–3 days)",
-              "Late subacute (3–14 days)",
-              "Hyperacute (<24 hours)",
-              "Chronic (>2 weeks)"
+              "Acute (deoxyhemoglobin, ~1–3 days)",
+              "Early subacute (intracellular methemoglobin, ~3–7 days)",
+              "Hyperacute (oxyhemoglobin, <24 hours)",
+              "Late subacute (extracellular methemoglobin)",
+              "Chronic (hemosiderin, >1 month)"
             ],
             "originalOptions": [
-              "Early subacute (1–3 days)",
-              "Late subacute (3–14 days)",
-              "Hyperacute (<24 hours)",
-              "Chronic (>2 weeks)"
+              "Acute (deoxyhemoglobin, ~1–3 days)",
+              "Early subacute (intracellular methemoglobin, ~3–7 days)",
+              "Hyperacute (oxyhemoglobin, <24 hours)",
+              "Late subacute (extracellular methemoglobin)",
+              "Chronic (hemosiderin, >1 month)"
             ],
-            "correctAnswer": "C) Hyperacute (<24 hours)",
-            "correctAnswerText": "Hyperacute (<24 hours)",
+            "correctAnswer": "C) Hyperacute (oxyhemoglobin, <24 hours)",
+            "correctAnswerText": "Hyperacute (oxyhemoglobin, <24 hours)",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Intracellular oxyhemoglobin in the hyperacute stage is T1 isointense and T2 hyperintense; acute (deoxyhemoglobin) blood is instead T2 hypointense.",
+            "explanation": "Only the hyperacute stage (intracellular oxyhemoglobin) is T1 isointense and T2 hyperintense. The acute stage is also T1 isointense but becomes T2 hypointense (deoxyhemoglobin).",
             "batchName": "Coronary Mini-OSCE (Group C)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)"
@@ -42237,24 +42239,26 @@
             "number": "14",
             "text": "Which of the following statements regarding this lesion is TRUE? [img: Radiologynepiduralhematomatrue.png ]",
             "options": [
-              "It crosses the sutures freely",
-              "It crosses the falx cerebri",
-              "It extends across the midline",
-              "It does not cross the sutures"
+              "It does not cross the cranial sutures",
+              "It does not cross the falx cerebri",
+              "It has a crescentic shape",
+              "It crosses the cranial sutures",
+              "The usual source of bleeding is a bridging vein"
             ],
             "originalOptions": [
-              "It crosses the sutures freely",
-              "It crosses the falx cerebri",
-              "It extends across the midline",
-              "It does not cross the sutures"
+              "It does not cross the cranial sutures",
+              "It does not cross the falx cerebri",
+              "It has a crescentic shape",
+              "It crosses the cranial sutures",
+              "The usual source of bleeding is a bridging vein"
             ],
-            "correctAnswer": "D) It does not cross the sutures",
-            "correctAnswerText": "It does not cross the sutures",
-            "correctIndex": 3,
+            "correctAnswer": "A) It does not cross the cranial sutures",
+            "correctAnswerText": "It does not cross the cranial sutures",
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "Epidural hematoma is limited by cranial sutures where the dura is tightly adherent, giving its lentiform shape; it does NOT cross sutures but CAN cross the falx (opposite the pattern of subdural hematoma).",
+            "correctAnswerLetter": "A",
+            "explanation": "Epidural hematoma is limited by the cranial sutures where the dura is firmly adherent, giving its biconvex (lentiform) shape. It can cross the falx, it is usually caused by a middle meningeal artery tear, and the crescentic, bridging-vein pattern belongs to subdural hematoma.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)"
@@ -42348,14 +42352,14 @@
               "Spinal cord involvement occurs in less than 10% of cases",
               "Lesions are mostly periventricular",
               "MS typically presents in early childhood",
-              "Lesions are mostly infratentorial in children"
+              "Lesions are exclusively infratentorial in children"
             ],
             "originalOptions": [
               "MS is limited to the peripheral nervous system",
               "Spinal cord involvement occurs in less than 10% of cases",
               "Lesions are mostly periventricular",
               "MS typically presents in early childhood",
-              "Lesions are mostly infratentorial in children"
+              "Lesions are exclusively infratentorial in children"
             ],
             "correctAnswer": "C) Lesions are mostly periventricular",
             "correctAnswerText": "Lesions are mostly periventricular",
@@ -42363,7 +42367,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "MS classically produces periventricular plaques (>85% of cases); it is a CNS disease, spinal cord involvement occurs in up to 80% of patients, and it typically presents in young adulthood, not childhood.",
+            "explanation": "MS plaques are mostly periventricular/perivenular (>85%). MS is a CNS disease, spinal cord symptoms occur in about 80%, and onset is typically from adolescence to the sixth decade (peak ~35 years). Infratentorial lesions are more frequent in children than adults, but not exclusive.",
             "batchName": "Endorphin Final",
             "batchNames": [
               "Endorphin Final"
@@ -42669,7 +42673,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "D",
-            "explanation": "Meningiomas classically show intense, homogeneous enhancement (often with a dural tail); heterogeneous enhancement is atypical and suggests another tumor type.",
+            "explanation": "Meningiomas classically show intense, homogeneous enhancement (a dural tail is present in some cases). Heterogeneous enhancement is atypical and suggests another tumor type.",
             "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group C)",
@@ -42801,21 +42805,60 @@
               "Vertebral artery",
               "Basilar artery",
               "Posterior cerebral artery",
-              "Internal carotid artery"
+              "A and B",
+              "B and C"
             ],
             "originalOptions": [
               "Vertebral artery",
               "Basilar artery",
               "Posterior cerebral artery",
-              "Internal carotid artery"
+              "A and B",
+              "B and C"
             ],
-            "correctAnswer": "B) Basilar artery",
-            "correctAnswerText": "Basilar artery",
+            "correctAnswer": "D) A and B",
+            "correctAnswerText": "A and B",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The cerebellum is supplied by three bilateral arteries from the vertebrobasilar system. SCA arises from the distal basilar artery, AICA from the proximal basilar artery, and PICA from the distal vertebral artery.",
+            "batchName": "Iris Mini-OSCE (Group A)",
+            "batchNames": [
+              "Iris Mini-OSCE (Group A)"
+            ],
+            "note": "",
+            "pageNumber": "",
+            "subjectName": "Radiology",
+            "subjectId": "radiology",
+            "lectureName": "Neuroradiology",
+            "groupName": "Neuroradiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "radiology__lecture__neuroradiology__30__vwt6n1",
+            "number": "30",
+            "text": "Which of the following is correct regarding imaging of cerebral venous sinus thrombosis?",
+            "options": [
+              "Non-contrast CT shows a hypodense sinus",
+              "Contrast-enhanced CT shows the \"empty delta\" sign",
+              "Non-contrast CT shows the \"empty delta\" sign",
+              "Non-contrast MRI shows an increased flow void within the sinus",
+              "MR venography shows normal contrast filling of the thrombosed sinus"
+            ],
+            "originalOptions": [
+              "Non-contrast CT shows a hypodense sinus",
+              "Contrast-enhanced CT shows the \"empty delta\" sign",
+              "Non-contrast CT shows the \"empty delta\" sign",
+              "Non-contrast MRI shows an increased flow void within the sinus",
+              "MR venography shows normal contrast filling of the thrombosed sinus"
+            ],
+            "correctAnswer": "B) Contrast-enhanced CT shows the \"empty delta\" sign",
+            "correctAnswerText": "Contrast-enhanced CT shows the \"empty delta\" sign",
             "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The SCA and AICA (branches of the basilar artery) supply most of the cerebellum; only PICA arises from the distal vertebral artery.",
+            "explanation": "The empty delta sign is a non-enhancing clot surrounded by enhancing dura, seen on contrast-enhanced CT (venogram). Non-contrast CT shows a dense (hyperdense) sinus, non-contrast MRI shows loss of the normal flow void, and MR venography shows no contrast filling.",
             "batchName": "Iris Mini-OSCE (Group A)",
             "batchNames": [
               "Iris Mini-OSCE (Group A)"
@@ -42829,57 +42872,22 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__neuroradiology__30__oavw1n",
-            "number": "30",
-            "text": "Cerebral venous sinus thrombosis – select the correct statement.",
-            "options": [
-              "Non-contrast MRI shows a hypointense filling defect",
-              "Non-contrast CT shows a hyperdense (\"dense\") sinus",
-              "Contrast-enhanced MRI shows the \"empty delta\" sign",
-              "Non-contrast CT shows sinus hypodensity",
-              "Contrast-enhanced CT shows the \"empty delta\" sign"
-            ],
-            "originalOptions": [
-              "Non-contrast MRI shows a hypointense filling defect",
-              "Non-contrast CT shows a hyperdense (\"dense\") sinus",
-              "Contrast-enhanced MRI shows the \"empty delta\" sign",
-              "Non-contrast CT shows sinus hypodensity",
-              "Contrast-enhanced CT shows the \"empty delta\" sign"
-            ],
-            "correctAnswer": "E) Contrast-enhanced CT shows the \"empty delta\" sign",
-            "correctAnswerText": "Contrast-enhanced CT shows the \"empty delta\" sign",
-            "correctIndex": 4,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "E",
-            "explanation": "The empty delta sign is a triangular filling defect surrounded by enhancing dura, classically seen on contrast-enhanced CT venography; non-contrast CT instead shows a hyperdense (not empty) thrombosed sinus.",
-            "batchName": "Iris Mini-OSCE (Group A)",
-            "batchNames": [
-              "Iris Mini-OSCE (Group A)"
-            ],
-            "note": "",
-            "pageNumber": "",
-            "subjectName": "Radiology",
-            "subjectId": "radiology",
-            "lectureName": "Neuroradiology",
-            "groupName": "Neuroradiology",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "radiology__lecture__neuroradiology__31__gxls7s",
+            "id": "radiology__lecture__neuroradiology__31__1gcb4v",
             "number": "31",
-            "text": "Homogeneous enhancement and hyperdensity on non-contrast CT is most typical of which lesion?",
+            "text": "Homogeneous enhancement with hyperdensity on non-contrast CT is most typical of which lesion?",
             "options": [
               "Lymphoma",
               "Metastasis",
-              "Leiomyoma",
-              "Abscess"
+              "Glioblastoma",
+              "Abscess",
+              "Oligodendroglioma"
             ],
             "originalOptions": [
               "Lymphoma",
               "Metastasis",
-              "Leiomyoma",
-              "Abscess"
+              "Glioblastoma",
+              "Abscess",
+              "Oligodendroglioma"
             ],
             "correctAnswer": "A) Lymphoma",
             "correctAnswerText": "Lymphoma",
@@ -42887,7 +42895,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "Primary CNS lymphoma is classically hyperdense on non-contrast CT (high cellularity) with homogeneous enhancement, unlike metastases or abscesses, which typically show ring enhancement with central necrosis.",
+            "explanation": "Primary CNS lymphoma is hyperdense on non-contrast CT because of high cellularity and shows intense homogeneous enhancement. Glioblastoma and abscess show irregular or ring enhancement with central necrosis, and oligodendroglioma is low attenuation with calcification.",
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
               "Iris Mini-OSCE (Group D)"
@@ -43438,9 +43446,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__neuroradiology__47__w8ooej",
+            "id": "radiology__lecture__neuroradiology__47__8me7c0",
             "number": "47",
-            "text": "Identify the diagnosis in the recalled image. [img: Radiologynvestibularschwannoma.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologynvestibularschwannoma.png ]",
             "options": [
               "Meningioma (CPA)",
               "Vestibular schwannoma",
@@ -43516,29 +43524,29 @@
             "number": "49",
             "text": "Regarding posterior cranial fossa tumors in children, which of the following statements is FALSE?",
             "options": [
-              "Ependymomas typically arise from the fourth ventricle",
+              "Ependymomas typically arise from the lining of the fourth ventricle",
               "Medulloblastoma is the most common malignant posterior fossa tumor in children",
-              "The cystic component of a posterior fossa tumor is never enhanced",
-              "Pilocytic astrocytoma often has a cyst with an enhancing mural nodule"
+              "The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
+              "Pilocytic astrocytoma often appears as a cyst with an enhancing mural nodule"
             ],
             "originalOptions": [
-              "Ependymomas typically arise from the fourth ventricle",
+              "Ependymomas typically arise from the lining of the fourth ventricle",
               "Medulloblastoma is the most common malignant posterior fossa tumor in children",
-              "The cystic component of a posterior fossa tumor is never enhanced",
-              "Pilocytic astrocytoma often has a cyst with an enhancing mural nodule"
+              "The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
+              "Pilocytic astrocytoma often appears as a cyst with an enhancing mural nodule"
             ],
-            "correctAnswer": "C) The cystic component of a posterior fossa tumor is never enhanced",
-            "correctAnswerText": "The cystic component of a posterior fossa tumor is never enhanced",
+            "correctAnswer": "C) The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
+            "correctAnswerText": "The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "In pediatric posterior fossa tumors such as pilocytic astrocytoma, the cyst wall or an associated mural nodule commonly DOES enhance, making the \"never enhanced\" statement false.",
+            "explanation": "The cyst fluid does not enhance; only the solid components (such as the mural nodule of a pilocytic astrocytoma) enhance. The other statements are true.",
             "batchName": "Aorta Final",
             "batchNames": [
               "Aorta Final"
             ],
-            "note": "",
+            "note": "This question is not covered in the course slides.",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -43855,7 +43863,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "Schizencephaly clefts are actually lined by grey matter (heterotopic cortex), not white matter. Laterality, symptom severity, and the presence of pial-ependymal communication in both types are all accurate characteristics of the condition.",
+            "explanation": "The schizencephalic cleft is lined by dysplastic (polymicrogyric) grey matter, not white matter. Laterality, symptom severity, and the pial-ependymal communication in both open and closed types are accurate.",
             "batchName": "Overdose Final",
             "batchNames": [
               "Overdose Final"
@@ -43966,7 +43974,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "These are late/chronic infarct changes (>3 weeks); the hyperacute stage (0–6 hours) instead shows subtle grey-white loss, cortical hypodensity, gyral effacement, and loss of the insular ribbon sign.",
+            "explanation": "Gliosis, volume loss, and cortical calcification are late changes of chronic infarction (>3 weeks). Hyperacute infarcts show a dense vessel sign, then loss of grey-white differentiation, cortical hypodensity with swelling, and gyral effacement.",
             "batchName": "Overdose Final / Waman A7yaha Final",
             "batchNames": [
               "Overdose Final",
@@ -44312,24 +44320,26 @@
             "number": "71",
             "text": "Which of the following anatomical relationships is CORRECT?",
             "options": [
-              "The claustrum lies lateral to the insula",
+              "The claustrum lies between the putamen and the insula",
               "The hippocampus lies anterosuperior to the amygdala",
               "The uncus forms the lateral border of the temporal lobe",
-              "The claustrum lies medial to the putamen, separated by the internal capsule"
+              "The claustrum lies medial to the putamen, separated by the internal capsule",
+              "The external capsule lies between the claustrum and the insula"
             ],
             "originalOptions": [
-              "The claustrum lies lateral to the insula",
+              "The claustrum lies between the putamen and the insula",
               "The hippocampus lies anterosuperior to the amygdala",
               "The uncus forms the lateral border of the temporal lobe",
-              "The claustrum lies medial to the putamen, separated by the internal capsule"
+              "The claustrum lies medial to the putamen, separated by the internal capsule",
+              "The external capsule lies between the claustrum and the insula"
             ],
-            "correctAnswer": "A) The claustrum lies lateral to the insula",
-            "correctAnswerText": "The claustrum lies lateral to the insula",
+            "correctAnswer": "A) The claustrum lies between the putamen and the insula",
+            "correctAnswerText": "The claustrum lies between the putamen and the insula",
             "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "The claustrum is a thin sheet of grey matter lateral to the insula (separated by the extreme capsule); the hippocampus lies posteroinferior (not anterosuperior) to the amygdala, and the uncus is the medial (not lateral) temporal border.",
+            "explanation": "The external capsule separates the putamen from the claustrum, and the extreme capsule separates the claustrum from the insula, so the claustrum sits between them. The hippocampus lies posterior and inferior to the amygdala, and the uncus forms the medial border of the temporal lobe.",
             "batchName": "Vagus Final",
             "batchNames": [
               "Vagus Final"
@@ -44569,16 +44579,18 @@
             "number": "78",
             "text": "Which one of the following is a common radiologic feature of diffuse brain edema?",
             "options": [
-              "Diffuse hypodense (not hyperdense) supratentorial brain",
+              "Diffuse hyperdense supratentorial brain",
               "Effacement of the sulci",
               "Enlarged ventricles",
-              "Widened basal cisterns"
+              "Widened basal cisterns",
+              "Cerebellum appearing hypodense relative to the supratentorial brain"
             ],
             "originalOptions": [
-              "Diffuse hypodense (not hyperdense) supratentorial brain",
+              "Diffuse hyperdense supratentorial brain",
               "Effacement of the sulci",
               "Enlarged ventricles",
-              "Widened basal cisterns"
+              "Widened basal cisterns",
+              "Cerebellum appearing hypodense relative to the supratentorial brain"
             ],
             "correctAnswer": "B) Effacement of the sulci",
             "correctAnswerText": "Effacement of the sulci",
@@ -44586,7 +44598,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "Diffuse cerebral edema effaces the sulci and narrows the ventricles/basal cisterns; the brain typically appears diffusely hypodense (not hyperdense) except for the relatively dense-appearing cerebellum.",
+            "explanation": "Diffuse cerebral edema produces a diffusely hypodense supratentorial brain with loss of grey-white differentiation, effaced sulci and basal cisterns, and small ventricles. The cerebellum appears relatively dense (dense cerebellar sign), the opposite of option E.",
             "batchName": "Waman A7yaha Final",
             "batchNames": [
               "Waman A7yaha Final"
@@ -46685,9 +46697,9 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__neuroradiology__47__w8ooej",
+            "id": "radiology__lecture__neuroradiology__47__8me7c0",
             "number": "47",
-            "text": "Identify the diagnosis in the recalled image. [img: Radiologynvestibularschwannoma.png ]",
+            "text": "What is the most likely diagnosis? [img: Radiologynvestibularschwannoma.png ]",
             "options": [
               "Meningioma (CPA)",
               "Vestibular schwannoma",
@@ -46765,29 +46777,29 @@
             "number": "49",
             "text": "Regarding posterior cranial fossa tumors in children, which of the following statements is FALSE?",
             "options": [
-              "Ependymomas typically arise from the fourth ventricle",
+              "Ependymomas typically arise from the lining of the fourth ventricle",
               "Medulloblastoma is the most common malignant posterior fossa tumor in children",
-              "The cystic component of a posterior fossa tumor is never enhanced",
-              "Pilocytic astrocytoma often has a cyst with an enhancing mural nodule"
+              "The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
+              "Pilocytic astrocytoma often appears as a cyst with an enhancing mural nodule"
             ],
             "originalOptions": [
-              "Ependymomas typically arise from the fourth ventricle",
+              "Ependymomas typically arise from the lining of the fourth ventricle",
               "Medulloblastoma is the most common malignant posterior fossa tumor in children",
-              "The cystic component of a posterior fossa tumor is never enhanced",
-              "Pilocytic astrocytoma often has a cyst with an enhancing mural nodule"
+              "The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
+              "Pilocytic astrocytoma often appears as a cyst with an enhancing mural nodule"
             ],
-            "correctAnswer": "C) The cystic component of a posterior fossa tumor is never enhanced",
-            "correctAnswerText": "The cystic component of a posterior fossa tumor is never enhanced",
+            "correctAnswer": "C) The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
+            "correctAnswerText": "The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "In pediatric posterior fossa tumors such as pilocytic astrocytoma, the cyst wall or an associated mural nodule commonly DOES enhance, making the \"never enhanced\" statement false.",
+            "explanation": "The cyst fluid does not enhance; only the solid components (such as the mural nodule of a pilocytic astrocytoma) enhance. The other statements are true.",
             "batchName": "Aorta Final",
             "batchNames": [
               "Aorta Final"
             ],
-            "note": "",
+            "note": "This question is not covered in the course slides.",
             "pageNumber": "",
             "subjectName": "Radiology",
             "subjectId": "radiology",
@@ -47671,7 +47683,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "Migraine is not a cause of diffuse cerebral edema; drug overdose, hypertensive emergency (PRES), anoxic injury, and trauma are all recognized causes of diffuse brain swelling.",
+            "explanation": "Migraine is not a cause of diffuse cerebral edema. Drug overdose, hypertensive emergency, anoxic injury, and trauma are all recognized causes of diffuse brain swelling.",
             "batchName": "Aorta Mini-OSCE (Group A)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -48683,24 +48695,26 @@
             "number": "12",
             "text": "A brain MRI lesion is isointense on T1 and hyperintense on T2. What stage of hemorrhage is most likely?",
             "options": [
-              "Early subacute (1–3 days)",
-              "Late subacute (3–14 days)",
-              "Hyperacute (<24 hours)",
-              "Chronic (>2 weeks)"
+              "Acute (deoxyhemoglobin, ~1–3 days)",
+              "Early subacute (intracellular methemoglobin, ~3–7 days)",
+              "Hyperacute (oxyhemoglobin, <24 hours)",
+              "Late subacute (extracellular methemoglobin)",
+              "Chronic (hemosiderin, >1 month)"
             ],
             "originalOptions": [
-              "Early subacute (1–3 days)",
-              "Late subacute (3–14 days)",
-              "Hyperacute (<24 hours)",
-              "Chronic (>2 weeks)"
+              "Acute (deoxyhemoglobin, ~1–3 days)",
+              "Early subacute (intracellular methemoglobin, ~3–7 days)",
+              "Hyperacute (oxyhemoglobin, <24 hours)",
+              "Late subacute (extracellular methemoglobin)",
+              "Chronic (hemosiderin, >1 month)"
             ],
-            "correctAnswer": "C) Hyperacute (<24 hours)",
-            "correctAnswerText": "Hyperacute (<24 hours)",
+            "correctAnswer": "C) Hyperacute (oxyhemoglobin, <24 hours)",
+            "correctAnswerText": "Hyperacute (oxyhemoglobin, <24 hours)",
             "correctIndex": 2,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Intracellular oxyhemoglobin in the hyperacute stage is T1 isointense and T2 hyperintense; acute (deoxyhemoglobin) blood is instead T2 hypointense.",
+            "explanation": "Only the hyperacute stage (intracellular oxyhemoglobin) is T1 isointense and T2 hyperintense. The acute stage is also T1 isointense but becomes T2 hypointense (deoxyhemoglobin).",
             "batchName": "Coronary Mini-OSCE (Group C)",
             "batchNames": [
               "Coronary Mini-OSCE (Group C)"
@@ -50359,14 +50373,14 @@
               "Spinal cord involvement occurs in less than 10% of cases",
               "Lesions are mostly periventricular",
               "MS typically presents in early childhood",
-              "Lesions are mostly infratentorial in children"
+              "Lesions are exclusively infratentorial in children"
             ],
             "originalOptions": [
               "MS is limited to the peripheral nervous system",
               "Spinal cord involvement occurs in less than 10% of cases",
               "Lesions are mostly periventricular",
               "MS typically presents in early childhood",
-              "Lesions are mostly infratentorial in children"
+              "Lesions are exclusively infratentorial in children"
             ],
             "correctAnswer": "C) Lesions are mostly periventricular",
             "correctAnswerText": "Lesions are mostly periventricular",
@@ -50374,7 +50388,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "MS classically produces periventricular plaques (>85% of cases); it is a CNS disease, spinal cord involvement occurs in up to 80% of patients, and it typically presents in young adulthood, not childhood.",
+            "explanation": "MS plaques are mostly periventricular/perivenular (>85%). MS is a CNS disease, spinal cord symptoms occur in about 80%, and onset is typically from adolescence to the sixth decade (peak ~35 years). Infratentorial lesions are more frequent in children than adults, but not exclusive.",
             "batchName": "Endorphin Final",
             "batchNames": [
               "Endorphin Final"
@@ -51474,7 +51488,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "Migraine is not a cause of diffuse cerebral edema; drug overdose, hypertensive emergency (PRES), anoxic injury, and trauma are all recognized causes of diffuse brain swelling.",
+            "explanation": "Migraine is not a cause of diffuse cerebral edema. Drug overdose, hypertensive emergency, anoxic injury, and trauma are all recognized causes of diffuse brain swelling.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -51495,24 +51509,26 @@
             "number": "14",
             "text": "Which of the following statements regarding this lesion is TRUE? [img: Radiologynepiduralhematomatrue.png ]",
             "options": [
-              "It crosses the sutures freely",
-              "It crosses the falx cerebri",
-              "It extends across the midline",
-              "It does not cross the sutures"
+              "It does not cross the cranial sutures",
+              "It does not cross the falx cerebri",
+              "It has a crescentic shape",
+              "It crosses the cranial sutures",
+              "The usual source of bleeding is a bridging vein"
             ],
             "originalOptions": [
-              "It crosses the sutures freely",
-              "It crosses the falx cerebri",
-              "It extends across the midline",
-              "It does not cross the sutures"
+              "It does not cross the cranial sutures",
+              "It does not cross the falx cerebri",
+              "It has a crescentic shape",
+              "It crosses the cranial sutures",
+              "The usual source of bleeding is a bridging vein"
             ],
-            "correctAnswer": "D) It does not cross the sutures",
-            "correctAnswerText": "It does not cross the sutures",
-            "correctIndex": 3,
+            "correctAnswer": "A) It does not cross the cranial sutures",
+            "correctAnswerText": "It does not cross the cranial sutures",
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "Epidural hematoma is limited by cranial sutures where the dura is tightly adherent, giving its lentiform shape; it does NOT cross sutures but CAN cross the falx (opposite the pattern of subdural hematoma).",
+            "correctAnswerLetter": "A",
+            "explanation": "Epidural hematoma is limited by the cranial sutures where the dura is firmly adherent, giving its biconvex (lentiform) shape. It can cross the falx, it is usually caused by a middle meningeal artery tear, and the crescentic, bridging-vein pattern belongs to subdural hematoma.",
             "batchName": "Endorphin Mini-OSCE (Group A)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)"
@@ -53644,7 +53660,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "D",
-            "explanation": "Meningiomas classically show intense, homogeneous enhancement (often with a dural tail); heterogeneous enhancement is atypical and suggests another tumor type.",
+            "explanation": "Meningiomas classically show intense, homogeneous enhancement (a dural tail is present in some cases). Heterogeneous enhancement is atypical and suggests another tumor type.",
             "batchName": "Endorphin Mini-OSCE (Group C)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group C)",
@@ -54589,7 +54605,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "D",
-            "explanation": "Meningiomas classically show intense, homogeneous enhancement (often with a dural tail); heterogeneous enhancement is atypical and suggests another tumor type.",
+            "explanation": "Meningiomas classically show intense, homogeneous enhancement (a dural tail is present in some cases). Heterogeneous enhancement is atypical and suggests another tumor type.",
             "batchName": "Endorphin Mini-OSCE (Group D)",
             "batchNames": [
               "Endorphin Mini-OSCE (Group C)",
@@ -58268,21 +58284,23 @@
               "Vertebral artery",
               "Basilar artery",
               "Posterior cerebral artery",
-              "Internal carotid artery"
+              "A and B",
+              "B and C"
             ],
             "originalOptions": [
               "Vertebral artery",
               "Basilar artery",
               "Posterior cerebral artery",
-              "Internal carotid artery"
+              "A and B",
+              "B and C"
             ],
-            "correctAnswer": "B) Basilar artery",
-            "correctAnswerText": "Basilar artery",
-            "correctIndex": 1,
+            "correctAnswer": "D) A and B",
+            "correctAnswerText": "A and B",
+            "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "The SCA and AICA (branches of the basilar artery) supply most of the cerebellum; only PICA arises from the distal vertebral artery.",
+            "correctAnswerLetter": "D",
+            "explanation": "The cerebellum is supplied by three bilateral arteries from the vertebrobasilar system. SCA arises from the distal basilar artery, AICA from the proximal basilar artery, and PICA from the distal vertebral artery.",
             "batchName": "Iris Mini-OSCE (Group A)",
             "batchNames": [
               "Iris Mini-OSCE (Group A)"
@@ -58297,30 +58315,30 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__neuroradiology__30__oavw1n",
+            "id": "radiology__lecture__neuroradiology__30__vwt6n1",
             "number": "30",
-            "text": "Cerebral venous sinus thrombosis – select the correct statement.",
+            "text": "Which of the following is correct regarding imaging of cerebral venous sinus thrombosis?",
             "options": [
-              "Non-contrast MRI shows a hypointense filling defect",
-              "Non-contrast CT shows a hyperdense (\"dense\") sinus",
-              "Contrast-enhanced MRI shows the \"empty delta\" sign",
-              "Non-contrast CT shows sinus hypodensity",
-              "Contrast-enhanced CT shows the \"empty delta\" sign"
+              "Non-contrast CT shows a hypodense sinus",
+              "Contrast-enhanced CT shows the \"empty delta\" sign",
+              "Non-contrast CT shows the \"empty delta\" sign",
+              "Non-contrast MRI shows an increased flow void within the sinus",
+              "MR venography shows normal contrast filling of the thrombosed sinus"
             ],
             "originalOptions": [
-              "Non-contrast MRI shows a hypointense filling defect",
-              "Non-contrast CT shows a hyperdense (\"dense\") sinus",
-              "Contrast-enhanced MRI shows the \"empty delta\" sign",
-              "Non-contrast CT shows sinus hypodensity",
-              "Contrast-enhanced CT shows the \"empty delta\" sign"
+              "Non-contrast CT shows a hypodense sinus",
+              "Contrast-enhanced CT shows the \"empty delta\" sign",
+              "Non-contrast CT shows the \"empty delta\" sign",
+              "Non-contrast MRI shows an increased flow void within the sinus",
+              "MR venography shows normal contrast filling of the thrombosed sinus"
             ],
-            "correctAnswer": "E) Contrast-enhanced CT shows the \"empty delta\" sign",
+            "correctAnswer": "B) Contrast-enhanced CT shows the \"empty delta\" sign",
             "correctAnswerText": "Contrast-enhanced CT shows the \"empty delta\" sign",
-            "correctIndex": 4,
+            "correctIndex": 1,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "E",
-            "explanation": "The empty delta sign is a triangular filling defect surrounded by enhancing dura, classically seen on contrast-enhanced CT venography; non-contrast CT instead shows a hyperdense (not empty) thrombosed sinus.",
+            "correctAnswerLetter": "B",
+            "explanation": "The empty delta sign is a non-enhancing clot surrounded by enhancing dura, seen on contrast-enhanced CT (venogram). Non-contrast CT shows a dense (hyperdense) sinus, non-contrast MRI shows loss of the normal flow void, and MR venography shows no contrast filling.",
             "batchName": "Iris Mini-OSCE (Group A)",
             "batchNames": [
               "Iris Mini-OSCE (Group A)"
@@ -59995,20 +60013,22 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "radiology__lecture__neuroradiology__31__gxls7s",
+            "id": "radiology__lecture__neuroradiology__31__1gcb4v",
             "number": "31",
-            "text": "Homogeneous enhancement and hyperdensity on non-contrast CT is most typical of which lesion?",
+            "text": "Homogeneous enhancement with hyperdensity on non-contrast CT is most typical of which lesion?",
             "options": [
               "Lymphoma",
               "Metastasis",
-              "Leiomyoma",
-              "Abscess"
+              "Glioblastoma",
+              "Abscess",
+              "Oligodendroglioma"
             ],
             "originalOptions": [
               "Lymphoma",
               "Metastasis",
-              "Leiomyoma",
-              "Abscess"
+              "Glioblastoma",
+              "Abscess",
+              "Oligodendroglioma"
             ],
             "correctAnswer": "A) Lymphoma",
             "correctAnswerText": "Lymphoma",
@@ -60016,7 +60036,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "Primary CNS lymphoma is classically hyperdense on non-contrast CT (high cellularity) with homogeneous enhancement, unlike metastases or abscesses, which typically show ring enhancement with central necrosis.",
+            "explanation": "Primary CNS lymphoma is hyperdense on non-contrast CT because of high cellularity and shows intense homogeneous enhancement. Glioblastoma and abscess show irregular or ring enhancement with central necrosis, and oligodendroglioma is low attenuation with calcification.",
             "batchName": "Iris Mini-OSCE (Group D)",
             "batchNames": [
               "Iris Mini-OSCE (Group D)"
@@ -60783,7 +60803,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "Schizencephaly clefts are actually lined by grey matter (heterotopic cortex), not white matter. Laterality, symptom severity, and the presence of pial-ependymal communication in both types are all accurate characteristics of the condition.",
+            "explanation": "The schizencephalic cleft is lined by dysplastic (polymicrogyric) grey matter, not white matter. Laterality, symptom severity, and the pial-ependymal communication in both open and closed types are accurate.",
             "batchName": "Overdose Final",
             "batchNames": [
               "Overdose Final"
@@ -60897,7 +60917,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "These are late/chronic infarct changes (>3 weeks); the hyperacute stage (0–6 hours) instead shows subtle grey-white loss, cortical hypodensity, gyral effacement, and loss of the insular ribbon sign.",
+            "explanation": "Gliosis, volume loss, and cortical calcification are late changes of chronic infarction (>3 weeks). Hyperacute infarcts show a dense vessel sign, then loss of grey-white differentiation, cortical hypodensity with swelling, and gyral effacement.",
             "batchName": "Overdose Final",
             "batchNames": [
               "Overdose Final",
@@ -61786,7 +61806,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "Migraine is not a cause of diffuse cerebral edema; drug overdose, hypertensive emergency (PRES), anoxic injury, and trauma are all recognized causes of diffuse brain swelling.",
+            "explanation": "Migraine is not a cause of diffuse cerebral edema. Drug overdose, hypertensive emergency, anoxic injury, and trauma are all recognized causes of diffuse brain swelling.",
             "batchName": "Serotonin Final",
             "batchNames": [
               "Endorphin Mini-OSCE (Group A)",
@@ -64153,24 +64173,26 @@
             "number": "71",
             "text": "Which of the following anatomical relationships is CORRECT?",
             "options": [
-              "The claustrum lies lateral to the insula",
+              "The claustrum lies between the putamen and the insula",
               "The hippocampus lies anterosuperior to the amygdala",
               "The uncus forms the lateral border of the temporal lobe",
-              "The claustrum lies medial to the putamen, separated by the internal capsule"
+              "The claustrum lies medial to the putamen, separated by the internal capsule",
+              "The external capsule lies between the claustrum and the insula"
             ],
             "originalOptions": [
-              "The claustrum lies lateral to the insula",
+              "The claustrum lies between the putamen and the insula",
               "The hippocampus lies anterosuperior to the amygdala",
               "The uncus forms the lateral border of the temporal lobe",
-              "The claustrum lies medial to the putamen, separated by the internal capsule"
+              "The claustrum lies medial to the putamen, separated by the internal capsule",
+              "The external capsule lies between the claustrum and the insula"
             ],
-            "correctAnswer": "A) The claustrum lies lateral to the insula",
-            "correctAnswerText": "The claustrum lies lateral to the insula",
+            "correctAnswer": "A) The claustrum lies between the putamen and the insula",
+            "correctAnswerText": "The claustrum lies between the putamen and the insula",
             "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "The claustrum is a thin sheet of grey matter lateral to the insula (separated by the extreme capsule); the hippocampus lies posteroinferior (not anterosuperior) to the amygdala, and the uncus is the medial (not lateral) temporal border.",
+            "explanation": "The external capsule separates the putamen from the claustrum, and the extreme capsule separates the claustrum from the insula, so the claustrum sits between them. The hippocampus lies posterior and inferior to the amygdala, and the uncus forms the medial border of the temporal lobe.",
             "batchName": "Vagus Final",
             "batchNames": [
               "Vagus Final"
@@ -66329,7 +66351,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "E",
-            "explanation": "These are late/chronic infarct changes (>3 weeks); the hyperacute stage (0–6 hours) instead shows subtle grey-white loss, cortical hypodensity, gyral effacement, and loss of the insular ribbon sign.",
+            "explanation": "Gliosis, volume loss, and cortical calcification are late changes of chronic infarction (>3 weeks). Hyperacute infarcts show a dense vessel sign, then loss of grey-white differentiation, cortical hypodensity with swelling, and gyral effacement.",
             "batchName": "Waman A7yaha Final",
             "batchNames": [
               "Overdose Final",
@@ -66463,16 +66485,18 @@
             "number": "78",
             "text": "Which one of the following is a common radiologic feature of diffuse brain edema?",
             "options": [
-              "Diffuse hypodense (not hyperdense) supratentorial brain",
+              "Diffuse hyperdense supratentorial brain",
               "Effacement of the sulci",
               "Enlarged ventricles",
-              "Widened basal cisterns"
+              "Widened basal cisterns",
+              "Cerebellum appearing hypodense relative to the supratentorial brain"
             ],
             "originalOptions": [
-              "Diffuse hypodense (not hyperdense) supratentorial brain",
+              "Diffuse hyperdense supratentorial brain",
               "Effacement of the sulci",
               "Enlarged ventricles",
-              "Widened basal cisterns"
+              "Widened basal cisterns",
+              "Cerebellum appearing hypodense relative to the supratentorial brain"
             ],
             "correctAnswer": "B) Effacement of the sulci",
             "correctAnswerText": "Effacement of the sulci",
@@ -66480,7 +66504,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "Diffuse cerebral edema effaces the sulci and narrows the ventricles/basal cisterns; the brain typically appears diffusely hypodense (not hyperdense) except for the relatively dense-appearing cerebellum.",
+            "explanation": "Diffuse cerebral edema produces a diffusely hypodense supratentorial brain with loss of grey-white differentiation, effaced sulci and basal cisterns, and small ventricles. The cerebellum appears relatively dense (dense cerebellar sign), the opposite of option E.",
             "batchName": "Waman A7yaha Final",
             "batchNames": [
               "Waman A7yaha Final"
@@ -79100,7 +79124,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "Migraine is not a cause of diffuse cerebral edema; drug overdose, hypertensive emergency (PRES), anoxic injury, and trauma are all recognized causes of diffuse brain swelling.",
+        "explanation": "Migraine is not a cause of diffuse cerebral edema. Drug overdose, hypertensive emergency, anoxic injury, and trauma are all recognized causes of diffuse brain swelling.",
         "batchName": "Endorphin Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A) / Serotonin Final",
         "batchNames": [
           "Endorphin Mini-OSCE (Group A)",
@@ -79378,24 +79402,26 @@
         "number": "12",
         "text": "A brain MRI lesion is isointense on T1 and hyperintense on T2. What stage of hemorrhage is most likely?",
         "options": [
-          "Early subacute (1–3 days)",
-          "Late subacute (3–14 days)",
-          "Hyperacute (<24 hours)",
-          "Chronic (>2 weeks)"
+          "Acute (deoxyhemoglobin, ~1–3 days)",
+          "Early subacute (intracellular methemoglobin, ~3–7 days)",
+          "Hyperacute (oxyhemoglobin, <24 hours)",
+          "Late subacute (extracellular methemoglobin)",
+          "Chronic (hemosiderin, >1 month)"
         ],
         "originalOptions": [
-          "Early subacute (1–3 days)",
-          "Late subacute (3–14 days)",
-          "Hyperacute (<24 hours)",
-          "Chronic (>2 weeks)"
+          "Acute (deoxyhemoglobin, ~1–3 days)",
+          "Early subacute (intracellular methemoglobin, ~3–7 days)",
+          "Hyperacute (oxyhemoglobin, <24 hours)",
+          "Late subacute (extracellular methemoglobin)",
+          "Chronic (hemosiderin, >1 month)"
         ],
-        "correctAnswer": "C) Hyperacute (<24 hours)",
-        "correctAnswerText": "Hyperacute (<24 hours)",
+        "correctAnswer": "C) Hyperacute (oxyhemoglobin, <24 hours)",
+        "correctAnswerText": "Hyperacute (oxyhemoglobin, <24 hours)",
         "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "Intracellular oxyhemoglobin in the hyperacute stage is T1 isointense and T2 hyperintense; acute (deoxyhemoglobin) blood is instead T2 hypointense.",
+        "explanation": "Only the hyperacute stage (intracellular oxyhemoglobin) is T1 isointense and T2 hyperintense. The acute stage is also T1 isointense but becomes T2 hypointense (deoxyhemoglobin).",
         "batchName": "Coronary Mini-OSCE (Group C)",
         "batchNames": [
           "Coronary Mini-OSCE (Group C)"
@@ -79448,24 +79474,26 @@
         "number": "14",
         "text": "Which of the following statements regarding this lesion is TRUE? [img: Radiologynepiduralhematomatrue.png ]",
         "options": [
-          "It crosses the sutures freely",
-          "It crosses the falx cerebri",
-          "It extends across the midline",
-          "It does not cross the sutures"
+          "It does not cross the cranial sutures",
+          "It does not cross the falx cerebri",
+          "It has a crescentic shape",
+          "It crosses the cranial sutures",
+          "The usual source of bleeding is a bridging vein"
         ],
         "originalOptions": [
-          "It crosses the sutures freely",
-          "It crosses the falx cerebri",
-          "It extends across the midline",
-          "It does not cross the sutures"
+          "It does not cross the cranial sutures",
+          "It does not cross the falx cerebri",
+          "It has a crescentic shape",
+          "It crosses the cranial sutures",
+          "The usual source of bleeding is a bridging vein"
         ],
-        "correctAnswer": "D) It does not cross the sutures",
-        "correctAnswerText": "It does not cross the sutures",
-        "correctIndex": 3,
+        "correctAnswer": "A) It does not cross the cranial sutures",
+        "correctAnswerText": "It does not cross the cranial sutures",
+        "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "D",
-        "explanation": "Epidural hematoma is limited by cranial sutures where the dura is tightly adherent, giving its lentiform shape; it does NOT cross sutures but CAN cross the falx (opposite the pattern of subdural hematoma).",
+        "correctAnswerLetter": "A",
+        "explanation": "Epidural hematoma is limited by the cranial sutures where the dura is firmly adherent, giving its biconvex (lentiform) shape. It can cross the falx, it is usually caused by a middle meningeal artery tear, and the crescentic, bridging-vein pattern belongs to subdural hematoma.",
         "batchName": "Endorphin Mini-OSCE (Group A)",
         "batchNames": [
           "Endorphin Mini-OSCE (Group A)"
@@ -79559,14 +79587,14 @@
           "Spinal cord involvement occurs in less than 10% of cases",
           "Lesions are mostly periventricular",
           "MS typically presents in early childhood",
-          "Lesions are mostly infratentorial in children"
+          "Lesions are exclusively infratentorial in children"
         ],
         "originalOptions": [
           "MS is limited to the peripheral nervous system",
           "Spinal cord involvement occurs in less than 10% of cases",
           "Lesions are mostly periventricular",
           "MS typically presents in early childhood",
-          "Lesions are mostly infratentorial in children"
+          "Lesions are exclusively infratentorial in children"
         ],
         "correctAnswer": "C) Lesions are mostly periventricular",
         "correctAnswerText": "Lesions are mostly periventricular",
@@ -79574,7 +79602,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "MS classically produces periventricular plaques (>85% of cases); it is a CNS disease, spinal cord involvement occurs in up to 80% of patients, and it typically presents in young adulthood, not childhood.",
+        "explanation": "MS plaques are mostly periventricular/perivenular (>85%). MS is a CNS disease, spinal cord symptoms occur in about 80%, and onset is typically from adolescence to the sixth decade (peak ~35 years). Infratentorial lesions are more frequent in children than adults, but not exclusive.",
         "batchName": "Endorphin Final",
         "batchNames": [
           "Endorphin Final"
@@ -79880,7 +79908,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "D",
-        "explanation": "Meningiomas classically show intense, homogeneous enhancement (often with a dural tail); heterogeneous enhancement is atypical and suggests another tumor type.",
+        "explanation": "Meningiomas classically show intense, homogeneous enhancement (a dural tail is present in some cases). Heterogeneous enhancement is atypical and suggests another tumor type.",
         "batchName": "Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D)",
         "batchNames": [
           "Endorphin Mini-OSCE (Group C)",
@@ -80012,21 +80040,60 @@
           "Vertebral artery",
           "Basilar artery",
           "Posterior cerebral artery",
-          "Internal carotid artery"
+          "A and B",
+          "B and C"
         ],
         "originalOptions": [
           "Vertebral artery",
           "Basilar artery",
           "Posterior cerebral artery",
-          "Internal carotid artery"
+          "A and B",
+          "B and C"
         ],
-        "correctAnswer": "B) Basilar artery",
-        "correctAnswerText": "Basilar artery",
+        "correctAnswer": "D) A and B",
+        "correctAnswerText": "A and B",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The cerebellum is supplied by three bilateral arteries from the vertebrobasilar system. SCA arises from the distal basilar artery, AICA from the proximal basilar artery, and PICA from the distal vertebral artery.",
+        "batchName": "Iris Mini-OSCE (Group A)",
+        "batchNames": [
+          "Iris Mini-OSCE (Group A)"
+        ],
+        "note": "",
+        "pageNumber": "",
+        "subjectName": "Radiology",
+        "subjectId": "radiology",
+        "lectureName": "Neuroradiology",
+        "groupName": "Neuroradiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "radiology__lecture__neuroradiology__30__vwt6n1",
+        "number": "30",
+        "text": "Which of the following is correct regarding imaging of cerebral venous sinus thrombosis?",
+        "options": [
+          "Non-contrast CT shows a hypodense sinus",
+          "Contrast-enhanced CT shows the \"empty delta\" sign",
+          "Non-contrast CT shows the \"empty delta\" sign",
+          "Non-contrast MRI shows an increased flow void within the sinus",
+          "MR venography shows normal contrast filling of the thrombosed sinus"
+        ],
+        "originalOptions": [
+          "Non-contrast CT shows a hypodense sinus",
+          "Contrast-enhanced CT shows the \"empty delta\" sign",
+          "Non-contrast CT shows the \"empty delta\" sign",
+          "Non-contrast MRI shows an increased flow void within the sinus",
+          "MR venography shows normal contrast filling of the thrombosed sinus"
+        ],
+        "correctAnswer": "B) Contrast-enhanced CT shows the \"empty delta\" sign",
+        "correctAnswerText": "Contrast-enhanced CT shows the \"empty delta\" sign",
         "correctIndex": 1,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "The SCA and AICA (branches of the basilar artery) supply most of the cerebellum; only PICA arises from the distal vertebral artery.",
+        "explanation": "The empty delta sign is a non-enhancing clot surrounded by enhancing dura, seen on contrast-enhanced CT (venogram). Non-contrast CT shows a dense (hyperdense) sinus, non-contrast MRI shows loss of the normal flow void, and MR venography shows no contrast filling.",
         "batchName": "Iris Mini-OSCE (Group A)",
         "batchNames": [
           "Iris Mini-OSCE (Group A)"
@@ -80040,57 +80107,22 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__neuroradiology__30__oavw1n",
-        "number": "30",
-        "text": "Cerebral venous sinus thrombosis – select the correct statement.",
-        "options": [
-          "Non-contrast MRI shows a hypointense filling defect",
-          "Non-contrast CT shows a hyperdense (\"dense\") sinus",
-          "Contrast-enhanced MRI shows the \"empty delta\" sign",
-          "Non-contrast CT shows sinus hypodensity",
-          "Contrast-enhanced CT shows the \"empty delta\" sign"
-        ],
-        "originalOptions": [
-          "Non-contrast MRI shows a hypointense filling defect",
-          "Non-contrast CT shows a hyperdense (\"dense\") sinus",
-          "Contrast-enhanced MRI shows the \"empty delta\" sign",
-          "Non-contrast CT shows sinus hypodensity",
-          "Contrast-enhanced CT shows the \"empty delta\" sign"
-        ],
-        "correctAnswer": "E) Contrast-enhanced CT shows the \"empty delta\" sign",
-        "correctAnswerText": "Contrast-enhanced CT shows the \"empty delta\" sign",
-        "correctIndex": 4,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "E",
-        "explanation": "The empty delta sign is a triangular filling defect surrounded by enhancing dura, classically seen on contrast-enhanced CT venography; non-contrast CT instead shows a hyperdense (not empty) thrombosed sinus.",
-        "batchName": "Iris Mini-OSCE (Group A)",
-        "batchNames": [
-          "Iris Mini-OSCE (Group A)"
-        ],
-        "note": "",
-        "pageNumber": "",
-        "subjectName": "Radiology",
-        "subjectId": "radiology",
-        "lectureName": "Neuroradiology",
-        "groupName": "Neuroradiology",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "radiology__lecture__neuroradiology__31__gxls7s",
+        "id": "radiology__lecture__neuroradiology__31__1gcb4v",
         "number": "31",
-        "text": "Homogeneous enhancement and hyperdensity on non-contrast CT is most typical of which lesion?",
+        "text": "Homogeneous enhancement with hyperdensity on non-contrast CT is most typical of which lesion?",
         "options": [
           "Lymphoma",
           "Metastasis",
-          "Leiomyoma",
-          "Abscess"
+          "Glioblastoma",
+          "Abscess",
+          "Oligodendroglioma"
         ],
         "originalOptions": [
           "Lymphoma",
           "Metastasis",
-          "Leiomyoma",
-          "Abscess"
+          "Glioblastoma",
+          "Abscess",
+          "Oligodendroglioma"
         ],
         "correctAnswer": "A) Lymphoma",
         "correctAnswerText": "Lymphoma",
@@ -80098,7 +80130,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "A",
-        "explanation": "Primary CNS lymphoma is classically hyperdense on non-contrast CT (high cellularity) with homogeneous enhancement, unlike metastases or abscesses, which typically show ring enhancement with central necrosis.",
+        "explanation": "Primary CNS lymphoma is hyperdense on non-contrast CT because of high cellularity and shows intense homogeneous enhancement. Glioblastoma and abscess show irregular or ring enhancement with central necrosis, and oligodendroglioma is low attenuation with calcification.",
         "batchName": "Iris Mini-OSCE (Group D)",
         "batchNames": [
           "Iris Mini-OSCE (Group D)"
@@ -80649,9 +80681,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "radiology__lecture__neuroradiology__47__w8ooej",
+        "id": "radiology__lecture__neuroradiology__47__8me7c0",
         "number": "47",
-        "text": "Identify the diagnosis in the recalled image. [img: Radiologynvestibularschwannoma.png ]",
+        "text": "What is the most likely diagnosis? [img: Radiologynvestibularschwannoma.png ]",
         "options": [
           "Meningioma (CPA)",
           "Vestibular schwannoma",
@@ -80727,29 +80759,29 @@
         "number": "49",
         "text": "Regarding posterior cranial fossa tumors in children, which of the following statements is FALSE?",
         "options": [
-          "Ependymomas typically arise from the fourth ventricle",
+          "Ependymomas typically arise from the lining of the fourth ventricle",
           "Medulloblastoma is the most common malignant posterior fossa tumor in children",
-          "The cystic component of a posterior fossa tumor is never enhanced",
-          "Pilocytic astrocytoma often has a cyst with an enhancing mural nodule"
+          "The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
+          "Pilocytic astrocytoma often appears as a cyst with an enhancing mural nodule"
         ],
         "originalOptions": [
-          "Ependymomas typically arise from the fourth ventricle",
+          "Ependymomas typically arise from the lining of the fourth ventricle",
           "Medulloblastoma is the most common malignant posterior fossa tumor in children",
-          "The cystic component of a posterior fossa tumor is never enhanced",
-          "Pilocytic astrocytoma often has a cyst with an enhancing mural nodule"
+          "The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
+          "Pilocytic astrocytoma often appears as a cyst with an enhancing mural nodule"
         ],
-        "correctAnswer": "C) The cystic component of a posterior fossa tumor is never enhanced",
-        "correctAnswerText": "The cystic component of a posterior fossa tumor is never enhanced",
+        "correctAnswer": "C) The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
+        "correctAnswerText": "The cystic (fluid) component of a posterior fossa tumor usually enhances after contrast administration",
         "correctIndex": 2,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "In pediatric posterior fossa tumors such as pilocytic astrocytoma, the cyst wall or an associated mural nodule commonly DOES enhance, making the \"never enhanced\" statement false.",
+        "explanation": "The cyst fluid does not enhance; only the solid components (such as the mural nodule of a pilocytic astrocytoma) enhance. The other statements are true.",
         "batchName": "Aorta Final",
         "batchNames": [
           "Aorta Final"
         ],
-        "note": "",
+        "note": "This question is not covered in the course slides.",
         "pageNumber": "",
         "subjectName": "Radiology",
         "subjectId": "radiology",
@@ -81066,7 +81098,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "A",
-        "explanation": "Schizencephaly clefts are actually lined by grey matter (heterotopic cortex), not white matter. Laterality, symptom severity, and the presence of pial-ependymal communication in both types are all accurate characteristics of the condition.",
+        "explanation": "The schizencephalic cleft is lined by dysplastic (polymicrogyric) grey matter, not white matter. Laterality, symptom severity, and the pial-ependymal communication in both open and closed types are accurate.",
         "batchName": "Overdose Final",
         "batchNames": [
           "Overdose Final"
@@ -81177,7 +81209,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "E",
-        "explanation": "These are late/chronic infarct changes (>3 weeks); the hyperacute stage (0–6 hours) instead shows subtle grey-white loss, cortical hypodensity, gyral effacement, and loss of the insular ribbon sign.",
+        "explanation": "Gliosis, volume loss, and cortical calcification are late changes of chronic infarction (>3 weeks). Hyperacute infarcts show a dense vessel sign, then loss of grey-white differentiation, cortical hypodensity with swelling, and gyral effacement.",
         "batchName": "Overdose Final / Waman A7yaha Final",
         "batchNames": [
           "Overdose Final",
@@ -81523,24 +81555,26 @@
         "number": "71",
         "text": "Which of the following anatomical relationships is CORRECT?",
         "options": [
-          "The claustrum lies lateral to the insula",
+          "The claustrum lies between the putamen and the insula",
           "The hippocampus lies anterosuperior to the amygdala",
           "The uncus forms the lateral border of the temporal lobe",
-          "The claustrum lies medial to the putamen, separated by the internal capsule"
+          "The claustrum lies medial to the putamen, separated by the internal capsule",
+          "The external capsule lies between the claustrum and the insula"
         ],
         "originalOptions": [
-          "The claustrum lies lateral to the insula",
+          "The claustrum lies between the putamen and the insula",
           "The hippocampus lies anterosuperior to the amygdala",
           "The uncus forms the lateral border of the temporal lobe",
-          "The claustrum lies medial to the putamen, separated by the internal capsule"
+          "The claustrum lies medial to the putamen, separated by the internal capsule",
+          "The external capsule lies between the claustrum and the insula"
         ],
-        "correctAnswer": "A) The claustrum lies lateral to the insula",
-        "correctAnswerText": "The claustrum lies lateral to the insula",
+        "correctAnswer": "A) The claustrum lies between the putamen and the insula",
+        "correctAnswerText": "The claustrum lies between the putamen and the insula",
         "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "A",
-        "explanation": "The claustrum is a thin sheet of grey matter lateral to the insula (separated by the extreme capsule); the hippocampus lies posteroinferior (not anterosuperior) to the amygdala, and the uncus is the medial (not lateral) temporal border.",
+        "explanation": "The external capsule separates the putamen from the claustrum, and the extreme capsule separates the claustrum from the insula, so the claustrum sits between them. The hippocampus lies posterior and inferior to the amygdala, and the uncus forms the medial border of the temporal lobe.",
         "batchName": "Vagus Final",
         "batchNames": [
           "Vagus Final"
@@ -81780,16 +81814,18 @@
         "number": "78",
         "text": "Which one of the following is a common radiologic feature of diffuse brain edema?",
         "options": [
-          "Diffuse hypodense (not hyperdense) supratentorial brain",
+          "Diffuse hyperdense supratentorial brain",
           "Effacement of the sulci",
           "Enlarged ventricles",
-          "Widened basal cisterns"
+          "Widened basal cisterns",
+          "Cerebellum appearing hypodense relative to the supratentorial brain"
         ],
         "originalOptions": [
-          "Diffuse hypodense (not hyperdense) supratentorial brain",
+          "Diffuse hyperdense supratentorial brain",
           "Effacement of the sulci",
           "Enlarged ventricles",
-          "Widened basal cisterns"
+          "Widened basal cisterns",
+          "Cerebellum appearing hypodense relative to the supratentorial brain"
         ],
         "correctAnswer": "B) Effacement of the sulci",
         "correctAnswerText": "Effacement of the sulci",
@@ -81797,7 +81833,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "Diffuse cerebral edema effaces the sulci and narrows the ventricles/basal cisterns; the brain typically appears diffusely hypodense (not hyperdense) except for the relatively dense-appearing cerebellum.",
+        "explanation": "Diffuse cerebral edema produces a diffusely hypodense supratentorial brain with loss of grey-white differentiation, effaced sulci and basal cisterns, and small ventricles. The cerebellum appears relatively dense (dense cerebellar sign), the opposite of option E.",
         "batchName": "Waman A7yaha Final",
         "batchNames": [
           "Waman A7yaha Final"
