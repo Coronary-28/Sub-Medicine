@@ -2,7 +2,7 @@ Which of the following is FALSE regarding this lesion? [img: Radiologymnonossify
 A) Eccentric metaphyseal location
 B) Size greater than 3 cm
 C) Sunburst periosteal reaction
-D) Most common benign non-ossifying fibrous lesion of bone
+D) Most common non-neoplastic fibrous bone lesion
 Correct Answer: C) Sunburst periosteal reaction
 Explanation: Non-ossifying fibroma is a benign fibrous cortical lesion with a sclerotic rim and NO periosteal reaction; a sunburst pattern implies an aggressive process (e.g., osteosarcoma), which contradicts the benign nature of NOF.
 Batch: Iris Mini-OSCE (Group A) / Aorta Mini-OSCE (Group A)
@@ -80,13 +80,14 @@ Correct Answer: B) Considered a Salter-Harris type III fracture
 Explanation: SCFE is a Salter-Harris type I fracture of the subcapital femoral physis due to chronic weight-bearing stress, not type III.
 Batch: Endorphin Mini-OSCE (Group C)
 ###
-Which of the following is NOT typically involved in non-traumatic fractures of child abuse?
-A) Metaphyseal corner (bucket handle) fracture
+Which of the following is NOT a highly specific fracture for non-accidental injury (child abuse)?
+A) Metaphyseal corner (bucket-handle) fracture
 B) Posterior rib fracture
-C) Parietal bone fracture
+C) Simple linear parietal bone fracture
 D) Scapular fracture
-Correct Answer: C) Parietal bone fracture
-Explanation: Parietal bone fractures are low-specificity findings often due to accidental trauma, whereas metaphyseal corner, posterior rib, and scapular fractures are pathognomonic or highly specific for non-accidental injury.
+E) Sternal fracture
+Correct Answer: C) Simple linear parietal bone fracture
+Explanation: Simple linear parietal fractures are low-specificity and commonly accidental. Metaphyseal corner fractures (pathognomonic), posterior rib, scapular, and sternal fractures are the highly specific ones.
 Batch: Coronary Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group B) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)
 ###
 Which of the following is INCORRECT regarding child abuse injuries?
@@ -175,7 +176,7 @@ B) Osteoarthritis
 C) Rheumatoid arthritis
 D) Degenerative disc disease
 Correct Answer: A) Ankylosing spondylitis
-Explanation: The spine radiograph shows syndesmophytic fusion (bamboo spine appearance), a hallmark of ankylosing spondylitis rather than the asymmetric joint-space narrowing of OA or RA.
+Explanation: Syndesmophytic fusion of the spine (bamboo spine) with sacroiliac involvement is the hallmark of ankylosing spondylitis. OA shows asymmetric (non-uniform) narrowing with osteophytes, and RA shows uniform narrowing with marginal erosions and periarticular osteopenia, without syndesmophytic fusion.
 Batch: Endorphin Mini-OSCE (Group A) / Endorphin Final / Aorta Final / Vagus Mini-OSCE (Group C) / Waman A7yaha Mini-OSCE / Serotonin Mini-OSCE
 ###
 What is the most likely diagnosis? [img: Radiologymddh.png ]
@@ -251,7 +252,7 @@ Correct Answer: A) Sacroiliitis
 Explanation: Sacroiliitis is a feature of seronegative spondyloarthropathies, not hyperparathyroidism, which instead causes osteopenia, floating teeth, and salt-and-pepper skull.
 Batch: Endorphin Mini-OSCE (Group C) / Endorphin Mini-OSCE (Group D) / Endorphin Mini-OSCE (Group E)
 ###
-Which is WRONG about this avulsion fracture pairing?
+Which of the following avulsion fracture–muscle pairings is WRONG?
 A) Ischial tuberosity – hamstrings
 B) Anterior superior iliac spine – adductor muscles
 C) Anterior inferior iliac spine – rectus femoris
@@ -337,7 +338,7 @@ A) Fracture of the 5th metatarsal base
 B) Fracture of the 4th metatarsal base
 C) Fracture of the cuboid bone
 D) Fracture of the lateral cuneiform
-Correct Answer: D) Fracture of the 5th metatarsal base
+Correct Answer: A) Fracture of the 5th metatarsal base
 Explanation: A true fracture at the proximal 5th metatarsal is transverse, whereas the normal apophysis runs longitudinally — a key distinguishing feature.
 Batch: Serotonin Mini-OSCE
 ###
@@ -468,17 +469,17 @@ Correct Answer: D) Radial head fracture
 Explanation: A fracture line at the radial head with a positive fat pad sign is the most common cause of an adult elbow effusion.
 Batch: Aorta Final
 ###
-In Lesser-trochanter avulsion fracture, which muscle is affected?
+Which muscle's pull is responsible for an avulsion fracture of the lesser trochanter?
 A) Sartorius
 B) Iliopsoas
 C) Rectus femoris
 D) Gluteus medius
 Correct Answer: B) Iliopsoas
-Explanation: The iliopsoas inserts on the lesser trochanter, making it the muscle responsible for lesser trochanteric avulsion fractures.
+Explanation: The iliopsoas inserts on the lesser trochanter, so its forceful contraction avulses it. Sartorius pulls on the ASIS, rectus femoris on the AIIS, and gluteus medius on the greater trochanter.
 Batch: Endorphin Final / Aorta Final
 Note: Mentioned in Coronary Sheet , Slide 32 Anatomy of Pelvis ||| In Endorphin exam , the question was : An avulsion fracture is most likely associated with contraction of which muscle?
 ###
-Identify the Salter-Harris type in this fracture : [img: Radiologymsalter2harris.png ]
+Identify the Salter-Harris type in this fracture : [img: Radiologymsalter3harrisdistaltibia.png ]
 A) Type 1
 B) Type 2
 C) Type 3
@@ -487,7 +488,7 @@ Correct Answer: C) Type 3
 Explanation: Physeal fracture of the distal tibia. It is a fracture that extends through the growth plate (physis) and down through the epiphysis into the joint space. This specific intra-articular extension through the epiphysis makes it a type III Salter-Harris fracture.
 Batch: Aorta Final
 ###
-Recalled hand radiograph diagnosis. [img: Radiologymrheumatoidarthritis.png ]
+What is the most likely diagnosis? [img: Radiologymrheumatoidarthritis.png ]
 A) Osteoarthritis
 B) Psoriatic arthritis
 C) Rheumatoid arthritis
@@ -586,9 +587,9 @@ A) In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening
 B) Syndesmophytes run perpendicular to the spine
 C) In osteoarthritis, sclerosis occurs with severe osteopenia
 D) In rheumatoid arthritis, marginal erosions occur at the medial aspect of the MCP joints
-E) Joint space and bone density are normal in septic arthritis
+E) Marginal erosions are the earliest radiographic sign of septic arthritis
 Correct Answer: A) In septic arthritis, post-contrast fat-saturated T1 shows synovial thickening
-Explanation: MRI in septic arthritis shows synovial thickening on post-contrast fat-saturated T1; syndesmophytes actually run parallel (not perpendicular) to the spine, and RA erosions occur at the radial (not medial) MCP aspect.
+Explanation: MRI in septic arthritis shows synovial thickening on post-contrast fat-saturated T1. Syndesmophytes run parallel (not perpendicular) to the spine, RA erosions occur at the radial (not medial) side of the MCPs, OA sclerosis is seen unless severe osteoporosis is present, and the first radiographic sign of septic arthritis is joint effusion, not erosions.
 Batch: Overdose Final
 ###
 Regarding avulsion fractures, which of the following is TRUE?
@@ -617,7 +618,7 @@ C) Septic arthritis
 D) Ankylosing spondylitis
 E) Gout
 Correct Answer: E) Gout
-Explanation: Well-defined "punched-out" erosions with sclerotic, overhanging margins are pathognomonic for gout, unlike the ill-defined marginal erosions of RA.
+Explanation: Well-defined punched-out erosions with sclerotic, overhanging margins and preserved joint space are the typical appearance of gout. RA erosions are marginal "bare-area" erosions with periarticular osteopenia and uniform joint-space narrowing.
 Batch: Serotonin Final
 ###
 Regarding non-accidental trauma, which of the following is TRUE?
@@ -700,7 +701,7 @@ Explanation: The acromion is the lateral bony projection of the scapular spine t
 Batch: Waman A7yaha Mini-OSCE
 Note: 1. Anatomical neck of humerus || 2. Greater tuberosity || 3. Lesser tuberosity || 4. Surgical neck of humerus || 5. Humeral shaft || 6. Humeral head || 7. Glenoid fossa || 8. Acromion || 9. Acromioclavicular joint || 10. Coracoid process || 11. Clavicle || 12. Superior angle of scapula || 13. Medial border of scapula || 14. Inferior angle of scapula || 15. Lateral border of scapula || 16. Scapula
 ###
-In this labeled knee anatomy image, which structure is indicated? [img: Radiologymkneeanatomy.jpg ]
+In this labeled knee anatomy image, which structure (10) is indicated? [img: Radiologymkneeanatomy.jpg ]
 A) Femoral condyle
 B) Patella
 C) Tibial plateau
