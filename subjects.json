@@ -84555,25 +84555,25 @@
             "number": "18",
             "text": "Hypostasis in the lower limbs is a sign of:",
             "options": [
-              "Incomplete hanging",
               "Complete hanging",
-              "Drowning",
               "Strangulation",
+              "Drowning",
+              "Incomplete hanging",
               "Smothering"
             ],
             "originalOptions": [
-              "Incomplete hanging",
               "Complete hanging",
-              "Drowning",
               "Strangulation",
+              "Drowning",
+              "Incomplete hanging",
               "Smothering"
             ],
-            "correctAnswer": "B) Complete hanging",
+            "correctAnswer": "A) Complete hanging",
             "correctAnswerText": "Complete hanging",
-            "correctIndex": 1,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "B",
+            "correctAnswerLetter": "A",
             "explanation": "In complete hanging the body is vertical and fully suspended, so lividity collects distally in the legs, feet and hands. In incomplete hanging it follows the part touching the ground.",
             "batchName": "",
             "batchNames": [],
@@ -85535,18 +85535,18 @@
             "number": "46",
             "text": "Cadaveric spasm occurs in:",
             "options": [
-              "Involuntary muscles",
+              "Cardiac muscle",
               "Voluntary muscles",
               "Subcutaneous tissue",
-              "All of the above",
-              "Cardiac muscle"
+              "Involuntary muscles",
+              "All of the above"
             ],
             "originalOptions": [
-              "Involuntary muscles",
+              "Cardiac muscle",
               "Voluntary muscles",
               "Subcutaneous tissue",
-              "All of the above",
-              "Cardiac muscle"
+              "Involuntary muscles",
+              "All of the above"
             ],
             "correctAnswer": "B) Voluntary muscles",
             "correctAnswerText": "Voluntary muscles",
@@ -91558,25 +91558,25 @@
         "number": "18",
         "text": "Hypostasis in the lower limbs is a sign of:",
         "options": [
-          "Incomplete hanging",
           "Complete hanging",
-          "Drowning",
           "Strangulation",
+          "Drowning",
+          "Incomplete hanging",
           "Smothering"
         ],
         "originalOptions": [
-          "Incomplete hanging",
           "Complete hanging",
-          "Drowning",
           "Strangulation",
+          "Drowning",
+          "Incomplete hanging",
           "Smothering"
         ],
-        "correctAnswer": "B) Complete hanging",
+        "correctAnswer": "A) Complete hanging",
         "correctAnswerText": "Complete hanging",
-        "correctIndex": 1,
+        "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "B",
+        "correctAnswerLetter": "A",
         "explanation": "In complete hanging the body is vertical and fully suspended, so lividity collects distally in the legs, feet and hands. In incomplete hanging it follows the part touching the ground.",
         "batchName": "",
         "batchNames": [],
@@ -92538,18 +92538,18 @@
         "number": "46",
         "text": "Cadaveric spasm occurs in:",
         "options": [
-          "Involuntary muscles",
+          "Cardiac muscle",
           "Voluntary muscles",
           "Subcutaneous tissue",
-          "All of the above",
-          "Cardiac muscle"
+          "Involuntary muscles",
+          "All of the above"
         ],
         "originalOptions": [
-          "Involuntary muscles",
+          "Cardiac muscle",
           "Voluntary muscles",
           "Subcutaneous tissue",
-          "All of the above",
-          "Cardiac muscle"
+          "Involuntary muscles",
+          "All of the above"
         ],
         "correctAnswer": "B) Voluntary muscles",
         "correctAnswerText": "Voluntary muscles",
