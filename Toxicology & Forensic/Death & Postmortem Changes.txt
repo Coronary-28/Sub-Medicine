@@ -140,7 +140,7 @@ C) Brown to black
 D) Deep bluish violet
 E) Yellow
 Correct Answer: C) Brown to black
-Explanation: In mummified bodies, lividity appears brown to black due to desiccation. Deep bluish violet is characteristic of asphyxia.
+Explanation: In mummified bodies, lividity appears brown to black due to desiccation. Deep bluish violet is characteristic of asphyxia. Cherry pink is indicative of carbon monoxide or cyanide poisoning. Pale lividity signifies severe hemorrhage or profound anemia. Yellow hypostasis is associated with severe jaundice or phosphorus poisoning.
 ###
 Which of the following is NOT related to colour?
 A) Congestion
@@ -149,15 +149,15 @@ C) Vibices
 D) Hypostasis
 E) Livor
 Correct Answer: A) Congestion
-Explanation: Congestion means excess blood in the vessels and is not defined by a colour. Cyanosis denotes blueness, vibices are streaks of hypostasis, and livor means livid (purple).
+Explanation: Congestion means excess blood in the vessels and is not defined by a colour. Cyanosis denotes blue, Vibices are purplish-red streaks, Hypostasis causes purplish-blue pooling, and Livor means livid/purple.
 ###
 Hypostasis in the lower limbs is a sign of:
 A) Incomplete hanging
-B) Strangulation
+B) Complete hanging
 C) Drowning
-D) Complete hanging
+D) Strangulation
 E) Smothering
-Correct Answer: D) Complete hanging
+Correct Answer: B) Complete hanging
 Explanation: In complete hanging the body is vertical and fully suspended, so lividity collects distally in the legs, feet and hands. In incomplete hanging it follows the part touching the ground.
 ###
 Hypostasis in drowning is most commonly seen on:
@@ -223,14 +223,14 @@ E) The muscles immediately stop all twitching and never respond to any stimulati
 Correct Answer: E) The muscles immediately stop all twitching and never respond to any stimulation
 Explanation: After death muscles may still twitch focally and respond to touch or stimulation for some hours, because cellular death is progressive. Options A–D are recognised early changes.
 ###
-All of the following are early signs of death EXCEPT:
+All of the following are immediate signs of death EXCEPT:
 A) Primary flaccidity of the muscles
 B) Loss of the corneal reflex
-C) Rigor mortis (2–3 hours after death)
-D) Beginning of body cooling
+C) Beginning of body cooling
+D) Rigor mortis
 E) Loss of skin elasticity
-Correct Answer: C) Rigor mortis (2–3 hours after death)
-Explanation: Rigor needs 2–3 hours to appear, so it is the odd one out among the immediate changes. Primary flaccidity, loss of corneal reflex and the start of cooling occur at once.
+Correct Answer: D) Rigor mortis
+Explanation: Rigor mortis is early sign, not immediate, because it takes 2-3 hours to start due to ATP depletion. All other options (A, B, C, E) are immediate signs happening exactly at time of death because circulation and brain functions stop instantly.
 ###
 A 55-year-old man, apparently dead, is brought to the casualty department. The earliest post-mortem change to appear is:
 A) Loss of skin elasticity with pallor
@@ -261,11 +261,11 @@ Explanation: A clear cornea is a feature of life or of very early death. Corneal
 ###
 After death, body temperature may be higher than expected in all of the following EXCEPT:
 A) Infections
-B) Asphyxial death
+B) Haemorrhage
 C) Pontine haemorrhage
 D) Coronary thrombosis (MI)
-E) Haemorrhage
-Correct Answer: E) Haemorrhage
+E) Asphyxial death
+Correct Answer: B) Haemorrhage
 Explanation: Rectal temperature is lower than expected after haemorrhage, cholera, CHF and hypothermia. It is higher after infections, asphyxia, pontine haemorrhage, coronary thrombosis, struggle and heat stroke.
 ###
 Which of the following is a POSITIVE sign of death?
@@ -297,11 +297,11 @@ Explanation: The prostate (and non-gravid uterus) are among the last organs to p
 ###
 Which of the following is the last organ to putrefy?
 A) Testes
-B) Uterus (non-gravid) / prostate
+B) Non-gravid Uterus
 C) Ovary
 D) Adrenals
 E) Stomach
-Correct Answer: B) Uterus (non-gravid) / prostate
+Correct Answer: B) Non-gravid Uterus
 Explanation: The non-gravid uterus and prostate are late-putrefying organs, whereas the stomach and intestines are early. The gravid uterus is also an early-putrefying organ.
 ###
 Which of the following pairs are signs of putrefaction?
@@ -405,11 +405,11 @@ Explanation: Surface burial decomposes the body more because surface soil has mo
 ###
 Cadaveric spasm occurs in:
 A) Involuntary muscles
-B) Subcutaneous tissue
-C) Voluntary muscles
+B) Voluntary muscles
+C) Subcutaneous tissue
 D) All of the above
 E) Cardiac muscle
-Correct Answer: C) Voluntary muscles
+Correct Answer: B) Voluntary muscles
 Explanation: Cadaveric spasm affects voluntary (skeletal) muscles only, usually the hands and forearms, particularly those contracted at the moment of death.
 ###
 Suspended animation is:
