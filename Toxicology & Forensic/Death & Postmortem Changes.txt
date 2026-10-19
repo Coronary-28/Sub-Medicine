@@ -152,12 +152,12 @@ Correct Answer: A) Congestion
 Explanation: Congestion means excess blood in the vessels and is not defined by a colour. Cyanosis denotes blue, Vibices are purplish-red streaks, Hypostasis causes purplish-blue pooling, and Livor means livid/purple.
 ###
 Hypostasis in the lower limbs is a sign of:
-A) Incomplete hanging
-B) Complete hanging
+A) Complete hanging
+B) Strangulation
 C) Drowning
-D) Strangulation
+D) Incomplete hanging
 E) Smothering
-Correct Answer: B) Complete hanging
+Correct Answer: A) Complete hanging
 Explanation: In complete hanging the body is vertical and fully suspended, so lividity collects distally in the legs, feet and hands. In incomplete hanging it follows the part touching the ground.
 ###
 Hypostasis in drowning is most commonly seen on:
@@ -404,11 +404,11 @@ Correct Answer: E) Burial in a shallow grave
 Explanation: Surface burial decomposes the body more because surface soil has more bacteria and access. Water immersion, coffins, dry sandy soil and metal poisons all delay putrefaction.
 ###
 Cadaveric spasm occurs in:
-A) Involuntary muscles
+A) Cardiac muscle
 B) Voluntary muscles
 C) Subcutaneous tissue
-D) All of the above
-E) Cardiac muscle
+D) Involuntary muscles
+E) All of the above
 Correct Answer: B) Voluntary muscles
 Explanation: Cadaveric spasm affects voluntary (skeletal) muscles only, usually the hands and forearms, particularly those contracted at the moment of death.
 ###
