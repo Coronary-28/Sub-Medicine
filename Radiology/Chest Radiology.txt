@@ -524,9 +524,8 @@ A) Antibiotics
 B) Chest tube
 C) Diuretics
 D) Bronchial lavage
-E) Therapeutic thoracentesis
 Correct Answer: A) Antibiotics
-Explanation: The image shows consolidation from bacterial pneumonia, which is treated with antibiotics. A chest tube is for pneumothorax or empyema, and diuretics are for pulmonary edema in heart failure.
+Explanation: Antibiotics is the correct choice because a large unilateral pleural effusion without cardiomegaly or congestion strongly suggests a parapneumonic effusion secondary to underlying bacterial pneumonia. A chest tube is reserved for complicated effusions or empyema rather than uncomplicated initial cases, diuretics are excluded as there is no heart failure or pulmonary venous congestion, and bronchial lavage is a diagnostic tool rather than a definitive treatment for pleural fluid accumulation.
 Batch: Serotonin Final
 ###
 Regarding pneumothorax, which of the following is TRUE?
