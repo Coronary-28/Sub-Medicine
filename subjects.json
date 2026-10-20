@@ -37620,15 +37620,13 @@
               "Antibiotics",
               "Chest tube",
               "Diuretics",
-              "Bronchial lavage",
-              "Therapeutic thoracentesis"
+              "Bronchial lavage"
             ],
             "originalOptions": [
               "Antibiotics",
               "Chest tube",
               "Diuretics",
-              "Bronchial lavage",
-              "Therapeutic thoracentesis"
+              "Bronchial lavage"
             ],
             "correctAnswer": "A) Antibiotics",
             "correctAnswerText": "Antibiotics",
@@ -37636,7 +37634,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "The image shows consolidation from bacterial pneumonia, which is treated with antibiotics. A chest tube is for pneumothorax or empyema, and diuretics are for pulmonary edema in heart failure.",
+            "explanation": "Antibiotics is the correct choice because a large unilateral pleural effusion without cardiomegaly or congestion strongly suggests a parapneumonic effusion secondary to underlying bacterial pneumonia. A chest tube is reserved for complicated effusions or empyema rather than uncomplicated initial cases, diuretics are excluded as there is no heart failure or pulmonary venous congestion, and bronchial lavage is a diagnostic tool rather than a definitive treatment for pleural fluid accumulation.",
             "batchName": "Serotonin Final",
             "batchNames": [
               "Serotonin Final"
@@ -61303,15 +61301,13 @@
               "Antibiotics",
               "Chest tube",
               "Diuretics",
-              "Bronchial lavage",
-              "Therapeutic thoracentesis"
+              "Bronchial lavage"
             ],
             "originalOptions": [
               "Antibiotics",
               "Chest tube",
               "Diuretics",
-              "Bronchial lavage",
-              "Therapeutic thoracentesis"
+              "Bronchial lavage"
             ],
             "correctAnswer": "A) Antibiotics",
             "correctAnswerText": "Antibiotics",
@@ -61319,7 +61315,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "The image shows consolidation from bacterial pneumonia, which is treated with antibiotics. A chest tube is for pneumothorax or empyema, and diuretics are for pulmonary edema in heart failure.",
+            "explanation": "Antibiotics is the correct choice because a large unilateral pleural effusion without cardiomegaly or congestion strongly suggests a parapneumonic effusion secondary to underlying bacterial pneumonia. A chest tube is reserved for complicated effusions or empyema rather than uncomplicated initial cases, diuretics are excluded as there is no heart failure or pulmonary venous congestion, and bronchial lavage is a diagnostic tool rather than a definitive treatment for pleural fluid accumulation.",
             "batchName": "Serotonin Final",
             "batchNames": [
               "Serotonin Final"
@@ -74892,15 +74888,13 @@
           "Antibiotics",
           "Chest tube",
           "Diuretics",
-          "Bronchial lavage",
-          "Therapeutic thoracentesis"
+          "Bronchial lavage"
         ],
         "originalOptions": [
           "Antibiotics",
           "Chest tube",
           "Diuretics",
-          "Bronchial lavage",
-          "Therapeutic thoracentesis"
+          "Bronchial lavage"
         ],
         "correctAnswer": "A) Antibiotics",
         "correctAnswerText": "Antibiotics",
@@ -74908,7 +74902,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "A",
-        "explanation": "The image shows consolidation from bacterial pneumonia, which is treated with antibiotics. A chest tube is for pneumothorax or empyema, and diuretics are for pulmonary edema in heart failure.",
+        "explanation": "Antibiotics is the correct choice because a large unilateral pleural effusion without cardiomegaly or congestion strongly suggests a parapneumonic effusion secondary to underlying bacterial pneumonia. A chest tube is reserved for complicated effusions or empyema rather than uncomplicated initial cases, diuretics are excluded as there is no heart failure or pulmonary venous congestion, and bronchial lavage is a diagnostic tool rather than a definitive treatment for pleural fluid accumulation.",
         "batchName": "Serotonin Final",
         "batchNames": [
           "Serotonin Final"
